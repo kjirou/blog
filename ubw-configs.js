@@ -4,7 +4,7 @@ module.exports = function ubwConfigs() {
     "blogUrl": "https://kjirou.github.io/blog",
     "publicationDir": "./docs",
     "cssUrls": [
-      "/external-resources/index.css"
+      "/blog/external-resources/index.css"
     ],
     "language": "ja",
     "timeZone": "Asia/Tokyo"
