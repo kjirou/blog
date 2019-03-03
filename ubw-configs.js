@@ -1,12 +1,12 @@
 module.exports = function ubwConfigs() {
   return {
-    "blogName": "My Blog",
-    "blogUrl": "https://example.com",
-    "publicationDir": "./blog-publication",
+    "blogName": "それなりブログ",
+    "blogUrl": "https://kjirou.github.io/blog",
+    "publicationDir": "./docs",
     "cssUrls": [
       "/external-resources/index.css"
     ],
-    "language": "en",
-    "timeZone": "UTC"
+    "language": "ja",
+    "timeZone": "Asia/Tokyo"
   };
 }
