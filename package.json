@@ -3,5 +3,8 @@
   "private": true,
   "dependencies": {
     "unlimited-blog-works": "0.0.2"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
   }
 }
