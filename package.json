@@ -6,7 +6,7 @@
   },
   "private": true,
   "dependencies": {
-    "unlimited-blog-works": "0.0.3"
+    "unlimited-blog-works": "0.0.4"
   },
   "devDependencies": {
     "http-server": "^0.11.1"
