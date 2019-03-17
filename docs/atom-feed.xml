@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kjirou.github.io/blog</id>
     <title>それなりブログ</title>
-    <updated>2019-03-11T01:36:07.077Z</updated>
+    <updated>2019-03-17T15:30:05.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ダイエット中]]></title>
+        <id>https://kjirou.github.io/blog/articles/20190317-0001.html</id>
+        <link href="https://kjirou.github.io/blog/articles/20190317-0001.html">
+        </link>
+        <updated>2019-03-17T13:39:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[静的ブログジェネレータ作ってブログを移転した]]></title>
         <id>https://kjirou.github.io/blog/articles/20190303-0001.html</id>
