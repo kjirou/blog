@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kjirou.github.io/blog</id>
     <title>それなりブログ</title>
-    <updated>2019-03-23T04:08:32.024Z</updated>
+    <updated>2019-03-23T10:41:14.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[config.assets の値を修正したら rails tmp:clear]]></title>
