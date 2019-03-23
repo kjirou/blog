@@ -17,7 +17,7 @@ module.exports = function ubwConfigs() {
     defaultOgpImageUrl: blogUrl + '/external-resources/hagure_metal-300x300.png',
     additionalTopPageLinks: defautConfigs.additionalTopPageLinks.concat([
       {
-        linkText: 'https://kjirou.github.io/',
+        linkText: 'kjirou.github.io',
         href: 'https://kjirou.github.io/',
       },
     ]),
