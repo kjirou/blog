@@ -22,6 +22,38 @@
           <li>しかし、ビルド時に型チェックされなく、構文エラーすら通す状態である。</li>
           <li>その点を直す良さそうな方法が見つからなかったので、TypeScript で書きたいなら Parcel は使わない方が良いと判断した。</li>
         </ul>
+        <h2 id="後日-04-15-追記">後日 04-15 追記<a class="ubw-heading-slug" aria-hidden data-ubw-autolink href="#後日-04-15-追記">#</a></h2>
+        <p>
+          と、上記の結論のように考えていたが、Twitter や会社のチャットでツッコミをもらい、
+          Parcel 側の責ではなく、自分の考えていたローカル開発環境の常識が古いことに原因がありそうだった。
+        </p>
+        <p>具体的には、自分は以下のようにローカル開発環境かくあるべしと考えていたが、</p>
+        <ul>
+          <li>
+            適宜 <code>tsc</code> を実行すれば、意図した書式の .ts が担保できるのはわかる。
+            例えば、リポジトリが保守すべき基準として CI ではそれを実行するのだろう、という点は想像できる。
+          </li>
+          <li>
+            ただし、それを parcel の watch と同期できなければ、
+            ローカル開発中にファイル更新毎に実行することはできず、著しく不便である。
+          </li>
+        </ul>
+        <p>
+          おそらく Parcel を含む最近のフロントエンド JavaScript 界のトレンドでは、
+          ファイル更新と同期したコード検証は、エディタなどの機能を使い開発者個人の責任で担保する、
+          ということになっていそうだった。
+        </p>
+        <p>つまり今回のケースでいうと、VSCode とかで検証環境を作ってない自分の筋が悪いという話である。</p>
+        <p>いわれてみるとだが、個人の開発効率を担保するためのコードをリポジトリに入れるよりは、各人に任せた方が正しそうである。</p>
+        <p>
+          特に、ファイルディスクリプタに依存するような機能は各人の環境で固有の問題が出やすく、
+          プロジェクト単位でメンテナンスするにはやや非効率という側面がある。
+        </p>
+        <p>
+          また、そういった「ファイル更新毎に自動実行」という機能を欲してない人もいる。
+          例えば、発見してしまった Typo 修正を投げるだけのゲストなら不要だろうし、
+          そもそも「自動実行が嫌い」という嗜好を持つ人もいるだろう（個人的に理解はできる）。
+        </p>
         <h2 id="型チェックされず、構文エラーも通す状態の例">型チェックされず、構文エラーも通す状態の例<a class="ubw-heading-slug" aria-hidden data-ubw-autolink href="#型チェックされず、構文エラーも通す状態の例">#</a></h2>
         <p><code>package.json</code> から一部抜粋)</p>
         <pre><code>  "devDependencies": {
@@ -127,7 +159,7 @@ console.log('Hello, index.ts!');
       </div>
       <hr class="ubw-end-of-main-content">
       <ul class="ubw-meta-data">
-        <li class="ubw-meta-data-last-updated-at"><span>Last updated at:</span><span>2019-04-14 15:38:03 (Asia/Tokyo)</span></li>
+        <li class="ubw-meta-data-last-updated-at"><span>Last updated at:</span><span>2019-04-15 18:18:26 (Asia/Tokyo)</span></li>
         <li class="ubw-meta-data-back-to-top"><a href="/blog/">Back to the Top</a></li>
       </ul>
     </div>
