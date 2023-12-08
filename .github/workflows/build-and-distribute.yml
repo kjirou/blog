@@ -6,7 +6,7 @@ on:
   # For manual testing
   workflow_dispatch:
 jobs:
-  run-checks:
+  build-and-distribute:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
@@ -17,16 +17,15 @@ jobs:
         with:
           path: ~/.npm
           key: npm-${{ hashFiles('package-lock.json') }}
+      - run: npm ci
       - run: npm run build
-      - run:
-          name: distribute-pages-if-changed
-          command: |
-            set -e
+      # 現状、ビルドを行うと、常に atom-feed.xml の updated フィールドが更新されて差分が生じる。
+      - name: distribute-pages
+        run: |
             git config --local user.name 'GitHub Action'
             git config --local user.email 'action@github.com'
             git fetch origin pages
-            git checkout pages
-            git diff --exit-code --quiet ./docs
+            git checkout -b pages origin/pages
             git add ./docs
-            git commit ./docs
+            git commit ./docs -m "Update docs"
             git push origin pages
