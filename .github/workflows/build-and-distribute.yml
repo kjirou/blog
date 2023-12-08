@@ -17,6 +17,7 @@ jobs:
         with:
           path: ~/.npm
           key: npm-${{ hashFiles('package-lock.json') }}
+      - run: npm ci
       - run: npm run build
       - name: distribute-pages-if-changed
         run: |
