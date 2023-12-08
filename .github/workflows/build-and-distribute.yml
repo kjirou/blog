@@ -1,0 +1,32 @@
+name: build-and-distribute
+on:
+  push:
+    branches:
+      - main
+  # For manual testing
+  workflow_dispatch:
+jobs:
+  run-checks:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: ".nvmrc"
+      - uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+      - run: npm run build
+      - run:
+          name: distribute-pages-if-changed
+          command: |
+            set -e
+            git config --local user.name 'GitHub Action'
+            git config --local user.email 'action@github.com'
+            git fetch origin pages
+            git checkout pages
+            git diff --exit-code --quiet ./docs
+            git add ./docs
+            git commit ./docs
+            git push origin pages
