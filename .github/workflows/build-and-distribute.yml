@@ -18,9 +18,8 @@ jobs:
           path: ~/.npm
           key: npm-${{ hashFiles('package-lock.json') }}
       - run: npm run build
-      - run:
-          name: distribute-pages-if-changed
-          command: |
+      - name: distribute-pages-if-changed
+        run: |
             set -e
             git config --local user.name 'GitHub Action'
             git config --local user.email 'action@github.com'
