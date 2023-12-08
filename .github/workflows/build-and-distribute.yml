@@ -19,14 +19,13 @@ jobs:
           key: npm-${{ hashFiles('package-lock.json') }}
       - run: npm ci
       - run: npm run build
-      - name: distribute-pages-if-changed
+      # 現状、ビルドを行うと、常に atom-feed.xml の updated フィールドが更新されて差分が生じる。
+      - name: distribute-pages
         run: |
-            set -e
             git config --local user.name 'GitHub Action'
             git config --local user.email 'action@github.com'
             git fetch origin pages
-            git checkout pages
-            git diff --exit-code --quiet ./docs
+            git checkout -b pages origin/pages
             git add ./docs
-            git commit ./docs
+            git commit ./docs -m "Update docs"
             git push origin pages
