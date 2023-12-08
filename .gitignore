@@ -36,4 +36,5 @@ pip-log.txt
 testem.*.*.*.json
 
 
+/docs/
 /test-serving/

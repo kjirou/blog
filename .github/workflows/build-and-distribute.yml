@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ./blog-source/**
   # For manual testing
   workflow_dispatch:
 jobs:
