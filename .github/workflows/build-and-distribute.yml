@@ -6,7 +6,7 @@ on:
   # For manual testing
   workflow_dispatch:
 jobs:
-  run-checks:
+  build-and-distribute:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
