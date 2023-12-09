@@ -1,0 +1,47 @@
+name: build-and-deploy
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - blog-source/**
+  # For manual testing
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: ".nvmrc"
+      - uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+      - run: npm ci
+      # 現状、ビルドを行うと、常に docs/atom-feed.xml の updated フィールドが更新されて差分が生じる。
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v2.0.0
+        with:
+          path: docs/
+  deploy:
+    needs: build
+    runs-on: ubuntu-22.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      # 注意
+      # - 予め GitHub > Settings > Environments > github-pages > Deployment branches and tags を No restriction に設定しておく必要がある。
+      #   - 元々は Selected branches and tags が選択されており、main ブランチが登録されていた。
+      #   - そうしないと、"Branch "{BRANCH_NAME}" is not allowed to deploy to github-pages due to environment protection rules." というエラーになった。
+      #     - その GitHub Action ログ: https://github.com/kjirou/blog/actions/runs/7151135535
+      #   - 解決のヒントになったURL: https://github.com/withastro/docs/issues/1376#issuecomment-1226959256
+      # - id: development の指定をしないと、実行時に "Environment URL '' is not a valid http(s) URL, so it will not be shown as a link in the workflow graph." のような警告が出た。
+      #   - その GitHub Action ログ: https://github.com/kjirou/blog/actions/runs/7151157931
+      - id: deployment
+        uses: actions/deploy-pages@v3.0.1
