@@ -1,6 +1,8 @@
 {
   "scripts": {
     "build": "ubw compile",
+    "prettier:check": "prettier --check .",
+    "prettier:write": "prettier --write .",
     "test-serve": "npm run test-serve:prepare && npm run test-serve:run",
     "test-serve:prepare": "rm -rf ./test-serving && mkdir test-serving && cp -r docs test-serving/blog",
     "test-serve:run": "serve test-serving"
