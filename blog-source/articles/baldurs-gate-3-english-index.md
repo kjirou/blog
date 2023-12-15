@@ -1,5 +1,5 @@
 ---
-publicId: 202312-baldurs-gate-3-english-index
+publicId: baldurs-gate-3-english-index
 lastUpdatedAt: "2023-12-15 00:20:54+0000"
 ---
 
@@ -27,5 +27,5 @@ lastUpdatedAt: "2023-12-15 00:20:54+0000"
 
 ## 記事一覧
 
-- [Baldur's Gate 3の英語を復習する 1冊目](./202312-baldurs-gate-3-english-part-1.html)
-- [Baldur's Gate 3の英語を復習する 2冊目](./202312-baldurs-gate-3-english-part-2.html)
+- [Baldur's Gate 3の英語を復習する 1冊目](./baldurs-gate-3-english-part-1.html)
+- [Baldur's Gate 3の英語を復習する 2冊目](./baldurs-gate-3-english-part-2.html)
