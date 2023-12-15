@@ -9,7 +9,7 @@ lastUpdatedAt: "2023-12-05 00:02:06+0000"
 
 ## 本編
 
-### 20, Eliasis - 13:16, 主人公
+### 20, Eliasis - 13:16 - 主人公
 
 - [writhe](https://ejje.weblio.jp/content/writhe), ウラ↑ァイズ
   - 自動詞: もがく、のたうち回る
