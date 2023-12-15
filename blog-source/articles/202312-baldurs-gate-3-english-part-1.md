@@ -1,33 +1,22 @@
 ---
-publicId: 20231205-0001
+publicId: 202312-baldurs-gate-3-english-part-1
 lastUpdatedAt: "2023-12-05 00:02:06+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 1冊目
 
-## 企画の趣旨と方針と注意
-
-- 日本語版がない [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) を英語でプレイ中である
-- よく使われる単語の意味を意識して把握し今後の読解にかかる時間を減らす。また、プレイ中は理解が曖昧な文章を正確に把握し直す。
-- **！！！ネタバレには全く配慮しない！！！**
-- 基本的には、ゲーム内のジャーナル機能に従った会話の発生日時でセクションを分ける。システムテキストや独立したゲーム用語などなら別にその他のようなセクションを設ける。
-  - この世界では、[Calendar of Harptos](https://www.worldanvil.com/w/forgotten-realms-28d26d5th29-lethann/a/calendar-of-harptos-article)というカレンダーが使われている
-  - 10日が1週間、それが3つで1ヶ月、月と月の間を埋める特殊な月があってそこに5日間、合計365日間で1年
-    - 「1週間」という概念はなく、「ある月の最初の10日間(tenday)」という感じに表現する
-- 特に抜き出して記載している単語の意味は主にゲーム内で使われたもの、そうじゃないこともあるかもしれない
-- すっごい基本的な単語や文法を知らないのでびっくりしないでください
-- ちなみに、[2023/12/21 に公式日本語版が出る](https://twitter.com/spikechunsoft/status/1709068275219644893)ので、待てるなら普通にそっちで楽しめばいいと思う
+- [このシリーズ全般の説明はこちら](./202312-baldurs-gate-3-english-index.html)
 
 ## 本編
 
-### 20, Eliasis 13:16
+### 20, Eliasis - 13:16, 主人公
 
 - [writhe](https://ejje.weblio.jp/content/writhe), ウラ↑ァイズ
   - 自動詞: もがく、のたうち回る
   - the parasite now writhing behind your eyes
     - 主人公は Mind Flayer に捕らえられて最初に寄生生物を目の奥に挿入されている
 
-### 20, Eliasis 14:39
+### 20, Eliasis - 14:39 - Psionic Presence, 主人公, Us
 
 - [casing](https://ejje.weblio.jp/content/casing)
   - 名詞: 包装・外包。動名詞ではない。

@@ -5,11 +5,11 @@ lastUpdatedAt: "2023-12-14 01:50:00+0000"
 
 # Baldur's Gate 3の英語を復習する 2冊目
 
-- 企画の趣旨・方針・注意については、[ココ](https://kjirou.github.io/blog/articles/20231205-0001.html#%E4%BC%81%E7%94%BB%E3%81%AE%E8%B6%A3%E6%97%A8%E3%81%A8%E6%96%B9%E9%87%9D%E3%81%A8%E6%B3%A8%E6%84%8F)を参照。
+- [このシリーズ全般の説明はこちら](./202312-baldurs-gate-3-english-index.html)
 
 ## 本編
 
-### 20, Eliasis 15:57
+### 20, Eliasis - 15:57 - Us, 主人公
 
 - [thought](https://ejje.weblio.jp/content/thought)
   - 名詞: 意見、見解
@@ -40,7 +40,7 @@ lastUpdatedAt: "2023-12-14 01:50:00+0000"
   - We have fled to a realm called Avarnus. First of the Nine Hells. We are escaping a great evil.
     - a great evil ってなんだろう？
 
-### 20, Eliasis 16:19
+### 20, Eliasis - 16:19 - Lae'zel, 主人公
 
 - [abomination](https://ejje.weblio.jp/content/abomination), アバ↑ーミネーシ(ョ|ェ)ン
   - 名詞: 大嫌いなもの、忌まわしいこと
