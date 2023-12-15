@@ -1,11 +1,11 @@
 ---
-publicId: 202312-baldurs-gate-3-english-part-1
+publicId: baldurs-gate-3-english-part-1
 lastUpdatedAt: "2023-12-05 00:02:06+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 1冊目
 
-- [このシリーズ全般の説明はこちら](./202312-baldurs-gate-3-english-index.html)
+- [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 
 ## 本編
 
