@@ -59,6 +59,9 @@ lastUpdatedAt: "2023-12-17 15:13:42+0000"
 - Take a closer look at the powered-up console.
   - look は名詞で「見ること、視線」
   - closer は 形容詞 close「接近して、ごく近くで」 の比較級。「より近づいて」という意味のよう。
+  - というか [take a closer look](https://ejje.weblio.jp/content/take+a+closer+look)で慣用句だった
+    - [Gatsbyのチュートリアル](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/)にも同じ言い回しが出てきた
+      - > Let’s take a closer look at the process:
 - [pulse](https://ejje.weblio.jp/content/pulse), パ↑(ウ|ル)ス
   - 自動詞: 脈打つ
 - [glow](https://ejje.weblio.jp/content/glow)
