@@ -66,3 +66,54 @@ lastUpdatedAt: "2023-12-21 00:37:08+0000"
       > 名詞としての「fight」: 「戦い」や「戦闘」としての「fight」は、通常、具体的な戦いや衝突を指す場合に用いられます。例えば、「a fight」（一つの戦い）や「the fight」（その戦い）といった形で使われることが多いです。
       >
       > (以下略)
+- [of](https://ejje.weblio.jp/content/of)
+  - 毎回コアイメージがわからなくなる前置詞
+    - 一言で言うと[「背景を作り、その支配下に置く」](https://www.english-speaking.jp/meaning-of-of/)だそうな
+      - of でよくわからなくなるのが a sword of flame と言うフレーズなんだけど、ここによると「コンセプトの体現」に当てはまりそう
+        - ただ、ここの主要な単語は flame なので、英語ならそれを先に言っちゃいそうなんだけど、まぁよくわからないや...
+- that'll, ザ↑ートォ (US)
+  - 発音がわからなかったので調べた: https://dictionary.cambridge.org/ja/pronunciation/english/that-ll
+- [It's nothing](https://ejje.weblio.jp/content/it%27s+nothing)
+  - 慣用句: なんでもありません
+- [chatter](https://ejje.weblio.jp/content/chatter), チ↑ャトォ
+  - 名詞: くだらないおしゃべり
+    - chat と異なり悪い意味
+
+### 20, Eliasis - 0:32 - Lae'zel
+
+- [near](https://ejje.weblio.jp/content/near), ニ↑ー(ャ|ァ)
+  - 動詞: 近づく
+- Once inside, do as I say.
+  - "Once inside" が文の要素として何なのかわからなかった。
+    - ChatGPT氏に聞くと、二つの単語で「一度中に入ったら」という一つの接続詞とのこと。
+      - そして、類似表現として、 once outside, once alone, once finished, once seated, once approved を挙げていた。once + 形容詞 っぽい。
+      - ただこれ、個別の日本語記事を探しても、そう言及している記事がない
+        - 英二郎にはあったけど: https://eow.alc.co.jp/search?q=once+inside ...ただSEO対策にも見えるし
+      - Once (we are) inside の略のような気もするし、正しい理解かは保留。ChatGPTのいうような用法で事足りるのはわかったので、それで概ねヨシ。
+
+### 20, Eliasis - 0:37 - Shadowheart, 主人公
+
+- Something the matter?
+  - 慣用句: 何か問題でも？
+  - 名詞 + 名詞 はルールで禁止スよね
+- [besides](https://ejje.weblio.jp/content/besides), ビ↑サァイ(ズ|ス)
+  - 前置詞: を除いて
+    - コアイメージは「〜を横に置いて」って書いてあるけどよくわからんな
+  - [beside](https://ejje.weblio.jp/content/beside)
+    - 前置詞: 〜のそばに
+      - コアイメージ: 〜の横に
+  - beside と besides ...?
+    - Ref. [「beside」と「besides」の違い！使い方をしっかりとマスターするポイント！](https://eitopi.com/beside-besides-tigai)
+      - beside: あるものの近くに存在するイメージ
+      - besides: あるものに追加するイメージ、転じて今ないものとして「それ以外」になる
+- [obvious](https://ejje.weblio.jp/content/obvious), オ↑ービァス
+  - 形容詞: (疑問の余地がないほど)明らかな
+    - 「((the ～))((名詞的に))明らかなこと」
+      - the obvious で名詞として「当たり前のこと」になるんだと思って良さそう
+        - Ref. [the obviousってどういう意味？](https://ameblo.jp/torahiko1031/entry-12520642174.html)
+- besides the obvious
+  - 慣用句: （前の文脈を受けて、当たり前にわかる）そのこと以外は
+  - Ref. [さらっと言ってみたいですね、"Besides the obvious, of course."](https://sayreally.hatenablog.com/entry/2017/02/13/000000)
+  - Shadowheart はこういう成句の言い回しを使うのが多くない？
+- I'm right behind you
+  - このときの right は副詞で「ちょうど、すぐに」、だから「あなたのすぐ後ろにいます」
