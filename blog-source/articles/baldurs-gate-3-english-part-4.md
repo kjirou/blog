@@ -70,7 +70,6 @@ lastUpdatedAt: "2023-12-21 00:37:08+0000"
   - 毎回コアイメージがわからなくなる前置詞
     - 一言で言うと[「背景を作り、その支配下に置く」](https://www.english-speaking.jp/meaning-of-of/)だそうな
       - of でよくわからなくなるのが a sword of flame と言うフレーズなんだけど、ここによると「コンセプトの体現」に当てはまりそう
-        - ただ、ここの主要な単語は flame なので、英語ならそれを先に言っちゃいそうなんだけど、まぁよくわからないや...
 - that'll, ザ↑ートォ (US)
   - 発音がわからなかったので調べた: https://dictionary.cambridge.org/ja/pronunciation/english/that-ll
 - [It's nothing](https://ejje.weblio.jp/content/it%27s+nothing)
