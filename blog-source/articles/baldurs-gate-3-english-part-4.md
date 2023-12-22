@@ -45,7 +45,7 @@ lastUpdatedAt: "2023-12-21 00:37:08+0000"
       - [Githyanki(ギスヤンキ)](https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%B9%E3%83%A4%E3%83%B3%E3%82%AD)種族が、精神攻撃能力を持つ、排他的軍国主義国家、という特徴なので自然と嫌われそうではあるが
 - fair point
   - 慣用句: その通り、君の言う通り
-    - Refs. https://ja.hinative.com/questions/1350473
+    - Ref. https://ja.hinative.com/questions/1350473
 - [plenty](https://ejje.weblio.jp/content/plenty), (プ|ト)↑ェンティ
   - 名詞: 多量
 - There's plenty of fighting ahead.
