@@ -7,10 +7,10 @@ lastUpdatedAt: "2023-12-15 00:20:54+0000"
 
 ## 趣旨
 
-- 日本語版がない [Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) を英語でプレイしている
+- プレイ開始当初は日本語版がなかった[Baldur's Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/)を英語でプレイしている
+  - なお、[2023/12/21にPS5版発売に合わせて日本語対応された](https://store.steampowered.com/news/app/1086940?emclan=103582791464711919&emgid=3878226811922849512)ので、英語でプレイする意味はあまりなくなっている
 - プレイ中は理解が曖昧な文章を正確に把握し直す
-- よく使われる単語の意味を意識して把握し今後の読解にかかる時間を減らす
-- ちなみに、[2023/12/21 に公式日本語版が出る](https://twitter.com/spikechunsoft/status/1709068275219644893)ので、普通はそっちで楽しめばいいと思う
+- よく使われる単語の意味を意識して把握し、今後の読解にかかる時間を減らす
 
 ## 注意
 
