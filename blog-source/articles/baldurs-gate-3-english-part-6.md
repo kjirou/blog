@@ -86,3 +86,25 @@ lastUpdatedAt: "2023-12-25 02:08:27+0000"
     - [take](https://ejje.weblio.jp/content/take) によると、SVOO のときの O2 は以下のような用法でしか使えなさそう
       - > 〔(+目的語)+目的語〕〈人に〉〈時間・労力・金などを〉必要とする，かかる.
     - わからんので保留
+- [lie](https://ejje.weblio.jp/content/lie), ラァイ
+  - 動詞: 嘘をつく
+    - 「寝る」と同音異義語なのマジでどうして
+- [agh](https://ejje.weblio.jp/content/agh)
+  - ああぁぁ！
+    - 恐怖、嫌悪、不満の感嘆詞
+- [prowl](https://ejje.weblio.jp/content/prowl), プ↑ラォゥ
+  - 他動詞: 〈場所を〉うろつく，徘徊する
+    - 自動詞の方に「(獲物を求めて・盗みの機会をねらって)うろつく」という意味がある
+- [unfamiliar](https://ejje.weblio.jp/content/unfamiliar)
+  - 形容詞: 見慣れない、よく知らない
+- You're looking out of unfamiliar eyes, prowling dark, busy streets.
+  - 文法に沿って訳すと、You're looking out / of unfamiliar eyes, / (prowling dark, busy streets). で「あなたは見慣れない目を通して外を見て、暗くて忙しい通りをうろついています。」になりそう。
+    - ChatGPTやDeepL翻訳だとこの意味になる
+  - おそらくそれだと違ってて、「あなたは慣れない目を通して外を見ている、暗闇をうろつく姿、混雑した通り」という感じなのではないか？
+- [worm](https://ejje.weblio.jp/content/worm), ワ(ァ|ォ)ーム
+  - 名詞: (細長く足のない)虫、蛆虫、ワーム
+- [go on](https://ejje.weblio.jp/content/go+on)
+  - 句動詞・自動詞: 〈事が〉起こる; 〈行事などが〉行なわれる
+    - What's going on?
+    - 他にも意味はいっぱいある、コアイメージは go: 行く、on: 続けて、のよう
+      - Ref. https://risat-english.com/go-on/
