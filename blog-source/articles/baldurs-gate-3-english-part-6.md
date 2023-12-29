@@ -108,3 +108,61 @@ lastUpdatedAt: "2023-12-25 02:08:27+0000"
     - What's going on?
     - 他にも意味はいっぱいある、コアイメージは go: 行く、on: 続けて、のよう
       - Ref. https://risat-english.com/go-on/
+- [ready](https://ejje.weblio.jp/content/ready), ゥレイディ
+  - 形容詞: 今にもしようとして
+- [innards](https://ejje.weblio.jp/content/innards), イ↑ナァ(ズ|ツ)
+  - 名詞: 内臓
+- [apology](https://ejje.weblio.jp/content/apology), アパ↑ァロズィ
+  - 名詞: 謝罪（すること）、わび（ること）
+- And to think I was ready to decorate the ground with your innards. Apologies.
+  - 「君のはらわたをぶちまけようとしていたよ。ごめんな。」という意味なんだとは思う
+  - to think がどういう意味なのかわからない
+- [kindred](https://ejje.weblio.jp/content/kindred), キ↑ンド(ゥ|ォ)レッ
+  - [kindred spirit](https://ejje.weblio.jp/content/kindred+spirit)
+    - 同士、心の友
+      - ジャイアンのアレだ
+- [snatch](https://ejje.weblio.jp/content/snatch)
+  - 他動詞: 誘拐する、強奪する、ひったくる
+- Buldur's Gate
+  - ゲーム用語: バルダーズ・ゲートという街の名前
+    - > タイトルにもなっているバルダーズ・ゲートは，そんなフォーゴトン・レルムの――つまり惑星トリルのフェイルーン大陸南西部，沿岸地域ソード・コーストにある街の名前であり，多様な種族や職業，宗教関係者が集まる，フェイルーンでも有数の港湾商業都市のことだ。
+      - Ref. https://www.4gamer.net/games/688/G068867/20231112001/
+  - 神秘的な力を持った門的なものなのかと思ってたわ...
+- Baldurian
+  - たぶん、Buldur's Gateの住人を指す
+  - なお、字面が似てる[Balduran](https://baldursgate.fandom.com/wiki/Balduran)（バルダラン）は、Buldur's Gateにまつわる過去の偉人の名前
+- [Is that so?](https://ejje.weblio.jp/content/is+that+so)
+  - そっか、本当に？
+- We clearly move in different circles.
+  - circle の意味が特にわからん
+  - 誘拐したときの範囲が違うという意味なのか、違う誘拐行為の周期だったという意味なのか、もっと抽象的に同じ場所にいたはずなのに違う結果だねという意味なのか
+- [so](https://ejje.weblio.jp/content/so)
+  - 接続詞: さて、それでは
+    - > 「so」が接続詞として使われる場合、理由や結果を導くために用いられる。
+- [of course](https://ejje.weblio.jp/content/of+course)
+  - > [相手に何かを指摘されたり, 何かに思い当たったりして]そうか!, そうだ!
+- [still](https://ejje.weblio.jp/content/still), スティルゥ
+  - 副詞: まだ、依然として、それにもかかわらず
+    - > 「still」が副詞として使われる場合、時間的な継続や、ある状態が変わらずに続いていること、または予想や反対の状況にもかかわらず、という意味を示す。
+- [odds](https://ejje.weblio.jp/content/odds), アーッ(ズ|ス|)
+  - 名詞: 勝ち目、勝算
+- [you know](https://ejje.weblio.jp/content/you+know)
+  - well のように会話の間を持たせたり、相手に同意を求めるような意味に変えるのに使ったり、その他諸々
+    - こういう記事で調べたほうが良さそう: Ref. https://nativecamp.net/blog/20180806-you_know
+- I was ready to go this alone
+  - Astarionに一緒に行こうと言った直後の状況
+  - 自分は一人で行くはずだったんだ、という意味だろうけど go this の部分がよくわからない
+    - this がこの困難のことを指していて、go はそれに立ち向かうみたいな感じ？
+- [stick](https://ejje.weblio.jp/content/stick), ステ↑ィッ(ク|)
+  - 自動詞: 刺さっている、くっつく
+    - sticking with the herd という言い回しで使われてたけど、群れの一人でいることを言っていそう
+      - Astarionはプライドが高そうっすね
+- [herd](https://ejje.weblio.jp/content/herd), (ハ|ヘ)ー(ド|ズ|)
+  - 名詞: 群衆、群れ
+    - 家畜の群れ、下層民の群衆、のように若干下に見た意味
+- And you seem like a useful person to know.
+  - ChatGPT訳: あなたは知り合う価値のある人のようです。
+  - to know は、「知ること」「知り合いになること」を言っていそう
+- いち会話がくっそ長かった。流石にパケ絵の中心にいるAstarionさんのパートだ...
+  - いいキャラしてるなぁ
+  - 自分の主人公と同じローグで役割がドかぶってるので、仲間として連れ回しにくいのが残念
