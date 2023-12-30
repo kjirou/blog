@@ -83,9 +83,50 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
   - 他動詞: 放射する、撒き散らす
 - [malice](https://ejje.weblio.jp/content/malice), マ↑(リ|ル)ス
   - 名詞: 悪意、敵意
-- とにかくこの文章がまとめてわからなかったので、今度誰かに聞こう
+- とにかくこの文章が一式でわからなかったので、今度誰かに聞こう
   - ```
     *Your minds fuse, lusting for something that is... gone.*
     *But then its grip claws back with a vengeance: a vice locking your mind into obedience.*
     *It needs sustenance to survive, and with your very body you can provide.*
     ```
+
+### 20, Eliasis - 14:35 - 主人公, Gale, Shadowheart
+
+- [sigil](https://ejje.weblio.jp/content/sigil), ス↑ィジョォ
+  - 名詞: 主に西洋魔術で使われる図形、記号、紋章、線形
+- [glitter](https://ejje.weblio.jp/content/glitter), グ↑リラァ
+  - 自動詞: ぴかぴか光る
+- [swirl](https://ejje.weblio.jp/content/swirl), スワー(ァ|ォ)
+  - 自動詞: 渦を巻く、ふらふらする
+- [erratically](https://ejje.weblio.jp/content/erratically)
+  - 副詞: でたらめに、不規則に
+- [as if](https://ejje.weblio.jp/content/as+if)
+  - まるで〜であるかのように
+- [malfunction](https://ejje.weblio.jp/content/malfunction), (マ|エ)↑ル・ファンクシ(ョ|ェ)ン
+  - 自動詞: 〈臓器・機械などが〉正常に働かない，動かない
+  - 名詞で、機能不全、故障、という意味もある
+- [slightly](https://ejje.weblio.jp/content/slightly), ス↑ライトリィ
+  - 副詞: わずかに、少し、細く、きゃしゃに
+  - 真逆の意味だと誤解してたんだけどなんでだろう... 似てる字面で違う意味の単語も思い出せないし
+- [stuck](https://ejje.weblio.jp/content/stuck), スタ↑ァック
+  - stick の過去形・過去分詞形
+  - [stick](https://ejje.weblio.jp/content/stick)
+    - > 〔+目的語(+副詞(句))〕〈…を〉(…に)はまり込ませる，行き詰まらせる; 動けなくする 《★通例過去分詞で形容詞的に用いる; ⇒stuck 形容詞 1a,c》.
+- Just your average traveller stuck between realms.
+  - 不思議なワープゲートみたいなところから手が出て、主人公がそれを引き上げてる最中という状況
+  - stuck は形容詞で、「領域の間に挟まっているただの旅行者だよ」になりそう
+    - 領域(realms)というのは、ワープゲートの両側を指しそう
+  - your は、親愛の情というか軽口というかそういう言い回しみたい
+    - ChatGPT:
+      - > この文脈において、"your" は読者または話を聞いている人に直接話しかける形で使用されています。ここでは、"your average traveller" というフレーズで、「あなたの典型的な旅行者」または「普通の旅行者」という意味で使われており、聞き手に対する親しみや共感を表現している可能性があります。つまり、"your" は具体的な個人を指しているのではなく、一般的な「あなた」や「誰でも」を意味する使い方として使われているのです。
+- [properly](https://ejje.weblio.jp/content/properly), (パ|プ)ロパリィ
+  - 副詞: 適切に、ほどよく、礼儀正しく
+- we'll get properly introduced
+  - （お互いに）きちんと（自己）紹介しましょう
+  - 成句ではないが、よく使われる言い回し
+- [sabotage](https://ejje.weblio.jp/content/sabotage), サ↑ァボタージュ
+  - 他動詞: 妨害する
+- With a keen, but calculated twist, you attempt to sabotage the sigil.
+  - その不思議なゲートから、主人公が手を出しているGaleを引き上げようとしている状況
+  - 「鋭くしかし計算されたひねりで、あなたはその sigil を妨害しようと試みる」
+  - calculated twist ってなんだろう
