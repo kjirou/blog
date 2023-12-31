@@ -157,3 +157,12 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
   - 「今すぐ軽くひっぱればうまくいきます」
   - [do the trick](https://ejje.weblio.jp/content/do+the+trick)
     - うまくいく、効く
+- Ooft
+  - ChatGPT:
+    - > 英語のスラングで「Ooft」という言葉は、驚きや感動、あるいは賞賛を表す時に使われることが多いです。例えば、誰かがとても美しい服を着ているときや、驚くべきニュースを聞いた時に「Ooft」と言って、その感情を表現することがあります。この言葉は非公式な会話やオンラインでよく見られ、特にイギリスやオーストラリアの若者の間で使われることがあります。
+- [relief](https://ejje.weblio.jp/content/relief), リ↑リーフ
+  - 名詞: 救助、救援
+- [pleasure](https://ejje.weblio.jp/content/pleasure)
+  - 名詞: 喜び
+- [acquaintance](https://ejje.weblio.jp/content/acquaintance), アク(ア|ウェ)インタンス
+  - 名詞: 知人
