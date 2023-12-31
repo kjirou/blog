@@ -124,9 +124,36 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
 - we'll get properly introduced
   - （お互いに）きちんと（自己）紹介しましょう
   - 成句ではないが、よく使われる言い回し
+- [keen](https://ejje.weblio.jp/content/keen)
+  - 形容詞: 鋭い、頭の切れる
 - [sabotage](https://ejje.weblio.jp/content/sabotage), サ↑ァボタージュ
   - 他動詞: 妨害する
 - With a keen, but calculated twist, you attempt to sabotage the sigil.
   - その不思議なゲートから、主人公が手を出しているGaleを引き上げようとしている状況
   - 「鋭くしかし計算されたひねりで、あなたはその sigil を妨害しようと試みる」
   - calculated twist ってなんだろう
+- [whatever](https://ejje.weblio.jp/content/whatever), ワトエヴァー
+  - > (…する)ものは何でも、(…する)ものは皆、どんなことが…でも、いかに…でも、一体何が、全体何を
+  - イマイチわからなかったので、 https://nativecamp.net/blog/20210923english_whatever を読んだ
+  - とりあえずは代名詞で anything と同じように、「なんでも」「なんであっても」のよう
+- [wonder](https://ejje.weblio.jp/content/wonder), ウォンダー
+  - 名詞: 奇跡、驚くべきこと
+- Whatever you're doing, it's working wonders!
+  - 「君がなにをしてようが、それは驚くべき成果を発揮している！」という意味だと思う
+  - 前半はいいんだけど、後半が難しい
+    - [work](https://ejje.weblio.jp/content/work) を「影響がある」「ききめがある」「（作用として）働く」という意味で使うときは自動詞である
+    - それであるなら、次に続く単語は、通常は副詞か補語としての形容詞だが、wonders は名詞である
+    - わけがわからん、というところで、完全自動詞・不完全自動詞という概念を知った
+      - Ref. https://www.keiko.work/entry/2022/08/07/143000
+    - にしても、まだ自動詞の補語として名詞が入るのが謎だが、そういうこともあるらしい...?
+      - Ref. https://eigo-4989.hatenablog.com/entry/2020/12/29/182143
+    - 結局わからんのだが、be 動詞のときは補語に名詞が入るのは普通なので、不完全自動詞が be 動詞的な性質に近いのだとすれば、補語に名詞が入るのも変ではなさそう？
+    - [working wonders](https://ejje.weblio.jp/content/working+wonders): 「素晴らしい結果を収めること」「大変有益な効果があること」という成句としても存在した
+- [trick](https://ejje.weblio.jp/content/trick), (ト|チョ)リッ(ク|)
+  - 名詞: 妙技
+    - Weblio辞書にはなかったけど、[goo辞書](https://dictionary.goo.ne.jp/word/en/trick/)には書いてあった
+    - ハットトリックとかあるから、馴染みのある意味だと思うけど
+- Now a quick little pull should do the trick.
+  - 「今すぐ軽くひっぱればうまくいきます」
+  - [do the trick](https://ejje.weblio.jp/content/do+the+trick)
+    - うまくいく、効く
