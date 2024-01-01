@@ -217,3 +217,32 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
 - it is to be avoided
   - "to be 過去分詞" 部分の構文は、to不定詞の受動態
     - Ref. https://e-grammar.info/infinitive/passive.html
+- You don't happen to be a cleric, by any chance, do you?
+  - [happen](https://ejje.weblio.jp/content/happen), ハ↑ーペン
+    - 自動詞: S がたまたま to do する
+      - S happen to do
+  - [by any chance](https://ejje.weblio.jp/content/by+any+chance)
+    - ひょっとして
+    - ChatGPT:
+      - > この文脈における "by any chance" は、「もしかして」「ひょっとして」という意味で使われています。これは一種の丁寧な表現で、相手に確認を求める際に、推測や可能性が低いことを前提としています。したがって、"You don't happen to be a cleric, by any chance, do you?" というフレーズ全体では、話者が相手に対して非常に礼儀正しく、かつ控えめに、相手が聖職者である可能性について尋ねています。
+- [surgeon](https://ejje.weblio.jp/content/surgeon), (サ|ス)ージェン
+  - 名詞: 外科医、軍医
+- [uncannily](https://ejje.weblio.jp/content/uncannily)
+  - 副詞: 異様に
+- [adroit](https://ejje.weblio.jp/content/adroit), (ア|エ)↑ドロイ
+  - 形容詞: 巧み
+- [knitting needle](https://ejje.weblio.jp/content/knitting+needle)
+  - 編み針
+- [realise](https://ejje.weblio.jp/content/realise), ゥリ↑ィラァイ(ズ|ス)
+  - 他動詞: 気づく
+    - = [realize](https://ejje.weblio.jp/content/realize)
+- Most, no doubt. But I find myself hoping to be in the presence of the few. You don't happen to be one of them?
+  - Shadowheartに「この状況を解決できる聖職者なんか滅多にいないのはあなたもわかってるでしょ」みたいな嫌味を言われている状況
+  - [most](https://ejje.weblio.jp/content/most), モウス(ト|ツ|)
+    - 形容詞: 最大多数の、ほとんどの
+  - Most, no doubt. は、「この状況を解決できる聖職者がほとんどいない」なのか「この状況でも助かる人はほとんどいない」なのかがわからない。多分後者だと思う。
+  - [find](https://ejje.weblio.jp/content/find)
+    - > 〔+目的語+doing〕〈自分が〉〈…しているのに〉気づく; (気がついてみると)〈…して〉いる.
+    - But I find myself hoping to be in the presence of the few. は「しかし、気がつくと私はその少ない存在であることを望んでいることに気づく」みたいな意味だろうか
+  - You don't happen to be one of them? は、いきなり話が変わって、また「お前はもしかして解決してくれる人じゃない？」ということを聞いていそう
+    - 次の答えで You である主人公が、I was going to ask you the same question. と返している
