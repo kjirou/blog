@@ -162,7 +162,36 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
     - > 英語のスラングで「Ooft」という言葉は、驚きや感動、あるいは賞賛を表す時に使われることが多いです。例えば、誰かがとても美しい服を着ているときや、驚くべきニュースを聞いた時に「Ooft」と言って、その感情を表現することがあります。この言葉は非公式な会話やオンラインでよく見られ、特にイギリスやオーストラリアの若者の間で使われることがあります。
 - [relief](https://ejje.weblio.jp/content/relief), リ↑リーフ
   - 名詞: 救助、救援
-- [pleasure](https://ejje.weblio.jp/content/pleasure)
+- [pleasure](https://ejje.weblio.jp/content/pleasure), プ↑レジ(ャ|ュ)ァ
   - 名詞: 喜び
 - [acquaintance](https://ejje.weblio.jp/content/acquaintance), アク(ア|ウェ)インタンス
   - 名詞: 知人
+- Say, but I know you, don't I?
+  - [say](https://ejje.weblio.jp/content/say)
+    - 間投詞: ねえ、ちょっと
+    - 訳は「ねえ、でも、私はあなたのことを知ってるよね？」だと思うけど、しかし主人公は知らないはずだけどどういう意味だろう
+- [in a manner of speaking](https://ejje.weblio.jp/content/in+a+manner+of+speaking)
+  - いわば、ある意味では
+  - [manner](https://ejje.weblio.jp/content/manner) に「方法、態度」という意味があり、a manner of speaking は「言い回し」になる
+    - Ref. https://www.ihcway.com/1day/20160811214601.html
+- [as well](https://ejje.weblio.jp/content/as+well)
+  - 〜もまた、同様に
+    - 通常この意味のは文末においた時
+  - You were on the nautiloid as well.
+    - 訳は「あなたも戦艦にいたよね？」だと思うんだが、なんでGaleは知ってるんだろうか...
+- Then I can only assume you too were on the receiving end of a rather unwelcome insertion in the ocular region.
+  - only の意味 by ChatGPT:
+    - > この文脈においての "I can only assume" での "only" は、話者が限られた情報や状況に基づいて、特定の結論に至る以外に選択肢がないことを強調しています。つまり、話者がその結論に至るために利用可能なデータや証拠が限られているため、その結論を導く以外に合理的な解釈がないという意味です。ここでの "only" は、その推測や仮定が唯一の合理的な結論であるということを示しています。
+  - [rather](https://ejje.weblio.jp/content/rather)
+    - 副詞: かなり
+      - very, pretty, quite, fairly などと同じように程度を表す意味
+      - Ref: https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
+        - > （好ましくない）かなり
+    - [receiving end](https://ejje.weblio.jp/content/receiving+end)
+      - 名詞: 受信するもの、受信者
+    - [ocular](https://ejje.weblio.jp/content/ocular), (ア|オ)↑ーキュ(ラ|ル)ァ
+      - 形容詞: 目の、視覚の
+    - a rather unwelcome insertion in the ocular region
+      - 頭の中に入っている寄生体のこと
+      - ocular region は「視覚の範囲内」みたいな意味に読めるが、どっちかというと目の中ってよりは頭の中な気はする？
+  - assume は think とか suppose と同じように次に文が来る動詞だけど、なんか慣れなくて Then I can only assume you too まで読んで混乱するので、次はちゃんと把握したい
