@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-7
-lastUpdatedAt: "2023-12-29 01:48:54+0000"
+lastUpdatedAt: "2024-01-01 08:23:50+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 7冊目
@@ -81,6 +81,8 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
   - 形容詞: 消耗した、疲れ切った
 - [radiate](https://ejje.weblio.jp/content/radiate), ゥ(ラ|リ)ディエィ(ト|)
   - 他動詞: 放射する、撒き散らす
+  - [radiation](https://ejje.weblio.jp/content/radiation)
+    - 名詞: 放射能、放熱
 - [malice](https://ejje.weblio.jp/content/malice), マ↑(リ|ル)ス
   - 名詞: 悪意、敵意
 - とにかくこの文章が一式でわからなかったので、今度誰かに聞こう
@@ -187,13 +189,14 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
       - very, pretty, quite, fairly などと同じように程度を表す意味
       - Ref: https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
         - > （好ましくない）かなり
-    - [receiving end](https://ejje.weblio.jp/content/receiving+end)
-      - 名詞: 受信するもの、受信者
-    - [ocular](https://ejje.weblio.jp/content/ocular), (ア|オ)↑ーキュ(ラ|ル)ァ
-      - 形容詞: 目の、視覚の
-    - a rather unwelcome insertion in the ocular region
-      - 頭の中に入っている寄生体のこと
-      - ocular region は「視覚の範囲内」みたいな意味に読めるが、どっちかというと目の中ってよりは頭の中な気はする？
+  - [receiving end](https://ejje.weblio.jp/content/receiving+end)
+    - 名詞: 受信するもの、受信者
+  - [ocular](https://ejje.weblio.jp/content/ocular), (ア|オ)↑ーキュ(ラ|ル)ァ
+    - 形容詞: 目の、視覚の
+    - Oculus VR
+  - a rather unwelcome insertion in the ocular region
+    - 頭の中に入っている寄生体のこと
+    - ocular region は「視覚の範囲内」みたいな意味に読めるが、どっちかというと目の中ってよりは頭の中な気はする？
   - assume は think とか suppose と同じように次に文が来る動詞だけど、なんか慣れなくて Then I can only assume you too まで読んで混乱するので、次はちゃんと把握したい
 - The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
   - we speak of の of は、think of の of みたいにより具体的な事象を指しそう
@@ -246,3 +249,64 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
     - But I find myself hoping to be in the presence of the few. は「しかし、気がつくと私はその少ない存在であることを望んでいることに気づく」みたいな意味だろうか
   - You don't happen to be one of them? は、いきなり話が変わって、また「お前はもしかして解決してくれる人じゃない？」ということを聞いていそう
     - 次の答えで You である主人公が、I was going to ask you the same question. と返している
+- [starve](https://ejje.weblio.jp/content/starve), スタ↑ーブ
+  - 自動詞: 切望する、飢える
+    - Don't Starve Together
+- We're most certainly going to need a healer, and soon too.
+  - [most](https://ejje.weblio.jp/content/most), モウス(ト|ツ|)
+    - 副詞: 最も、いちばん
+      - > 副詞の場合には the をつけないことも多い
+  - [certainly](https://ejje.weblio.jp/content/certainly), (ス|サ)↑ー(タ|テ)ンリィ
+    - 副詞: 確実に、きっと間違いなく
+  - and soon too は、"We're most 1(certainly) 2(going to need a healer), and 1(soon) 2(too)." こういう対応関係である
+    - 「癒し手が最も確実に必要になる」and「癒し手が最もすぐに必要になる」
+- [how about](https://ejje.weblio.jp/content/how+about)
+  - 〜はいかがですか？
+    - How about 〜 ?
+- [lend](https://ejje.weblio.jp/content/lend), ゥレ↑ン
+  - 他動詞: S が O1 へ O2 を貸す
+    - S lend O1 O2
+- [helping hand](https://ejje.weblio.jp/content/helping+hand)
+  - 助力、援助の手
+- Sounds like a plan.
+  - ChatGPT:
+    - > 「それはいい考えのようだ。」または「そうしましょう。」となります。
+  - sounds like は「〜のように聞こえる、思える」というだけで、そこに良し悪しの意味はふくまれてないはず。そうなると a plan に「良い」という意味が含まれているということになるが、この機微がわからん。
+  - 成句としても認識されてそう: https://hapaeikaiwa.com/blog/2023/10/20/%E3%80%8Csounds-like-a-plan%E3%80%8D%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%86%E3%81%84%E3%81%86%E6%84%8F%E5%91%B3%EF%BC%9F/
+- [excellent](https://ejje.weblio.jp/content/excellent), エ↑ク(セ|ソ)レン(ト|)
+  - 間投詞: よろしい、けっこう
+    - 形容詞だと「優秀な」
+- A parasite shared is a parasite halved. Or something to that effect.
+  - 前半は、英語のことわざの [a problem shared is a problem halved](https://childenglishconv.main-path.com/meaning-of-a-problem-shared-is-a-problem-halved) の言い換え
+    - [halve](https://ejje.weblio.jp/content/halve), ヘァーブ
+      - 他動詞: 二等分する
+  - [to that effect](https://ejje.weblio.jp/content/to+that+effect)
+    - 同じ趣旨の
+    - ChatGPT:
+      - > "to that effect" は英語のフレーズで、何かが言われたり示されたりした意図や影響を指しています。直訳すると「その効果に」となりますが、実際には「その趣旨の」「その意味合いの」というニュアンスで使われます。つまり、話されている内容と同じかそれに近い意味のことを指していることを示します。例えば、誰かが特定の提案をしたとき、「Or something to that effect.」と言うと、「またはそのような趣旨のこと」という意味になり、提案された内容と似たようなことを指していることを示します。
+- [embark](https://ejje.weblio.jp/content/embark), エンヴ↑ァー(ク|)
+  - 自動詞: 〔新しいこと・難事業などに〕乗り出す，従事する
+- [illmannered](https://ejje.weblio.jp/content/illmannered), イ(ル|ウ)(マ|メ)ナォ
+  - 形容詞: 無作法な、失礼な
+- It was an act of foresighted kindness I assure you, for I have the feeling ample opportunities will present themselves for me to return the favour.
+  - [foresighted](https://ejje.weblio.jp/content/foresighted), フォオ(シ|スィ)↑ーテッ
+    - 形容詞: 先見の明がある
+    - [foresight](https://ejje.weblio.jp/content/foresight), フ↑ォオサイ
+      - 名詞: 先見の明
+      - アクセントと後半の発音が形容詞と異なる
+  - [ample](https://ejje.weblio.jp/content/ample), エンポォ
+    - 形容詞: (余るほど)十分な
+  - [present](https://ejje.weblio.jp/content/present), プ↑(レ|エ)ゼン(ト|ツ|)
+    - 他動詞: 贈る、贈呈する
+    - 形容詞で「今の」、名詞で「今」という意味もある。コアイメージは「存在している」「人の前に差し出す」。
+      - 名詞としては、[presence](https://ejje.weblio.jp/content/presence) と混乱する
+  - [favour](https://ejje.weblio.jp/content/favour), フ↑ェイヴァ
+  - 前半は「あなたの行為が先見の明のある親切だったことを私が保証しましょう」だと思う、後半の for I have ... 以降が難しい
+    - ChatGPT:
+      - > 「それは先見の明のある親切な行為でした、私は確信しています。なぜなら、その恩を返すための十分な機会が自分にも差し出されるだろうという感じがするからです。」
+  - I have (the feeling (ample opportunities will present themselves for me to return the favour))
+    - ample opportunities 自身が present の目的語として再帰代名詞 themselves にしている意味がわからん
+      - ChatGPTに聞いてみると、より ample opportunities が自発的に生まれる意味になるとのこと。
+      - たぶん、例えば、the journey will present ample opportunities とかだと提供元の主語が決まって意味がはっきりしてしまうので、それより先々に何が起こるかわからない感を出したかったのかもしれない
+- Galeは軽口を叩くタイプなので、Astarionよりもさらに大変だった。お前もうしゃべるな！
+  - キャラは好きだが
