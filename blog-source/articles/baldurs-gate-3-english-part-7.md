@@ -195,3 +195,25 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
       - 頭の中に入っている寄生体のこと
       - ocular region は「視覚の範囲内」みたいな意味に読めるが、どっちかというと目の中ってよりは頭の中な気はする？
   - assume は think とか suppose と同じように次に文が来る動詞だけど、なんか慣れなくて Then I can only assume you too まで読んで混乱するので、次はちゃんと把握したい
+- The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
+  - we speak of の of は、think of の of みたいにより具体的な事象を指しそう
+  - are you aware that ((after a period of excruciating gestation) it will turn us into mind flayers)? というように after ~ の文は副詞節、たぶん gestation と it の間にカンマが入っても良い
+  - are you awere(形容詞) の後に that 節が続くのは普通はできないはず...?
+    - Ref. https://englishworkbooks.blogspot.com/2019/09/be-aware-of.html
+      - be aware that 節 / be aware of 句 で覚えると良さそう
+        - be (形容詞) that は他にもありそうだけど（be sure that とか）、文法上なんというのかわからなかった
+      - > 「気づいている」と書くと動詞っぽく見えちゃうんですよね。あくまで単語としては「気づいている状態」を表現する形容詞です。「気づいている状態にある」と表現するときに初めて、"She is aware of/that～"みたいな be awareの形になるんです。
+  - [excruciate](https://ejje.weblio.jp/content/excruciate), (エ|イ)クスクルーシエィ
+    - 他動詞: 苦しめる
+  - [gestation](https://ejje.weblio.jp/content/gestation), ジェステ↑イシ(ョ|ェ)ン
+    - 名詞: 形成
+- ceremorphosis
+  - ゲーム用語: Mind Flayerの寄生体により変身させられること
+    - Ref. https://forgottenrealms.fandom.com/wiki/Ceremorphosis
+      - 寄生された人が助かるには、初期段階（脳みそが食べられかけている最中）までに頭を完全に破壊して復活の呪文をかけることらしい
+  - -sis の接尾語は「すること」「した結果」
+- [assure](https://ejje.weblio.jp/content/assure), ア↑シュ(ェ|ァ)
+  - 他動詞: 〜へ保証する
+- it is to be avoided
+  - "to be 過去分詞" 部分の構文は、to不定詞の受動態
+    - Ref. https://e-grammar.info/infinitive/passive.html
