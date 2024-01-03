@@ -28,11 +28,12 @@ lastUpdatedAt: "2024-01-02 00:20:54+0000"
 ```
 This was a triumph.
 I'm making a note here:
-huge success.
+HUGE SUCCESS.
 ```
 
 これは偉業です。  
-私はこう記しましょう: 前人未到の成果 と。
+私はこう記しましょう:  
+前人未到の成果 と。
 
 - [triumph](https://ejje.weblio.jp/content/triumph)
   - 名詞: 勝利、大業績
@@ -45,7 +46,7 @@ It's hard to overstate
 My satisfaction.
 ```
 
-嬉しさのあまり大げさだったかもしれません。
+嬉しくて言いすぎたかもしれません。
 
 - [overstate](https://ejje.weblio.jp/content/overstate)
   - 他動詞: (…を)大げさに話す、誇張する
@@ -56,14 +57,14 @@ My satisfaction.
 ---
 
 ```
-Aperture Science.
+Aperture Science
 We do what we must
 Because we can.
 For the good of all of us.
 Except the ones who are dead.
 ```
 
-アパチャー・サイエンスにおいて。  
+アパチャー・サイエンスにおいて  
 私たちはなすべきことをすべきです、それができるのだから。  
 人々のために。  
 犠牲はあるけどね。
@@ -77,9 +78,9 @@ Except the ones who are dead.
 
 ```
 But there's no sense crying
-Over every mistake.
+over every mistake.
 You just keep on trying
-Till you run out of cake.
+till you run out of cake.
 And the Science gets done.
 And you make a neat gun.
 For the people who are
@@ -118,10 +119,12 @@ And killed me.
 
 私はちっとも怒っていません。  
 本当に嘘じゃありませんよ。  
-あなたが私の心臓を壊して殺しても。
+あなたが私の心臓を壊して。  
+殺しても。
 
 - [sincere](https://ejje.weblio.jp/content/sincere), (ソ|サ)↑ンス↑ィル
   - 形容詞: 嘘偽りのない、正直な、誠実な
+- [right now](https://ejje.weblio.jp/content/right+now) の意味がわからない。「マジで」みたいな感じなのではと思った。
 
 ---
 
@@ -132,8 +135,8 @@ As they burned it hurt because
 I was so happy for you!
 ```
 
-あなたは私をバラバラにして、  
-炎へ投げ入れました。  
+あなたは私をバラバラにしましたね。
+そして炎へ投げ入れました。  
 （訳せなかった）
 
 - [tear](https://ejje.weblio.jp/content/tear), テ↑ィ(ア|エ)ー, tear - tore - torn
@@ -159,7 +162,7 @@ For the people who are
 Still alive.
 ```
 
-テストの得点はきれいに上がっています。  
+テストの得点は美しい上昇曲線を描いています。  
 ベータ版は終わりです。  
 リリースの時がやってきました。  
 私はとても嬉しい。私は燃えてしまったけど。  
@@ -171,19 +174,21 @@ Still alive.
 ---
 
 ```
+(One last thing:)
 Go ahead and leave me.
 I think I prefer to stay inside.
 Maybe you'll find someone else
-To help you.
+to help you.
 Maybe Black Mesa...
 THAT WAS A JOKE. FAT CHANCE.
 ```
 
+最後に:  
 私を置いて行くのですね。  
 私はずっと居てほしいと思っていますが。  
 もしかしたら、あなたには他に助けになる方がいるのかもしれませんね。  
 ひょっとして、Black Mesa...  
-冗談ですよ。そんなことはないですね。
+冗談ですよ。そんなことはありませんね。
 
 - Black Mesa
   - ゲーム用語: Portalを作ったValve社の別作品Half-Lifeに登場する組織の名前、内輪ネタ
@@ -193,11 +198,11 @@ THAT WAS A JOKE. FAT CHANCE.
 ---
 
 ```
-Anyway this cake is great.
+Anyway, this cake is great.
 It's so delicious and moist.
 ```
 
-とにかくこのケーキは絶品です。  
+とにかく、このケーキは絶品です。  
 とてもしっとりとしていて美味しいですよ。
 
 - [anyway](https://ejje.weblio.jp/content/anyway)
@@ -215,11 +220,12 @@ When I look out there,
 It makes me GLaD I'm not you.
 ```
 
-（訳せなかった）
+（訳せなかった）  
 （訳せなかった）
 
 - 前半を文意無視で直訳すると: 「私が科学がやることがあるまで話すのを見てください。」
 - 後半を文意無視で直訳すると: 「私がそこを見た時、私は嬉しい、わたしはあなたではない。」
+- look at me って言ってるから、ヤンデレ風文章なんだろうか...
 
 ---
 
