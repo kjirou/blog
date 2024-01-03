@@ -1,6 +1,6 @@
 ---
 publicId: translate-portal-still-alive-myself
-lastUpdatedAt: "2024-01-02 00:20:54+0000"
+lastUpdatedAt: "2024-01-03 09:16:25+0000"
 ---
 
 # PortalのStill Aliveを自分で翻訳してみる
@@ -15,7 +15,7 @@ lastUpdatedAt: "2024-01-02 00:20:54+0000"
 
 - https://www.youtube.com/watch?v=Y6ljFaKRTrI
 
-完了したら、日本語版Portal Wikiの日本語訳と見比べる:
+完了したら、日本語版Portal Unofficial Wikiの日本語訳と見比べる:
 
 - https://theportalwiki.com/wiki/Still_Alive_(song)/ja
 
@@ -24,6 +24,11 @@ lastUpdatedAt: "2024-01-02 00:20:54+0000"
 ちなみに、Portal本体は序盤しかプレイしていなく、残りを動画で観ちゃった勢。
 
 ## 自前の日本語訳
+
+- **だいぶ間違ってるので信じないでください**
+- あくまで自分が初見で訳したときのログです
+
+---
 
 ```
 This was a triumph.
@@ -105,6 +110,8 @@ Still alive.
   - "cake" はPortalのラスボス兼ヒロインのGLaDOSが、主人公達に迷宮の脱出の報酬として提示しているもの
     - おそらくはケーキそのものというよりは、「何かいいことあるよ」の比喩なのだと思う
     - Ref. [the cake is lie](https://en.wikipedia.org/wiki/The_cake_is_a_lie)
+- get done は「やり遂げる」という意味
+  - https://study-z.net/100051118
 - a neat gun は作中のPortal Gunのことを指していそう
 - なんで全部現在形なんだろう？
 
@@ -276,4 +283,199 @@ FINAL THOUGHT PS:
 
 STILL ALIVE
 
-## 既存の翻訳と見比べて所感
+## Portal Unofficial Wiki(JP)の日本語訳と見比べて比較・所感
+
+- 英文が微妙に異なるのは、自分はゲーム画像から転写したものだが、こちらはWikiに書いてあったものをコピーしたから。
+
+---
+
+```
+It's hard to overstate
+My satisfaction.
+```
+
+> 私は本当に  
+> 満足しているのですよ。
+
+- overstate の「誇張」という意味が失われているように見える
+- 詳細不明
+
+---
+
+```
+You just keep on trying
+Till you run out of cake.
+```
+
+> ケーキがなくなるまで、  
+> ひたすら試し続けるの　です。
+
+- 完全に間違えてた
+- [run out of](https://ejje.weblio.jp/content/run+out+of)
+  - O を使い果たす
+- cake はいわば釣り商品であって、今までにひとつも過去の you らのものになってないので、それを使い果たしたらと表現すると趣深い
+
+---
+
+```
+And the Science gets done.
+```
+
+> 科学はそうして進歩していくのです。
+
+- 「進歩する」「成長する」の方が適切そう
+
+---
+
+```
+And you make a neat gun.
+```
+
+> そして、すばらしい銃が作られる。
+
+- Wikiに以下のような注釈があるので、a neat gunがPortal Gunであることは合ってそう
+  - > And you make a neat gun(そして、すばらしい銃が作られる)は携帯ポータル装置のことです。
+  - だとすれば、なぜこれが you make になるんだろう...?
+- Portal Gunのことじゃなくて、一般的な武器としての銃のことを言っているなら、for the people who are still alive で皮肉になるかと思ったけど、唐突すぎるから違いそう
+
+---
+
+```
+Even though you broke my heart.
+And killed me.
+```
+
+> あなたは　私を　裏切って　殺し、
+
+- break someone's heart で「ひどく心を打ち砕く」という意味だった
+  - Ref. https://courrier.jp/columns/271160/
+
+---
+
+```
+As they burned it hurt because
+I was so happy for you!
+```
+
+> 燃えるのは苦しかったけれど、　私はあなたの成功が  
+> うれしかった。
+
+- 文法的な疑問は解消せず
+
+---
+
+```
+Now these points of data
+Make a beautiful line.
+```
+
+> このデータのおかげで、  
+> すばらしいコードができました。
+
+- line は「プログラムのコード」の意味だった、なるほどぉ
+
+---
+
+```
+We're releasing on time.
+```
+
+> 予定通りのリリースです。
+
+- [on time](https://ejje.weblio.jp/content/on+time) は「予定通り」だった、イージーミス
+  - to time と間違っていた
+
+---
+
+```
+So I'm GLaD. I got burned.
+```
+
+> だから、私は　燃やされてよかった。
+
+- 接続詞の [so](https://ejje.weblio.jp/content/so) の後は結果が入ることから、「私が燃えた結果私は嬉しい」になり、次に続く文章がそれが何かを説明している形かなぁ
+
+---
+
+```
+Think of all the things we learned
+For the people who are
+Still alive.
+```
+
+> たくさんのことが分かったのですから。  
+> 生きている人たちに  
+> ために。
+
+- ここだけ取り出して読むと変に思う
+  - (Think of (all the things we learned)) だから、「我々が学んだすべてのことを〜とみなす」としか読めない
+- 前の文章と合わせて、形を変えていそう
+
+---
+
+```
+Go ahead and leave me.
+```
+
+> さあ、　お行きなさい。
+
+- 命令形じゃん！
+
+---
+
+```
+I think I prefer to stay inside.
+```
+
+> 私は　ここに　残ります。
+
+- これも普通に読めば、明らかにこういう意味なんだけど、なぜ間違えてしまうのか...
+  - 「中にいた方がいいと思う」という意味にしたいなら、I think I prefer that you stay inside. になる
+- [inside](https://ejje.weblio.jp/content/inside) はこの場合は前置詞のよう
+  - [stay inside](https://ejje.weblio.jp/content/stay+inside) という句動詞もある
+
+---
+
+```
+Look at me still talking when there's science to do
+When I look out there
+It makes me glad I'm not you
+```
+
+> おやおや、私は仕事をそっちのけにして  
+> おしゃべりしていますね。  
+> 外の様子を見ると、  
+> あなたでなくてよかったと思います。
+
+- When I look out there It makes me glad I'm not you はOK、単に読解力不足だった
+- look at me は、「こんなにまぬけなことをしている私を見ろよ」って意味なんだろうか
+- there's science to do の to do は、不定詞の形容詞的用法
+  - Ref. https://www.rarejob.com/englishlab/column/20210810/
+    - > 形容詞的用法の不定詞は、名詞や代名詞を修飾する役割があります。「名詞＋to＋動詞」という形を取り、名詞を後ろから説明します。意味としては、「～するための、～すべき」となります。例えば、work to doは「やるべき仕事」という意味になります。
+
+---
+
+```
+There is research to be done
+On the people who are
+Still alive.
+```
+
+> 生きている人たちについて、  
+> リサーチを  
+> 続けなくては。
+
+- research on で「O に関する研究」だった
+- 生きている人々「で」研究をするというブラックジョークかと思ったんだけど、違いそう
+
+---
+
+```
+Still alive
+Still alive.
+```
+
+> いつまでも。  
+> いつまでも。
+
+- なるほど
