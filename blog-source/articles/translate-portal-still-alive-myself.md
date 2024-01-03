@@ -14,7 +14,6 @@ lastUpdatedAt: "2024-01-02 00:20:54+0000"
 手順は、まず、Portal Wikiに掲載されている、英語版のこの歌詞を上からなるべく意訳で訳す:
 
 - https://www.youtube.com/watch?v=Y6ljFaKRTrI
-- https://theportalwiki.com/wiki/Still_Alive_(song)
 
 完了したら、日本語版Portal Wikiの日本語訳と見比べる:
 
@@ -26,9 +25,11 @@ lastUpdatedAt: "2024-01-02 00:20:54+0000"
 
 ## 自前の日本語訳
 
+```
 This was a triumph.
 I'm making a note here:
 huge success.
+```
 
 これは偉業です。  
 私はこう記しましょう: 前人未到の成果 と。
@@ -100,7 +101,7 @@ Still alive.
 - [run out](https://ejje.weblio.jp/content/run+out)
   - 走って外に出る
 - run out of cake は、「ケーキにたどり着く」という意味だと思った
-  - "cake" はPortalの敵兼ヒロインのGLaDOSが、主人公達に迷宮の脱出の報酬として提示しているもの
+  - "cake" はPortalのラスボス兼ヒロインのGLaDOSが、主人公達に迷宮の脱出の報酬として提示しているもの
     - おそらくはケーキそのものというよりは、「何かいいことあるよ」の比喩なのだと思う
     - Ref. [the cake is lie](https://en.wikipedia.org/wiki/The_cake_is_a_lie)
 - a neat gun は作中のPortal Gunのことを指していそう
@@ -117,7 +118,7 @@ And killed me.
 
 私はちっとも怒っていません。  
 本当に嘘じゃありませんよ。  
-あなたが私の心臓を壊しても。
+あなたが私の心臓を壊して殺しても。
 
 - [sincere](https://ejje.weblio.jp/content/sincere), (ソ|サ)↑ンス↑ィル
   - 形容詞: 嘘偽りのない、正直な、誠実な
@@ -161,7 +162,7 @@ Still alive.
 テストの得点はきれいに上がっています。  
 ベータ版は終わりです。  
 リリースの時がやってきました。  
-私はとても嬉しい。私は燃えているけど。  
+私はとても嬉しい。私は燃えてしまったけど。  
 私たちが学ぶすべてのことは  
 生きている人々のために。
 
@@ -175,14 +176,14 @@ I think I prefer to stay inside.
 Maybe you'll find someone else
 To help you.
 Maybe Black Mesa...
-THAT WAS A JOKE, HA HA, FAT CHANCE.
+THAT WAS A JOKE. FAT CHANCE.
 ```
 
 私を置いて行くのですね。  
-私はずっと居てほしいと思ってるけど。  
+私はずっと居てほしいと思っていますが。  
 もしかしたら、あなたには他に助けになる方がいるのかもしれませんね。  
 ひょっとして、Black Mesa...  
-冗談ですよ、ふふ、そんなことはないよね
+冗談ですよ。そんなことはないですね。
 
 - Black Mesa
   - ゲーム用語: Portalを作ったValve社の別作品Half-Lifeに登場する組織の名前、内輪ネタ
@@ -192,12 +193,12 @@ THAT WAS A JOKE, HA HA, FAT CHANCE.
 ---
 
 ```
-Anyway this cake is great
-It's so delicious and moist
+Anyway this cake is great.
+It's so delicious and moist.
 ```
 
-とにかくこのケーキは絶品です
-とてもしっとりとしていて美味しいですよ
+とにかくこのケーキは絶品です。  
+とてもしっとりとしていて美味しいですよ。
 
 - [anyway](https://ejje.weblio.jp/content/anyway)
   - とにかく
@@ -208,30 +209,65 @@ It's so delicious and moist
 ---
 
 ```
-Look at me still talking when there's science to do
-When I look out there
+Look at me still talking
+when there's science to do.
+When I look out there,
 It makes me GLaD I'm not you.
 ```
+
+（訳せなかった）
+（訳せなかった）
+
+- 前半を文意無視で直訳すると: 「私が科学がやることがあるまで話すのを見てください。」
+- 後半を文意無視で直訳すると: 「私がそこを見た時、私は嬉しい、わたしはあなたではない。」
 
 ---
 
 ```
-I've experiments to run
-There is research to be done
+I've experiments to run.
+There is research to be done.
 On the people who are
 Still alive.
 ```
 
+実験は残っています。  
+終わらせるべき調査があります。  
+生きている人々で。
+
+- [experiment](https://ejje.weblio.jp/content/experiment)
+  - 名詞: 実験
+
 ---
 
 ```
-And believe me I am still alive
-I'm doing science and I'm still alive
-I feel FANTASTIC and I'm still alive
-While you're dying I'll be still alive
-And when you're dead I will be still alive
-Still alive
-Still alive.
+(PS:) And believe me I am
+still alive.
+(PPS:) I'm doing science and I'm
+still alive.
+(PPPS:) I feel FANTASTIC and I'm
+still alive.
+
+(FINAL THOUGHT:)
+While you're dying I'll be
+still alive.
+
+(FINAL THOUGHT PS:)
+And when you're dead I will be
+still alive.
+
+STILL ALIVE
 ```
 
-## 既存の翻訳と見比べる
+PS: 私は生きています。  
+PPS: 私は科学を続けます、私は生きています。  
+PPPS: 私は最高の気分です、私は生きています。
+
+FINAL THOUGHT:  
+あなたが死んでも私はまだ生きます。
+
+FINAL THOUGHT PS:  
+あなたが死んだ後も私はまだ生きます。
+
+STILL ALIVE
+
+## 既存の翻訳と見比べて所感
