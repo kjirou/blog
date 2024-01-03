@@ -11,7 +11,7 @@ lastUpdatedAt: "2024-01-03 09:16:25+0000"
 
 今回は題材として、[Portal](https://store.steampowered.com/app/400/Portal/)のエンディング曲のStill Aliveという歌の歌詞を選んだ。
 
-手順は、まず、Portal Wikiに掲載されている、英語版のこの歌詞を上からなるべく意訳で訳す:
+手順は、まずStill Aliveの歌詞を自分で翻訳する:
 
 - https://www.youtube.com/watch?v=Y6ljFaKRTrI
 
