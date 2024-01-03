@@ -22,7 +22,7 @@ lastUpdatedAt: "2024-01-02 00:20:54+0000"
 
 歌詞の日本語訳は、今までに何かは読んだことがあるとは思うけど、もう何年も前だし直接は覚えてないと思う。
 
-ちなみに、Portal本体は序盤しかプレイしていないけど、動画で観ちゃった勢。
+ちなみに、Portal本体は序盤しかプレイしていなく、残りを動画で観ちゃった勢。
 
 ## 自前の日本語訳
 
@@ -39,10 +39,12 @@ huge success.
 
 ---
 
+```
 It's hard to overstate
 My satisfaction.
+```
 
-私の嬉しさを大げさに言えばね。
+嬉しさのあまり大げさだったかもしれません。
 
 - [overstate](https://ejje.weblio.jp/content/overstate)
   - 他動詞: (…を)大げさに話す、誇張する
@@ -52,11 +54,13 @@ My satisfaction.
 
 ---
 
+```
 Aperture Science.
 We do what we must
 Because we can.
 For the good of all of us.
 Except the ones who are dead.
+```
 
 アパチャー・サイエンスにおいて。  
 私たちはなすべきことをすべきです、それができるのだから。  
@@ -70,6 +74,7 @@ Except the ones who are dead.
 
 ---
 
+```
 But there's no sense crying
 Over every mistake.
 You just keep on trying
@@ -78,6 +83,7 @@ And the Science gets done.
 And you make a neat gun.
 For the people who are
 Still alive.
+```
 
 ミスを悔やんでも仕方ありません。  
 あなたはケーキをもらうまで挑戦しつづけます。  
@@ -102,22 +108,46 @@ Still alive.
 
 ---
 
+```
 I'm not even angry.
 I'm being so sincere right now.
 Even though you broke my heart.
 And killed me.
+```
 
-私はちっとも怒っていませんよ。
+私はちっとも怒っていません。  
+本当に嘘じゃありませんよ。  
+あなたが私の心臓を壊しても。
+
+- [sincere](https://ejje.weblio.jp/content/sincere), (ソ|サ)↑ンス↑ィル
+  - 形容詞: 嘘偽りのない、正直な、誠実な
 
 ---
 
+```
 And tore me to pieces.
 And threw every piece into a fire.
 As they burned it hurt because
 I was so happy for you!
+```
+
+あなたは私をバラバラにして、  
+炎へ投げ入れました。  
+（訳せなかった）
+
+- [tear](https://ejje.weblio.jp/content/tear), テ↑ィ(ア|エ)ー, tear - tore - torn
+  - 他動詞: ずたずたに引き裂く、引きちぎる
+    - 「涙」という意味もあるのにどうして
+- As they burned it hurt because / I was so happy for you! がわからない
+  - 前後を同じ文として考えた時:
+    - because の意味がわからない
+      - 「あなたが私にひどいことをしても、私は嬉しかった」みたいな文が文脈上自然だが、そうなると because が逆説ではなく、仮に逆説的な意味があったとしても因果関係が逆になる
+  - 前後を別の文として考えた時:
+    - 無理矢理やってみると: (As they(=fire) burned it(=every piece)) ((it's) hurt because) -> It's hurt because as the fire burned every piece.
 
 ---
 
+```
 Now these points of data
 Make a beautiful line.
 And we're out of beta.
@@ -126,36 +156,75 @@ So I'm GLaD. I got burned.
 Think of all the things we learned
 For the people who are
 Still alive.
+```
+
+テストの得点はきれいに上がっています。  
+ベータ版は終わりです。  
+リリースの時がやってきました。  
+私はとても嬉しい。私は燃えているけど。  
+私たちが学ぶすべてのことは  
+生きている人々のために。
+
+- a beautiful line は、右肩上がりにテスト成功率的なものが上がっているという様を示してそう。
 
 ---
 
+```
 Go ahead and leave me.
 I think I prefer to stay inside.
 Maybe you'll find someone else
 To help you.
 Maybe Black Mesa...
 THAT WAS A JOKE, HA HA, FAT CHANCE.
+```
+
+私を置いて行くのですね。  
+私はずっと居てほしいと思ってるけど。  
+もしかしたら、あなたには他に助けになる方がいるのかもしれませんね。  
+ひょっとして、Black Mesa...  
+冗談ですよ、ふふ、そんなことはないよね
+
+- Black Mesa
+  - ゲーム用語: Portalを作ったValve社の別作品Half-Lifeに登場する組織の名前、内輪ネタ
+- [fat chance](https://ejje.weblio.jp/content/fat+chance)
+  - 見込みがないこと
 
 ---
 
+```
 Anyway this cake is great
 It's so delicious and moist
+```
+
+とにかくこのケーキは絶品です
+とてもしっとりとしていて美味しいですよ
+
+- [anyway](https://ejje.weblio.jp/content/anyway)
+  - とにかく
+- [moist](https://ejje.weblio.jp/content/moist), モ↑イス(ト|)
+  - 形容詞: しっとりした、湿っぽい、うるんだ
+  - モイスチャーミルク配合
 
 ---
 
+```
 Look at me still talking when there's science to do
 When I look out there
 It makes me GLaD I'm not you.
+```
 
 ---
 
+```
 I've experiments to run
 There is research to be done
 On the people who are
 Still alive.
+```
 
 ---
 
+```
 And believe me I am still alive
 I'm doing science and I'm still alive
 I feel FANTASTIC and I'm still alive
@@ -163,5 +232,6 @@ While you're dying I'll be still alive
 And when you're dead I will be still alive
 Still alive
 Still alive.
+```
 
 ## 既存の翻訳と見比べる
