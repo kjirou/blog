@@ -123,3 +123,18 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
 - Withers: Very well. I am satisfied.
 - Withers: We have met and I know thy face.
 - Withers: We will see each other again at the proper time and place. Farewell.
+
+### 20, Eliasis - 4:34 - Damays, Nymessa, Lae'zel, 主人公, Shadowheart
+
+- Damays: Zorru was right. Yellow as a toad, and twice as ugly.
+  - Zorru
+    - ゲーム用語,人名: Tieflingで、おそらくDamaysやNymessaの仲間かリーダー
+  - [toad](https://ejje.weblio.jp/content/toad), (チョ|トゥ)↑ード
+    - 名詞: ヒキガエル、ガマ
+- Nymessa: The thing's dangerous. Leave it for the goblins to kill.
+  - 後半
+    - ChatGPT 曰く、"leave O to 人・もの to 動詞" =「O を 人・もの に 動詞 させる」 の変形とのこと
+      - > 通常、"leave it to [person/thing] to [verb]" という構造は、「[人/もの]に[動詞]させておく」という意味で使われ、動作の主体は "[person/thing]" になります。ですので、"Leave it for the goblins to kill" では、"goblins" が "kill" の行動をする主体として機能しています。
+    - しかし、その "leave it to [person/thing] to [verb]" の用法が、ググっても他に出てこない
+    - まぁでもそれっぽい気はする
+- Damays: And if it escapes? How will you - Oh! A guest.
