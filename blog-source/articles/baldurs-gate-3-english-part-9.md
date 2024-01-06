@@ -136,5 +136,25 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
     - ChatGPT 曰く、"leave O to 人・もの to 動詞" =「O を 人・もの に 動詞 させる」 の変形とのこと
       - > 通常、"leave it to [person/thing] to [verb]" という構造は、「[人/もの]に[動詞]させておく」という意味で使われ、動作の主体は "[person/thing]" になります。ですので、"Leave it for the goblins to kill" では、"goblins" が "kill" の行動をする主体として機能しています。
     - しかし、その "leave it to [person/thing] to [verb]" の用法が、ググっても他に出てこない
-    - まぁでもそれっぽい気はする
+    - 詳細不明
 - Damays: And if it escapes? How will you - Oh! A guest.
+  - どうやって(捕まえる|殺す)って言いかけたのかな？
+- You skull pounds in response to the prisoner's white-hot stare. Her lips don't move, yet you hear her voice.
+  - [pound](https://ejje.weblio.jp/content/pound), ペ(ア|ウ)ン(ド|ト|)
+    - 自動詞: ドンドン鳴る
+  - [white-hot](https://ejje.weblio.jp/content/white-hot)
+    - 白熱した、熱烈な
+  - [yet](https://ejje.weblio.jp/content/yet), イェッ(ツ|ト)
+    - 接続詞: それにもかかわらず
+      - 他の逆説の接続詞との違いはあまりわからない
+- Lae'zel: Get rid of them.
+  - get rid of は「邪魔なものを取り除く」という意味合いが強い
+- 主人公: Don't worry - I'll get them out of here, one way or another.
+  - [one way or another](https://ejje.weblio.jp/content/one+way+or+another)
+    - 何とかして
+- Your words flow to her, though you never speak them aloud.
+  - [aloud](https://ejje.weblio.jp/content/aloud), ア・ラウド
+    - 副詞: 大声で
+- Lae'zel: I know what grows inside you. ANd I know of a cure.
+- SHadowheart: Remember hw keen she was to leave me to die on the nautiloid? We can't trust her.
+- 主人公: This creature is dangerous. Get out of here - leave it to me!
