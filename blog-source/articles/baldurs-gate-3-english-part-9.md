@@ -97,11 +97,29 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
 - Withers: Now I have a question for thee: what is the worth of a single mortal's life?
 - 主人公: A peaceful undead. Interesting. Why aren't you attacking me?
 - Withers: Because that would be senseless.
+  - [senseless](https://ejje.weblio.jp/content/senseless), セ↑ンス(ウ|レ)ス
+    - 形容詞: 非常識な、無分別な、無意味な
+  - 「それを問うのは無意味であろう」という意味だと思う
+  - [because](https://ejje.weblio.jp/content/because) の意味がわからない
+    - 品詞を問わず、理由・原因・論拠の意味のみだから、普通に考えるとおかしい
+    - わからないので保留
 - Withers: Wilt thou answer my question?
+  - wilt = will
 - 主人公: Yes. Ask away.
+  - [ask away](https://ejje.weblio.jp/content/ask+away)
+    - 聞いてくれ
+    - このときの副詞の [away](https://ejje.weblio.jp/content/away) は、「絶えず、せっせと」という意味
+      - Ref. https://note.com/hana_english/n/nb3909ce885de
+        - > 副詞の away には continuously ( with a lot of effort または in a busy way) という意味があるのです!!
+        - > to work away = せっせと働く、懸命に働く
+        - > to chat away = おしゃべりする
 - Withers: So I ask again: what is the worth of a single mortal life?
 - 主人公: That depends on a person's deeds.
+  - [deed](https://ejje.weblio.jp/content/deed), デ↑ィー(ド|)
+    - 名詞: 行為、行動、功業
 - Withers: I am sure thou believest as such.
+  - 「あなたがそう信じていると私は確信しています」？
+  - 文脈に微妙に沿わない。主人公が言っただけでそんなに納得する？または不思議な力で何かを感じたのだろうか。
 - Withers: Very well. I am satisfied.
 - Withers: We have met and I know thy face.
 - Withers: We will see each other again at the proper time and place. Farewell.
