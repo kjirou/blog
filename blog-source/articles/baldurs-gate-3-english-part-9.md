@@ -50,3 +50,23 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
       - ただ、辞書を読んでもそういう用法は書いてなかった
     - 「あなたはそれらが名前でありリストである（しかし何の？）という感覚を得た」
       - You have a sense が主節で残りが従属節なんだけど、but of what? だけ浮いててそこが日本語に訳すと変になる
+- Astarion: Examine the book more closely.
+- The longer you stare at the dark and decimated words, the more your head aches. There is no meaning to be found here.
+  - Int チェックに失敗した結果
+    - なお、他の3人はこの選択肢の前のIntチェックで失敗していた
+  - 前半
+    - [stare](https://ejje.weblio.jp/content/stare), ス(テ|ティ)↑アァ
+      - 自動詞: じっと見る
+        - 名詞: 凝視
+          - そういえばロマサガ3にマインドステアって技があった
+    - [decimate](https://ejje.weblio.jp/content/decimate)
+      - 他動詞: 〜の人を多く殺す
+        - [decimated](https://ejje.weblio.jp/content/decimated) という形容詞はなさそうだけど、前の文章の消えてしまった文章のことを指して decimated words と言ってそう
+    - [ache](https://ejje.weblio.jp/content/ache), エ↑ィク
+      - 自動詞: ずきずき痛む
+    - The longer ~, the more ~ は、比較級 + 文, 比較級 + 文 の構文。「〜するほど、〜する」
+      - the more ~, the more もありうるし、the longer ~, the longer もありうる、比較級同士が並んでれば良い
+      - Ref. https://eitopi.com/the-hikakukyu-reibun
+  - 後半
+    - There is no (meaning to be found) here.
+      - no meaning を to be found が装飾していると思って読んだら意味不明だった...
