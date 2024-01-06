@@ -70,3 +70,38 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
   - 後半
     - There is no (meaning to be found) here.
       - no meaning を to be found が装飾していると思って読んだら意味不明だった...
+
+### 20, Eliasis - 2:04 - Withers, 主人公
+
+- Withers: So he has spoken, and so thou standest before me. Right as always.
+  - 文頭の [so](https://ejje.weblio.jp/content/so) は、「まさに」だろうか
+    - なお、he が誰かは主人公側はわかってない。選択肢に誰かを聞くものもあったけど選ばなかったので不明。
+  - [and so](https://ejje.weblio.jp/content/and+so)
+    - それ故に
+  - [thou](https://ejje.weblio.jp/content/thou), (ザ|ズ)↑ォウ
+    - 代名詞: なんじは
+      - 代名詞の you の古めかしい言い方
+      - > (所有格 thy、目的格 thee、目的格 you)
+  - standest は stand の古めかしい言い方
+  - thou や -(e)st の活用は https://ja.wikipedia.org/wiki/Thou
+  - Right as always.
+    - 「いつものように正しい」
+    - he が予言をしたことを指しているのだと思う
+- Withers: What a curious way to awaken.
+  - What a curious way to awaken (it is). という感嘆文
+    - it is の部分は、一般的に省略可能
+      - Ref. https://www.progrit.co.jp/media/pm289/
+  - 「なんと奇妙な目覚め方だろう」だと思う
+    - Withers は見た目 rich みたいなやつで石棺に入ってたのを主人公が起こしたんだけど、その状況に対する目覚め方としては普通ではない...?
+      - he も絡めて、なんか背景がありそう。あとで再登場するらしいし。
+- Withers: Now I have a question for thee: what is the worth of a single mortal's life?
+- 主人公: A peaceful undead. Interesting. Why aren't you attacking me?
+- Withers: Because that would be senseless.
+- Withers: Wilt thou answer my question?
+- 主人公: Yes. Ask away.
+- Withers: So I ask again: what is the worth of a single mortal life?
+- 主人公: That depends on a person's deeds.
+- Withers: I am sure thou believest as such.
+- Withers: Very well. I am satisfied.
+- Withers: We have met and I know thy face.
+- Withers: We will see each other again at the proper time and place. Farewell.
