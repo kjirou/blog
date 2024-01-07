@@ -182,3 +182,40 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
 - 主人公: I'm in dire need of healing. Where is this camp?
   - [dire](https://ejje.weblio.jp/content/dire), ダ↑ァイァ
     - 形容詞: 差し迫った
+    - in dire need of ~ で「深刻に|とても|緊急に〜を必要としている」という慣用句もあるよう
+- Damays: North-west. Look for Nettie. Whatever your wound, she can mend it.
+  - Nettie
+    - ゲーム用語,人名: ドワーフのドルイド
+      - Ref. https://bg3.wiki/wiki/Nettie
+  - [mend](https://ejje.weblio.jp/content/mend), メ↑ンデュ
+    - 他動詞: 直す
+    - 類似の単語がいっぱいある、辞書や外部サイトを読んでのまとめ
+      - cure
+        - 病気や精神を治す・癒す
+        - 特に病気や精神を治すという意味合いが強い
+          - Ref. https://redkiwiapp.com/ja/english-guide/questions/pRBRkhir8m2ufkCVTCKU
+      - fix
+        - 直す
+        - 広い範囲へ使える単語
+      - heal
+        - 外傷を治す、故障を直す
+        - 広い範囲へ使える単語
+      - mend
+        - 直す、繕う、改善する
+        - repair の方が専門的な直し、こちらはさほど技能を要さないもの
+        - 古臭い言い方らしい
+      - repair
+        - 直す
+        - 機械的なものや、専門的なものに使われる
+      - treat
+        - 病気や怪我を治療する・処置する
+        - より治す・直す側の行為に着目している
+- Nymessa: And be careful. There are goblin traps everywhere.
+- Damays: Nymessa. Come.
+- Lae'zel: Enough gawking - get me down.
+  - [gawk](https://ejje.weblio.jp/content/gawk), ガ↑ゥク
+    - 自動詞: ぽかんと見る、じろじろ見る
+  - 「じろじろ見るのはやめて、私を下ろしてくれ」
+- 主人公: Now that they're out of earshot, sure.
+  - [earshot](https://ejje.weblio.jp/content/earshot), イ↑(ヤ|ユ)ァショッ
+    - 名詞: 声の届く範囲・距離
