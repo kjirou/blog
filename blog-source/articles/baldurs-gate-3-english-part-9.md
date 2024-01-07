@@ -15,8 +15,9 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
 - This book is far lighter than it should be with such a massive lock.
   - [massive](https://ejje.weblio.jp/content/massive), マァ↑ッシ(ヴ|)
     - 形容詞: 大きくて重い、どっしりとした
-  - lighter than の後に名詞ではなく (it should be (with such a massive lock) という文が来るのが難しい
+  - lighter than の後に名詞ではなく it should be (with such a massive lock) という文が来るのが難しい
     - This book is far lighter than it should be までで文は成立している、it should be が「期待されるべき重さ」である
+    - つまり、その本の実際の重さと、その本の見た目から期待される重さの比較をしている
     - ChatGPTによると、より自然に書き換えるなら "This book is far lighter than it should be, considering such a massive lock." になるとのこと
     - 読めるけど絶対書けないやつ
 - Astarion: Search for an arcane rune to sabotage.
@@ -26,7 +27,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
     - 形容詞: 解き放たれた
       - コアイメージの絵を見ると良い、縛ってあった巻物が解かれてだらんとなっている状態が loose
   - comes with はそのままの意味でヨシ
-    - [https://ejje.weblio.jp/content/come+with](come with) で「備えた」という意味もあるよう
+    - [come with](https://ejje.weblio.jp/content/come+with) で「備えた」という意味もあるよう
   - [parchment](https://ejje.weblio.jp/content/parchment), パ↑ァチメン
     - 名詞: 羊皮紙
     - RPG頻出単語
@@ -59,7 +60,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
       - 自動詞: じっと見る
         - 名詞: 凝視
           - そういえばロマサガ3にマインドステアって技があった
-    - [decimate](https://ejje.weblio.jp/content/decimate)
+    - [decimate](https://ejje.weblio.jp/content/decimate), (デ|ダ)スィメィ(ト|)
       - 他動詞: 〜の人を多く殺す
         - [decimated](https://ejje.weblio.jp/content/decimated) という形容詞はなさそうだけど、前の文章の消えてしまった文章のことを指して decimated words と言ってそう
     - [ache](https://ejje.weblio.jp/content/ache), エ↑ィク
@@ -69,7 +70,6 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
       - Ref. https://eitopi.com/the-hikakukyu-reibun
   - 後半
     - There is no (meaning to be found) here.
-      - no meaning を to be found が装飾していると思って読んだら意味不明だった...
 
 ### 20, Eliasis - 2:04 - Withers, 主人公
 
@@ -128,7 +128,12 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
 
 - Damays: Zorru was right. Yellow as a toad, and twice as ugly.
   - Zorru
-    - ゲーム用語,人名: Tieflingで、おそらくDamaysやNymessaの仲間かリーダー
+    - ゲーム用語,人名: Tiefling種族の、おそらくDamaysやNymessaの仲間かリーダー
+    - Tiefling
+      - ゲーム用語: 種族名。Daemon のような風貌。
+      - Refs
+        - https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%AA%E3%83%B3%E3%82%B0
+        - https://forgottenrealms.fandom.com/wiki/Tiefling
   - [toad](https://ejje.weblio.jp/content/toad), (チョ|トゥ)↑ード
     - 名詞: ヒキガエル、ガマ
 - Nymessa: The thing's dangerous. Leave it for the goblins to kill.
@@ -139,7 +144,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
     - 詳細不明
 - Damays: And if it escapes? How will you - Oh! A guest.
   - どうやって(捕まえる|殺す)って言いかけたのかな？
-- You skull pounds in response to the prisoner's white-hot stare. Her lips don't move, yet you hear her voice.
+- Your skull pounds in response to the prisoner's white-hot stare. Her lips don't move, yet you hear her voice.
   - [pound](https://ejje.weblio.jp/content/pound), ペ(ア|ウ)ン(ド|ト|)
     - 自動詞: ドンドン鳴る
   - [white-hot](https://ejje.weblio.jp/content/white-hot)
@@ -229,7 +234,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
   - [auspicious](https://ejje.weblio.jp/content/auspicious), ア"↑スピシャ(ス|)
     - 形容詞: 幸先の良い
 - Lae'zel: But the longer we wait, the more it consumes.
-  - [consume](https://ejje.weblio.jp/content/consume)
+  - [consume](https://ejje.weblio.jp/content/consume), (カ|コ)↑ン(ス|シュ)ーム
     - 自動詞: 食い尽くす、消費する
       - Weblio辞書には、自動詞の「食い尽くす」は載ってない
 - Lae'zel: My people possess the cure for this infection. I must find a créche; you will join me.
@@ -296,6 +301,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
     - the gate は味方側の門で血がついているわけではない。逃げてきて退路がその門で塞がれているので悪態をついている状況。
 - Kanon: Nobody gets in. Zevlor's orders.
 - Aradin: That pack of goblins will be on us any second!
+  - [goblin](https://ejje.weblio.jp/content/goblin), ガ↑ーブリン
 - Zevlor: What's going on?
 - Aradin: Goblins are on our tail. Open the gate, Zevlor. Now.
 - Zevlor: You led goblins here? Where is the druid?
