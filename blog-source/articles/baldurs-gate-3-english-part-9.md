@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-9
-lastUpdatedAt: "2024-01-06 05:01:08+0000"
+lastUpdatedAt: "2024-01-07 07:32:39+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 9冊目
@@ -265,11 +265,69 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
     - 副詞: 不適当で、具合悪く、場違いで
   - 「簡単な「ありがとう」があっても、悪くはないんじゃないのか」
 - Lae'zel: You may as well suggest a wyvern bow to worms.
+  - You may as well は、ChatGTPによると、「あなたが〜するのと同じ（くらい無意味）だ」という皮肉を含んだ成句であるとのこと
+    - [may](https://ejje.weblio.jp/content/may)
+      - コアイメージ:
+        - > ある行為・認識に対して，「それを妨げるものがない」ということを示す  
+          > 行為の場合は「…してもよい」，認識の場合は「…かもしれない」の意になる
+        - Ref. https://www.english-speaking.jp/difference-between-may-as-well-and-might-as-well/
+          - このサイトの見解によると、「上から下への許容」
+        - 「妨げるものがない」のがわかるのは上から目線を含むので、両者に矛盾はなさそう
+    - suggest a wyvern bow to worms は、「ワイバーンの弓をワームに勧めること」という訳になるが、由来がわからない
+      - ネットミームなのかな？
 - Lae'zel: The cure I offer will suffice as thanks.
+  - [suffice](https://ejje.weblio.jp/content/suffice), (サ|スァ)・ファイス
+    - 自動詞: 十分である
+  - おっしゃる通りだわ
 - 主人公: All right, we journey together. Let's find this créche.
 - Lae'zel: You are full up. Dismiss your weakest warrior.
+  - [dismiss](https://ejje.weblio.jp/content/dismiss), デ↑ィスミィス
+    - 他動詞: 解雇する
 - 主人公: Leave.
   - ちゃんと会話を読んでみると、Lae'zelはシンプルな考え方をしてそうでわりと好みだったんだけど、脳筋プレイを強いられそうなので仲間にするのは止めた
-    - 基本的に、圧勝できなさそうな戦闘は口先その他で回避する方針で行きたい
   - しかしなんでShadowheartはいちいち突っかかるのかと思ったら、ルーツに対立する点があるらしい。ネタバレになりそうだからあんまり調べないでおこう。
     - Ref. https://borichan.com/baldurs-gate3-githyanki/
+
+### 20, Eliasis - 8:24 - Aradin, Kanon, Zevlor, Wyll
+
+- Aradin: Open the bloody gate!
+  - [bloody](https://ejje.weblio.jp/content/bloody), ブラディ
+    - 形容詞: ひどい、いやな
+    - the gate は味方側の門で血がついているわけではない。逃げてきて退路がその門で塞がれているので悪態をついている状況。
+- Kanon: Nobody gets in. Zevlor's orders.
+- Aradin: That pack of goblins will be on us any second!
+- Zevlor: What's going on?
+- Aradin: Goblins are on our tail. Open the gate, Zevlor. Now.
+- Zevlor: You led goblins here? Where is the druid?
+  - the druid が何かはわからない。たぶん、このゴブリンに追われている人たちの任務だったのではないか。
+- Aradin: Please! There's no time!
+- Zevlor: By the Nine Hells. Open the gate!
+  - Nine Hells
+    - ゲーム用語,地名: 正確には The Nine Hells of Baator という、9層からなる地獄の世界のこと
+      - Ref. https://forgottenrealms.fandom.com/wiki/Nine_Hells
+    - 今主人公たちは、この第1層のAvernusに居る
+      - しかし、そこに書いてある文章より、だいぶのどかに見えるんだけども。盗賊も居たし、人の世界と行き来できるのかな？
+  - By the {神様的なすごいもの} で、「{神様的なすごいもの}の名にかけて」みたいな意味なんだろうか...
+- Zevlor: Kanon. No!
+  - the goblins に仲間が射殺された状況
+- Aradin: Shit. Form a line!
+  - [form a line](https://ejje.weblio.jp/content/form+a+line)
+    - 並ぶ、整列する
+  - 門が開かなくて、覚悟を決めて戦いに入った状況
+- Wyll: Damnable roach. Provoke the blade...
+  - [damnable](https://ejje.weblio.jp/content/damnable), (ダ|デ)↑ァーンナボゥ
+    - 形容詞: いまいましい
+  - [roach](https://ejje.weblio.jp/content/roach), ロ(ゥ|ォ)チ
+    - 名詞: ゴキブリ
+    - damnable roach は the goblins のことを指しているんだと思う
+  - [provoke](https://ejje.weblio.jp/content/provoke), プロブォー(ク|)
+    - 他動詞: いらいらさせる、怒らせる、扇動する
+- Wyll: ...and suffer its sting.
+  - [suffer](https://ejje.weblio.jp/content/suffer), サ↑ッファ
+    - 他動詞: こうむる、受ける、経験する
+
+### 20, Eliasis - 9:37 - Zevlor
+
+- Zevlor: That was the last of them. Inside - all of you. More may follow.
+  - More may follow は直訳だと「もっと続いてください」でやや変。「続けて入ってください」みたいな感じだろうか。
+- Zevlor: Open the gate!
