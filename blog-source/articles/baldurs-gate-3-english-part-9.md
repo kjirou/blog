@@ -155,6 +155,30 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
 - Your words flow to her, though you never speak them aloud.
   - [aloud](https://ejje.weblio.jp/content/aloud), ア・ラウド
     - 副詞: 大声で
-- Lae'zel: I know what grows inside you. ANd I know of a cure.
-- SHadowheart: Remember hw keen she was to leave me to die on the nautiloid? We can't trust her.
+- Lae'zel: I know what grows inside you. And I know of a cure.
+- Shadowheart: Remember how keen she was to leave me to die on the nautiloid? We can't trust her.
+  - [keen](https://ejje.weblio.jp/content/keen), キ↑ィン
+    - 形容詞: 熱望する
+  - leave O（人・もの） to VERB
+    - O に VERB するままにしておく
+  - "she was to leave me to die" は、「彼女は私を死なせるために去ろうとしていた」という、過去時点で計画や意思があったことの意味である。
+    一方で "she left me to die" だったなら、「彼女は私を死なせるために去った」という、過去の発生した行動を述べる意味になる。
+  - Lae'zelはそこまでShadowheartを見捨ててなかった記憶があるんだけども、あの状況で人を助けるのって義務じゃなくて善意の範疇だと思うし
 - 主人公: This creature is dangerous. Get out of here - leave it to me!
+  - leave O to 人・もの
+    - O を 人・もの に任せて去る
+  - [Get out of](https://ejje.weblio.jp/content/get+out+of) / here
+- Damays: He's right. Let's go - we need to check out that blast.
+  - [check out](https://ejje.weblio.jp/content/check+out)
+    - 句動詞,他動詞: O を確認する
+      - 他に、「チェックアウトする」「精算する」「退去する」などの意味もある
+- 主人公: A blast? I could use more specifics.
+  - could [use](https://ejje.weblio.jp/content/use)
+    - > 《口語》〈…が〉得られたらありがたい[よい].
+- Damays: You didn't hear it? Shook our camp good, so we came for a look.
+  - good
+    - ChatGPT:
+      - > この文脈における "good" は、形容詞や副詞として使われることがありますが、ここでは副詞として使われています。通常の「良い」という意味とは異なり、ここでの "good" は強調の意味を持ちます。つまり、"Shook our camp good" では、"キャンプをかなり強く揺さぶった" または "キャンプをしっかりと揺さぶった" といったニュアンスになります。この使用法は非公式または口語的な表現であり、特にアメリカ英語でよく見られます。
+- 主人公: I'm in dire need of healing. Where is this camp?
+  - [dire](https://ejje.weblio.jp/content/dire), ダ↑ァイァ
+    - 形容詞: 差し迫った
