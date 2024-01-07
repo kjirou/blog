@@ -1,0 +1,339 @@
+---
+publicId: baldurs-gate-3-english-part-9
+lastUpdatedAt: "2024-01-07 07:32:39+0000"
+---
+
+# Baldur's Gate 3の英語を復習する 9冊目
+
+- [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- この回から、英文は全て書くことにした
+
+## 本編
+
+### 20, Eliasis - 23:09 - Astarion
+
+- This book is far lighter than it should be with such a massive lock.
+  - [massive](https://ejje.weblio.jp/content/massive), マァ↑ッシ(ヴ|)
+    - 形容詞: 大きくて重い、どっしりとした
+  - lighter than の後に名詞ではなく it should be (with such a massive lock) という文が来るのが難しい
+    - This book is far lighter than it should be までで文は成立している、it should be が「期待されるべき重さ」である
+    - つまり、その本の実際の重さと、その本の見た目から期待される重さの比較をしている
+    - ChatGPTによると、より自然に書き換えるなら "This book is far lighter than it should be, considering such a massive lock." になるとのこと
+    - 読めるけど絶対書けないやつ
+- Astarion: Search for an arcane rune to sabotage.
+  - 文法上は「破壊するための神秘的なルーンを探す」（by ChatGPT）だと思うけど、イベントシーンだと、ルーン自体をAstarionが妨害しようと試みていたように見えたのが謎
+- As the lock opens, a loose page comes with it. Magic pulses from the parchment.
+  - [loose](https://ejje.weblio.jp/content/loose), ル↑ゥーズ
+    - 形容詞: 解き放たれた
+      - コアイメージの絵を見ると良い、縛ってあった巻物が解かれてだらんとなっている状態が loose
+  - comes with はそのままの意味でヨシ
+    - [come with](https://ejje.weblio.jp/content/come+with) で「備えた」という意味もあるよう
+  - [parchment](https://ejje.weblio.jp/content/parchment), パ↑ァチメン
+    - 名詞: 羊皮紙
+    - RPG頻出単語
+  - [pulse](https://ejje.weblio.jp/content/pulse), パ↑(ウ|ル)ス
+    - 自動詞: 脈打つ、鼓動する
+- What was once script is now an obliterated scrawl. You have a sense these are names, a list, but of what?
+  - 前半
+    - [obliterate](https://ejje.weblio.jp/content/obliterate), オブ(リ|レ)トレイ
+      - 他動詞: (痕跡も残らぬように)(…を)消してしまう、(…を)記憶から消す
+      - obliterated という形容詞はなさそう、まぁ「痕跡を消された」でよさそう
+    - [scrawl](https://ejje.weblio.jp/content/scrawl), スク(ロ|ラ)ォ
+      - 名詞: ぞんざいな筆跡、殴り書きの手紙
+    - 「かつて文字だった何かが今は痕跡を消された筆跡になっている」
+      - 本に書いてある文字が光って消えたようなシーン。その本は以下のようなものなんだけど、最後のページが消えていることになっている。
+        - Book of Dead Gods - A hefty, gold-embossed tome, listing gods immemorial.
+          - The names of dead gods - most of them unfamiliar and unpronounceable - fill the pages of this ancient tome. Several entries on the last page have been stricken through, the final three thoroughly enough to be completely illegible.
+  - 後半
+    - names, a list は names and a list と同じような意味であり、「名前であり、リストでもある」という意味
+    - but of what の [but](https://ejje.weblio.jp/content/but) は、ChatGPT によると以下
+      - > ここでの「but」は、一般的な接続詞としての用法ではなく、ある種の対比や追加の情報を導入する前置詞として機能しています。
+      - ただ、辞書を読んでもそういう用法は書いてなかった
+    - 「あなたはそれらが名前でありリストである（しかし何の？）という感覚を得た」
+      - You have a sense が主節で残りが従属節なんだけど、but of what? だけ浮いててそこが日本語に訳すと変になる
+- Astarion: Examine the book more closely.
+- The longer you stare at the dark and decimated words, the more your head aches. There is no meaning to be found here.
+  - Int チェックに失敗した結果
+    - なお、他の3人はこの選択肢の前のIntチェックで失敗していた
+  - 前半
+    - [stare](https://ejje.weblio.jp/content/stare), ス(テ|ティ)↑アァ
+      - 自動詞: じっと見る
+        - 名詞: 凝視
+          - そういえばロマサガ3にマインドステアって技があった
+    - [decimate](https://ejje.weblio.jp/content/decimate), (デ|ダ)スィメィ(ト|)
+      - 他動詞: 〜の人を多く殺す
+        - [decimated](https://ejje.weblio.jp/content/decimated) という形容詞はなさそうだけど、前の文章の消えてしまった文章のことを指して decimated words と言ってそう
+    - [ache](https://ejje.weblio.jp/content/ache), エ↑ィク
+      - 自動詞: ずきずき痛む
+    - The longer ~, the more ~ は、比較級 + 文, 比較級 + 文 の構文。「〜するほど、〜する」
+      - the more ~, the more もありうるし、the longer ~, the longer もありうる、比較級同士が並んでれば良い
+      - Ref. https://eitopi.com/the-hikakukyu-reibun
+  - 後半
+    - There is no (meaning to be found) here.
+
+### 20, Eliasis - 2:04 - Withers, 主人公
+
+- Withers: So he has spoken, and so thou standest before me. Right as always.
+  - 文頭の [so](https://ejje.weblio.jp/content/so) は、「まさに」だろうか
+    - なお、he が誰かは主人公側はわかってない。選択肢に誰かを聞くものもあったけど選ばなかったので不明。
+  - [and so](https://ejje.weblio.jp/content/and+so)
+    - それ故に
+  - [thou](https://ejje.weblio.jp/content/thou), (ザ|ズ)↑ォウ
+    - 代名詞: なんじは
+      - 代名詞の you の古めかしい言い方
+      - > (所有格 thy、目的格 thee、目的格 you)
+  - standest は stand の古めかしい言い方
+  - thou や -(e)st の活用は https://ja.wikipedia.org/wiki/Thou
+  - Right as always.
+    - 「いつものように正しい」
+    - he が予言をしたことを指しているのだと思う
+- Withers: What a curious way to awaken.
+  - What a curious way to awaken (it is). という感嘆文
+    - it is の部分は、一般的に省略可能
+      - Ref. https://www.progrit.co.jp/media/pm289/
+  - 「なんと奇妙な目覚め方だろう」だと思う
+    - Withers は見た目 rich みたいなやつで石棺に入ってたのを主人公が起こしたんだけど、その状況に対する目覚め方としては普通ではない...?
+      - he も絡めて、なんか背景がありそう。あとで再登場するらしいし。
+- Withers: Now I have a question for thee: what is the worth of a single mortal's life?
+- 主人公: A peaceful undead. Interesting. Why aren't you attacking me?
+- Withers: Because that would be senseless.
+  - [senseless](https://ejje.weblio.jp/content/senseless), セ↑ンス(ウ|レ)ス
+    - 形容詞: 非常識な、無分別な、無意味な
+  - 「それを問うのは無意味であろう」という意味だと思う
+  - [because](https://ejje.weblio.jp/content/because) の意味がわからない
+    - 品詞を問わず、理由・原因・論拠の意味のみだから、普通に考えるとおかしい
+    - わからないので保留
+- Withers: Wilt thou answer my question?
+  - wilt = will
+- 主人公: Yes. Ask away.
+  - [ask away](https://ejje.weblio.jp/content/ask+away)
+    - 聞いてくれ
+    - このときの副詞の [away](https://ejje.weblio.jp/content/away) は、「絶えず、せっせと」という意味
+      - Ref. https://note.com/hana_english/n/nb3909ce885de
+        - > 副詞の away には continuously ( with a lot of effort または in a busy way) という意味があるのです!!
+        - > to work away = せっせと働く、懸命に働く
+        - > to chat away = おしゃべりする
+- Withers: So I ask again: what is the worth of a single mortal life?
+- 主人公: That depends on a person's deeds.
+  - [deed](https://ejje.weblio.jp/content/deed), デ↑ィー(ド|)
+    - 名詞: 行為、行動、功業
+- Withers: I am sure thou believest as such.
+  - 「あなたがそう信じていると私は確信しています」？
+  - 文脈に微妙に沿わない。主人公が言っただけでそんなに納得する？または不思議な力で何かを感じたのだろうか。
+- Withers: Very well. I am satisfied.
+- Withers: We have met and I know thy face.
+- Withers: We will see each other again at the proper time and place. Farewell.
+
+### 20, Eliasis - 4:34 - Damays, Nymessa, Lae'zel, 主人公, Shadowheart
+
+- Damays: Zorru was right. Yellow as a toad, and twice as ugly.
+  - Zorru
+    - ゲーム用語,人名: Tiefling種族の、おそらくDamaysやNymessaの仲間かリーダー
+    - Tiefling
+      - ゲーム用語: 種族名。Daemon のような風貌。
+      - Refs
+        - https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%AA%E3%83%B3%E3%82%B0
+        - https://forgottenrealms.fandom.com/wiki/Tiefling
+  - [toad](https://ejje.weblio.jp/content/toad), (チョ|トゥ)↑ード
+    - 名詞: ヒキガエル、ガマ
+- Nymessa: The thing's dangerous. Leave it for the goblins to kill.
+  - 後半
+    - ChatGPT 曰く、"leave O to 人・もの to 動詞" =「O を 人・もの に 動詞 させる」 の変形とのこと
+      - > 通常、"leave it to [person/thing] to [verb]" という構造は、「[人/もの]に[動詞]させておく」という意味で使われ、動作の主体は "[person/thing]" になります。ですので、"Leave it for the goblins to kill" では、"goblins" が "kill" の行動をする主体として機能しています。
+    - しかし、その "leave it to [person/thing] to [verb]" の用法が、ググっても他に出てこない
+    - 詳細不明
+- Damays: And if it escapes? How will you - Oh! A guest.
+  - どうやって(捕まえる|殺す)って言いかけたのかな？
+- Your skull pounds in response to the prisoner's white-hot stare. Her lips don't move, yet you hear her voice.
+  - [pound](https://ejje.weblio.jp/content/pound), ペ(ア|ウ)ン(ド|ト|)
+    - 自動詞: ドンドン鳴る
+  - [white-hot](https://ejje.weblio.jp/content/white-hot)
+    - 白熱した、熱烈な
+  - [yet](https://ejje.weblio.jp/content/yet), イェッ(ツ|ト)
+    - 接続詞: それにもかかわらず
+      - 他の逆説の接続詞との違いはあまりわからない
+- Lae'zel: Get rid of them.
+  - get rid of は「邪魔なものを取り除く」という意味合いが強い
+- 主人公: Don't worry - I'll get them out of here, one way or another.
+  - [one way or another](https://ejje.weblio.jp/content/one+way+or+another)
+    - 何とかして
+- Your words flow to her, though you never speak them aloud.
+  - [aloud](https://ejje.weblio.jp/content/aloud), ア・ラウド
+    - 副詞: 大声で
+- Lae'zel: I know what grows inside you. And I know of a cure.
+- Shadowheart: Remember how keen she was to leave me to die on the nautiloid? We can't trust her.
+  - [keen](https://ejje.weblio.jp/content/keen), キ↑ィン
+    - 形容詞: 熱望する
+  - leave O（人・もの） to VERB
+    - O に VERB するままにしておく
+  - "she was to leave me to die" は、「彼女は私を死なせるために去ろうとしていた」という、過去時点で計画や意思があったことの意味である。
+    一方で "she left me to die" だったなら、「彼女は私を死なせるために去った」という、過去の発生した行動を述べる意味になる。
+  - Lae'zelはそこまでShadowheartを見捨ててなかった記憶があるんだけども、あの状況で人を助けるのって義務じゃなくて善意の範疇だと思うし
+- 主人公: This creature is dangerous. Get out of here - leave it to me!
+  - leave O to 人・もの
+    - O を 人・もの に任せて去る
+  - [Get out of](https://ejje.weblio.jp/content/get+out+of) / here
+- Damays: He's right. Let's go - we need to check out that blast.
+  - [check out](https://ejje.weblio.jp/content/check+out)
+    - 句動詞,他動詞: O を確認する
+      - 他に、「チェックアウトする」「精算する」「退去する」などの意味もある
+- 主人公: A blast? I could use more specifics.
+  - could [use](https://ejje.weblio.jp/content/use)
+    - > 《口語》〈…が〉得られたらありがたい[よい].
+- Damays: You didn't hear it? Shook our camp good, so we came for a look.
+  - good
+    - ChatGPT:
+      - > この文脈における "good" は、形容詞や副詞として使われることがありますが、ここでは副詞として使われています。通常の「良い」という意味とは異なり、ここでの "good" は強調の意味を持ちます。つまり、"Shook our camp good" では、"キャンプをかなり強く揺さぶった" または "キャンプをしっかりと揺さぶった" といったニュアンスになります。この使用法は非公式または口語的な表現であり、特にアメリカ英語でよく見られます。
+- 主人公: I'm in dire need of healing. Where is this camp?
+  - [dire](https://ejje.weblio.jp/content/dire), ダ↑ァイァ
+    - 形容詞: 差し迫った
+    - in dire need of ~ で「深刻に|とても|緊急に〜を必要としている」という慣用句もあるよう
+- Damays: North-west. Look for Nettie. Whatever your wound, she can mend it.
+  - Nettie
+    - ゲーム用語,人名: ドワーフのドルイド
+      - Ref. https://bg3.wiki/wiki/Nettie
+  - [mend](https://ejje.weblio.jp/content/mend), メ↑ンデュ
+    - 他動詞: 直す
+    - 類似の単語がいっぱいある、辞書や外部サイトを読んでのまとめ
+      - cure
+        - 病気や精神を治す・癒す
+        - 特に病気や精神を治すという意味合いが強い
+          - Ref. https://redkiwiapp.com/ja/english-guide/questions/pRBRkhir8m2ufkCVTCKU
+      - fix
+        - 直す
+        - 広い範囲へ使える単語
+      - heal
+        - 外傷を治す、故障を直す
+        - 広い範囲へ使える単語
+      - mend
+        - 直す、繕う、改善する
+        - repair の方が専門的な直し、こちらはさほど技能を要さないもの
+        - 古臭い言い方らしい
+      - repair
+        - 直す
+        - 機械的なものや、専門的なものに使われる
+      - treat
+        - 病気や怪我を治療する・処置する
+        - より治す・直す側の行為に着目している
+- Nymessa: And be careful. There are goblin traps everywhere.
+- Damays: Nymessa. Come.
+- Lae'zel: Enough gawking - get me down.
+  - [gawk](https://ejje.weblio.jp/content/gawk), ガ↑ゥク
+    - 自動詞: ぽかんと見る、じろじろ見る
+  - 「じろじろ見るのはやめて、私を下ろしてくれ」
+- 主人公: Now that they're out of earshot, sure.
+  - [earshot](https://ejje.weblio.jp/content/earshot), イ↑(ヤ|ユ)ァショッ
+    - 名詞: 声の届く範囲・距離
+
+### 20, Eliasis - 7:34 - Lae'zel, Shadowheart, 主人公
+
+- Lae'zel: The tadpole hasn't yet scrambled all your senses. Auspicious.
+  - [scramble](https://ejje.weblio.jp/content/scramble), ス↑クラン(ブ|ボ)ゥ
+    - 自動詞: （敏捷に）這って進む、這い回る
+  - [sense](https://ejje.weblio.jp/content/sense) は「意識」
+  - [auspicious](https://ejje.weblio.jp/content/auspicious), ア"↑スピシャ(ス|)
+    - 形容詞: 幸先の良い
+- Lae'zel: But the longer we wait, the more it consumes.
+  - [consume](https://ejje.weblio.jp/content/consume), (カ|コ)↑ン(ス|シュ)ーム
+    - 自動詞: 食い尽くす、消費する
+      - Weblio辞書には、自動詞の「食い尽くす」は載ってない
+- Lae'zel: My people possess the cure for this infection. I must find a créche; you will join me.
+  - [possess](https://ejje.weblio.jp/content/possess), (パ|ポ)ゼ↑ェス
+    - 他動詞: 所有する
+  - [infection](https://ejje.weblio.jp/content/infection), インフ↑ェクシ(ョ|ェ)ン
+    - 名詞: 感染、感染症
+  - [cure](https://ejje.weblio.jp/content/cure)
+    - 名詞: 治療法
+  - créche
+    - ゲーム用語: Githyankiの言語でそう表記する、共通語？だとStardock。宇宙にある基地か街かそういうものらしい。
+      - Ref. https://forgottenrealms.fandom.com/wiki/Stardock
+        - 流し読みだとどういうものかあまりわからなかった。ポータルでいけるらしいけど、そんなに簡単にいけるのかな...?
+  - ; (セミコロン)
+    - Ref. https://www.qqeng.com/blog2/study/difference-comma-colon-semicolon.html
+      - > セミコロンはピリオドとカンマの中間的存在です。具体的には、ピリオドより完全に文を終わらせたくはないけど、カンマよりは文章の流れを強く区切りたい時に使われます。
+- Shadowheart: Careful - she obviously sees your kindness as weakness. Don't let her take advantage.
+  - [obviously](https://ejje.weblio.jp/content/obviously), (ア|オ)↑ービアスリィ
+    - 副詞: 明らかに
+- 主人公: And what exactly is a créche...?
+- Lae'zel: It is many things. A hatchery, a training grounds, a shelter.
+  - [hatchery](https://ejje.weblio.jp/content/hatchery), ハ↑ーチ(ェ|ュ)リィ
+    - 名詞: (魚・鶏の卵の)孵化場
+      - Githyanki種族は卵生
+- Lae'zel: Githyanki protocol is clear: when infected with a ghaik tadpole, we must report to a ghustil for purification.
+  - [protocol](https://ejje.weblio.jp/content/protocol), プロトカ(ァ|ォ)
+    - 名詞: 協定、手順
+  - ghaik = Githyanki用語でMind Flayer, ghustil = healer
+    - Ref. https://forgottenrealms.fandom.com/wiki/Gith_dictionary
+  - ずっとMind Flayerに奴隷として使役されてきた種族だから、対Mind Flayer戦略ができているのか
+- 主人公: A simple 'thank you' wouldn't go amiss.
+  - [amiss](https://ejje.weblio.jp/content/amiss), ア・ミ↑ス
+    - 副詞: 不適当で、具合悪く、場違いで
+  - 「簡単な「ありがとう」があっても、悪くはないんじゃないのか」
+- Lae'zel: You may as well suggest a wyvern bow to worms.
+  - You may as well は、ChatGTPによると、「あなたが〜するのと同じ（くらい無意味）だ」という皮肉を含んだ成句であるとのこと
+    - [may](https://ejje.weblio.jp/content/may)
+      - コアイメージ:
+        - > ある行為・認識に対して，「それを妨げるものがない」ということを示す  
+          > 行為の場合は「…してもよい」，認識の場合は「…かもしれない」の意になる
+        - Ref. https://www.english-speaking.jp/difference-between-may-as-well-and-might-as-well/
+          - このサイトの見解によると、「上から下への許容」
+        - 「妨げるものがない」のがわかるのは上から目線を含むので、両者に矛盾はなさそう
+    - suggest a wyvern bow to worms は、「ワイバーンの弓をワームに勧めること」という訳になるが、由来がわからない
+      - ネットミームなのかな？
+- Lae'zel: The cure I offer will suffice as thanks.
+  - [suffice](https://ejje.weblio.jp/content/suffice), (サ|スァ)・ファイス
+    - 自動詞: 十分である
+  - おっしゃる通りだわ
+- 主人公: All right, we journey together. Let's find this créche.
+- Lae'zel: You are full up. Dismiss your weakest warrior.
+  - [dismiss](https://ejje.weblio.jp/content/dismiss), デ↑ィスミィス
+    - 他動詞: 解雇する
+- 主人公: Leave.
+  - ちゃんと会話を読んでみると、Lae'zelはシンプルな考え方をしてそうでわりと好みだったんだけど、脳筋プレイを強いられそうなので仲間にするのは止めた
+  - しかしなんでShadowheartはいちいち突っかかるのかと思ったら、ルーツに対立する点があるらしい。ネタバレになりそうだからあんまり調べないでおこう。
+    - Ref. https://borichan.com/baldurs-gate3-githyanki/
+
+### 20, Eliasis - 8:24 - Aradin, Kanon, Zevlor, Wyll
+
+- Aradin: Open the bloody gate!
+  - [bloody](https://ejje.weblio.jp/content/bloody), ブラディ
+    - 形容詞: ひどい、いやな
+    - the gate は味方側の門で血がついているわけではない。逃げてきて退路がその門で塞がれているので悪態をついている状況。
+- Kanon: Nobody gets in. Zevlor's orders.
+- Aradin: That pack of goblins will be on us any second!
+  - [goblin](https://ejje.weblio.jp/content/goblin), ガ↑ーブリン
+- Zevlor: What's going on?
+- Aradin: Goblins are on our tail. Open the gate, Zevlor. Now.
+- Zevlor: You led goblins here? Where is the druid?
+  - the druid が何かはわからない。たぶん、このゴブリンに追われている人たちの任務だったのではないか。
+- Aradin: Please! There's no time!
+- Zevlor: By the Nine Hells. Open the gate!
+  - Nine Hells
+    - ゲーム用語,地名: 正確には The Nine Hells of Baator という、9層からなる地獄の世界のこと
+      - Ref. https://forgottenrealms.fandom.com/wiki/Nine_Hells
+    - 今主人公たちは、この第1層のAvernusに居る
+      - しかし、そこに書いてある文章より、だいぶのどかに見えるんだけども。盗賊も居たし、人の世界と行き来できるのかな？
+  - By the {神様的なすごいもの} で、「{神様的なすごいもの}の名にかけて」みたいな意味なんだろうか...
+- Zevlor: Kanon. No!
+  - the goblins に仲間が射殺された状況
+- Aradin: Shit. Form a line!
+  - [form a line](https://ejje.weblio.jp/content/form+a+line)
+    - 並ぶ、整列する
+  - 門が開かなくて、覚悟を決めて戦いに入った状況
+- Wyll: Damnable roach. Provoke the blade...
+  - [damnable](https://ejje.weblio.jp/content/damnable), (ダ|デ)↑ァーンナボゥ
+    - 形容詞: いまいましい
+  - [roach](https://ejje.weblio.jp/content/roach), ロ(ゥ|ォ)チ
+    - 名詞: ゴキブリ
+    - damnable roach は the goblins のことを指しているんだと思う
+  - [provoke](https://ejje.weblio.jp/content/provoke), プロブォー(ク|)
+    - 他動詞: いらいらさせる、怒らせる、扇動する
+- Wyll: ...and suffer its sting.
+  - [suffer](https://ejje.weblio.jp/content/suffer), サ↑ッファ
+    - 他動詞: こうむる、受ける、経験する
+
+### 20, Eliasis - 9:37 - Zevlor
+
+- Zevlor: That was the last of them. Inside - all of you. More may follow.
+  - More may follow は直訳だと「もっと続いてください」でやや変。「続けて入ってください」みたいな感じだろうか。
+- Zevlor: Open the gate!
