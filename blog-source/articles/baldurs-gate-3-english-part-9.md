@@ -219,3 +219,57 @@ lastUpdatedAt: "2024-01-06 05:01:08+0000"
 - 主人公: Now that they're out of earshot, sure.
   - [earshot](https://ejje.weblio.jp/content/earshot), イ↑(ヤ|ユ)ァショッ
     - 名詞: 声の届く範囲・距離
+
+### 20, Eliasis - 7:34 - Lae'zel, Shadowheart, 主人公
+
+- Lae'zel: The tadpole hasn't yet scrambled all your senses. Auspicious.
+  - [scramble](https://ejje.weblio.jp/content/scramble), ス↑クラン(ブ|ボ)ゥ
+    - 自動詞: （敏捷に）這って進む、這い回る
+  - [sense](https://ejje.weblio.jp/content/sense) は「意識」
+  - [auspicious](https://ejje.weblio.jp/content/auspicious), ア"↑スピシャ(ス|)
+    - 形容詞: 幸先の良い
+- Lae'zel: But the longer we wait, the more it consumes.
+  - [consume](https://ejje.weblio.jp/content/consume)
+    - 自動詞: 食い尽くす、消費する
+      - Weblio辞書には、自動詞の「食い尽くす」は載ってない
+- Lae'zel: My people possess the cure for this infection. I must find a créche; you will join me.
+  - [possess](https://ejje.weblio.jp/content/possess), (パ|ポ)ゼ↑ェス
+    - 他動詞: 所有する
+  - [infection](https://ejje.weblio.jp/content/infection), インフ↑ェクシ(ョ|ェ)ン
+    - 名詞: 感染、感染症
+  - [cure](https://ejje.weblio.jp/content/cure)
+    - 名詞: 治療法
+  - créche
+    - ゲーム用語: Githyankiの言語でそう表記する、共通語？だとStardock。宇宙にある基地か街かそういうものらしい。
+      - Ref. https://forgottenrealms.fandom.com/wiki/Stardock
+        - 流し読みだとどういうものかあまりわからなかった。ポータルでいけるらしいけど、そんなに簡単にいけるのかな...?
+  - ; (セミコロン)
+    - Ref. https://www.qqeng.com/blog2/study/difference-comma-colon-semicolon.html
+      - > セミコロンはピリオドとカンマの中間的存在です。具体的には、ピリオドより完全に文を終わらせたくはないけど、カンマよりは文章の流れを強く区切りたい時に使われます。
+- Shadowheart: Careful - she obviously sees your kindness as weakness. Don't let her take advantage.
+  - [obviously](https://ejje.weblio.jp/content/obviously), (ア|オ)↑ービアスリィ
+    - 副詞: 明らかに
+- 主人公: And what exactly is a créche...?
+- Lae'zel: It is many things. A hatchery, a training grounds, a shelter.
+  - [hatchery](https://ejje.weblio.jp/content/hatchery), ハ↑ーチ(ェ|ュ)リィ
+    - 名詞: (魚・鶏の卵の)孵化場
+      - Githyanki種族は卵生
+- Lae'zel: Githyanki protocol is clear: when infected with a ghaik tadpole, we must report to a ghustil for purification.
+  - [protocol](https://ejje.weblio.jp/content/protocol), プロトカ(ァ|ォ)
+    - 名詞: 協定、手順
+  - ghaik = Githyanki用語でMind Flayer, ghustil = healer
+    - Ref. https://forgottenrealms.fandom.com/wiki/Gith_dictionary
+  - ずっとMind Flayerに奴隷として使役されてきた種族だから、対Mind Flayer戦略ができているのか
+- 主人公: A simple 'thank you' wouldn't go amiss.
+  - [amiss](https://ejje.weblio.jp/content/amiss), ア・ミ↑ス
+    - 副詞: 不適当で、具合悪く、場違いで
+  - 「簡単な「ありがとう」があっても、悪くはないんじゃないのか」
+- Lae'zel: You may as well suggest a wyvern bow to worms.
+- Lae'zel: The cure I offer will suffice as thanks.
+- 主人公: All right, we journey together. Let's find this créche.
+- Lae'zel: You are full up. Dismiss your weakest warrior.
+- 主人公: Leave.
+  - ちゃんと会話を読んでみると、Lae'zelはシンプルな考え方をしてそうでわりと好みだったんだけど、脳筋プレイを強いられそうなので仲間にするのは止めた
+    - 基本的に、圧勝できなさそうな戦闘は口先その他で回避する方針で行きたい
+  - しかしなんでShadowheartはいちいち突っかかるのかと思ったら、ルーツに対立する点があるらしい。ネタバレになりそうだからあんまり調べないでおこう。
+    - Ref. https://borichan.com/baldurs-gate3-githyanki/
