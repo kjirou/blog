@@ -64,9 +64,29 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 ### 20, Eliasis - 12:08 - Elegis, 主人公
 
 - Elegis: Glad you made it inside... doubt we'll be safe here for long though.
+  - (I'm) Glad you made it inside
+  - it は Ardin 一行を指しているという理解で良いのだろうか
+  - [doubt](https://ejje.weblio.jp/content/doubt), ダ↑ァウ(ト|)
+    - 自動詞: 疑う
+  - 文末の though は接続詞で一般的な意味と同じ、ただ文末に付ける使い方もある
 - Elegis: There'll be more coming. Goblins hunt in packs.
+  - [pack](https://ejje.weblio.jp/content/pack), パ↑(ァ|ッ)ク
+    - 名詞: 一隊、群れ
 - 主人公: You could hold off a horde of goblins from this position.
+  - [hold off](https://ejje.weblio.jp/content/hold+off)
+    - 近寄らせない、阻止する、延ばす
+      - hold を off するから「手離す」かと思ったけど、その意味は無いよう
+  - [horde](https://ejje.weblio.jp/content/horde), ホ↑ォゥド(ッ|ュ)
+    - 名詞: 大群
 - Elegis: Maybe - but we're not fighters. If they broke through, it'd be a massacre.
+  - 確度の度合いは、probably ＞＞ maybe ＞ perhaps らしい
+    - Ref. https://nativecamp.net/blog/20230101-maybe
+    - perhaps は口語ではあまり使わず、普通は maybe
+  - [break through](https://ejje.weblio.jp/content/break+through) は動詞の他に名詞としても使われるよう
+  - [massacre](https://ejje.weblio.jp/content/massacre), (マ|メ)↑サコゥ
+    - 名詞: 大虐殺、皆殺し
+    - 何かの漫画で、主人公が「マサクゥル！」って言いながら大暴れするシーンがあったんだけど、何の漫画だったっけ...
 - Elegis: The sooner we leave for Baldur's Gate, the better.
 - 主人公: How far are we from the city?
 - Elegis: If the road was clear? A tenday's walk, maybe. But while the goblins are out there, it might as well be the other side of the world.
+  - a tenday's walk は「10日間の歩行」という名詞、おそらくは (it is) a tenday's walk
