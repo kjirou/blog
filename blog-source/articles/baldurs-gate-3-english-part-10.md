@@ -90,3 +90,10 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 - 主人公: How far are we from the city?
 - Elegis: If the road was clear? A tenday's walk, maybe. But while the goblins are out there, it might as well be the other side of the world.
   - a tenday's walk は「10日間の歩行」という名詞、おそらくは (it is) a tenday's walk
+
+### 20, Eliasis - 12:41 - Kaldani
+
+- Kaldani: Have some respect. This really isn't the time to talk.
+  - Have some respect: 「敬意を払え」
+
+### 20, Eliasis - 12:45 - Zevlor, Tav, Astarion
