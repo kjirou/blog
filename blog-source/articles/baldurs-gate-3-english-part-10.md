@@ -178,6 +178,13 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
       - > 〔+目的語+to do〕《主に米国で用いられる》〈人に〉〈…するように〉納得させる，〈人に〉説得して〈…〉させる.
 - Zevlor: I've tried. Kagha - their new First Druid - won't even see me.
 - Zevlor: You, though... I know it's not your business, but she owes you for saving this place.
+  - [owe](https://ejje.weblio.jp/content/owe), オ↑ーゥ
+    - 他動詞: 借りている、支払う義務がある
+      - owe O for 名詞: O が 名詞を借りている
+      - owe O: O を借りている
+  - but は、「あなたに関係のないことをした」「この場所を救った恩がある」という文たちを、「しかしながら、実際に意味はあった」という点で逆説として繋げている
+    - it's not your business: あなたには関係ないことだ、余計なお世話だ
+      - Ref. https://goeigo.org/noneyourbusiness/
 - Zevlor: Perhaps you could persuade her. For more time to prepare, if nothing else.
 - 主人公: I'll see what I can do.
 - Astarion: Really? We're messengers, now?
