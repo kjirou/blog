@@ -182,10 +182,16 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
     - 他動詞: 借りている、支払う義務がある
       - owe O for 名詞: O が 名詞を借りている
       - owe O: O を借りている
+      - owe O1 O2: O1 に O2 を借りている
   - but は、「あなたに関係のないことをした」「この場所を救った恩がある」という文たちを、「しかしながら、実際に意味はあった」という点で逆説として繋げている
     - it's not your business: あなたには関係ないことだ、余計なお世話だ
       - Ref. https://goeigo.org/noneyourbusiness/
 - Zevlor: Perhaps you could persuade her. For more time to prepare, if nothing else.
+  - could: 〜できるかもしれない
+    - ChatGPT:
+      - > 能力や可能性：話し手は相手が彼女を説得する能力を持っている可能性があると考えています。  
+        > 提案や軽い勧め：この文では、話し手が相手に何かをするよう軽く勧めているとも解釈できます。
+    - can/could は、「能力がある」という意味を含む。そうではないときは、be able to や would など他の言い方になる。
   - [persuade](https://ejje.weblio.jp/content/persuade), プ↑レスウェィー(ド|)
     - 他動詞: 説得する
   - [if nothing else](https://ejje.weblio.jp/content/if+nothing+else)
@@ -194,5 +200,17 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
     - to prepare は主人公の何の準備か...と思ったら、Zevolorたちが逃げるための準備のことを言っているのか...?
 - 主人公: I'll see what I can do.
 - Astarion: Really? We're messengers, now?
+  - messengers がどういう意味なのかはわからんな... 使いっ走り？
+  - now は「おい」だろうか
 - Zevlor: We'd owe you a great debt. If we're forced to leave now, we won't make it to the city.
+  - We'd の would は仮定の意味
+    - 今まで流れをうけて、「（もしそうなったら）私たちはあなたへ大きな恩を感じるでしょう」という意味
+      - あれー、なんか自分が healer を探すためにやってたのに、助ける話になってる...?
+  - [make it](https://ejje.weblio.jp/content/make+it)
+    - 成功する
+      - この派生が色々ある
+    - make it to 場所: 〜へ辿り着く
+      - Ref. https://mi-ej.com/make-it-to/
 - Zevlor: You'll find the druids at the heart of the grove. Please - make them see sense, before more lives are lost.
+  - [sense](https://ejje.weblio.jp/content/sense) は、「分別、常識、物の道理」のような意味だと思う
+    - けど、the druids の方の言い分も最もなので、それは言い過ぎではないか
