@@ -186,6 +186,12 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
     - it's not your business: あなたには関係ないことだ、余計なお世話だ
       - Ref. https://goeigo.org/noneyourbusiness/
 - Zevlor: Perhaps you could persuade her. For more time to prepare, if nothing else.
+  - [persuade](https://ejje.weblio.jp/content/persuade), プ↑レスウェィー(ド|)
+    - 他動詞: 説得する
+  - [if nothing else](https://ejje.weblio.jp/content/if+nothing+else)
+    - 何はともあれ、それ以外に何もなくても
+  - 後半は「何はともあれ、より多くの準備の時間だけでも」
+    - to prepare は主人公の何の準備か...と思ったら、Zevolorたちが逃げるための準備のことを言っているのか...?
 - 主人公: I'll see what I can do.
 - Astarion: Really? We're messengers, now?
 - Zevlor: We'd owe you a great debt. If we're forced to leave now, we won't make it to the city.
