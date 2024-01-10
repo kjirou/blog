@@ -218,7 +218,22 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 ### 20, Eliasis - 14:34 - Arron, 主人公
 
 - Arron: Refugees, adventurers - no one in years and suddenly we're overwhelmed.
-- Arron: Well met, and than you for beating back those goblins. Most brave of you.
+  - [refugee](https://ejje.weblio.jp/content/refugee), レ・ヒュ・ズィー
+    - 名詞: 避難者、難民
+  - [in years](https://ejje.weblio.jp/content/in+years)
+    - 何年もの間、長年
+    - リンクしたWeblio辞書だと「年間で」と書いてあるけど、それよりは上記の意味の方が多そう
+  - [overwhelm](https://ejje.weblio.jp/content/overwhelm), オーヴァーウ↑ェル(ン|ム|)
+    - 他動詞: (精神的に)圧倒する、参らせる、閉口させる
+- Arron: Well met, and thank you for beating back those goblins. Most brave of you.
+  - [beat back](https://ejje.weblio.jp/content/beat+back)
+    - 撃退する
+  - [brave](https://ejje.weblio.jp/content/brave), ブ↑レィ
+    - 形容詞: 勇敢な
+  - Most brave of you
+    - "S V 形容詞 of 人" で、直前にあった人の行動や特性に関して言及するという、表現のいちパターン
+      - e.g. That was very kind of you: あなたのその行動はとても親切だった
+      - e.g. It was foolish of him to say that: 彼がそんなことを言ったのは愚かだった
 - Arron: Is there anything you need? Act fast if you do - the ritual will be complete before too long.
 - 主人公: Are you really locking down the grove?
 - Arron: I know it's drastic, but more monsters seem to terrorise this region every day.
