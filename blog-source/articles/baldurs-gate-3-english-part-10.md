@@ -96,7 +96,7 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 - Kaldani: Have some respect. This really isn't the time to talk.
   - Have some respect: 「敬意を払え」
 
-### 20, Eliasis - 12:45 - Zevlor, Tav, Astarion
+### 20, Eliasis - 12:45 - Zevlor, 主人公, Astarion
 
 - Zevlor: Forgive that display. Aradin's a blowhard, but that's no cause for me to join him.
   - [forgive](https://ejje.weblio.jp/content/forgive), フォ・ギ↑ィブ
@@ -214,3 +214,26 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 - Zevlor: You'll find the druids at the heart of the grove. Please - make them see sense, before more lives are lost.
   - [sense](https://ejje.weblio.jp/content/sense) は、「分別、常識、物の道理」のような意味だと思う
     - けど、the druids の方の言い分も最もなので、それは言い過ぎではないか
+
+### 20, Eliasis - 14:34 - Arron, 主人公
+
+- Arron: Refugees, adventurers - no one in years and suddenly we're overwhelmed.
+- Arron: Well met, and than you for beating back those goblins. Most brave of you.
+- Arron: Is there anything you need? Act fast if you do - the ritual will be complete before too long.
+- 主人公: Are you really locking down the grove?
+- Arron: I know it's drastic, but more monsters seem to terrorise this region every day.
+- 主人公: What about the people here?
+- Arron: We druids will be safe. As for those that took refuge here... well, may Silvanus guard them as they continue their travels.
+- 主人公: You just said the region's overrun by monsters. They won't survive by themselves.
+- Arron: As I said, it's a drastic measure. But the survival of the grove is paramount.
+- Arron: There just aren't enough supplies to support everyone.
+- 主人公: What are you selling?
+- Arron: Just some bits and bobs I no longer need.
+- Arron: Silvanus guide your path.
+
+### 20, Eliasis - 17:49 - Arron, 主人公
+
+- Arron: Need anything else?
+- 主人公: I'd like to see yur wares.
+- Arron: Of course. But please rememeber: you're not the only one in need.
+- Arron: Silvanus be with you.
