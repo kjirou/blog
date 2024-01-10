@@ -235,20 +235,60 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
       - e.g. That was very kind of you: あなたのその行動はとても親切だった
       - e.g. It was foolish of him to say that: 彼がそんなことを言ったのは愚かだった
 - Arron: Is there anything you need? Act fast if you do - the ritual will be complete before too long.
+  - この文での [too](https://ejje.weblio.jp/content/too) は副詞で「非常に」という意味
 - 主人公: Are you really locking down the grove?
+  - [lock down](https://ejje.weblio.jp/content/lock+down)
+    - > ロックダウン（英: lockdown）とは、危険や差し迫った脅威・リスクなどを理由に、特定地域もしくは建物へ入ったり、そこから出たり、その中を移動したり（そのいずれか一つまたは複数）が自由にできない緊急の状況をいう。
+  - Arronは the druids の一人だが直接意思決定している人ではないと思うんだけど、こういうときにも you って言うのか
 - Arron: I know it's drastic, but more monsters seem to terrorise this region every day.
+  - [drastic](https://ejje.weblio.jp/content/drastic), (ド|ジョ)ラ↑ースティッ
+    - 形容詞: 急激な、物事の変化が激しい
+  - [terrorise](https://ejje.weblio.jp/content/terrorise), テ(ロ|ラ)ラーイズ
+    - 他動詞: 脅す
+  - I know it's drastic:「それが極端なことはわかってるよ」が前文の主人公の問いの肯定になっている。but の節は、その補足。
 - 主人公: What about the people here?
+  - [what about](https://ejje.weblio.jp/content/what+about)
+    - "What about 名詞?" で「xx どう？」とたずねる成句
 - Arron: We druids will be safe. As for those that took refuge here... well, may Silvanus guard them as they continue their travels.
+  - [refuge](https://ejje.weblio.jp/content/refuge), ゥレ↑・フュージュ
+    - 名詞: 避難
+  - As (for those (that took refuge here))
+  - As for those の As は、話題を変えることを意味している。As がなかったあら、より For those が強調され、Arronが真に避難民のことを心配している風になる。
+    - つまり、As for those だと、当事者感が下がっている
+  - Silvanus
+    - ゲーム用語,神の名: 森の父シルバヌス、自然やドルイド等の神
+      - Ref. https://www.dandwiki.com/wiki/Silvanus_(5e_Deity)
 - 主人公: You just said the region's overrun by monsters. They won't survive by themselves.
+  - [overrun](https://ejje.weblio.jp/content/overrun)
+    - 自動詞: （川などが）あふれる
+      - 他動詞に「はびこる」もあり、今回はそっちの意味で使われていそう
+  - こんな正義っぽいこと言うつもりなかったのに、ゲーム中は会話理解度が低くて選んでしまう
 - Arron: As I said, it's a drastic measure. But the survival of the grove is paramount.
+  - [measure](https://ejje.weblio.jp/content/measure), メ↑ジ(ャ|ュ)ー
+    - 名詞: 処置
+  - [paramount](https://ejje.weblio.jp/content/paramount), パ↑ラマウント
+    - 形容詞: 主要な
+      - パラマウントベッド
+  - 「私が言った通り、これは極端な措置です。しかし、the grove の生存が最優先です。」
 - Arron: There just aren't enough supplies to support everyone.
+  - ChatGPT:
+    - > この文における "just" は、状況の程度や事実を強調するために使われています。ここでは、「単に」または「ただ」の意味で、「There aren't enough supplies to support everyone.」という基本的な事実を強調しています。この用法では、"just" は「事実上の状況をそのまま表している」というニュアンスを与えます。
 - 主人公: What are you selling?
 - Arron: Just some bits and bobs I no longer need.
+  - [bits and bobs](https://ejje.weblio.jp/content/bits+and+bobs)
+    - 名詞: こまごまとしたいろいろなもの、あれやこれやなもの
+    - [bob](https://ejje.weblio.jp/content/bob) を見ても、あんまりこの用法とは結びつかない
+  - I no longer need というとなんか失礼な気がするけど、何かの言い回しだろうか
 - Arron: Silvanus guide your path.
+  - 「Silvanus があなたの道を導いてくれますように」
+  - guide が二人称なのは、希求法もしくは願望法と呼ばれるものらしく、語り手の願いを伝える意味になる
+    - Refs:
+      - https://almamatersjk.com/videogame-fftwotl-chapter3/
+      - https://ja.wikipedia.org/wiki/%E5%B8%8C%E6%B1%82%E6%B3%95
 
 ### 20, Eliasis - 17:49 - Arron, 主人公
 
 - Arron: Need anything else?
-- 主人公: I'd like to see yur wares.
+- 主人公: I'd like to see your wares.
 - Arron: Of course. But please rememeber: you're not the only one in need.
 - Arron: Silvanus be with you.
