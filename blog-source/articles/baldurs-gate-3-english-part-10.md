@@ -281,7 +281,7 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
   - I no longer need というとなんか失礼な気がするけど、何かの言い回しだろうか
 - Arron: Silvanus guide your path.
   - 「Silvanus があなたの道を導いてくれますように」
-  - guide が二人称なのは、希求法もしくは願望法と呼ばれるものらしく、語り手の願いを伝える意味になる
+  - guide が動詞の原形なのは、希求法もしくは願望法と呼ばれるものらしく、語り手の願いを伝える意味になる
     - Refs:
       - https://almamatersjk.com/videogame-fftwotl-chapter3/
       - https://ja.wikipedia.org/wiki/%E5%B8%8C%E6%B1%82%E6%B3%95
@@ -290,5 +290,33 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 - Arron: Need anything else?
 - 主人公: I'd like to see your wares.
+  - [ware](https://ejje.weblio.jp/content/ware), ウ↑ェァァ
+    - 名詞: 品物、製品
 - Arron: Of course. But please rememeber: you're not the only one in need.
+  - [in need](https://ejje.weblio.jp/content/in+need)
+    - 必要としている、不足している、必要な
 - Arron: Silvanus be with you.
+  - be動詞の原形は be
+
+### 20, Eliasis - 18:04 - Lia, Rolan, Cal, 主人公
+
+- Lia: Hells, we can't just leave. They're kim.
+- Rolan: I'll not gamble our lives, our futures, on people who are as good as dead. We must leave for Baldur's Gate - at once.
+- Cal: Can we all just take a moment? Please?
+- Lia: What's the point in blades and spells if we don't bloody use them? We should stay.
+- Lia: These people aren't fighters. We can help.
+- Cal: Or yell louder. That's fine too.
+- 主人公: You should all stay. A single blade could make a difference.
+- Lia: Thank you! It's the right thing to do, and you know it.
+- Cal: She's right, Rolan. We're better than this.
+- Rolan: Zurgan. Fine. I'll stay too. Lest you both and up with your throats slit by a goblin blade.
+- Lia: Thank you, Rolan.
+
+### 20, Eliasis - 18:53 - Lia
+
+- Lia: Those goblins will rue the day they chose to tangle with this grove.
+- Lia: You and I will do some good here - I can feel it.
+
+### 20, Eliasis - 18:55 - Toron
+
+- Toron: This place is a bloody death trap, not a sanctuary. You should clear off while you can.
