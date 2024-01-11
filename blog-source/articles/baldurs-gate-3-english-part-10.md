@@ -300,12 +300,42 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 18:04 - Lia, Rolan, Cal, 主人公
 
-- Lia: Hells, we can't just leave. They're kim.
+- Lia: Hells, we can't just leave. They're kin.
+  - Hells はたぶん Nine Hells のことで、それは神聖な名として使われているから、Oh my god と同じような意味かな？
+  - [kin](https://ejje.weblio.jp/content/kin), (キ|カ)↑ン
+    - 名詞: 血縁、親族、親類
+  - この just は「単に」で、去るという行為が他の行為に比較してより容易で単純なこと（そして状況はより複雑だからこの行為はすべきではないことも）を表現している
 - Rolan: I'll not gamble our lives, our futures, on people who are as good as dead. We must leave for Baldur's Gate - at once.
+  - [gamble](https://ejje.weblio.jp/content/gamble), ギ↑ャンボゥ
+    - 他動詞: O を賭ける、O を賭けて失う、O という結果になることに賭ける
+  - [as good as dead](https://ejje.weblio.jp/content/as+good+as+dead)
+    - 死んだも同然
+      - 回復の見込みがない、何も助けを期待できない
+  - [at once](https://ejje.weblio.jp/content/at+once)
+    - すぐに、即刻
+      - 他に「同時に」「一度だけ」という意味もある
 - Cal: Can we all just take a moment? Please?
+  - we [all](https://ejje.weblio.jp/content/all) は、all of we と同じ意味
+    - Ref. https://toiguru.jp/all の「＊主語と同格のallの位置」
+  - take a moment: 時間を置く、というのは、避難民を助けるということを言っているのだろう
+  - Please? と ? がつくことで、丁寧な要求・反応の促進・強調、という意味合いが追加される by ChatGPT
 - Lia: What's the point in blades and spells if we don't bloody use them? We should stay.
+  - 「もし剣や呪文を彼らのために使わないなら、それに何の意味があるんだ？ 私たちは残るべきだ。」
+  - [in](https://ejje.weblio.jp/content/in) は、ChatGPT によると「使用すること」を意味するとのこと
+    - しかし、Weblio辞書だとその用法はない。「身につける」はあるので、これが転じているのかもしれない。
+    - いずれにせよ、コアイメージからは想像が難しいが...
+  - しかし bloody がよく出てくる。本ゲーム全体でこうなのか、Tieflingがそうなのか。
 - Lia: These people aren't fighters. We can help.
+  - these people だと、避難民全体を意味すると思うんだけど、でも彼らの少なくとも一部はさっきわりとちゃんと戦ってたよな...?
 - Cal: Or yell louder. That's fine too.
+  - [yell](https://ejje.weblio.jp/content/yell), イ↑ェー(ウ|ル)
+    - 自動詞: エールを送る、叫び声を上げる
+  - [louder](https://ejje.weblio.jp/content/louder), (ラ|ロ)↑ウ(ダ|デ)↑ー
+    - 副詞: 大声で
+  - yell louder は「大声で応援する」かなぁ？
+    - 前文の We can help を受けて、Or we can yell louder でもいいんじゃない？ということを言っているのかな
+    - もしくは前文の These people aren't fighters を受けて、yell(名詞) loud-er(名詞) かも？と思ったけど、これだと複数形になってないとおかしいから違いそう
+  - That's fine too は皮肉であるとは思う、軽口も混ざっていそう
 - 主人公: You should all stay. A single blade could make a difference.
 - Lia: Thank you! It's the right thing to do, and you know it.
 - Cal: She's right, Rolan. We're better than this.
@@ -320,3 +350,19 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 ### 20, Eliasis - 18:55 - Toron
 
 - Toron: This place is a bloody death trap, not a sanctuary. You should clear off while you can.
+
+### 20, Eliasis - 21:03 - Doni
+
+- Doni: \*Grunt.\*
+- \*He stares right past you as if you're invisible. Or borging.\*
+- 主人公: Are you all right?
+- Doni: \*Grunt.\*
+- 主人公: I see. Anything else on your mind?
+- Doni: \*Grunt!\*
+- \*He's still staring right past you.\*
+- 主人公: Turn around to see what he's looking at.
+- \*You see nothing out of the ordinary.\*
+- 主人公: Study the rocks for a secret passage.
+- \*You find the edges of a concealed entrance.\*
+
+### 20, Eliasis - 21:21 - Mol, Shadowheart
