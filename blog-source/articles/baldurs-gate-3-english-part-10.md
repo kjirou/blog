@@ -6,6 +6,7 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 # Baldur's Gate 3の英語を復習する 10冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- 今回で街のような場所に入ったので、会話が非常に多い。次回もそうなりそう。
 
 ## 本編
 
@@ -366,11 +367,20 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 ### 20, Eliasis - 18:53 - Lia
 
 - Lia: Those goblins will rue the day they chose to tangle with this grove.
+  - [rue](https://ejje.weblio.jp/content/rue), ル↑ゥ
+    - 他動詞: 〜を後悔する
+  - [tangle](https://ejje.weblio.jp/content/tangle), (タ|テ)↑ンゴォ
+    - 自動詞: 喧嘩する
+      - 他動詞: 人を〜の混乱や紛争に巻き込む、〜を紛糾させる、〜をもつれさす
 - Lia: You and I will do some good here - I can feel it.
+  - ほんまかいな
 
 ### 20, Eliasis - 18:55 - Toron
 
 - Toron: This place is a bloody death trap, not a sanctuary. You should clear off while you can.
+  - [clear off](https://ejje.weblio.jp/content/clear+off)
+    - 句動詞: 逃げる、出て行く
+      - この意味は非公式なイギリス英語とのこと。通常は「返済する、清算する、取り除く、片づける」らしい。
 
 ### 20, Eliasis - 21:03 - Doni
 
