@@ -315,8 +315,10 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
     - すぐに、即刻
       - 他に「同時に」「一度だけ」という意味もある
 - Cal: Can we all just take a moment? Please?
-  - we [all](https://ejje.weblio.jp/content/all) は、all of we と同じ意味
-    - Ref. https://toiguru.jp/all の「＊主語と同格のallの位置」
+  - we [all](https://ejje.weblio.jp/content/all) は代名詞で、all of we と同じ意味、遊離数量詞という用法
+    - Ref. https://toiguru.jp/floating-quantifier
+      - > 遊離数量詞として使えるのは、all、each、bothといった普遍数量詞である。
+      - > 遊離数量詞は通例、一般動詞の前、be動詞の後、完了形have/has/hadの後、助動詞の後の位置にあらわれる。
   - take a moment: 時間を置く、というのは、避難民を助けるということを言っているのだろう
   - Please? と ? がつくことで、丁寧な要求・反応の促進・強調、という意味合いが追加される by ChatGPT
 - Lia: What's the point in blades and spells if we don't bloody use them? We should stay.
@@ -337,10 +339,29 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
     - もしくは前文の These people aren't fighters を受けて、yell(名詞) loud-er(名詞) かも？と思ったけど、これだと複数形になってないとおかしいから違いそう
   - That's fine too は皮肉であるとは思う、軽口も混ざっていそう
 - 主人公: You should all stay. A single blade could make a difference.
+  - 「みんな残るべきだ。一本の剣が違いを生むことがある。」
+    - A single blade could make a difference は故事その他何か由来があるのかと思ったけど、違いそう
+  - 上述したけど、[all](https://ejje.weblio.jp/content/all) は代名詞、遊離数量詞という用法
+    - Ref. https://toiguru.jp/floating-quantifier
 - Lia: Thank you! It's the right thing to do, and you know it.
+  - 主人公からすると、一言いうだけで有事の際の戦力が増えてラッキーくらいに思ってるはず
 - Cal: She's right, Rolan. We're better than this.
-- Rolan: Zurgan. Fine. I'll stay too. Lest you both and up with your throats slit by a goblin blade.
+  - this は「避難民を見捨てて去ること」を意味しているのだろうか、だとするとちょっと前の話なので that になりそう、わからん
+- Rolan: Zurgan. Fine. I'll stay too. Lest you both end up with your throats slit by a goblin blade.
+  - Zurgan
+    - ゲーム用語,感嘆詞: おそらく「ちくしょうめ」のような呪いの言葉
+      - Ref. https://www.reddit.com/r/BaldursGate3/comments/181bgfp/whowhat_is_zurgan/
+  - Fine
+    - I'm fine は現世だと「（悪いことが起こったけど）私は大丈夫、心配しないで」という意味らしいので、「嫌だけどわかったよ」みたいな意味なんだろうか
+  - [lest](https://ejje.weblio.jp/content/lest), ゥレ↑ス(ト|)
+    - 接続詞: 〜しないように
+  - [end up with](https://ejje.weblio.jp/content/end+up+with)
+    - 句動詞,他動詞: 〜で終わる、〜の羽目になる
+  - [slit](https://ejje.weblio.jp/content/slit), スゥリ↑ッ(ト|)
+    - slit - slit - slit
+    - 他動詞: 〜を切り開く
 - Lia: Thank you, Rolan.
+  - Rolanいい奴じゃん
 
 ### 20, Eliasis - 18:53 - Lia
 
