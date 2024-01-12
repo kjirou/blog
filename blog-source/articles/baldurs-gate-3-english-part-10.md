@@ -387,3 +387,13 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 - \*You find the edges of a concealed entrance.\*
 
 ### 20, Eliasis - 21:21 - Mol, Shadowheart
+
+- Mol: Well, look who's come to visit.
+- Mol: My kids say you've been busy since you got here.
+- Mol: Not sure why you're poking your nose in our business, though.
+- Shadowheart: I don't even know what your business is.
+- Mol: None of yours.
+- Mol: This is our hideout, but hey, maybe you didn't know.
+- Mol: Because of that, I'll give you a ten-count to leave.
+- Shadowheart: You're joking, right?
+- Mol: Nine.
