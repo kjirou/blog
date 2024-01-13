@@ -12,6 +12,8 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 10:37 - Zevlor, Aradin, Tav
 
+Ardin一行を追ってきたゴブリン達を、ZevlorらTieflingと主人公一行が協力して撃退した状況
+
 - Zevlor: There are children here, you fool!
   - [fool](https://ejje.weblio.jp/content/fool), フ↑(ゥ|ォ)
     - 自動詞: ばかなまねをする
@@ -64,6 +66,8 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 12:08 - Elegis, 主人公
 
+Tieflingの一人へ話しかけた状況
+
 - Elegis: Glad you made it inside... doubt we'll be safe here for long though.
   - (I'm) Glad you made it inside
   - it は Ardin 一行を指しているという理解で良いのだろうか
@@ -71,8 +75,12 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
     - 自動詞: 疑う
   - 文末の though は接続詞で一般的な意味と同じ、ただ文末に付ける使い方もある
 - Elegis: There'll be more coming. Goblins hunt in packs.
+  - [hunt](https://ejje.weblio.jp/content/hunt), ハ↑ン(ト|)
+    - 自動詞: 狩りをする
   - [pack](https://ejje.weblio.jp/content/pack), パ↑(ァ|ッ)ク
     - 名詞: 一隊、群れ
+  - There'll be more coming と未来進行形であることで、「続々と来るだろう」という意味が含まれている
+    - 未来形へ書き直すなら、There'll come more.
 - 主人公: You could hold off a horde of goblins from this position.
   - [hold off](https://ejje.weblio.jp/content/hold+off)
     - 近寄らせない、阻止する、延ばす
@@ -87,6 +95,7 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
   - [massacre](https://ejje.weblio.jp/content/massacre), (マ|メ)↑サコゥ
     - 名詞: 大虐殺、皆殺し
     - 何かの漫画で、主人公が「マサクゥル！」って言いながら大暴れするシーンがあったんだけど、何の漫画だったっけ...
+  - 後半は仮定法過去の構文
 - Elegis: The sooner we leave for Baldur's Gate, the better.
 - 主人公: How far are we from the city?
 - Elegis: If the road was clear? A tenday's walk, maybe. But while the goblins are out there, it might as well be the other side of the world.
@@ -94,10 +103,14 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 12:41 - Kaldani
 
+ゴブリンに仲間を殺されたTieflingの一人へ話しかけた状況
+
 - Kaldani: Have some respect. This really isn't the time to talk.
   - Have some respect: 「敬意を払え」
 
 ### 20, Eliasis - 12:45 - Zevlor, 主人公, Astarion
+
+先のZevlorへ話しかけた状況
 
 - Zevlor: Forgive that display. Aradin's a blowhard, but that's no cause for me to join him.
   - [forgive](https://ejje.weblio.jp/content/forgive), フォ・ギ↑ィブ
@@ -129,7 +142,7 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
   - I'd see to it quickly は「私はすぐに対処するでしょう」はだと思うけど、Zevlorはこの場所で特に力はない
 - Zevlor: This attack will only strengthen their resolve.
   - [strengthen](https://ejje.weblio.jp/content/strengthen), ストレングゼ↑ン
-    - 他動詞: 強くする、増強するß
+    - 他動詞: 強くする、増強する
   - [resolve](https://ejje.weblio.jp/content/resolve), リ↑ソォ(ブ|)
     - 名詞: 決意
 - 主人公: Why are they forcing you out?
@@ -174,7 +187,7 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
       - [withdrawn](https://ejje.weblio.jp/content/withdrawn), ウィ(ス|ズ)・ド↑ラァウン
     - withdrawn there の there は副詞、withdraw には他動詞で「O へ引っ込める」という意味もあって、それと混乱する
 - 主人公: This ritual - is there no way to convince the druids to stop it?
-  - [convince](https://ejje.weblio.jp/content/convince), (カ|コ)↑ンビン(ス|)
+  - [convince](https://ejje.weblio.jp/content/convince), (カ|コ)ンビン(ス|)
     - 他動詞: O を納得させる
       - > 〔+目的語+to do〕《主に米国で用いられる》〈人に〉〈…するように〉納得させる，〈人に〉説得して〈…〉させる.
 - Zevlor: I've tried. Kagha - their new First Druid - won't even see me.
@@ -200,6 +213,7 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
   - 後半は「何はともあれ、より多くの準備の時間だけでも」
     - to prepare は主人公の何の準備か...と思ったら、Zevolorたちが逃げるための準備のことを言っているのか...?
 - 主人公: I'll see what I can do.
+  - [see](https://ejje.weblio.jp/content/see) は「よく知る、調べる、確かめる」の意味
 - Astarion: Really? We're messengers, now?
   - messengers がどういう意味なのかはわからんな... 使いっ走り？
   - now は「おい」だろうか
@@ -412,7 +426,7 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
       - on your mind だと上に乗ってるから気がかりなという意味になる
 - Doni: \*Grunt!\*
 - \*He's still staring right past you.\*
-- 主人公: Turn around to see what he's looking at.
+- 主人公: _Turn around to see what he's looking at._
 - \*You see nothing out of the ordinary.\*
   - [ordinary](https://ejje.weblio.jp/content/ordinary), オ↑ゥディナ(ウ|リ)ィ
     - 名詞: 普通のこと
@@ -422,6 +436,8 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
     - > 「何も普通ではないものは見えません。」
   - 主人公が一時 turn around したら、Doni が目の前から消えていた状況
 - 主人公: _Study the rocks for a secret passage._
+  - [study](https://ejje.weblio.jp/content/study), スタディ
+    - 他動詞: よく見る、調べてみる
 - \*You find the edges of a concealed entrance.\*
   - [conceal](https://ejje.weblio.jp/content/conceal), (カ|コ)↑ンスィ(ル|ウ)
     - 他動詞: 隠す
@@ -431,12 +447,35 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 21:21 - Mol, Shadowheart
 
+隠された入口に入り、その中のリーダーらしき少年から話しかけられた状況。  
+Shadowheartが話してるけど、操作するキャラクターを間違っていたよう。
+
 - Mol: Well, look who's come to visit.
+  - who's は who has の方の略
+  - 「おや、誰が訪ねて来たか見てごらん」
+    - シーンをあまり覚えてないけど、確か主人公達に向かってこの発言をしてたと思う。そうだとすると命令形であることの機微がわかってない。
 - Mol: My kids say you've been busy since you got here.
+  - 「私の子供達は、あなたがここに来てから忙しかったと言っている。」
+    - 直訳だとこうだと思うんだけど、意味がわからん
+    - 「お前が誰だか知っている、監視していたぞ」という意味だろうか
 - Mol: Not sure why you're poking your nose in our business, though.
+  - [poke](https://ejje.weblio.jp/content/poke), ポ↑ウク
+    - 他動詞: O を突っ込む
+    - MOTHER の Pokey はこの単語に関係あるのだろうか
 - Shadowheart: I don't even know what your business is.
 - Mol: None of yours.
+  - [none](https://ejje.weblio.jp/content/none), ナ↑ン
+    - 代名詞: 何一つない、少しもない
+      - none of O の用法が多い
+  - none of yours は、「あなたには関係ない」という意味もある
 - Mol: This is our hideout, but hey, maybe you didn't know.
+  - [hideout](https://ejje.weblio.jp/content/hideout), ハ↑イ・ダ↑ゥ(ト|)
+    - 名詞: ギャングの隠れ家
+  - [but hey](https://ejje.weblio.jp/content/but+hey)
+    - でも、でもね、でもまぁ
+      - 割とフレンドリーな言い方らしい
 - Mol: Because of that, I'll give you a ten-count to leave.
+  - 「というわけでだ、10数える間に消えな。」だと思う
 - Shadowheart: You're joking, right?
 - Mol: Nine.
+  - 通常は10カウントなら10から数え始めるので、圧を掛けているんだと思う
