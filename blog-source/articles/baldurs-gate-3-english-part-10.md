@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-10
-lastUpdatedAt: "2024-01-08 10:46:32+0000"
+lastUpdatedAt: "2024-01-13 09:13:19+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 10冊目
