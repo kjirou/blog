@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-1
-lastUpdatedAt: "2023-12-05 00:02:06+0000"
+lastUpdatedAt: "2024-01-13 09:15:53+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 1冊目
@@ -11,19 +11,25 @@ lastUpdatedAt: "2023-12-05 00:02:06+0000"
 
 ### 20, Eliasis - 13:16 - 主人公
 
-- [writhe](https://ejje.weblio.jp/content/writhe), ウラ↑ァイズ
-  - 自動詞: もがく、のたうち回る
-  - the parasite now writhing behind your eyes
-    - 主人公は Mind Flayer に捕らえられて最初に寄生生物を目の奥に挿入されている
+主人公はMind Flayerの飛行する戦艦へ捕らえられて、目の奥に寄生生物を挿入された。
+戦艦に問題が発生し、主人公は目を覚ます。
+
+- \*This is the pool that thing came from - the parasite now writhing behind your eye.\*
+  - 寄生生物が入っていた水槽を眺めている状況
+  - [writhe](https://ejje.weblio.jp/content/writhe), ウラ↑ァイズ
+    - 自動詞: もがく、のたうち回る
+- 主人公: _Investigate the pool._
+- \*The casing is fragile. The slightest touch could cause it to crumble.\*
+  - [casing](https://ejje.weblio.jp/content/casing), ケ↑イシング
+    - 名詞: 包装・外包
+    - 動名詞ではない
+  - [fragile](https://ejje.weblio.jp/content/fragile)、フレ↑ージャ(ル|ウ|)
+    - 形容詞: 壊れやすい、脆い
+    - [MONSTER TRAIN](https://store.steampowered.com/app/1102190/Monster_Train/)のデバフの種類にあった
+- 主人公: _Leave._
 
 ### 20, Eliasis - 14:39 - Psionic Presence, 主人公, Us
 
-- [casing](https://ejje.weblio.jp/content/casing)
-  - 名詞: 包装・外包。動名詞ではない。
-- [fragile](https://ejje.weblio.jp/content/fragile)、フレ↑ージャル↓
-  - 形容詞: 壊れやすい、脆い
-  - なんか見たことがある単語だと思ったら、[MONSTER TRAIN](https://store.steampowered.com/app/1102190/Monster_Train/)のデバフの種類にあった
-  - The casing is fragile.
 - [slight](https://ejje.weblio.jp/content/slight)
   - 形容詞: (数・量・程度などが)わずかな、少しばかりの
 - [crumble](https://ejje.weblio.jp/content/crumble)
