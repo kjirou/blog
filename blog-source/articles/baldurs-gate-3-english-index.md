@@ -40,3 +40,4 @@ lastUpdatedAt: "2023-12-15 00:20:54+0000"
 - [Baldur's Gate 3の英語を復習する 7冊目](./baldurs-gate-3-english-part-7.html)
 - [Baldur's Gate 3の英語を復習する 8冊目](./baldurs-gate-3-english-part-8.html)
 - [Baldur's Gate 3の英語を復習する 9冊目](./baldurs-gate-3-english-part-9.html)
+- [Baldur's Gate 3の英語を復習する 10冊目](./baldurs-gate-3-english-part-10.html)
