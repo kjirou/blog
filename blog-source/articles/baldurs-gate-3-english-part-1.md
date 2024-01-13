@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-1
-lastUpdatedAt: "2024-01-13 09:15:53+0000"
+lastUpdatedAt: "2024-01-13 12:20:50+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 1冊目
@@ -71,7 +71,7 @@ lastUpdatedAt: "2024-01-13 09:15:53+0000"
     - 名詞: 押すこと、圧迫、圧力
     - [pleasure](https://ejje.weblio.jp/content/pleasure) と見間違えた
   - [where](https://ejje.weblio.jp/content/where), ウェアァ
-    - 接続詞: A where B で「B するのに A」
+    - 接続詞: A where B で「B するのに A する」
       - たぶん... Weblio辞書だとこれしか合いそうなのがなかった。ChatGPTだと「その結果」と言ってたけど、他に見ないので違いそう。
   - [strain](https://ejje.weblio.jp/content/strain), ストレ↑イン
     - 自動詞: 精いっぱい働かせる、(無理な事をして)痛める、(無理な使い方をして)痛める
@@ -101,7 +101,7 @@ lastUpdatedAt: "2024-01-13 09:15:53+0000"
 - 主人公: _Spare the creature - any injuries might weaken it._
   - [spare](https://ejje.weblio.jp/content/spare), スペァア
     - 他動詞: 危害を与えないでおく
-- Us: We are free. Out freedom is ours. Friend.
+- Us: We are free. Our freedom is ours. Friend.
 - \*The creature pauses, listening. Something behind your eye seizes in recognition.\*
   - [seize](https://ejje.weblio.jp/content/seize), ス↑ィーズ
     - 自動詞: つかむ、捕える
