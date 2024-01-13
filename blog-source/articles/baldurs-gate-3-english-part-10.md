@@ -218,6 +218,8 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 14:34 - Arron, 主人公
 
+道端の行商人へ話しかけた状況
+
 - Arron: Refugees, adventurers - no one in years and suddenly we're overwhelmed.
   - [refugee](https://ejje.weblio.jp/content/refugee), レ・ヒュ・ズィー
     - 名詞: 避難者、難民
@@ -289,6 +291,8 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 17:49 - Arron, 主人公
 
+再び行商人へ話しかけた状況
+
 - Arron: Need anything else?
 - 主人公: I'd like to see your wares.
   - [ware](https://ejje.weblio.jp/content/ware), ウ↑ェァァ
@@ -300,6 +304,8 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
   - be動詞の原形は be
 
 ### 20, Eliasis - 18:04 - Lia, Rolan, Cal, 主人公
+
+言い争いをしている3人組へ話しかけた状況
 
 - Lia: Hells, we can't just leave. They're kin.
   - Hells はたぶん Nine Hells のことで、それは神聖な名として使われているから、Oh my god と同じような意味かな？
@@ -366,6 +372,8 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 18:53 - Lia
 
+先に会話していた一人に再び話しかけた状況
+
 - Lia: Those goblins will rue the day they chose to tangle with this grove.
   - [rue](https://ejje.weblio.jp/content/rue), ル↑ゥ
     - 他動詞: 〜を後悔する
@@ -377,6 +385,8 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 18:55 - Toron
 
+道端の牛を飼育している男へ話しかけた状況
+
 - Toron: This place is a bloody death trap, not a sanctuary. You should clear off while you can.
   - [clear off](https://ejje.weblio.jp/content/clear+off)
     - 句動詞: 逃げる、出て行く
@@ -384,17 +394,40 @@ lastUpdatedAt: "2024-01-08 10:46:32+0000"
 
 ### 20, Eliasis - 21:03 - Doni
 
+道端の少年に話しかけた状況
+
 - Doni: \*Grunt.\*
-- \*He stares right past you as if you're invisible. Or borging.\*
+  - [grunt](https://ejje.weblio.jp/content/grunt), グ↑ラン(ツ|ト|)
+    - 自動詞: ブーブー鳴く、ウフーッとうなる
+- \*He stares right past you as if you're invisible. Or boring.\*
+  - [boring](https://ejje.weblio.jp/content/boring), ボ↑ォリン(グ|)
+    - 形容詞: うんざりするような
+  - [right](https://ejje.weblio.jp/content/right) は副詞の「完全に」、[past](https://ejje.weblio.jp/content/past) は前置詞の「通り過ぎて」
+  - Or boring の Or は、as if you're invisible の部分と等位であるとのこと by ChatGPT
 - 主人公: Are you all right?
 - Doni: \*Grunt.\*
 - 主人公: I see. Anything else on your mind?
+  - on your mind:「気に掛かっている、考えている」
+    - Ref. https://english-kanazawa.com/prepositions/on/on-your-mindin-your-mind/
+      - on your mind だと上に乗ってるから気がかりなという意味になる
 - Doni: \*Grunt!\*
 - \*He's still staring right past you.\*
 - 主人公: Turn around to see what he's looking at.
 - \*You see nothing out of the ordinary.\*
-- 主人公: Study the rocks for a secret passage.
+  - [ordinary](https://ejje.weblio.jp/content/ordinary), オ↑ゥディナ(ウ|リ)ィ
+    - 名詞: 普通のこと
+      - the ordinary と the を伴う
+  - out of the ordinary:「普通ではないこと」
+  - ChatGPT訳:
+    - > 「何も普通ではないものは見えません。」
+  - 主人公が一時 turn around したら、Doni が目の前から消えていた状況
+- 主人公: _Study the rocks for a secret passage._
 - \*You find the edges of a concealed entrance.\*
+  - [conceal](https://ejje.weblio.jp/content/conceal), (カ|コ)↑ンスィ(ル|ウ)
+    - 他動詞: 隠す
+  - the edges of a concealed entrance の edges は、「端、角、ヘリ」という意味。隠された入口の一部だけが見えている状況。
+    - the edges と the がついているのは、of a concealed entrance で普通の edges じゃないことを絞り込んでいるからだろうか
+      - 特にイベント上で edges は着目されていなかったので、その意味での the ではない
 
 ### 20, Eliasis - 21:21 - Mol, Shadowheart
 
