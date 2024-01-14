@@ -170,7 +170,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 
 ### 20, Eliasis - 23:50 - Komira, Jeorna, Maggran
 
-門らしき場所の前で、Tieflingの一団と the druids のガード達が口論していた
+門らしき場所の前で、Tieflingの一団とドルイドのガード達が口論していた
 
 - Komira: Let my daughter go - right now.
   - [go](https://ejje.weblio.jp/content/go) は自動詞で「解放される、出て行く」
@@ -200,6 +200,8 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
     - D&Dの映画で見たやつ
 
 ### 20, Eliasis - 23:54 - Komira, Locke, Tav, Gale
+
+ドルイド達と口論していたTieflingの一団へ話しかけた
 
 - Komira: We need to get Arabella out. Now.
 - Locke: You heard the guards - they're waiting on Kagha to give word.
@@ -274,3 +276,22 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
   - ChatGPT訳:
     - > 「急いでください。私はもう我慢の限界です - この待ち時間に耐えられません。」
   - ほぼ全てのイベントで急げって言われるんだけど、時限で失敗したりするんだろうか...
+  - 短い会話なのにすごい時間が掛かった、人は激昂すると言葉が難しくなる
+
+### 20, Eliasis - 1:04 - Maggran, Jeorna, Tav, Mino
+
+ドルイドのガード達へ話しかけた
+
+- Maggran: \*Roar!\*
+  - [roar](https://ejje.weblio.jp/content/roar), ロ↑ーアァ
+    - 自動詞: ほえる、うなる
+    - この人は魔法で熊さんへ変身中
+- Jeorna: Calm, Maggran. Give him a chance.
+- Jeorna: You - get back.
+- Tav: Why? What's so special down here?
+- Jeorna: It's forbidden to outsiders - Kagha's orders.
+- Tav: I'm not looking for trouble. Can't you just let me by?
+- Jeorna: No. And you'll find trouble all the same, unless you get out of my sight.
+- Mino: A moment, Jeorna.
+- Jeorna: What...? Oh. I understand.
+- Jeorna: You - apparently Kagha wants to see you. Go ahead.
