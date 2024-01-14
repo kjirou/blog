@@ -6,7 +6,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 # Baldur's Gate 3の英語を復習する 11冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
-- 街での会話は今回の後もまだ少し残っている
+- the grove を散策中、まだ調べてないところが残っている
 
 ## 本編
 
@@ -33,27 +33,98 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
       - Ref. https://www.dandwiki.com/wiki/5e_SRD:Sleight_of_Hand_Skill
     - [sleight](https://ejje.weblio.jp/content/sleight), スライ(ト|)
       - 上記の成句以外で使われない
+  - Hammar's Flourish
+    - 不明、文脈からすると手先の技の名前？
 - Mattis: Uh. I never learned names or anything. Just the tricks.
+  - [never](https://ejje.weblio.jp/content/never), ネ↑・ヴァ
+    - 副詞: 一度も〜ない
 - Mattis: Anyway, forget that. Take the ring! I wanna show you how lucky it is!
+  - [anyway](https://ejje.weblio.jp/content/anyway), エニ↑ィウェーイ
+    - 副詞: とにかく
 - Tav: _Vanish the ring with a reverse Hammar's Flourish._
-- Mattis:
-- Mattis:
-- Mattis:
-- Tav:
-- Mattis:
-- Mattis:
-- Mattis:
-- Tav:
-- Mattis:
-- Tav:
-- Mattis:
-- Tav:
-- Mattis:
-- Tav:
-- Mattis:
-- Mattis:
-- Tav:
-- Mattis:
-- Mattis:
-- Tav:
-- Mattis:
+  - [vanish](https://ejje.weblio.jp/content/vanish), (バ|ベ)ニッシュ
+    - 他動詞: 消す、見えなくする
+      - 通常は自動詞「消える、見えなくなる」の意味のみだが、手品の世界だとこういう使い方をするそう by ChatGPT
+- Mattis: Weeping, bleeding hells.
+  - [weep](https://ejje.weblio.jp/content/weep), ウィープ
+    - 自動詞: 泣く、涙を流す
+  - 意味はわからない、鬱陶しがっているのか賞賛しているのか茶化しているのか
+- Mattis: Okay, maybe you don't need extra luck. But since you're already holding the thing...
+- Mattis: Call it. Heads or tails?
+  - コイントスをしている状況
+- Tav: Heads.
+- Mattis: Heads it is!
+- Mattis: See? That's the kinda luck you get from just one of my lucky rings!
+  - [kinda](https://ejje.weblio.jp/content/kinda), キンダ
+    - 副詞: ある程度において
+      - kind a が語源
+- Mattis: I've got more where that came from. Real cheap, too. Interested?
+  - [there's more where that came from](https://ejje.weblio.jp/content/there%27s+more+where+that+came+from)
+    - まだまだある、もっとある
+      - どちらかというと、more where that came from で一つの成句、「それが来た場所にはもっと」から転じた比喩表現
+  - [cheap](https://ejje.weblio.jp/content/cheap), チープ
+    - 形容詞: 安い
+  - Real cheap, too
+    - 形容詞を形容詞が修飾することはない
+    - [real](https://ejje.weblio.jp/content/real) は副詞。通常形容詞だが、くだけた表現で副詞としても使われるとのこと by ChatGPT。
+    - too は、上述の「まだまだもっているもの」を指している
+- Tav: You can drop the act.
+  - [drop](https://ejje.weblio.jp/content/drop), ヂュロッ(プ|)
+    - 他動詞: やめる
+      - > 〈習慣・仕事などを〉やめる;
+    - コアイメージ: ぽとんと落ちる、ぽとんと落とす
+  - [act](https://ejje.weblio.jp/content/act), ア↑ーク(ト|ツ)
+    - 名詞: 見せかけ、ふり、芝居
+  - たぶん、hideout にいた子供達の仲間なんだろうな
+- Mattis: I, uh, I don't know what you mean.
+- Tav: Come on. This is a Tinker's Trash scam. A clumsy one.
+  - [come on](https://ejje.weblio.jp/content/come+on), カ・モーン
+    - 句動詞,自動詞: いいかげんにしろ、よせ
+      - 通常「もっとこい」みたいな肯定の意味だが、それが反語となっている
+  - [scam](https://ejje.weblio.jp/content/scam), スキャーム
+    - 名詞: 詐欺、信用詐欺
+    - ゲーム関係のミームで、その時点で異常に効率がいいダンジョンなどに篭ってひたすらキャラクターを強化することを「スカム」っていうんだけど、ちょっと意味が遠いな...
+  - a Tinker's Trash scam が何かはわからなかった
+  - [clumsy](https://ejje.weblio.jp/content/clumsy), (クラ|カ)ムズィ
+    - 形容詞: 下手な、不器用な
+- Mattis: Hey, that hurts. I'm running an honest... okay, what's a Tinker's Trash?
+  - [hurt](https://ejje.weblio.jp/content/hurt), (ハ|フ)ァト
+    - 自動詞: 人の気持ちを害する
+- Tav: It's when a scammer offers the target a 'magic' object...
+- Mattis: Uh huh...
+  - [huh](https://ejje.weblio.jp/content/huh)
+    - ふん！、何だって？
+    - 発音は色々。マイクラの村人の唸り声はこれで表現されることが多い。
+- Tav: ... then rigs a game to gain the target's trust and sell them trash.
+  - [rig](https://ejje.weblio.jp/content/rig), ゥリ↑ッグ
+    - 他動詞: 不正手段で操る、八百長をする
+  - sell them trash は sell O1 O2
+- Mattis: Huh. Interesting.
+- Mattis: And I promise this isn't a Tinker's Trash scam.
+- Tav: Then what kind of con is it?
+  - [con](https://ejje.weblio.jp/content/con), (カ|コ)ーン
+    - 名詞: 信用詐欺、横領
+  - この会話中に詐欺を意味する単語が scam, rig, con と3つ出て来た
+- Mattis: Look, I swear to you. These rings are the real deal. I promise I'm not running a scam.
+  - [swear](https://ejje.weblio.jp/content/swear), スウェァア
+    - 自動詞: 宣誓する
+    - 中世風RPG頻出用語、騎士が偉い人の前で誓う行為が swear
+- Mattis: Last chance. You want a look at my stuff or not?
+  - [stuff](https://ejje.weblio.jp/content/stuff), スタ↑ッ(フ|)
+    - 名詞: もの
+- Tav: Just take your ring and count yourself lucky.
+  - [count](https://ejje.weblio.jp/content/count), キャァウント
+    - 他動詞: O を C と思う・みなす
+      - count O C
+- Mattis: No fooling you, is there? All right, get walking. Leave some room for the chumps, huh?
+  - [fool](https://ejje.weblio.jp/content/fool), フ↑ゥーゥ
+    - 他動詞: 〜をばかにする
+  - is there?
+    - ChatGPT:
+      - > 話者が既に答えを知っているか、または答えが自明である場合によく使われます。ここでは、"No fooling you"（あなたをだますことはできない）という主張を強調するために "is there?" が追加されており、「あなたをだますことは不可能だよね？」というニュアンスを持っています。
+  - [room](https://ejje.weblio.jp/content/room), ルー(ゥ|ム)
+    - 名詞: 場所、空き場所
+      - > (人・ものなどの占める)場所; あき場所
+  - [chump](https://ejje.weblio.jp/content/chump), チャン
+    - 名詞: 騙されやすい人、ばか、まぬけ
+  - 信用したときのイベントも見てみたいけど、このゲームだとキリがないから諦める
