@@ -207,11 +207,70 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
     - ChatGPT:
       - > 英語では、特に会話の文脈では、人を直接的な目的語として使用して、その人の言葉や話を聞いたことを示すことがよくあります。
 - Komira: I'd sooner trek through the Nine Hells than trust that snake. Argh.
+  - [sooner](https://ejje.weblio.jp/content/sooner)
+    - 副詞: まだまし、いっそ
+    - I'd sooner ~ than で一つの言い回し
+  - [trek](https://ejje.weblio.jp/content/trek), (チョ|ト)レック
+    - 自動詞: 骨の折れる旅行をする、のろのろ旅行する
+      - STAR TREK
+  - [snake](https://ejje.weblio.jp/content/snake), スネィ(ク|)
+    - 名詞: 悪意のある人
+    - 指輪物語に蛇の舌というキャラがいたけど、あれは Wormtongue だった
 - Tav: I saw what happened. Why are the druids holding your daughter?
 - Locke: Arbella tried to steal their idol. Druids lost their damn minds about it - they need it for their precious ritual.
+  - [idol](https://ejje.weblio.jp/content/idol), アイドォ
+    - 名詞: 聖像、偶像
+  - [lose one's mind](https://ejje.weblio.jp/content/lose+one%27s+mind)
+    - 慣用句: とても怒る、狂う、発狂する、気がふれる
+  - [precious](https://ejje.weblio.jp/content/precious), プ↑レシャス
+    - 形容詞: 尊い
 - Komira: It's all my fault. I told her I wished the wretched thing would just disappear - or better yet, explode.
+  - [wretched](https://ejje.weblio.jp/content/wretched), ゥレッチ(ド|)
+    - 形容詞: 卑劣な
+  - [disappear](https://ejje.weblio.jp/content/disappear), ディスア・ピ↑ーァ
+    - 自動詞: 消えてなくなる、姿を消す、消滅する
+  - better yet
+    - 「さらに良いことは」
+    - [yet](https://ejje.weblio.jp/content/yet) は副詞で「さらに、その上に」という意味がある
+      - 「（それまで）より」という方が yet っぽいかも
+      - yet のコアイメージは？
+        - これだ！という感じの記事が見つからなかった
+          - 一番良さそうだったもの: Ref. https://hackeng.com/yet-meaning-image/
+        - 自分で捻り出すと、「自分視点で、過去のある時点から、着目している時点前後までの継続を塊として捉える」ということになった
+          - それがあったのには「まだ」
+          - それがあるからは「もう」「さらに」
+  - ChatGPT訳:
+    - > 「それはすべて私のせいです。私は彼女に、その嫌なものが消えてなくなればいいのに、あるいはもっと良いことには、爆発してしまえばいいと言ったんです。」
+  - the wretched thing が娘が盗みを行うことなのか、娘自体なのか、他のことか、がわからない
+  - [explode](https://ejje.weblio.jp/content/explode) は、「いなくなれ」みたいな意味もあるのだろうか。わからん。
 - Locke: Now Arabella is being judged by a bunch of druids who hate us. That's not right.
+  - [bunch](https://ejje.weblio.jp/content/bunch), バ↑ンチ
+    - 名詞: 一団、群れ、束、房
 - Gale: This grove is like a cauldron about to boil over. I say we check in on the child - make sure she comes to no harm.
+  - [cauldron](https://ejje.weblio.jp/content/cauldron), カ↑ァールド(レ|ロ)ン
+    - 名詞: 大釜
+  - [about](https://ejje.weblio.jp/content/about)
+    - 副詞: およそ、そろそろ
+  - [boil over](https://ejje.weblio.jp/content/boil+over)
+    - 句動詞: 煮え溢れる、かんかんに怒り出す
+  - check in on 人:「人 の様子を見に行く」
+    - check in, check on, check in on それぞれ存在する
+      - Ref. https://talking-english.net/check-in-check-on-check-in-on/
+  - [come to](https://ejje.weblio.jp/content/come+to)
+    - 句動詞: 至る、達する
 - Tav: She's just a child - the druids are overreacting. I'll talk to them.
+  - [overreact](https://ejje.weblio.jp/content/overreact), オーヴァー・リァーク(ト|)
+    - 自動詞: 過剰反応する
 - Locke: Thank you. They won't give us the time of day.
+  - 直訳だと「彼らは私たちに時間を割いてくれない。」という意味だが、どちらかというと「相手にされない」「無視される」の意味 by ChatGPT
 - Komira: Hurry. I'm at the end of my tether as is - can't take this waiting.
+  - [tether](https://ejje.weblio.jp/content/tether), テ↑ー(ダ|ザ)ー
+    - 名詞: (牛・馬などをつなぐ)つなぎなわ、(能力・財力・忍耐などの)限界、範囲
+    - テーザーガン・テイザーガン
+  - [as is](https://ejje.weblio.jp/content/as+is)
+    - 慣用句,副詞句: そのままでは、変更や改善をしない現状のままでは
+    - Ref. https://mickeyweb.info/archives/872
+      - as-is とハイフンで繋がると副詞になる
+  - ChatGPT訳:
+    - > 「急いでください。私はもう我慢の限界です - この待ち時間に耐えられません。」
+  - ほぼ全てのイベントで急げって言われるんだけど、時限で失敗したりするんだろうか...
