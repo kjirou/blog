@@ -287,11 +287,28 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
     - 自動詞: ほえる、うなる
     - この人は魔法で熊さんへ変身中
 - Jeorna: Calm, Maggran. Give him a chance.
+  - [calm](https://ejje.weblio.jp/content/calm), カーム
+    - 他動詞: 静める
+      - calm oneself: 気を落ち着ける
 - Jeorna: You - get back.
 - Tav: Why? What's so special down here?
+  - [so](https://ejje.weblio.jp/content/so) は副詞で「非常に、そんなに」という強調
 - Jeorna: It's forbidden to outsiders - Kagha's orders.
+  - [order](https://ejje.weblio.jp/content/order), オ↑ー(ダ|ラ)ー
+    - 自動詞: 注文する
 - Tav: I'm not looking for trouble. Can't you just let me by?
+  - [let by](https://ejje.weblio.jp/content/let+by)
+    - 句動詞: 〜をそばを通す、見逃す
+      - [let through](https://ejje.weblio.jp/content/let+through) もありこれもあるんか
 - Jeorna: No. And you'll find trouble all the same, unless you get out of my sight.
+  - [all the same](https://ejje.weblio.jp/content/all+the+same)
+    - 慣用句,副詞句: それにもかかわらず、それでもなお、やはり
+      - ChatGPT:
+        - > 前に述べられた事柄に反して、ある状況や結果が変わらないことを強調する際に使われます。
+      - この文だと、Tavを通しても、がその事柄に相当しそう
 - Mino: A moment, Jeorna.
 - Jeorna: What...? Oh. I understand.
 - Jeorna: You - apparently Kagha wants to see you. Go ahead.
+  - [apparently](https://ejje.weblio.jp/content/apparently), アパ↑ァレントリィ
+    - 副詞: どうも〜らしい、どうやら、一見
+      - 「明白に」という意味もあるよう、逆じゃん！
