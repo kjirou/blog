@@ -167,3 +167,32 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
     - ChatGPT:
       - > 話し手が何かの結論や仮定に基づいて質問していることを示しています。通常、このような文脈では、話し手が以前の会話や状況から何かを推測し、その推測に基づいて質問をしていることを意味します。
 - Silfy: Right. So... look out! I'm watching you!
+
+### 20, Eliasis - 23:50 - Komira, Jeorna, Maggran
+
+- Komira: Let my daughter go - right now.
+  - [go](https://ejje.weblio.jp/content/go) は自動詞で「解放される、出て行く」
+- Jeorna: She's a thief, hellspawn. And you will wait for Kagha's judgement. Now get back.
+  - [hellspawn](https://ejje.weblio.jp/content/hellspawn)
+    - 名詞: 悪魔の子
+    - hell + spawn
+    - > (fantasy) A creature or creatures from Hell.
+  - Now get back.
+    - ChatGPT:
+      - > さあ、後ろに下がりなさい。
+      - [Now](https://ejje.weblio.jp/content/now) の品詞について聞いたら、副詞でも間投詞もどっちも考えられますとのこと
+- Komira: Argh. Let me through, mragreshem, or I'll rip your damned throat out!
+  - [let through](https://ejje.weblio.jp/content/let+through)
+    - 句動詞: 通過させる、見逃す
+      - let が使役動詞ではないときもあるのか
+  - mragreshem はゲーム用語だが、ネイティブでも意味がわからないよう
+    - Ref. https://www.reddit.com/r/BaldursGate3/comments/sxeb4x/do_we_know_what_mragreshem_means/
+  - [rip out](https://ejje.weblio.jp/content/rip+out)
+    - 句動詞: 破り取る、はぎ取る、裂き取る
+    - [rip](https://ejje.weblio.jp/content/rip), ゥリッ(プ|)
+      - 他動詞: 切り裂く、引き裂く、はぎ取る
+  - I'll rip your damned throat out! は I'll rip out your damned throat! へ書き直せるとのこと by ChatGPT
+    - 代名詞じゃないときも間に入れられるんか... 発音の問題なのだろうか
+- Maggran: RAWR!
+  - ドルイド呪文の詠唱、熊へ変身していた
+    - D&Dの映画で見たやつ
