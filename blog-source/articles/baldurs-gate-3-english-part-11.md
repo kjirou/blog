@@ -170,6 +170,8 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 
 ### 20, Eliasis - 23:50 - Komira, Jeorna, Maggran
 
+門らしき場所の前で、Tieflingの一団と the druids のガード達が口論していた
+
 - Komira: Let my daughter go - right now.
   - [go](https://ejje.weblio.jp/content/go) は自動詞で「解放される、出て行く」
 - Jeorna: She's a thief, hellspawn. And you will wait for Kagha's judgement. Now get back.
@@ -196,3 +198,20 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 - Maggran: RAWR!
   - ドルイド呪文の詠唱、熊へ変身していた
     - D&Dの映画で見たやつ
+
+### 20, Eliasis - 23:54 - Komira, Locke, Tav, Gale
+
+- Komira: We need to get Arabella out. Now.
+- Locke: You heard the guards - they're waiting on Kagha to give word.
+  - You heard the guards は「あなたは警備員の話を聞いた」だが、目的語が人のときに「〜の話」になるのかは一般的な用法か不明
+    - ChatGPT:
+      - > 英語では、特に会話の文脈では、人を直接的な目的語として使用して、その人の言葉や話を聞いたことを示すことがよくあります。
+- Komira: I'd sooner trek through the Nine Hells than trust that snake. Argh.
+- Tav: I saw what happened. Why are the druids holding your daughter?
+- Locke: Arbella tried to steal their idol. Druids lost their damn minds about it - they need it for their precious ritual.
+- Komira: It's all my fault. I told her I wished the wretched thing would just disappear - or better yet, explode.
+- Locke: Now Arabella is being judged by a bunch of druids who hate us. That's not right.
+- Gale: This grove is like a cauldron about to boil over. I say we check in on the child - make sure she comes to no harm.
+- Tav: She's just a child - the druids are overreacting. I'll talk to them.
+- Locke: Thank you. They won't give us the time of day.
+- Komira: Hurry. I'm at the end of my tether as is - can't take this waiting.
