@@ -128,3 +128,42 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
   - [chump](https://ejje.weblio.jp/content/chump), チャン
     - 名詞: 騙されやすい人、ばか、まぬけ
   - 信用したときのイベントも見てみたいけど、このゲームだとキリがないから諦める
+
+### 20, Eliasis - 23:40 - Mattis
+
+再び先ほどの少年へ話しかけた
+
+- Mattis: Think you could stand back a ways, pal? I'm fishing for chumps here.
+  - 文頭の [think](https://ejje.weblio.jp/content/think) は、非公式な柔らかいちょっとした提案や要求の表現 by ChatGPT
+- [pal](https://ejje.weblio.jp/content/pal), パ↑ァウ
+  - 名詞: お前、友、仲間
+
+### 20, Eliasis - 23:41 - Silfy, Tav
+
+先に会話したTieflingの行商人の少年の仲間らしき少年へ話しかけた
+
+- Silfy: Oh. Um. Hi.
+- Silfy: I don't have money or anything to sell. My p-partner does that.
+  - 吃りを表現する文章って、`-` を使うんだ
+- Tav: So what's your side of the business?
+- Silfy: What? Um.
+- Silfy: I'm the guard? So... don't steal anything! I'm watching you!
+
+### 20, Eliasis - 23:41 - Silfy, Tav
+
+再び先ほどの少年へ話しかけた
+
+- Silfy: Um, hi. Are you here to see my brother?
+- Silfy: Um. My partner, I mean.
+- Tav: Is he your partner or your brother?
+- Silfy: Um. Both. Of course.
+- Silfy: It's a family business.
+- Silfy: He sells the stuff and I... don't sell the stuff.
+- Tav: You're just here to stand guard, then?
+  - [stand guard](https://ejje.weblio.jp/content/stand+guard)
+    - 句動詞: 護衛する、〜を見張る
+  - then?
+    - 〜の通りだよね？
+    - ChatGPT:
+      - > 話し手が何かの結論や仮定に基づいて質問していることを示しています。通常、このような文脈では、話し手が以前の会話や状況から何かを推測し、その推測に基づいて質問をしていることを意味します。
+- Silfy: Right. So... look out! I'm watching you!
