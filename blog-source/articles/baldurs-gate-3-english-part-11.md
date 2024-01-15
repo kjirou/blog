@@ -312,3 +312,103 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
   - [apparently](https://ejje.weblio.jp/content/apparently), アパ↑ァレントリィ
     - 副詞: どうも〜らしい、どうやら、一見
       - 「明白に」という意味もあるよう、逆じゃん！
+
+### 20, Eliasis - 1:41 - Rechel
+
+Komira達の揉め事を見ていたTieflingの一人へ話しかけた
+
+- Rechel: Lives are at stake, and the cowards only care about their bloody rituals!
+  - [at stake](https://ejje.weblio.jp/content/at+stake)
+    - 慣用句,形容詞句: 賭けられて
+
+### 20, Eliasis - 1:45 - Xeph
+
+Komira達の揉め事を見ていたTieflingの一人へ話しかけた
+
+- Xeph: We could help each other - fight the goblins together. Instead these fools are trying to chase us away!
+  - [chase away](https://ejje.weblio.jp/content/chase+away)
+    - 句動詞,他動詞: 追い払う
+    - [chase](https://ejje.weblio.jp/content/chase), チ↑ェイス
+      - 他動詞: 〜を追う
+        - なぜこれに away がつくと逆の意味になるんだ
+  - [Instead](https://ejje.weblio.jp/content/instead) はこの文だと接続詞になってしまうんだけど、その用法は辞書にない
+    - おそらくは、 Instead, とカンマが入るのが正しい文章だと思う
+  - We could help each other は、避難民であるTiefling達とドルイド達が協力して、という意味
+
+### 20, Eliasis - 1:46 - Amek
+
+Komira達の揉め事を見ていたTieflingの一人へ話しかけた
+
+- Amek: Those dirt-kissers would let us die for the sake of their bloody grove!
+  - [sake](https://ejje.weblio.jp/content/sake), (セ|シェ)イ(ク|)
+    - 名詞: 〜のため
+
+### 20, Eliasis - 2:01 - Asharak, Wyll
+
+子供達が戦いの訓練をしていて、それを見守る二人に話しかけた
+
+- Asharak: The Blade of Frontiers. What a thrill for the children.
+  - [thrill](https://ejje.weblio.jp/content/thrill), スリ(ル|ゥ)
+    - 名詞: (快感・恐怖などで)ぞくぞくする感じ、スリル
+      - 良い意味も悪い意味もあって、今回は良い意味だと思う
+- Wyll: They're tough kids. Smart, too. The future's in good hands.
+  - The future's in good hands:「未来はその手の中に託されている」
+
+### 20, Eliasis - 2:05 - Wyll, Umi, Tav
+
+子供の一人へ訓練をしている最中のWyllへ改めて話しかけた
+
+- Wyll: Go on. Give me your best shot.
+- Umi: Gah!
+- Wyll: Not bad. Again.
+- Umi: I can't do it. I'm not like you.
+- Wyll: Umi. I don't need you to be like me.
+- Wyll: You just have to buy enough time to run. Come on. I believe in you. You can do this.
+  - to buy enough time to run:「逃げるための時間を稼ぐ」
+  - [believe in](https://ejje.weblio.jp/content/believe+in)
+    - 句動詞,他動詞: 〜を信じる
+      - > 何かの善良さに関して、堅固な信念がある
+- Tav: Hey there. Can I have a word?
+  - [hey there](https://ejje.weblio.jp/content/hey+there)
+    - 慣用句: 君、こんにちは
+  - Can I have a word?:「少しだけお話しいいですか？」は一般的な丁寧な言い方のよう
+    - Ref. https://dictionary.sanseido-publ.co.jp/column/danwa50
+- Wyll: Well met. The Blade of Frontiers at your -
+- \*The man's smile bends downward, and his thoughts become yours.\*
+  - [bend](https://ejje.weblio.jp/content/bend), ベ↑ン(ド|)
+    - 自動詞: 曲がる
+  - [downward](https://ejje.weblio.jp/content/downward), ダ↑ァン・(ワ|ウ)ォード
+    - 副詞: 下方へ、下向きに、堕落して
+- \*You are the Blade of Fontiers, racing through the wastes of Avernus. Just ahead, a diabolical figure - red skin, single curled horn - blazes with flame, bloodied greataxe held high.\*
+  - [waste](https://ejje.weblio.jp/content/waste), ウェイース(ト|)
+    - 名詞: 荒地、不毛の荒野
+    - この文で the wastes of Avernus と複数形なのは、多様な特徴を持つ荒野の集合であることを表しているとのこと by ChatGPT
+  - [diabolical](https://ejje.weblio.jp/content/diabolical), ダイアボリカ(ウ|ル)
+    - 形容詞: 悪魔的な、極悪非道の、まったく不愉快な、ひどい
+    - 通常は「ひどい」の比喩表現として使われるが、この文では姿形が悪魔っぽいことを言っている
+  - [curled](https://ejje.weblio.jp/content/curled), カ↑オード
+    - 形容詞: 巻き毛の、渦巻いた
+    - そういえば、curl はなぜ curl なんだろう
+  - [blaze](https://ejje.weblio.jp/content/blaze), ブレ↑イーズ
+    - 自動詞: 燃えたつ、煌々と輝く
+- Wyll: Hells' great fires - you were on the ship.
+- Tav: Yes - and we both carry parasites.
+- Wyll: Mm - doomed to shed our skin and become illithid, or so the stories go.
+- Wyll: But we haven't sprouted any tentacles - not yet, anyway. Could just be good luck. I'm not so...
+- \*Your minds collide once more. Wyll chases the fiend, ignited with rancour. She is an infernal wardevil, a threat to the living - evil incarnate.\*
+- Wyll: Shit - you saw her: advocatus diaboli.
+- Tav: Hunting in the Hells. Dangerous territory.
+- Wyll: I'm no stranger to the infernal. Better to slay a devil before her fires burn common folk to ash.
+- Wyll: Her name is Karlach. An archdevil's soldier I swore on my good eye to kill.
+- Wyll: I tracked her through the Hells to the mind flayer ship. But the damned illithids infected me before I could end her.
+- Wyll: She's out there now, preying on the innocent. I dont't kill her, she'll leave behind nothing but a trail of corpses.
+- Tav: I'm looking to cure this infection. I suggest we partner up.
+- Wyll: Just so you know, my first duty is Karlach. I'm oathbound to go after her.
+- Wyll: But I won't deny this infection is bothersome.
+- Wyll: I accept your invitation.
+- Wyll: You'll need to make room if you want to partner up, though.
+- Wyll: Still - when the time comes, call for the Blade. I won't be long to answer.
+- Tav: Go to my camp and wait for me.
+- Wyll: A splendid plan. We'll talk more there.
+  - あれー、メンバーが4人を超えてもキャンプに入れられるのか。Lae'zelもキャンプで待ってたもらえたっぽい。
+  - Wyllは、パケ絵的には、その悪魔に操作されてるか操作しているかのような裏を感じる
