@@ -469,3 +469,82 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
 - Wyll: A splendid plan. We'll talk more there.
   - あれー、メンバーが4人を超えてもキャンプに入れられるのか。Lae'zelもキャンプで待ってたもらえたっぽい。
   - Wyllは、パケ絵的には、その悪魔に操作されてるか操作しているかのような裏を感じる
+
+### 20, Eliasis - 3:36 - Guex, Tav
+
+戦闘訓練をしている子供の中で、最も年長そうな人へ話しかけた
+
+- Guex: Step, parray, strike - damn it! It's just not landing.
+- Tav: Interesting technique. Having some trouble?
+- Guex: Nothing but. Goblins in the wilds, out for blood. And the druids in here, looking to kick us out - or worse.
+- Guex: We need to be ready for a fight - but I'm useless with a sword.
+- Tav: This isn't a joust. Feint with your sword, then kick between the 'legs' instead.
+- Guex: Let's see then. Feint, kick, and - thrust!
+- Guex: You really know what you're doing! Found this by the road - bet you'll put it to good use.
+- Tav: One last thing - don't shout out your moves like that. Spoils the surprise for your foe.
+- Guex: Oh... yes. I'll bite my tongue when the time comes.
+- Tav: Keep training. In time, you'll make short work of any goblins.
+- Guex: Hopefully it's just the goblins we have to worry about - the druids are treating us like vermin.
+- Guex: But I'll keep at it. Thank you.
+- Tav: _Leave._
+
+### 20, Eliasis - 3:48 - Gan
+
+戦闘訓練をしている子どもの一人へ話しかけた
+
+- Gan: This is boring. We should train against real goblins!
+
+### 20, Eliasis - 3:49 - Ide
+
+戦闘訓練をしている子どもの一人へ話しかけた
+
+- Ide: Next time the goblins come, I'll be ready.
+
+### 20, Eliasis - 3:49 - Umi
+
+戦闘訓練をしている子どもの一人へ話しかけた
+
+- Umi: Oh! Uh... right. 'Go for the heart.'
+
+---
+
+！！！後で会話しなおしたので、時系列で後にする！！！
+
+### 20, Eliasis - 15:11 - Asharak, Tav
+
+WyllとTieflingのAsharakが子供の戦闘訓練をしていた場所に戻り、Asharakへ話しかけた
+
+- Asharak: I saw you at the gates. You fight well.
+- Asharak: A few words for the kids? Spare a story or two?
+- Tav: They're just children - why are you teaching them to fight?
+- Asharak: It's that or teach them to beg for their lives.
+- Asharak: The goblins will chase us to Baldur's Gate and these kids know it.
+- Asharak: A warrior like you could lift their sprits.
+- Tav: I'll lift their spirits by wiping out that whole camp of goblins by myself.
+- Asharak: Thanks. I prefer when they smile.
+  - 逆に足でまといになりそうな気はするが、総力戦なら勝算がある状況で自衛程度の戦力を得るということ目的にしているなら、心が前向きな方がやや良さそう
+  - これで、先ほどの子供達（Gan・Ide・Umi）の会話が変わった
+
+### 20, Eliasis - 15:16 - Gan
+
+再び、戦闘訓練をしている子どもの一人へ話しかけた
+
+- Gan: Bring me a goblin! I'm gonna gut it!
+
+### 20, Eliasis - 15:17 - Ide
+
+再び、戦闘訓練をしている子どもの一人へ話しかけた
+
+- Ide: I'm finghting next time, no matter what Asharak says.
+
+### 20, Eliasis - 15:18 - Umi
+
+再び、戦闘訓練をしている子どもの一人へ話しかけた
+
+- Umi: What? Oh year. 'Go for the heart.'
+
+### 20, Eliasis - 15:20 - Asharak
+
+再び、Asharakへ話しかけた
+
+- Asharak: Look at them beaming. You did that.
