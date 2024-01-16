@@ -509,9 +509,25 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
 
 戦闘訓練をしている子供の中で、最も年長そうな人へ話しかけた
 
-- Guex: Step, parray, strike - damn it! It's just not landing.
+- Guex: Step, parry, strike - damn it! It's just not landing.
+  - [land](https://ejje.weblio.jp/content/land)
+    - 他動詞: 打撃を加える
+    - これは自動詞として使われているけど、その用法はWeblio辞書にはない
+      - ChatGPT:
+        - > この文脈での "landing" は、特にスポーツや武道で使われる表現で、攻撃や動作が目標に「当たる」、「成功する」、または「効果的である」という意味です。したがって、「It's just not landing」とは、行動や攻撃が目的や期待通りに効果を発揮していない、または目標に達していない状況を表しています。
 - Tav: Interesting technique. Having some trouble?
 - Guex: Nothing but. Goblins in the wilds, out for blood. And the druids in here, looking to kick us out - or worse.
+  - [nothing but](https://ejje.weblio.jp/content/nothing+but)
+    - 慣用句: 〜に他ならない
+      - only と似た意味
+  - [out for](https://ejje.weblio.jp/content/out+for)
+    - 慣用句,前置詞: 〜を求めて
+  - Goblins ((in the wilds), (out for blood))
+  - in the wilds の wild が複数形なのは、地域の広さや多様性の強調であるとのこと by ChatGPT
+  - [worse](https://ejje.weblio.jp/content/worse), ゥワ↑ス
+    - 形容詞: (…より)いっそう悪い、なお悪い
+    - bad の比較級
+  - looking (to kick us out) - or (worse)
 - Guex: We need to be ready for a fight - but I'm useless with a sword.
 - Tav: This isn't a joust. Feint with your sword, then kick between the 'legs' instead.
 - Guex: Let's see then. Feint, kick, and - thrust!
