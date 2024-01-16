@@ -478,11 +478,28 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
     - 前置詞: 〜を除いて
   - she'll leave behind nothing but a trail of corpses:「彼女は死体の跡以外何も残さないだろう」
 - Tav: I'm looking to cure this infection. I suggest we partner up.
+  - [partner up](https://ejje.weblio.jp/content/partner+up)
+    - 句動詞,自動詞: 協力する
+    - [partner](https://ejje.weblio.jp/content/partner), パ↑ァト(ナ|ヌ)ァ
+      - 他動詞: 組になる
 - Wyll: Just so you know, my first duty is Karlach. I'm oathbound to go after her.
+  - just so you know:「念の為に言っておくと、ちなみに言っておくと」
+    - 直訳すると「まさにそのようにあなたは知る」で意味不明、慣用句として捉えた方が良さそう
+  - [duty](https://ejje.weblio.jp/content/duty), デューティ
+    - 名詞: 義務、本分、任務、務め
+  - [oathbound](https://ejje.weblio.jp/content/oathbound)
+    - 名詞: 誓い
+  - [go after](https://ejje.weblio.jp/content/go+after)
+    - 句動詞,他動詞: 〜を追いかける
 - Wyll: But I won't deny this infection is bothersome.
+  - [bothersome](https://ejje.weblio.jp/content/bothersome), (ボ|バ)↑ーザーサ(ム|ン)
+    - 形容詞: やっかいな、めんどうな、うるさい
+  - I won't deny (this infection is bothersome)
 - Wyll: I accept your invitation.
 - Wyll: You'll need to make room if you want to partner up, though.
 - Wyll: Still - when the time comes, call for the Blade. I won't be long to answer.
+  - [still](https://ejje.weblio.jp/content/still) は副詞で「それにもかかわらず」のよう？
+    - 意味が若干わからない、Karlachに関係ないことでもってことかな
 - Tav: Go to my camp and wait for me.
 - Wyll: A splendid plan. We'll talk more there.
   - あれー、メンバーが4人を超えてもキャンプに入れられるのか。Lae'zelもキャンプで待ってたもらえたっぽい。
