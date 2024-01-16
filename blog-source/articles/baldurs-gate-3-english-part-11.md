@@ -458,7 +458,25 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
     - 一般人、一般庶民
 - Wyll: Her name is Karlach. An archdevil's soldier I swore on my good eye to kill.
 - Wyll: I tracked her through the Hells to the mind flayer ship. But the damned illithids infected me before I could end her.
-- Wyll: She's out there now, preying on the innocent. I dont't kill her, she'll leave behind nothing but a trail of corpses.
+  - [infect](https://ejje.weblio.jp/content/infect), イン・フ↑ェクト
+    - 他動詞: 〜へ病気をうつす、〜へ感染する
+  - 捕まった過程は言わないんか
+- Wyll: She's out there now, preying on the innocent. I don't kill her, she'll leave behind nothing but a trail of corpses.
+  - [prey on](https://ejje.weblio.jp/content/prey+on)
+    - 句動詞,他動詞: 捕食する
+    - [prey](https://ejje.weblio.jp/content/prey), プレェイ
+      - 自動詞: 捕食する、略奪する、カモにする
+  - [innocent](https://ejje.weblio.jp/content/innocent), イ↑ノセント
+    - 名詞: 無実のもの、潔白な人
+  - I don't kill her の前には、あるべき If が省略されているとのこと by ChatGPT
+    - 単に省略されているだけ、「仮定法の if の省略」とは別のもの
+  - [leave behind](https://ejje.weblio.jp/content/leave+behind)
+    - 句動詞,他動詞: 残す、置き去りにする、置き忘れる
+  - [trail](https://ejje.weblio.jp/content/trail), (ト|チョ)レイゥウ
+    - 名詞: 跡、痕跡
+  - [but](https://ejje.weblio.jp/content/but), バ↑ッ(ト|ツ)
+    - 前置詞: 〜を除いて
+  - she'll leave behind nothing but a trail of corpses:「彼女は死体の跡以外何も残さないだろう」
 - Tav: I'm looking to cure this infection. I suggest we partner up.
 - Wyll: Just so you know, my first duty is Karlach. I'm oathbound to go after her.
 - Wyll: But I won't deny this infection is bothersome.
