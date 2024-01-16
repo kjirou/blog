@@ -392,13 +392,70 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
   - [blaze](https://ejje.weblio.jp/content/blaze), ブレ↑イーズ
     - 自動詞: 燃えたつ、煌々と輝く
 - Wyll: Hells' great fires - you were on the ship.
+  - Hells' は Hells の所有
+  - そういえば、Wyllにも主人公の記憶が見えてるのか
 - Tav: Yes - and we both carry parasites.
 - Wyll: Mm - doomed to shed our skin and become illithid, or so the stories go.
+  - [mm](https://ejje.weblio.jp/content/mm), マァム
+    - 間投詞: ふむ！、うーん！
+  - [doom](https://ejje.weblio.jp/content/doom), ド↑ゥーム
+    - 他動詞: 運命付ける
+      - doom O to 動詞: O を 動詞 に運命付ける
+  - (we are) doomed という受動態の SV が省略された形
+  - [shed](https://ejje.weblio.jp/content/shed), シ↑ェド
+    - shed - shedded - shedded
+    - 自動詞: 脱ぐ、落とす
+      - > 〈動・植物が〉葉[角，皮，毛，羽など]を(自然に)落とす，脱ぎかえる.
+  - [illithid](https://ejje.weblio.jp/content/illithid), イリシッド
+    - ゲーム用語,名詞: Mind Flayerのこと
+  - 〜 or so the stories go:「（または）〜と言われている、（または）〜と伝わっている」
+    - ひとつの言い回しだが、慣用句とまでは言えなさそう
+    - [so](https://ejje.weblio.jp/content/so) は副詞の「そのように、そのとおりに」で、前の文を参照している
+    - [go](https://ejje.weblio.jp/content/go) には、「言う、伝える」または「言われる、伝えられる」という意味は直接はなさそう
+    - 「聞いたところによる物語はそのように進んでいる」という感じ？
 - Wyll: But we haven't sprouted any tentacles - not yet, anyway. Could just be good luck. I'm not so...
+  - [sprout](https://ejje.weblio.jp/content/sprout), スプラウト
+    - 自動詞: 生え始める、芽吹く、芽を出す
+  - [anyway](https://ejje.weblio.jp/content/anyway), エ↑ニィウェーイ
+    - 副詞: 少なくとも
+    - コアイメージ: そういうこともあるが，とにかく
+  - [could](https://ejje.weblio.jp/content/could), ク↑ゥド
+    - 助動詞: 〜かもしれない
+    - may や might と似た用法、確信度は could > might > can
+    - 能力があることを示す can が過去形になると不確定なこの意味になるのかのイメージができない
+      - 助動詞が過去形になると、解像度がぼやける・遠くなる・不確定になるというイメージが付与されるので、それかもしれない
 - \*Your minds collide once more. Wyll chases the fiend, ignited with rancour. She is an infernal wardevil, a threat to the living - evil incarnate.\*
+  - [collide](https://ejje.weblio.jp/content/collide), コ・ラァイド
+    - 自動詞: 激しくぶつかり合う、衝突する
+  - [ignite](https://ejje.weblio.jp/content/ignite), イグナ↑イト
+    - 自動詞: 発火する
+    - CodeIgniter はそんな意味だったんか
+  - [rancour](https://ejje.weblio.jp/content/rancour), リン・クォア
+    - 名詞: 毒気
+  - [infernal](https://ejje.weblio.jp/content/infernal), イン・ファーナゥ
+    - 形容詞: 地獄の、悪魔のような
+  - wardevil
+    - ゲーム用語,名詞: ウォー・デビル、D&Dの種族名
+      - Ref. https://forgottenrealms.fandom.com/wiki/War_devil
+    - 強い、狡猾、被支配階級、みたいな感じ
+  - [threat](https://ejje.weblio.jp/content/threat), スレッ(ド|)
+    - 名詞: 脅威
+  - [incarnate](https://ejje.weblio.jp/content/incarnate), インカーネィ(ツ|ト)
+    - 形容詞: 具現化した、肉体を持つ、人の姿をした
 - Wyll: Shit - you saw her: advocatus diaboli.
+  - advocatus diaboli
+    - ラテン語で「悪魔の代弁者」、英語だと devil's advocate
+      - Ref. https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94%E3%81%AE%E4%BB%A3%E5%BC%81%E8%80%85
+    - 比喩としての意味じゃないんだろう
 - Tav: Hunting in the Hells. Dangerous territory.
 - Wyll: I'm no stranger to the infernal. Better to slay a devil before her fires burn common folk to ash.
+  - [stranger](https://ejje.weblio.jp/content/stranger), ストレインジ(ャ|ュ)
+    - 名詞: 不慣れな人、初めての人
+  - [infernal](https://ejje.weblio.jp/content/infernal), イン・ファーナゥ
+    - 名詞: 地獄に住むもの
+  - I'm no stranger to the infernal:「私は地獄のものに慣れている」
+  - [common folk](https://ejje.weblio.jp/content/common+folk)
+    - 一般人、一般庶民
 - Wyll: Her name is Karlach. An archdevil's soldier I swore on my good eye to kill.
 - Wyll: I tracked her through the Hells to the mind flayer ship. But the damned illithids infected me before I could end her.
 - Wyll: She's out there now, preying on the innocent. I dont't kill her, she'll leave behind nothing but a trail of corpses.
