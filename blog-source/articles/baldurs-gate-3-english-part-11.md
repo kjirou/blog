@@ -529,14 +529,51 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
     - bad の比較級
   - looking (to kick us out) - or (worse)
 - Guex: We need to be ready for a fight - but I'm useless with a sword.
+  - [useless](https://ejje.weblio.jp/content/useless), ユゥ↑ースレス
+    - 形容詞: 下手で、役に立たない
 - Tav: This isn't a joust. Feint with your sword, then kick between the 'legs' instead.
+  - [joust](https://ejje.weblio.jp/content/joust), ジ↑(ョ|ャ)ウスト
+    - 名詞: (中世騎士の)馬上槍(やり)試合
+  - between the 'legs' は、股間の急所の暗喩
 - Guex: Let's see then. Feint, kick, and - thrust!
+  - [thrust](https://ejje.weblio.jp/content/thrust), ト↑ラスト
+    - 自動詞: 突く、突進する
 - Guex: You really know what you're doing! Found this by the road - bet you'll put it to good use.
+  - You really know what you're doing! は、直訳通りの意味しかなさそう。なぜこの局面でこれをいうのかの意味がわからない。
+  - [bet](https://ejje.weblio.jp/content/bet), ベ↑ット
+    - 自動詞: 賭ける
+  - Found this by the road - bet you'll put it to good use.
+    - ChatGPT訳:
+      - > 「道端でこれを見つけたよ - きっと君なら上手に使えるだろう。」
+    - これも直訳だと意味が違いそう、何か比喩やネタを含んでそうだがわからん
 - Tav: One last thing - don't shout out your moves like that. Spoils the surprise for your foe.
+  - [shout out](https://ejje.weblio.jp/content/shout+out)
+    - 句動詞: 大声で叫ぶ
+  - [move](https://ejje.weblio.jp/content/move), ムー(ヴ|フ)
+    - 名詞: 動作、動き
+  - [spoil](https://ejje.weblio.jp/content/spoil), スポィ(ル|ウ)
+    - 他動詞: 〜を役に立たなくする、〜を台無しにする
+    - スポイラー
+  - [surprise](https://ejje.weblio.jp/content/surprise), (サ|セ)プラァイズ
+    - 名詞: 不意打ち、奇襲
 - Guex: Oh... yes. I'll bite my tongue when the time comes.
+  - the time comes はさっきも出てきたし、一つの言い回しっぽい
 - Tav: Keep training. In time, you'll make short work of any goblins.
+  - [make short work of](https://ejje.weblio.jp/content/make+short+work+of)
+    - 句動詞,他動詞: 手早く片付ける、さっと片付ける
 - Guex: Hopefully it's just the goblins we have to worry about - the druids are treating us like vermin.
+  - [hopefully](https://ejje.weblio.jp/content/hopefully), ホウプ・フ・リィ
+    - 副詞: 願わくば、望むべくは、うまくいけば
+  - [worry about](https://ejje.weblio.jp/content/worry+about)
+    - 句動詞,他動詞: 〜について心配する
+  - it's just the goblins we have to worry about は we have to worry about の目的語の the goblins が前に出てる構造
+    - なんだけど、関係詞なしに前に目的語を出すのはいいんだっけ...
+    - 関係詞を明示して書き直すとChatGPT曰く: it's just the goblins about whom we have to worry
+  - [vermin](https://ejje.weblio.jp/content/vermin), ヴァーミン
+    - 名詞: 害虫、害獣、害鳥、社会の害虫、人間のくず、やくざ
 - Guex: But I'll keep at it. Thank you.
+  - [keep at](https://ejje.weblio.jp/content/keep+at)
+    - 句動詞,他動詞: 〜を続けてやる、〜を熱心にやる
 - Tav: _Leave._
 
 ### 20, Eliasis - 3:48 - Gan
