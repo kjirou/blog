@@ -587,12 +587,18 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
 戦闘訓練をしている子どもの一人へ話しかけた
 
 - Ide: Next time the goblins come, I'll be ready.
+  - come が現在時制なのはなぜなのかをChatGPTに聞いた結果の抜粋・まとめ
+    - > "when"、"as soon as"、"before"、"after"、"until" などの接続詞で始まる時間的節では、未来の出来事を表す場合でも現在時制を使用します。
+    - > I will start eating when you come.
+    - > She will leave as soon as the meeting ends.
+    - > この文法規則は、未来の出来事が確実であり、その出来事が起こる時点が未定であることを示すために使用されます。
 
 ### 20, Eliasis - 3:49 - Umi
 
 戦闘訓練をしている子どもの一人へ話しかけた
 
 - Umi: Oh! Uh... right. 'Go for the heart.'
+  - Go for the heart.:「心臓を狙え。」
 
 ---
 
