@@ -637,15 +637,27 @@ Sazzaという捕虜のゴブリンに対して、Arkaというティーフリ�
       - 翻訳して読んでもよくわからなかった
 - Arka: Oh, I'll bless you all right.
 - Tav: _Move in front of the tiefling's crossbow._
+  - [in front of](https://ejje.weblio.jp/content/in+front+of)
+    - 〜の前へ
 - Sazza: Looks like the Absolute sent me a protector. Ya gonna kill 'im too?
+  - 'im = him
+    - 最初の音を省略することがしばしばある、という法則
+  - 普通に腹立つな、なぜ助けてしまったのか
 - Arka: You! Move!
 - Tav: This won't avenge Kanon. It won't change anything.
-- Arka: You're right. I wish you werent', I really do.
-  - 自分でやっといて何だが、これで説得されてしまうのか
+  - [avenge](https://ejje.weblio.jp/content/avenge), アベンジ
+    - 他動詞: 〜の正当な仕返しをする、〜の復讐をする
+    - [revenge](https://ejje.weblio.jp/content/revenge) は正当性の低い個人的な復讐に対して使うとのこと
+- Arka: You're right. I wish you weren't, I really do.
+  - I wish you weren't は、Tav が先に言った This won't avenge Kanon がそうではないことを願う、という意味 by ChatGPT
+  - I really do は、通常 I really do love you. のように使う、つまり do は強調の意味
+    - ここではおそらく I wish を修飾している
+  - 自分で返答しておいて何だが、これで説得されてしまうのか
 - Arka: Damn you. Damn it!
 - Arka: Why do you care if a goblin lives or dies?
 - Tav: If she dies, she'll take everything she knows to the grave.
 - Arka: If you believe anything the beast tells you, you're an idiot.
+  - せやな、すまんな、という気はしている
 - Memnos: It's all right, Arka. Let's go.
   - この後にSazzaに尋問などをできるのかと思ったら、何もできなかった
 
