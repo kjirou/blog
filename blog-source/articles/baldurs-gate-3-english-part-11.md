@@ -666,14 +666,28 @@ Sazzaという捕虜のゴブリンに対して、Arkaというティーフリ�
 GaleのCompanions Questの条件を満たしたようで、会話をしてきた
 
 - Gale: Tiring business, isn't it? All this travelling and adventuring.
+  - [tiring](https://ejje.weblio.jp/content/tiring)
+    - 形容詞: 疲れる、骨の折れる、厄介な
+    - [tire](https://ejje.weblio.jp/content/tire), タァイ(ア|ヤ)ー
+      - 他動詞: 〜を疲れさせる
+      - 自動詞: 疲れる
+  - 「疲れる仕事だね？この旅と冒険は。」
 - Gale: Why don't we take a little break? Allow ourselves a few moments of rest. Gives me a chance to talk to you about something, well, rather important.
+  - Why don't we take a little break?
+    - 丁寧な柔らかい言い方で、「少し休憩しませんか？」という意味とのこと by ChatGPT
+  - Allow ourselves a few moments of rest.
+    - 命令形だが、対象を我々に取ることで、非常に柔らかく提案に近い意味を持つとのこと by ChatGPT
+  - [rather](https://ejje.weblio.jp/content/rather), ラ↑ー(ザ|ダ)ァ
+    - 副詞: かなり
 - Tav: 'Rather important' no less? All right, go ahead.
-- Gale:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
-- Tav:
+  - [no less](https://ejje.weblio.jp/content/no+less)
+    - 副詞: まさしく、確かに、同様に、同じだけ
+- Gale: We've been on the road together for a while now, haven't we? Survived some perils, overcame some obstracles.
+- Gale: Ever since you were kind enough to free me from that stone, I've seen you demonstrate remarkable guile and courage.
+- Gale: The way you defused the tension between Zevlor and Aradin.
+- Gale: The way you stood in front of a crossbow to prevent a murder.
+- Gale: In short: I've grown to trust you.
+- Tav: That's very gratifying to hear.
 - Gale:
 - Gale:
 - Tav:
