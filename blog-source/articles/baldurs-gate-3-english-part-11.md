@@ -12,7 +12,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 
 ### 20, Eliasis - 22:04 - Mattis, Tav
 
-行商をしているTieflingの少年へ話しかけた
+行商をしているティーフリングの少年へ話しかけた
 
 - Mattis: Hold out your hand, mister. Let me show you something.
   - [hold out](https://ejje.weblio.jp/content/hold+out)
@@ -140,7 +140,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 
 ### 20, Eliasis - 23:41 - Silfy, Tav
 
-先に会話したTieflingの行商人の少年の仲間らしき少年へ話しかけた
+先に会話したティーフリングの行商人の少年の仲間らしき少年へ話しかけた
 
 - Silfy: Oh. Um. Hi.
 - Silfy: I don't have money or anything to sell. My p-partner does that.
@@ -170,7 +170,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 
 ### 20, Eliasis - 23:50 - Komira, Jeorna, Maggran
 
-門らしき場所の前で、Tieflingの一団とドルイドのガード達が口論していた
+門らしき場所の前で、ティーフリングの一団とドルイドのガード達が口論していた
 
 - Komira: Let my daughter go - right now.
   - [go](https://ejje.weblio.jp/content/go) は自動詞で「解放される、出て行く」
@@ -201,7 +201,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 
 ### 20, Eliasis - 23:54 - Komira, Locke, Tav, Gale
 
-ドルイド達と口論していたTieflingの一団へ話しかけた
+ドルイド達と口論していたティーフリングの一団へ話しかけた
 
 - Komira: We need to get Arabella out. Now.
 - Locke: You heard the guards - they're waiting on Kagha to give word.
@@ -315,7 +315,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 
 ### 20, Eliasis - 1:41 - Rechel
 
-Komira達の揉め事を見ていたTieflingの一人へ話しかけた
+Komira達の揉め事を見ていたティーフリングの一人へ話しかけた
 
 - Rechel: Lives are at stake, and the cowards only care about their bloody rituals!
   - [at stake](https://ejje.weblio.jp/content/at+stake)
@@ -323,7 +323,7 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
 
 ### 20, Eliasis - 1:45 - Xeph
 
-Komira達の揉め事を見ていたTieflingの一人へ話しかけた
+Komira達の揉め事を見ていたティーフリングの一人へ話しかけた
 
 - Xeph: We could help each other - fight the goblins together. Instead these fools are trying to chase us away!
   - [chase away](https://ejje.weblio.jp/content/chase+away)
@@ -337,7 +337,7 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
 
 ### 20, Eliasis - 1:46 - Amek
 
-Komira達の揉め事を見ていたTieflingの一人へ話しかけた
+Komira達の揉め事を見ていたティーフリングの一人へ話しかけた
 
 - Amek: Those dirt-kissers would let us die for the sake of their bloody grove!
   - [sake](https://ejje.weblio.jp/content/sake), (セ|シェ)イ(ク|)
@@ -600,9 +600,87 @@ Komira達の揉め事を見ていたTieflingの一人へ話しかけた
 - Umi: Oh! Uh... right. 'Go for the heart.'
   - Go for the heart.:「心臓を狙え。」
 
----
+### 20, Eliasis - 3:49 - Sazza, Mennos, Arka, Tav
 
-！！！後で会話しなおしたので、時系列で後にする！！！
+Sazzaという捕虜のゴブリンに対して、Arkaというティーフリングが私的に復讐しようとクロスボウで狙いをつけている
+
+- Sazza: Ya ain't gonna shoot me. Yer hands are shakin'.
+  - [ain't](https://ejje.weblio.jp/content/ain%27t)
+    - = am not, have not
+  - [gonna](https://ejje.weblio.jp/content/gonna), ガ↑ナ
+    - = going to
+  - Ya = You らしい by ChatGPT
+  - Yer = Your らしい by ChatGPT
+  - [shake](https://ejje.weblio.jp/content/shake), シ↑ェイク
+    - 自動詞: 寒さや怒りなどでぶるぶる震える
+- Memnos: Put it down. She can't fight back.
+  - [fight back](https://ejje.weblio.jp/content/fight+back)
+    - 句動詞,自動詞: 抵抗する、反撃する
+- Arka: That's the point. Get out of the way.
+  - That's the point. は、「抵抗できない」という点に対して、それだからしてるんだよという意味
+  - [get out of](https://ejje.weblio.jp/content/get+out+of)
+    - 句動詞,他動詞: 〜から出る
+- Memnos: She didn't kill your brother, Arka. You're better than this.
+  - You're better than this. は直訳通りの意味のようだけど、this は復讐すること自体をさしているんだろうか
+    - それなら、復讐することと他のことは互いに独立しているから、比較することでもなくない？という細かいツッコミはある
+- Sazza: Shoot before you lose your nerve, tiefling. If you ever had it to begin with.
+  - [nerve](https://ejje.weblio.jp/content/nerve), ナーブ
+    - 名詞: 精神力、度胸、神経
+  - [to begin with](https://ejje.weblio.jp/content/to+begin+with), トゥービギンウェッ
+    - 慣用句: まず第一に、そもそも
+- Tav: Shut up. Those words could be your last.
+  - Those words could be your last.:「それらの言葉が最後の言葉になり得る。」
+- Sazza: I'm not afraid. Chosen by the Absolute, I am. I'm blessed.
+  - the Absolute
+    - ゲーム用語,名詞: ゴブリンの神的なもの？
+    - Ref. https://forgottenrealms.fandom.com/wiki/The_Absolute
+      - 翻訳して読んでもよくわからなかった
+- Arka: Oh, I'll bless you all right.
+- Tav: _Move in front of the tiefling's crossbow._
+- Sazza: Looks like the Absolute sent me a protector. Ya gonna kill 'im too?
+- Arka: You! Move!
+- Tav: This won't avenge Kanon. It won't change anything.
+- Arka: You're right. I wish you werent', I really do.
+  - 自分でやっといて何だが、これで説得されてしまうのか
+- Arka: Damn you. Damn it!
+- Arka: Why do you care if a goblin lives or dies?
+- Tav: If she dies, she'll take everything she knows to the grave.
+- Arka: If you believe anything the beast tells you, you're an idiot.
+- Memnos: It's all right, Arka. Let's go.
+  - この後にSazzaに尋問などをできるのかと思ったら、何もできなかった
+
+### 20, Eliasis - 4:44 - Gale, Tav
+
+GaleのCompanions Questの条件を満たしたようで、会話をしてきた
+
+- Gale: Tiring business, isn't it? All this travelling and adventuring.
+- Gale: Why don't we take a little break? Allow ourselves a few moments of rest. Gives me a chance to talk to you about something, well, rather important.
+- Tav: 'Rather important' no less? All right, go ahead.
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Tav:
+- Gale:
+- Gale:
+- Tav:
+- Gale:
+- Gale:
+- Tav:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Tav:
+- Gale:
+- Gale:
+- Gale:
+- Tav:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
 
 ### 20, Eliasis - 15:11 - Asharak, Tav
 
