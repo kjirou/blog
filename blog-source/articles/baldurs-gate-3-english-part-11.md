@@ -731,12 +731,25 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
     - 形容詞: 満足を与える、満足な、心地よい、愉快な
     - [gratify](https://ejje.weblio.jp/content/gratify), グラ↑ァテファイ
       - 他動詞: 喜ばせる、満足させる
-- Gale:
-- Gale:
-- Tav:
-- Gale:
-- Gale:
-- Tav:
+- Gale: The reason I make a point of saying this is that I've grown confident enough to tell you something I've yet to tell another living soul. Except for my cat.
+  - [make a point](https://ejje.weblio.jp/content/make+a+point)
+    - 句動詞: 主張が正しいことを伝える、要点をわかってもらう
+  - [confident](https://ejje.weblio.jp/content/confident), (カ|コ)ンフィデント
+    - 形容詞: 自信を持って、確信して
+  - I've yet to tell another living soul
+    - living soul:「生きている魂」が転じて「生きている人」
+    - ChatGPT曰く、 I [have](https://ejje.weblio.jp/content/have) の目的語が to tell another living soul であって、〜しなければならないの構文ではないとのこと
+      - 訳は文脈に合ってるし、have のイメージにも合ってるけど、have の直接目的語にto不定詞が入る例がWeblio辞書になかったのが気になる
+  - The reason that I've grown confident enough to tell you something. が文の骨格
+    - おそらく The reason の修飾として、I make a point of saying this is
+    - something の修飾として、I've yet to tell another living soul
+  - 「この理由、私がこれをいう訳は、私があなたに他の誰にも話してないことを話す自信がついたからなんだ。」
+  - べらべらべらべら余計な言葉を挟むなお前はぁ！
+- Gale: You see, I have this... condition. Very different from the parasite we share, but just as deadly.
+- Tav: What kind of condition?
+- Gale: The specifics are rather personal, but suffice it to say that it is a malady I have learned to live with - though not without some effort.
+- Gale: What it comes down to is this: every so often I need to get my hands on a powerful magical item and absorb the Weave inside.
+- Tav: Your illness causes you to consume raw magic? I'm going to need the details...
 - Gale:
 - Gale:
 - Gale:
