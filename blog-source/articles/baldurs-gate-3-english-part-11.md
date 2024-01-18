@@ -657,7 +657,7 @@ Sazzaという捕虜のゴブリンに対して、Arkaというティーフリ�
 - Arka: Why do you care if a goblin lives or dies?
 - Tav: If she dies, she'll take everything she knows to the grave.
 - Arka: If you believe anything the beast tells you, you're an idiot.
-  - せやな、すまんな、という気はしている
+  - せやな、あんまり口を突っ込むんじゃなかった。すまんな。
 - Memnos: It's all right, Arka. Let's go.
   - この後にSazzaに尋問などをできるのかと思ったら、何もできなかった
 
@@ -682,12 +682,55 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
 - Tav: 'Rather important' no less? All right, go ahead.
   - [no less](https://ejje.weblio.jp/content/no+less)
     - 副詞: まさしく、確かに、同様に、同じだけ
-- Gale: We've been on the road together for a while now, haven't we? Survived some perils, overcame some obstracles.
+- Gale: We've been on the road together for a while now, haven't we? Survived some perils, overcame some obstacles.
+  - [for a while](https://ejje.weblio.jp/content/for+a+while), フォー・アッワーイ
+    - 慣用句,副詞句: しばらくの間、少しの間
+  - [peril](https://ejje.weblio.jp/content/peril), ペイ(ル|ウ)
+    - 名詞: (けが・死などにかかわるような大きな)危険、危難
+  - [overcome](https://ejje.weblio.jp/content/overcome), オヴァ・カーム
+    - overcome - overcame - overcome
+    - 他動詞: 打ち負かす
+  - [obstacle](https://ejje.weblio.jp/content/obstacle), (オ|ア)↑ブスタコォ
+    - 名詞: 障害、障害物、妨害
+  - そんなに苦難を乗り越えたっけ... そうかな... そうかも...
 - Gale: Ever since you were kind enough to free me from that stone, I've seen you demonstrate remarkable guile and courage.
+  - [ever since](https://ejje.weblio.jp/content/ever+since)
+    - 慣用句,副詞句: それ以来、その後ずっと
+    - 副詞 + 副詞の複合
+  - [demonstrate](https://ejje.weblio.jp/content/demonstrate), デ(メ|モ)ンストレェィ(ト|)
+    - 他動詞: 〜を実際にやってみせる、〜を証明する
+  - [remarkable](https://ejje.weblio.jp/content/remarkable), リマーカボゥ
+    - 形容詞: 驚くべき、非凡な
+  - [guile](https://ejje.weblio.jp/content/guile), ガ↑イアォ
+    - 名詞: 狡猾、ずるさ、悪知恵
+    - ソニックブームとサマーソルトを打つ人と綴りが同じ
+  - [courage](https://ejje.weblio.jp/content/courage), カーレッジ
+    - 名詞: 勇気、度胸
+  - you were kind enough の enough は、「十分に親切だった、〜をするほど」という意味
+  - demonstrate や guile で最初は疑ってたみたいな悪い意味なのかと思ったけど、そんなことはなかった
 - Gale: The way you defused the tension between Zevlor and Aradin.
+  - The way ~ なのは、前文の demonstrate の内容を列挙しているからだと思う
+  - [defuse](https://ejje.weblio.jp/content/defuse), デ・フィューズ
+    - 他動詞: 危険を取り除く、信管を抜き取る
+  - [tension](https://ejje.weblio.jp/content/tension), テン・シ(ョ|ャ)ン
+    - 名詞: 緊張、緊張状態
 - Gale: The way you stood in front of a crossbow to prevent a murder.
+  - stand - stood - stood | standen
+  - [murder](https://ejje.weblio.jp/content/murder), (マ|メ)↑ダー
+    - 名詞: 殺人、殺人行為
+    - 殺人者って意味ではないんだ
 - Gale: In short: I've grown to trust you.
+  - [in short](https://ejje.weblio.jp/content/in+short)
+    - 慣用句,副詞句: 一言で言えば、要するに、簡潔に
+  - [grow](https://ejje.weblio.jp/content/grow), グ↑ロォウ
+    - grow - grew - grown
+    - 自動詞: 次第に〜するようになる、次第に〜になる
+      - grow to V: 次第に V するようになる
 - Tav: That's very gratifying to hear.
+  - [gratifying](https://ejje.weblio.jp/content/gratifying)
+    - 形容詞: 満足を与える、満足な、心地よい、愉快な
+    - [gratify](https://ejje.weblio.jp/content/gratify), グラ↑ァテファイ
+      - 他動詞: 喜ばせる、満足させる
 - Gale:
 - Gale:
 - Tav:
