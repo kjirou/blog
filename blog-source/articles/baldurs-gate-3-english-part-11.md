@@ -746,23 +746,45 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
   - 「この理由、私がこれをいう訳は、私があなたに他の誰にも話してないことを話す自信がついたからなんだ。」
   - べらべらべらべら余計な言葉を挟むなお前はぁ！
 - Gale: You see, I have this... condition. Very different from the parasite we share, but just as deadly.
+  - [you see](https://ejje.weblio.jp/content/you+see)
+    - 慣用句: 相手がおそらく知らないことへの会話の切り出し
+      - Ref. http://art2006salt.blog60.fc2.com/blog-entry-1358.html
+        - you know は相手がおそらく知っていることらしい
+  - [deadly](https://ejje.weblio.jp/content/deadly), デ↑ッドリィ
+    - 形容詞: 致命的な
+  - just as deadly: ちょうど同じくらい致命的
 - Tav: What kind of condition?
+  - what と what kind of の違いは直訳のままで良さそう、インスタンスを知りたいのかクラスを知りたいのかの差
 - Gale: The specifics are rather personal, but suffice it to say that it is a malady I have learned to live with - though not without some effort.
+  - [suffice it to say that](https://ejje.weblio.jp/content/suffice+it+to+say+that)
+    - 慣用句: 今は〜とだけ言っておこう
+    - [suffice](https://ejje.weblio.jp/content/suffice), サ・ファイス
+      - 他動詞: 〜に十分である
+    - なぜこういう意味になるのかの解説は、以下のサイトにあった
+      - Ref. https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/if-anything-or#1
+      - 今は理解できないことがわかった
+  - [malady](https://ejje.weblio.jp/content/malady), マ↑(ラ|レ)ディ
+    - 名詞: 病気、弊害
+  - [live with](https://ejje.weblio.jp/content/live+with)
+    - 句動詞: 〜を抱えて生きる
+  - to live with の目的語が a malady
+  - not without で否定の否定のようになっていて、つまりは with になっている
 - Gale: What it comes down to is this: every so often I need to get my hands on a powerful magical item and absorb the Weave inside.
 - Tav: Your illness causes you to consume raw magic? I'm going to need the details...
-- Gale:
-- Gale:
-- Gale:
-- Gale:
-- Tav:
-- Gale:
-- Gale:
-- Gale:
-- Tav:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
+- Gale: I can say no more on the matter - not now anyway.
+- Gale: Just trust me when I say it's all of vital imortance.
+- Gale: It's been days since I last consumed an artefact - since before we were abducted. It's only a matter of time before my craving returns.
+- Gale: That is why I turn to you. I need you to help me find magic items to consume. It is viital. Dare I say it, critical.
+- Tav: Where do you suggest wwe find the artefacts you need?
+- Gale: We've already done the finding. In fact you have one in your possession.
+- Gale: You know for yourself how hard won such an item was, and it will be no easier when even more are required to assuage my hunber.
+- Gale: There will be danger involved - or great cost.
+- Tav: I expected as much. Don't worry - I'm happy to help.
+- Gale: Splendid. A bit of boldness will serve us well.
+- Gale: I'm sure we wn't have to look very far to find what I need: Faerûn overflows with magic-infused treasure.
+- Gale: As do our packs, as a matter of fact. We've such an item already in our possession, primed for the moment the need arises.
+- Gale: I hope I can count on you.
+  - 相変わらずこいつの話し方は回りくどくてわかりにくい
 
 ### 20, Eliasis - 15:11 - Asharak, Tav
 
