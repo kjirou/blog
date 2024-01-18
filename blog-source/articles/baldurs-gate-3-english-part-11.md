@@ -774,14 +774,14 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
 - Gale: I can say no more on the matter - not now anyway.
 - Gale: Just trust me when I say it's all of vital imortance.
 - Gale: It's been days since I last consumed an artefact - since before we were abducted. It's only a matter of time before my craving returns.
-- Gale: That is why I turn to you. I need you to help me find magic items to consume. It is viital. Dare I say it, critical.
-- Tav: Where do you suggest wwe find the artefacts you need?
+- Gale: That is why I turn to you. I need you to help me find magic items to consume. It is vital. Dare I say it, critical.
+- Tav: Where do you suggest we find the artefacts you need?
 - Gale: We've already done the finding. In fact you have one in your possession.
-- Gale: You know for yourself how hard won such an item was, and it will be no easier when even more are required to assuage my hunber.
+- Gale: You know for yourself how hard won such an item was, and it will be no easier when even more are required to assuage my hunger.
 - Gale: There will be danger involved - or great cost.
 - Tav: I expected as much. Don't worry - I'm happy to help.
 - Gale: Splendid. A bit of boldness will serve us well.
-- Gale: I'm sure we wn't have to look very far to find what I need: Faerûn overflows with magic-infused treasure.
+- Gale: I'm sure we won't have to look very far to find what I need: Faerûn overflows with magic-infused treasure.
 - Gale: As do our packs, as a matter of fact. We've such an item already in our possession, primed for the moment the need arises.
 - Gale: I hope I can count on you.
   - 相変わらずこいつの話し方は回りくどくてわかりにくい
