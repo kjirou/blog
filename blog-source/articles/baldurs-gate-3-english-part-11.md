@@ -851,10 +851,44 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
     - 慣用句,名詞句: ちょうどそれだけ、等しく
   - as much は名詞句
 - Gale: Splendid. A bit of boldness will serve us well.
+  - [boldness](https://ejje.weblio.jp/content/boldness), ボウールドネス
+    - 名詞: 大胆さ、ずぶとさ
+  - [serve](https://ejje.weblio.jp/content/serve), (サ|ス)ァーブ
+    - 他動詞: 〜の役に立つ
 - Gale: I'm sure we won't have to look very far to find what I need: Faerûn overflows with magic-infused treasure.
+  - [look](https://ejje.weblio.jp/content/look) は、ChatGPTによると、または自分が読んでも、自動詞の「探す」「探し求める」という意味のよう
+    - ただ、Weblio辞書にはその用法は書いてない
+  - very far は物理的な距離のことを意味している
+  - Faerûn
+    - ゲーム用語,名詞: 地域または地方名。おそらく国程度の大きさ。
+      - Ref. https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn
+    - でもここはthe Nine HellsのAvernusじゃなかったっけ...?
+  - [overflow](https://ejje.weblio.jp/content/overflow), オーヴァフロウ
+    - 自動詞: あふれる、満ちあふれている
+  - [infuse](https://ejje.weblio.jp/content/infuse), (イ|エ)ンフューズ
+    - 他動詞: 〜を吹き込む、〜を染み込ませる
 - Gale: As do our packs, as a matter of fact. We've such an item already in our possession, primed for the moment the need arises.
+  - do は強調の意味
+  - [as a matter of fact](https://ejje.weblio.jp/content/as+a+matter+of+fact)
+    - 慣用句: 実際のところ
+    - Ref. https://jp.elsaspeak.com/%E3%80%90%E3%82%A4%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A0%E3%80%91%E3%80%8C-as-a-matter-of-fact%E3%80%8D%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/
+      - > すでに話した内容に新たな情報を付け足す時や、誰かの話したことに対して反論したり、訂正する時に使用します。
+  - [prime](https://ejje.weblio.jp/content/prime), プライ(ン|ム)
+    - 自動詞: 準備する
+      - Weblio辞書にはない意味で、 https://eow.alc.co.jp/search?q=prime を参照した
+      - この意味じゃないと、primed for the moment の部分が解読できない
+  - [arise](https://ejje.weblio.jp/content/arise)
+    - 自動詞: 発生する、生じる
+      - 主に困難な状況や問題の発生で使われる
+    - Tales of ARISE ってあったから名詞の意味もあるのかと思ったけど、なさそう
+  - ChatGPT訳:
+    - > 「実際、私たちの荷物も同じです。必要が生じる瞬間に備えて、すでにそのようなアイテムを持っています。」
+  - この文章の意味はわからなかった
 - Gale: I hope I can count on you.
-  - 相変わらずこいつの話し方は回りくどくてわかりにくかった
+  - [count on](https://ejje.weblio.jp/content/count+on)
+    - 句動詞,他動詞: 頼る
+  - I can count on you で「頼りにしているよ」という言い回しのよう
+  - 相変わらずこいつの話し方は回りくどくてわかりにくかった、お前しばらく喋るなよ！
 
 ### 20, Eliasis - 15:11 - Asharak, Tav
 
