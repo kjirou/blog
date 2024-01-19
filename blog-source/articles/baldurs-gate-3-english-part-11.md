@@ -881,13 +881,15 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
     - 自動詞: 発生する、生じる
       - 主に困難な状況や問題の発生で使われる
     - Tales of ARISE ってあったから名詞の意味もあるのかと思ったけど、なさそう
-  - ChatGPT訳:
-    - > 「実際、私たちの荷物も同じです。必要が生じる瞬間に備えて、すでにそのようなアイテムを持っています。」
+  - ChatGPT訳:「実際、私たちの荷物も同じです。必要が生じる瞬間に備えて、すでにそのようなアイテムを持っています。」
   - この文章の意味はわからなかった
 - Gale: I hope I can count on you.
   - [count on](https://ejje.weblio.jp/content/count+on)
     - 句動詞,他動詞: 頼る
-  - I can count on you で「頼りにしているよ」という言い回しのよう
+  - can の有無での意味の差 by ChatGPT
+    - I count on you は、直接現在頼っていることを意味する
+    - I can count on you は、必要な時に頼らせてくれという潜在的な頼りを意味する
+  - というより、 I can count on you で「頼りにしているよ」というひとつの言い回しのよう
   - 相変わらずこいつの話し方は回りくどくてわかりにくかった、お前しばらく喋るなよ！
 
 ### 20, Eliasis - 15:11 - Asharak, Tav
@@ -896,11 +898,23 @@ WyllとTieflingのAsharakが子供の戦闘訓練をしていた場所に戻り�
 
 - Asharak: I saw you at the gates. You fight well.
 - Asharak: A few words for the kids? Spare a story or two?
+  - [spare](https://ejje.weblio.jp/content/spare), スペアア
+    - 他動詞: 時間やお金などを割く・与える
 - Tav: They're just children - why are you teaching them to fight?
 - Asharak: It's that or teach them to beg for their lives.
+  - [beg](https://ejje.weblio.jp/content/beg), ベ↑ッグ
+    - 自動詞: ものや許しなどを請う
+    - beg for 名詞: 名詞 を請う
+  - 「それ（=戦いを教えること）か命乞いを彼らに教えるかだ」
 - Asharak: The goblins will chase us to Baldur's Gate and these kids know it.
 - Asharak: A warrior like you could lift their sprits.
 - Tav: I'll lift their spirits by wiping out that whole camp of goblins by myself.
+  - [wipe out](https://ejje.weblio.jp/content/wipe+out)
+    - 他動詞: 一掃する、全滅する
+    - [wipe](https://ejje.weblio.jp/content/wipe), ワイプ
+      - 他動詞: ぬぐう
+  - ChatGPT訳:「私は一人であのゴブリンの全キャンプを一掃して、みんなの士気を高めてみせる。」
+  - 過去の話をするんじゃないの？今からやる話ならひとりでもないのでは？ 意味がわからない...
 - Asharak: Thanks. I prefer when they smile.
   - 逆に足でまといになりそうな気はするが、総力戦なら勝算がある状況で自衛程度の戦力を得るということ目的にしているなら、心が前向きな方がやや良さそう
   - これで、先ほどの子供達（Gan・Ide・Umi）の会話が変わった
@@ -910,21 +924,29 @@ WyllとTieflingのAsharakが子供の戦闘訓練をしていた場所に戻り�
 再び、戦闘訓練をしている子どもの一人へ話しかけた
 
 - Gan: Bring me a goblin! I'm gonna gut it!
+  - [gut](https://ejje.weblio.jp/content/gut), ガッ(ト|)
+    - 他動詞: 〜のはらわたを抜く
 
 ### 20, Eliasis - 15:17 - Ide
 
 再び、戦闘訓練をしている子どもの一人へ話しかけた
 
-- Ide: I'm finghting next time, no matter what Asharak says.
+- Ide: I'm fighting next time, no matter what Asharak says.
+  - [no matter](https://ejje.weblio.jp/content/no+matter)
+    - たとえ〜があっても関係なく
+    - 通常、what, why, how などの節を伴う
 
 ### 20, Eliasis - 15:18 - Umi
 
 再び、戦闘訓練をしている子どもの一人へ話しかけた
 
 - Umi: What? Oh year. 'Go for the heart.'
+  - 君には生き残って欲しい
 
 ### 20, Eliasis - 15:20 - Asharak
 
 再び、Asharakへ話しかけた
 
 - Asharak: Look at them beaming. You did that.
+  - [beam](https://ejje.weblio.jp/content/beam), ビィー(ン|ム)
+    - 自動詞: ほほえむ
