@@ -770,21 +770,91 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
   - to live with の目的語が a malady
   - not without で否定の否定のようになっていて、つまりは with になっている
 - Gale: What it comes down to is this: every so often I need to get my hands on a powerful magical item and absorb the Weave inside.
+  - [come down to](https://ejje.weblio.jp/content/come+down+to)
+    - 句動詞,他動詞: 結局〜になる、〜に帰着する
+  - [every so often](https://ejje.weblio.jp/content/every+so+often)
+    - 慣用句: 時々、時折
+    - [so often](https://ejje.weblio.jp/content/so+often)
+      - 慣用句: 度々、そうそう
+    - 両方とも、不定期だがある程度の間隔で物事が発生することを意味する
+    - every so often の方が so often より頻度が低い
+      - [every](https://ejje.weblio.jp/content/every) は「毎〜」であり、一定の間隔を含むことを意味しているから by ChatGPT
+  - [get on](https://ejje.weblio.jp/content/get+on)
+    - 句動詞: 衣服を身につける、ものを取り付ける
+  - Weave
+    - ゲーム用語,名詞: 呪文や魔法と関係ある手法もしくはエネルギー的なものの概念、よくわからん
+      - Refs
+        - https://trpg-japan.com/dnd/d-and-d-class/wizard-role-playing-method-recommended-for-d-and-d-beginners/
+          - > D＆Dのウィザードは世界に満ち溢れる「織（ウィーヴ）」を手繰り寄せ、編み、操ることに長けているクラスであり、常に魔法を研究し続けています。呪文は「織」を成すためのもので、その力は強大であり破壊的なエネルギーを持っています。
+        - https://forgottenrealms.fandom.com/wiki/Weave
+    - 一般的な意味での名詞の [weave](https://ejje.weblio.jp/content/weave) は、「織り方、編み方、織りや編みそのもの」を意味する
 - Tav: Your illness causes you to consume raw magic? I'm going to need the details...
 - Gale: I can say no more on the matter - not now anyway.
-- Gale: Just trust me when I say it's all of vital imortance.
+  - [say on](https://ejje.weblio.jp/content/say+on)
+    - 句動詞,他動詞: 話を続ける
+      - on が継続の意味を示すからか
+  - not now / anyway で、「今はない、とにかく」
+- Gale: Just trust me when I say it's all of vital importance.
+  - [vital](https://ejje.weblio.jp/content/vital), バイタ(ル|ウ)
+    - 形容詞: 極めて重要な
+  - [importance](https://ejje.weblio.jp/content/importance), インポ↑ー(タ|テ)ンス
+    - 名詞: 重要、重要性
+  - [all of](https://ejje.weblio.jp/content/all+of) を介している機微はあんまりわかってない、「すっかり」みたいな意味なんだろうか
 - Gale: It's been days since I last consumed an artefact - since before we were abducted. It's only a matter of time before my craving returns.
+  - このゲームだと [artifact](https://ejje.weblio.jp/content/artifact) は [artefact](https://ejje.weblio.jp/content/artefact) へ統一しているよう
+  - it's been days:「ある時点から数日経過した」
+    - it's = it has
+    - その後に since で時点の説明をしている
+  - since が二つ連続している部分は、文法としては正しくなさそう。機械翻訳が自然に訳せない。
+  - [it's only a matter of time](https://ejje.weblio.jp/content/it%27s+only+a+matter+of+time)
+    - 慣用句: それは時間の問題だ
+      - いずれ確実に発生する意味を含む
+    - 直訳すると「それは結局のところただ時間を背景とした問題だ」、日本語で考えた方が正しい意味に近い不思議なやつ
+  - [craving](https://ejje.weblio.jp/content/craving), ク(レ|リ)ィビング
+    - 名詞: 切望、熱望
+  - It's only a matter of time before my craving returns.
+    - It's only a matter of time が時点の説明を求めているので、それを接続詞の [before](https://ejje.weblio.jp/content/before) で繋げて満たしている
 - Gale: That is why I turn to you. I need you to help me find magic items to consume. It is vital. Dare I say it, critical.
+  - [turn](https://ejje.weblio.jp/content/turn), (タ|トゥ)ーン
+    - 自動詞: 考えや注意などが何かへ向く
+  - help me find が help O V原形 なのは、使役動詞の構文
+  - [dare](https://ejje.weblio.jp/content/dare), デァア
+    - 助動詞: あえて〜する
+  - critical ＞ vital なんやな
 - Tav: Where do you suggest we find the artefacts you need?
 - Gale: We've already done the finding. In fact you have one in your possession.
+  - えぇ...? イベントアイテム的なので思いつくのは、Shadowheartが所持している謎の物品しか思いつかない。一般の magic item でもいいのかな。
 - Gale: You know for yourself how hard won such an item was, and it will be no easier when even more are required to assuage my hunger.
+  - You know for yourself の for yourself は強調の意味
+  - [win](https://ejje.weblio.jp/content/win), ウィンン
+    - win - won - won
+    - 他動詞: 獲得する、勝ち取る
+  - hard won は、修飾語（通常は副詞） + 過去分詞 で形容詞句を形成する構文とのこと by ChatGPT
+    - 過去分詞は完了の意味を含む形容詞になるから、「苦労して獲得した」になりそう
+    - 他の例
+      - well known fact
+      - long awaited event
+  - [assuage](https://ejje.weblio.jp/content/assuage), ア↑スウェィージ
+    - 他動詞: 苦痛・不安・怒りなどを緩和する・和らげる
+  - even more は通常は比較級の構文で使われる句だが、この文では名詞句として使われているよう
 - Gale: There will be danger involved - or great cost.
+  - [danger](https://ejje.weblio.jp/content/danger), デインジャア
+    - 名詞: 危険
+    - 形容詞と間違えていた
+  - [involve](https://ejje.weblio.jp/content/involve), イン(バ|ボ)ウブ
+    - 他動詞: 巻き込む、巻き添えにする
+  - 直訳:「巻き込まれた危険があるでしょう」→ 意訳:「危険を伴うでしょう」
+  - [cost](https://ejje.weblio.jp/content/cost), コ↑ォス(ト|)
+    - 名詞: 代償、犠牲
 - Tav: I expected as much. Don't worry - I'm happy to help.
+  - [as much](https://ejje.weblio.jp/content/as+much)
+    - 慣用句,名詞句: ちょうどそれだけ、等しく
+  - as much は名詞句
 - Gale: Splendid. A bit of boldness will serve us well.
 - Gale: I'm sure we won't have to look very far to find what I need: Faerûn overflows with magic-infused treasure.
 - Gale: As do our packs, as a matter of fact. We've such an item already in our possession, primed for the moment the need arises.
 - Gale: I hope I can count on you.
-  - 相変わらずこいつの話し方は回りくどくてわかりにくい
+  - 相変わらずこいつの話し方は回りくどくてわかりにくかった
 
 ### 20, Eliasis - 15:11 - Asharak, Tav
 
