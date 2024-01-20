@@ -9,36 +9,42 @@ lastUpdatedAt: "2023-12-14 01:50:00+0000"
 
 ## 本編
 
-### 20, Eliasis - 15:57 - Us, 主人公
+### 20, Eliasis - 15:57 - Us, Tav
 
-- [thought](https://ejje.weblio.jp/content/thought)
-  - 名詞: 意見、見解
-  - though, through, thought でめっちゃ目が滑る
-- [rattle](https://ejje.weblio.jp/content/rattle), ラ↑ァート(ォ|ル)
-  - 自動詞: ガタガタ鳴る、ぺちゃくちゃしゃべる
-- [against](https://ejje.weblio.jp/content/against)
-  - 前置詞: 反対して、対抗して
-  - コアイメージは、何かに対抗して力が釣り合っている図。「対して」って覚えてたけど違った。
-- [squirm](https://ejje.weblio.jp/content/squirm), スクゥワ↑ーム
-  - 自動詞: 身もだえする
-- [recognition](https://ejje.weblio.jp/content/recognition), リ(ケ|コ)ッ(ク|グ)ネ↑ィション
-  - 名詞: 認識
-  - 発音が難しい
-- [force](https://ejje.weblio.jp/content/force)
-  - 他動詞: 強制する、強いる
-- Why was I forced onto this ship?
-  - DeepL翻訳: なぜ私はこの船に押し込められたのか？
-  - force は不定詞や動名詞を伴わないときは、無理に入る・入れるになるみたい？
-- A gift
-  - ゲーム用語: 主人公たちに埋め込んだ寄生体のこと
-  - Mind Flayer の従者がそう表現していた
-- [fled](https://ejje.weblio.jp/content/fled)
-  - [flee](https://ejje.weblio.jp/content/flee) の過去形・過去分詞形
+- \*The creature reaches into your mind, its thoughts rattiing against yours. Something inside you squirms in recognition.\*
+  - [reach](https://ejje.weblio.jp/content/reach), ゥリィチ
+    - 自動詞: 手を伸ばして届く
+  - [rattle against](https://ejje.weblio.jp/content/rattle+against)
+    - 句動詞,他動詞: 〜に当たってガタガタ鳴る
+    - [rattle](https://ejje.weblio.jp/content/rattle), ラァー(ト|ロ)ゥ
+      - 自動詞: ガタガタ鳴る、ぺちゃくちゃしゃべる
+    - [against](https://ejje.weblio.jp/content/against)
+      - 前置詞: 反対して、対抗して
+      - コアイメージは、何かに対抗して力が釣り合っている図。「対して」って覚えてたけど違った。
+  - [squirm](https://ejje.weblio.jp/content/squirm), スクゥワ↑ーム
+    - 自動詞: 身もだえする
+  - [recognition](https://ejje.weblio.jp/content/recognition), リ(ケ|コ)ッ(ク|グ)ネィション
+    - 名詞: 認識
+- Us: _Friend. We will go to the helm now._
+- Tav: Why was I forced onto this ship?
+  - [force](https://ejje.weblio.jp/content/force), フォァス
+    - 他動詞: 強制する、強いる
+  - ChatGPT訳:「なぜ私はこの船に強制的に乗せられたのか？」
+    - force に「強制的に乗せる」という意味はないが、文脈から的確であるとのこと
+- Us: _To know you. To love you. To give you our gift._
+- Tav: Something was put in my eye. What was it?
+- Us: _A gift. A gift to make you as we are. Soon you will be so beautiful. So powerful._
+- Tav: Can you tell me where we are?
+- Us: _In a realm, where we have fled. We have fled to a realm called Avernus. First of the Nine Hells. We are escaping a great evil._
+  - [flee](https://ejje.weblio.jp/content/flee), (ツ|フ)リー
+    - flee - fled - fled
     - 自動詞: 避難する、逃げる
-- Avernus, ア↑ーヴァナス
-  - ゲーム用語: Mind Flayer の船が攻撃されて逃げた先の地獄みたいなところ。デーモンが空を舞ってて、Mind Flayer たちを攻撃してくる。
-  - We have fled to a realm called Avarnus. First of the Nine Hells. We are escaping a great evil.
-    - a great evil ってなんだろう？
+  - Avernus, アーヴァナス
+    - ゲーム用語,固有名詞: Mind Flayerの船が攻撃されて逃げた先の地獄みたいなところ。デーモンが空を舞ってて、Mind Flayerたちを攻撃してくる。
+      - Ref. https://forgottenrealms.fandom.com/wiki/Avernus
+  - a great evil だと複数匹居る内の一人の強い悪魔だが、シーン上はそういう奴は居なかった
+- Tav: _Leave._
+- Us: _We are going to the helm. My friend and I are going to the helm._
 
 ### 20, Eliasis - 16:19 - Lae'zel, 主人公
 
