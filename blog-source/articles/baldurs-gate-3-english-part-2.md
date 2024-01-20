@@ -46,7 +46,22 @@ lastUpdatedAt: "2023-12-14 01:50:00+0000"
 - Tav: _Leave._
 - Us: _We are going to the helm. My friend and I are going to the helm._
 
-### 20, Eliasis - 16:19 - Lae'zel, 主人公
+### 20, Eliasis - 16:19 - Lae'zel, Tav
+
+- Lae'zel: Abomination. This is your end.
+- \*Your head throbs and your skin tingles. Visions rush past: a dragon's wing, a silver sword - and a flash of your face seen through the strange woman's eyes.\*
+- Lae'zel: _My head._ What is this... _ngh_.
+- Lae'zel: _Tsk'va._ You are no thrall - Vlaakith blesses me this day! Together we might survive.
+- Tav: What made you think I was a thrall?
+- Lae'zel: We carry mind flayer parasites. Unless we escape - unless we are _cleansed_ - our bodies and minds will be tainted and twisted.
+- Lae'zel:
+- Tav:
+- Lae'zel:
+- Tav:
+- Lae'zel:
+- Lae'zel:
+- Lae'zel:
+- Lae'zel:
 
 - [abomination](https://ejje.weblio.jp/content/abomination), アバ↑ーミネーシ(ョ|ェ)ン
   - 名詞: 大嫌いなもの、忌まわしいこと
