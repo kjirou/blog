@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-11
-lastUpdatedAt: "2024-01-14 05:35:10+0000"
+lastUpdatedAt: "2024-01-20 08:50:16+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 11冊目
@@ -57,7 +57,10 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
 - Mattis: See? That's the kinda luck you get from just one of my lucky rings!
   - [kinda](https://ejje.weblio.jp/content/kinda), キンダ
     - 副詞: ある程度において
+      - = kind of
       - kind a が語源
+  - the kinda luck は副詞が名詞を修飾しているので変だが、ChatGPTに聞くと非公式な文章ならよくあるとのこと
+    - 元々 kind of の短縮形だからその位置で使われるというのがあるのかも
 - Mattis: I've got more where that came from. Real cheap, too. Interested?
   - [there's more where that came from](https://ejje.weblio.jp/content/there%27s+more+where+that+came+from)
     - まだまだある、もっとある
@@ -219,7 +222,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
     - 名詞: 悪意のある人
     - 指輪物語に蛇の舌というキャラがいたけど、あれは Wormtongue だった
 - Tav: I saw what happened. Why are the druids holding your daughter?
-- Locke: Arbella tried to steal their idol. Druids lost their damn minds about it - they need it for their precious ritual.
+- Locke: Arabella tried to steal their idol. Druids lost their damn minds about it - they need it for their precious ritual.
   - [idol](https://ejje.weblio.jp/content/idol), アイドォ
     - 名詞: 聖像、偶像
   - [lose one's mind](https://ejje.weblio.jp/content/lose+one%27s+mind)
@@ -246,6 +249,7 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
   - the wretched thing が娘が盗みを行うことなのか、娘自体なのか、他のことか、がわからない
   - [explode](https://ejje.weblio.jp/content/explode) は、「いなくなれ」みたいな意味もあるのだろうか。わからん。
 - Locke: Now Arabella is being judged by a bunch of druids who hate us. That's not right.
+  - being は受動態にするため
   - [bunch](https://ejje.weblio.jp/content/bunch), バ↑ンチ
     - 名詞: 一団、群れ、束、房
 - Gale: This grove is like a cauldron about to boil over. I say we check in on the child - make sure she comes to no harm.
@@ -255,6 +259,8 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
     - 副詞: およそ、そろそろ
   - [boil over](https://ejje.weblio.jp/content/boil+over)
     - 句動詞: 煮え溢れる、かんかんに怒り出す
+  - about to boil over は、boil over の about つまり周辺なので、「煮え溢れる寸前」になる
+  - I [say](https://ejje.weblio.jp/content/say) は「提案する」という意味とのこと by ChatGPT
   - check in on 人:「人 の様子を見に行く」
     - check in, check on, check in on それぞれ存在する
       - Ref. https://talking-english.net/check-in-check-on-check-in-on/
@@ -273,6 +279,9 @@ lastUpdatedAt: "2024-01-14 05:35:10+0000"
     - 慣用句,副詞句: そのままでは、変更や改善をしない現状のままでは
     - Ref. https://mickeyweb.info/archives/872
       - as-is とハイフンで繋がると副詞になる
+  - [take](https://ejje.weblio.jp/content/take), テイク
+    - 他動詞: 受け入れる、思う、耐える
+    - take O C で「O が C であることを受け入れる・思う・耐える」
   - ChatGPT訳:
     - > 「急いでください。私はもう我慢の限界です - この待ち時間に耐えられません。」
   - ほぼ全てのイベントで急げって言われるんだけど、時限で失敗したりするんだろうか...
@@ -352,7 +361,8 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
     - 名詞: (快感・恐怖などで)ぞくぞくする感じ、スリル
       - 良い意味も悪い意味もあって、今回は良い意味だと思う
 - Wyll: They're tough kids. Smart, too. The future's in good hands.
-  - The future's in good hands:「未来はその手の中に託されている」
+  - [in good hands](https://ejje.weblio.jp/content/in+good+hands)
+    - 慣用句: 安泰である、面倒を見てくれる人がいる
 
 ### 20, Eliasis - 2:05 - Wyll, Umi, Tav
 
@@ -363,6 +373,7 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
 - Wyll: Not bad. Again.
 - Umi: I can't do it. I'm not like you.
 - Wyll: Umi. I don't need you to be like me.
+  - これは何かの暗喩なのだろうか
 - Wyll: You just have to buy enough time to run. Come on. I believe in you. You can do this.
   - to buy enough time to run:「逃げるための時間を稼ぐ」
   - [believe in](https://ejje.weblio.jp/content/believe+in)
@@ -389,7 +400,7 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
   - [curled](https://ejje.weblio.jp/content/curled), カ↑オード
     - 形容詞: 巻き毛の、渦巻いた
     - そういえば、curl はなぜ curl なんだろう
-  - [blaze](https://ejje.weblio.jp/content/blaze), ブレ↑イーズ
+  - [blaze](https://ejje.weblio.jp/content/blaze), ブレイーズ
     - 自動詞: 燃えたつ、煌々と輝く
 - Wyll: Hells' great fires - you were on the ship.
   - Hells' は Hells の所有
@@ -520,6 +531,7 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
   - [nothing but](https://ejje.weblio.jp/content/nothing+but)
     - 慣用句: 〜に他ならない
       - only と似た意味
+  - おそらく Nothing but (some trouble).
   - [out for](https://ejje.weblio.jp/content/out+for)
     - 慣用句,前置詞: 〜を求めて
   - Goblins ((in the wilds), (out for blood))
@@ -657,7 +669,6 @@ Sazzaという捕虜のゴブリンに対して、Arkaというティーフリ�
 - Arka: Why do you care if a goblin lives or dies?
 - Tav: If she dies, she'll take everything she knows to the grave.
 - Arka: If you believe anything the beast tells you, you're an idiot.
-  - せやな、あんまり口を突っ込むんじゃなかった。すまんな。
 - Memnos: It's all right, Arka. Let's go.
   - この後にSazzaに尋問などをできるのかと思ったら、何もできなかった
 
@@ -707,7 +718,6 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
   - [courage](https://ejje.weblio.jp/content/courage), カーレッジ
     - 名詞: 勇気、度胸
   - you were kind enough の enough は、「十分に親切だった、〜をするほど」という意味
-  - demonstrate や guile で最初は疑ってたみたいな悪い意味なのかと思ったけど、そんなことはなかった
 - Gale: The way you defused the tension between Zevlor and Aradin.
   - The way ~ なのは、前文の demonstrate の内容を列挙しているからだと思う
   - [defuse](https://ejje.weblio.jp/content/defuse), デ・フィューズ
@@ -739,12 +749,11 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
   - I've yet to tell another living soul
     - living soul:「生きている魂」が転じて「生きている人」
     - ChatGPT曰く、 I [have](https://ejje.weblio.jp/content/have) の目的語が to tell another living soul であって、〜しなければならないの構文ではないとのこと
-      - 訳は文脈に合ってるし、have のイメージにも合ってるけど、have の直接目的語にto不定詞が入る例がWeblio辞書になかったのが気になる
+      - 訳は文脈に合ってるし、have のイメージにも合ってるけど、have の直接目的語にto不定詞が入る例がWeblio辞書になかった
   - The reason that I've grown confident enough to tell you something. が文の骨格
     - おそらく The reason の修飾として、I make a point of saying this is
     - something の修飾として、I've yet to tell another living soul
   - 「この理由、私がこれをいう訳は、私があなたに他の誰にも話してないことを話す自信がついたからなんだ。」
-  - べらべらべらべら余計な言葉を挟むなお前はぁ！
 - Gale: You see, I have this... condition. Very different from the parasite we share, but just as deadly.
   - [you see](https://ejje.weblio.jp/content/you+see)
     - 慣用句: 相手がおそらく知らないことへの会話の切り出し
@@ -799,7 +808,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
     - 形容詞: 極めて重要な
   - [importance](https://ejje.weblio.jp/content/importance), インポ↑ー(タ|テ)ンス
     - 名詞: 重要、重要性
-  - [all of](https://ejje.weblio.jp/content/all+of) を介している機微はあんまりわかってない、「すっかり」みたいな意味なんだろうか
+  - [all of](https://ejje.weblio.jp/content/all+of) を介している意味はあまりわからない、「すっかり」みたいな意味？
 - Gale: It's been days since I last consumed an artefact - since before we were abducted. It's only a matter of time before my craving returns.
   - このゲームだと [artifact](https://ejje.weblio.jp/content/artifact) は [artefact](https://ejje.weblio.jp/content/artefact) へ統一しているよう
   - it's been days:「ある時点から数日経過した」
@@ -882,7 +891,8 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
       - 主に困難な状況や問題の発生で使われる
     - Tales of ARISE ってあったから名詞の意味もあるのかと思ったけど、なさそう
   - ChatGPT訳:「実際、私たちの荷物も同じです。必要が生じる瞬間に備えて、すでにそのようなアイテムを持っています。」
-  - この文章の意味はわからなかった
+    - たぶん前半は、「実際のところ補足として、我々の荷物には。」という意味なのではないかと思う
+      - As do our packs の As の意味があまりわからないけど
 - Gale: I hope I can count on you.
   - [count on](https://ejje.weblio.jp/content/count+on)
     - 句動詞,他動詞: 頼る
@@ -894,7 +904,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
 
 ### 20, Eliasis - 15:11 - Asharak, Tav
 
-WyllとTieflingのAsharakが子供の戦闘訓練をしていた場所に戻り、Asharakへ話しかけた
+WyllとティーフリングのAsharakが子供の戦闘訓練をしていた場所に戻り、Asharakへ話しかけた
 
 - Asharak: I saw you at the gates. You fight well.
 - Asharak: A few words for the kids? Spare a story or two?
@@ -914,9 +924,8 @@ WyllとTieflingのAsharakが子供の戦闘訓練をしていた場所に戻り�
     - [wipe](https://ejje.weblio.jp/content/wipe), ワイプ
       - 他動詞: ぬぐう
   - ChatGPT訳:「私は一人であのゴブリンの全キャンプを一掃して、みんなの士気を高めてみせる。」
-  - 過去の話をするんじゃないの？今からやる話ならひとりでもないのでは？ 意味がわからない...
+  - 文脈から過去の話をしそうなんだけど、現在形が回答になっている。そして今からの話なら一人ではないと思う。と色々不明
 - Asharak: Thanks. I prefer when they smile.
-  - 逆に足でまといになりそうな気はするが、総力戦なら勝算がある状況で自衛程度の戦力を得るということ目的にしているなら、心が前向きな方がやや良さそう
   - これで、先ほどの子供達（Gan・Ide・Umi）の会話が変わった
 
 ### 20, Eliasis - 15:16 - Gan
