@@ -26,6 +26,7 @@ lastUpdatedAt: "2023-12-15 00:20:54+0000"
       - 「1週間」という概念はなく、「ある月の最初の10日間(tenday)」という感じに表現する
   - By Date が何で絞り込んでいるのか不明で、丸一日以上ゲーム内時間が経過しても、日付が変わらない
     - たぶん、Camp するまで変わらないのではと思っている
+- Tav は主人公の名前
 - 特に抜き出して記載している単語の意味は主にゲーム内で使われたもの。そうじゃないこともあるかもしれない。
 - 発音表記はオレオレのカタカナベースの表記、いつか発音記号を学びたい
 
@@ -41,3 +42,4 @@ lastUpdatedAt: "2023-12-15 00:20:54+0000"
 - [Baldur's Gate 3の英語を復習する 8冊目](./baldurs-gate-3-english-part-8.html)
 - [Baldur's Gate 3の英語を復習する 9冊目](./baldurs-gate-3-english-part-9.html)
 - [Baldur's Gate 3の英語を復習する 10冊目](./baldurs-gate-3-english-part-10.html)
+- [Baldur's Gate 3の英語を復習する 11冊目](./baldurs-gate-3-english-part-11.html)
