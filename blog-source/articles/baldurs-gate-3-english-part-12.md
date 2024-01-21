@@ -185,6 +185,8 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
 
 ### 20, Eliasis - 17:11 - Okta, Tav
 
+大鍋で料理をしているティーフリングの老婆へ話しかけた
+
 - Okta: You. Saw you fighting those slimy bastards.
   - [slimy](https://ejje.weblio.jp/content/slimy), スライミィ
     - 形容詞: 不快な、卑劣な
@@ -236,3 +238,56 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - 名詞: 小さな破片、小片、細片
   - every bit を直訳すると「全ての小さな破片」だが、おそらく意訳で「かき集めた全て」
   - さっきもらったGruelという食べ物には、特にバフ効果はないんだけどな... HP回復効果はあるけど
+
+### 20, Eliasis - 17:35 - Auntie Ethel, Tav, Astarion
+
+薬の調合をしているおそらくは人間の老婆へ話しかけた
+
+- Auntie Ethel: Ah, if it isn't the talk o' the camp?
+  - [the talk](https://ejje.weblio.jp/content/the+talk)
+    - 名詞: 噂のタネ
+  - o' = of
+    - on のこともあるらしい
+- Auntie Ethel: Thank goodness you came along when you - oh!
+  - [thank goodness](https://ejje.weblio.jp/content/thank+goodness)
+    - 〜で良かった、〜でありがとう
+    - thank you は対象を指定しているが、こちらは心からの感謝や安堵を誰ともなく伝える時に使う
+    - 元々は thank god だったらしい
+      - Ref. https://sendai-eigo.com/nagamachi-eikaiwa/thank-goodness/
+    - [goodness](https://ejje.weblio.jp/content/goodness), グ↑ッドネス
+      - 名詞: 徳、善性、優しさ
+  - [come along](https://ejje.weblio.jp/content/come+along)
+    - 自動詞: やってくる
+- Auntie Ethel: There isn't a _bit_ of colour in those cheeks, petal! Are you hurt? Cold? Feverish?
+- Auntie Ethel: Auntie Ethel will sort you out. I've lotions and potions galore!
+- Tav: What are you, an alchemist?
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Tav:
+- Auntie Ethel:
+- Auntie Ethel:
+- Tav:
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Astarion:
+- Astarion:
+- Auntie Ethel:
+- Tav:
+- \*\*
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Tav:
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Auntie Ethel:
+- Tav:
+- Auntie Ethel:
+- Auntie Ethel:
