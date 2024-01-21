@@ -182,3 +182,57 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - I'll wake up が未来形である理由がわからない
       - I keep dreaming が「夢をこれからも見続ける」と未来を含み、それに対して目覚める時点は未来だからなのだろうか
   - お前の始めた物語だろ！？
+
+### 20, Eliasis - 17:11 - Okta, Tav
+
+- Okta: You. Saw you fighting those slimy bastards.
+  - [slimy](https://ejje.weblio.jp/content/slimy), スライミィ
+    - 形容詞: 不快な、卑劣な
+      - 字面の通り、「ネバネバした、ぬるぬるした」という意味もある
+  - [bastard](https://ejje.weblio.jp/content/bastard), バ↑ァスタード
+    - 名詞: ひどい人、いやな人
+  - ここではゴブリン達としか戦ってないから、slimy bastards はそれらを指すのだろう
+- Okta: Fancy a bowl?
+  - [fancy](https://ejje.weblio.jp/content/fancy), ファンスィ
+    - 他動詞: 〜を考えてごらん
+  - 「一杯いかが？」という言い回しらしい
+    - Google検索でそれなりにヒットして、ChatGPTも言ってた
+- Okta: Best to fill your belly now - while we still can.
+  - [belly](https://ejje.weblio.jp/content/belly), ベ(ア|リ)ィ
+    - 名詞: お腹
+  - [berry](https://ejje.weblio.jp/content/berry) と間違って、自分の素材を消費するのだと思ってしまった。ただアイテムがもらえた。
+- Tav: What is it, exactly?
+- Okta: Food. You want it or not?
+- Tav: _Take the bowl._
+- Okta: Look. It ain't much, but it might make all the difference.
+  - [look](https://ejje.weblio.jp/content/look), ルゥック
+    - 自動詞: ねえ、ほら
+      - 命令形で用いる
+  - [ain't](https://ejje.weblio.jp/content/ain%27t), エイント
+    - be動詞＋否定語（ am not、 are not、 is not）の略、または、助動詞 have＋否定語（has not、 have not）の略
+      - Ref. https://eikaiwa.weblio.jp/column/phrases/natural_english/aint-slung
+    - Weblio辞書の単語の方だと説明が足りないので、Ref先を読んだ方が良い
+  - ここでは ain't = is not
+  - it is not much:「大して役に立たない」、謙遜の意味を含む
+    - [much](https://ejje.weblio.jp/content/much) には代名詞で「重要なこと」という意味はあるが他の品詞にはなかった
+      - しかし、ChatGPTによるとこの much は副詞とのこと、どちらが正しいのかはわからなかった
+  - all the difference
+    - [all](https://ejje.weblio.jp/content/all) は形容詞の「全ての」
+    - the all difference にならないのは、all of the difference の of が省略された形だからとのこと
+      - Ref. https://nekoeigo.net/nekohigh/article-5
+      - 他にも、both, double, half, twice などが同様の扱い
+- Okta: The only way we'll make it to Baldur's Gate is to run, and run hard.
+  - ChatGPT訳:「バルダーズ・ゲートにたどり着く唯一の方法は、走り、懸命に走ることだ。」
+    - 「走る」ではなくて「逃げる」の方が合ってそう？
+  - to run, and run hard の部分に、カンマと and が並んでいるのは、意味上のものではなく会話の抑揚の制御だとのこと by ChatGPT
+    - カンマでタメを入れられるので、run hard がより強調されるのではないかとのこと
+- Okta: If a gnoll catches your scent, you'll need every bit of strength. Trust me.
+  - gnoll
+    - ゲーム用語,名詞: D&Dの種族の名称、ハイエナのヒューマノイド、野蛮で好戦的
+      - Ref. https://forgottenrealms.fandom.com/wiki/Gnoll
+  - [scent](https://ejje.weblio.jp/content/scent), セント
+    - 名詞: におい、臭いの跡
+  - [bit](https://ejje.weblio.jp/content/bit), (ベ|ビ)ット
+    - 名詞: 小さな破片、小片、細片
+  - every bit を直訳すると「全ての小さな破片」だが、おそらく意訳で「かき集めた全て」
+  - さっきもらったGruelという食べ物には、特にバフ効果はないんだけどな... HP回復効果はあるけど
