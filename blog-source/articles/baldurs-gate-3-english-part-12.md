@@ -259,6 +259,21 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - [come along](https://ejje.weblio.jp/content/come+along)
     - 自動詞: やってくる
 - Auntie Ethel: There isn't a _bit_ of colour in those cheeks, petal! Are you hurt? Cold? Feverish?
+  - [colour](https://ejje.weblio.jp/content/colour), カ↑ラ
+    - 名詞: 色、色彩
+    - = color
+  - [cheek](https://ejje.weblio.jp/content/cheek), チーク
+    - 名詞: ほほ
+    - 複数形なのは、通常体の対になる箇所を一式指すときは複数形にするから
+  - There isn't a _bit_ of は「少しもない」つまり「全くない」
+    - a bit of が肯定的な意味で「少しある」だから、それの否定
+  - [petal](https://ejje.weblio.jp/content/petal), ペ↑トゥ
+    - 名詞: 花弁、花びら
+    - ここでは dear と同じような親愛の情を含む人の代名詞
+      - Ref. https://goetheweb.jp/lifestyle/more/20211213-eigoryoku_zero_lesson123
+        - 略して pet になることもあるらしい
+  - [feverish](https://ejje.weblio.jp/content/feverish), フィーバリッシュ
+    - 形容詞: 熱っぽい、熱がある
 - Auntie Ethel: Auntie Ethel will sort you out. I've lotions and potions galore!
 - Tav: What are you, an alchemist?
 - Auntie Ethel:
