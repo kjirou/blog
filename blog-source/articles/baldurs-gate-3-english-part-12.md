@@ -159,3 +159,26 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - in がそれに転じているのか、文脈上一方だけを選ぶ必要がない状況だからか、など理由は不明
 - Rolan: The names 'Rolan' and 'Lorroakan' will be known far and wide. You'll see.
   - 君には幸せになって欲しい
+
+### 20, Eliasis - 17:07 - Lia
+
+先ほど、他の避難民を置いて去るかどうかを議論していた、3人のティーフリング冒険者の内の一人へ話しかけた。  
+この人は、その中で残ることを主張していた人だった。
+
+- Lia: I keep dreaming I'll wake up with my throat slit. May your sleep be more pleasant.
+  - [keep](https://ejje.weblio.jp/content/keep), キィプ
+    - 自動詞: C し続ける
+      - keep 現在進行形のV でイディオム
+      - この C は動名詞
+  - [slit](https://ejje.weblio.jp/content/slit), スリット
+    - slit - slit - slit | slitten
+    - 他動詞: 主に縦方向に切り開く・切り裂く
+  - my throat slit のように、名詞を後ろから修飾することを、修飾する側の品詞を問わずに「後置修飾」というよう
+    - Ref. https://kimini.online/blog/archives/39729
+      - 修飾できるのは主には、形容詞・受動態の形で過去分詞・現在分詞だが、限定的に副詞もできるよう。全部じゃねーか。
+  - [pleasant](https://ejje.weblio.jp/content/pleasant), プレ(ゼ|ザ)ント
+    - 形容詞: 快適な
+  - ChatGPT訳:「私は喉を切られて目覚める夢を見続けています。あなたの睡眠がより快適であることを願います。」
+    - I'll wake up が未来形である理由がわからない
+      - I keep dreaming が「夢をこれからも見続ける」と未来を含み、それに対して目覚める時点は未来だからなのだろうか
+  - お前の始めた物語だろ！？
