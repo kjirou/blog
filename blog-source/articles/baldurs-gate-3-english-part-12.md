@@ -248,6 +248,9 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - 名詞: 噂のタネ
   - o' = of
     - on のこともあるらしい
+  - Auntie Ethel は「エセルおばさん」
+    - [auntie](https://ejje.weblio.jp/content/auntie), (エ|ア)ンティ
+      - 名詞: おばちゃん、おばちゃん
 - Auntie Ethel: Thank goodness you came along when you - oh!
   - [thank goodness](https://ejje.weblio.jp/content/thank+goodness)
     - 〜で良かった、〜でありがとう
@@ -275,22 +278,110 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - [feverish](https://ejje.weblio.jp/content/feverish), フィーバリッシュ
     - 形容詞: 熱っぽい、熱がある
 - Auntie Ethel: Auntie Ethel will sort you out. I've lotions and potions galore!
+  - [sort out](https://ejje.weblio.jp/content/sort+out)
+    - 他動詞: 〜を解決する
+      - 目的語は解決対象の問題、本文だと you 自身を問題に見立ててそう？
+  - [lotion](https://ejje.weblio.jp/content/lotion), ロウション
+    - 名詞: 外用水薬、洗い薬、化粧水
+  - [potion](https://ejje.weblio.jp/content/potion), ポウション
+    - 名詞: 水薬
+  - lotions and potions は、「塗り薬から飲み薬まで」という意味なのかな？
+    - ChatGPTに聞いたら、「日用品から魔法の薬まで」という意味でないかと言われた
+  - [galore](https://ejje.weblio.jp/content/galore), グァロア
+    - 形容詞: たくさんの
 - Tav: What are you, an alchemist?
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Tav:
-- Auntie Ethel:
-- Auntie Ethel:
-- Tav:
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Astarion:
-- Astarion:
+- Auntie Ethel: Oh, nothing as fancy as that!
+  - [fancy](https://ejje.weblio.jp/content/fancy), フェアンスィ
+    - 形容詞: 立派な、上等な
+  - nothing as fancy as that で「そんな立派なものじゃない」という謙遜を含んだ言い回し
+- Auntie Ethel: But I come from a long line of women with a dab hand at such things.
+  - [come from](https://ejje.weblio.jp/content/come+from)
+    - 他動詞: 〜に由来する、〜から来る
+  - [line](https://ejje.weblio.jp/content/line), ラァイン
+    - 名詞: 家系、系譜
+  - a long line of women は、長い家系の女性側の方を指している
+  - [dab hand](https://ejje.weblio.jp/content/dab+hand)
+    - 名詞: 名人、名手
+    - [dab](https://ejje.weblio.jp/content/dab), デェアブ
+      - 形容詞: 少量の
+    - a dab hand at O:「O の分野で手際が良い」
+- Auntie Ethel: Aha!
+- Auntie Ethel: You take a sup of that and you'll feel right as rain, sweetie.
+  - [sup](https://ejje.weblio.jp/content/sup), サァップ
+    - 名詞: 飲み物の一口・一啜り
+  - [right as rain](https://ejje.weblio.jp/content/right+as+rain)
+    - 形容詞: とても元気・順調な、健康そのものな
+    - ChatGPTによると、なぜ rain なのかは不明とのこと、昔からの言い回しらしい
+  - [sweetie](https://ejje.weblio.jp/content/sweetie), スウィティ
+    - 名詞: 可愛い人、いとしい人
+    - なお、指輪物語の「いとしいしと」は意訳で[原文は my precious らしい](https://arda.saloon.jp/?%E3%81%84%E3%81%A8%E3%81%97%E3%81%84%E3%81%97%E3%81%A8)
+- Tav: This is an expertly made healing potion. Nicely done.
+  - たぶんこの選択肢によって、後に買い物するときにこの薬の値段が下がっていた
+- Auntie Ethel: Oh, stop with the sweet talk. Here. Take the end of the batch. Just in case.
+  - [here](https://ejje.weblio.jp/content/here), ヒ↑ィア
+    - 間投詞: こら、さあ
+      - 人の注意を引いたり子供をたしなめるために用いる
+  - [batch](https://ejje.weblio.jp/content/batch), バァッチ
+    - 名詞: ひと工程分、ひと作業分、一度分
+  - Take the end of the batch.
+    - 最後の工程にあるものを取っていきな、つまり「これも持っていきな」
+    - この時になんかもらったっけ...
+  - just in case:「念の為に」
+- Auntie Ethel: I'm sorry to go on about it, but are you all right? You're looking awful peaky.
+  - to go on about it の it は、「具合が悪いけど大丈夫？」と聞くことを指している
+    - この時の go on は「続ける」より「繰り返す」の方が若干適切そう
+    - at it ではなく about it なのはなぜなんだろう、「さっき話したこと」というもの自体がふわっとしたイメージなんだろうか
+  - [awful](https://ejje.weblio.jp/content/awful), (ア|オ)ーフゥ
+    - 形容詞: ひどい、恐ろしい
+  - [peaky](https://ejje.weblio.jp/content/peaky), ピィキィ
+    - 形容詞: 具合が悪い、病気の、やつれた
+    - 「ピーキーな性能」のように、「高くとがった性能をもつ」という意味もあるよう
+- Tav: I've been better. It's... difficult to explain.
+  - I've been better.:直訳で「より良い状態だった時もある」
+- Auntie Ethel: Oh, I've seen it all!
+  - ChatGPT訳:「あら、私は色々と見てきたわよ！」
+  - I've seen it all!
+    - とりあえずは、言い回しとして「私は色々なものを見てきた、私は全てを見てきた」、または転じて「もう見たいものはない」という意味がある
+      - 盲目になりつつあるダンサーの心情をつづった[I've Seen it All](https://www.youtube.com/watch?v=C9xPxBYRrRc)という曲もある
+  - it all の部分がわからない
+    - ChatGPTによると、it だけ、all だけではダメで it all にしないといけない。また all は代名詞である。とのこと。
+    - 普通に考えると、名詞 + 名詞でダメなはずで、これが許される理由がわかってない
+- Auntie Ethel: I once had a fella who'd been cought dabbling with a dryad.
+  - [fella](https://ejje.weblio.jp/content/fella), フェッラ
+    - 名詞: 男、やつ
+    - fellow が転じたもの
+    - いかがわしいあの意味もある
+  - [dabble](https://ejje.weblio.jp/content/dabble), ダ↑ボゥ
+    - 自動詞: 道楽半分に手を出す
+      - ここでは「交際する」「異性に溺れる」の意味のよう
+  - Dryad
+    - ゲーム用語,名詞: D&Dの種族名、綺麗な顔立ちの森の妖精、一本の木に縛られている
+      - Ref. https://forgottenrealms.fandom.com/wiki/Dryad
+    - 好みの男にちょっかいをかける性質があるらしい
+- Auntie Ethel: The wife was none too pleased and introduced him to a pot of boiling oil.
+  - The wife ((was none too pleased) and (introduced him to a pot of boiling oil)).
+  - The wife was none too pleased
+    - none は代名詞、too は副詞の「非常に」「過度に」、pleased は形容詞の「喜んだ」
+    - 「非常に喜ぶ」の否定なので、直訳だと「全く喜んでない」、わざわざ否定している点を考慮するとさらに強い意味の「とても怒っている」という意味らしい
+  - introduced him は比喩表現で、ここでは「彼を鍋にぶち込んだ」ということ
+- Auntie Ethel: But worry not! I fixed him up and, depending on the lighting, he looks good as new!
+  - [worry](https://ejje.weblio.jp/content/worry), ウォーリィ
+    - 自動詞: 心配する
+  - But worry not = But don't worry
+    - 前者は古風な言い方らしい
+  - [fix up](https://ejje.weblio.jp/content/fix+up)
+    - 他動詞: O を修理する、O を解決する
+  - depending on the lighting:「光の当て方によっては」
+- Auntie Ethel: My point is - whatever ails you... I promise I've seen worse.
+  - [point](https://ejje.weblio.jp/content/point), ポイント
+    - 名詞: 趣旨、主眼点
+  - [ail](https://ejje.weblio.jp/content/ail), エイ(ル|オ)
+    - 他動詞: 人を苦しめる
+  - [worse](https://ejje.weblio.jp/content/worse), (ウ|ワ)ース
+    - 名詞: より悪いこと・状態
+- Astarion: Why she sounds positively demented.
+- Astarion: I love it! Let's tell her everything.
+  - えっ、こんなノリだったの君は
 - Auntie Ethel:
 - Tav:
 - \*\*
