@@ -497,3 +497,27 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
   - For as long as that lasts. は As long as that lasts. でも意味が同じでは？
     - ChatGPT曰く、若干異なる。As long as のみは条件が焦点であり、For が付属すると条件付きの期間が焦点になる。
     - まぁあんまりわからなかった
+
+### 20, Eliasis - 19:46 - Aradin, Tav
+
+- Aradin: If it ain't the fearless goblin-slayer.
+- Aradin: You sure you want to be seen with me? I ain't exactly popular with this lot.
+- Tav: All you did was stand up for your crew. I respect that.
+- Aradin: Half my crew are full of holes.
+- Aradin: Now I'm gonna take the blame for leading the goblins here, _and_ losing track of the bloody druid.
+- Tav: Who's the druid you lost track of?
+- Aradin: Halsin. He's the leader arouund these parts. Or was.
+- Aradin: We've got a contract to track down some relic, and he wanted in on the job. Eyes lit up when he heard about it.
+- Aradin: Didn't work out, though. Goblins got him when we were turning tail. He's either diggin' latrines or boilin' in a cookpot by now.
+- Tav: Can I have a look at that contract?
+- Aradin: Job's all yours, if you got a death with.
+- Aradin: There's a wizard in Baldur's Gate that'll pay gobloads for a relic, supposedly buried rouund these parts.
+- Aradin: But gold ain't any use if you're too cold to spend it.
+- Tav: Any idea what the relic actually is?
+- Aradin: If I knew that, I wouldn't be back _here_ with half my crew gone.
+- Aradin: But look, if you're itching to meet Kelemvor, I won't stop you.
+- Aradin: It's called the Nightsong. Supposed to be hidden under the temple where the goblins jumped us.
+- Aradin: I'd give you the map and with you a happy funeral, but my mate Brian kept hold of it like his own todger. Goblins makde short of the fat old chunk.
+- Aradin: All I've got's the contract. It'll show you where we turned back, if you feel like dying.
+- Tav: Thanks.
+- Aradin: Heh, don't thank me. I'll be well on my way to Baldur's Gate when you die.
