@@ -463,3 +463,37 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - [hate](https://ejje.weblio.jp/content/hate), ヘ↑イト
     - 他動詞: 〜をひどく嫌う
     - この文では「嫌よ」「嫌だわ」という感じ
+
+### 20, Eliasis - 19:32 - Remira
+
+先のゴブリンとの戦闘で門の外で戦っていたAradinの仲間の一人へ話しかけた。
+最初に話しかけたときは選択肢があったけど、一旦Leaveしたら次は表示されなくなっていた。
+
+- Remira: We're packing up and I'd advise you do the same. Seems our kind ain't welcome here.
+  - [pack up](https://ejje.weblio.jp/content/pack+up)
+    - 自動詞: 荷物をまとめて出て行く
+  - [advise](https://ejje.weblio.jp/content/advise), (ア|エ)ド・ヴァァイス
+    - 他動詞: O へ 文 することを勧める・忠告する
+      - advise O (that) 文
+  - ここでは ain't = are not
+
+### 20, Eliasis - 19:41 - Barth
+
+Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどうかは覚えていない。
+話しかけた直後に、どこかに走って去っていった。
+
+- Barth: Good to be back behind the walls, have to say. For as long as that lasts.
+  - [behind](https://ejje.weblio.jp/content/behind), ビィハイン
+    - 前置詞: 隠れて、後ろに
+    - コアイメージは、対象が何かの背後に隠れている図
+  - [have to say](https://ejje.weblio.jp/content/have+to+say)
+    - イディオム: 言わざるを得ない、実を言うと、率直に言うと
+  - [for](https://ejje.weblio.jp/content/for), フォーオ
+    - 前置詞: 〜の間に
+  - [as long as](https://ejje.weblio.jp/content/as+long+as)
+    - 慣用句: 〜する限り
+  - [last](https://ejje.weblio.jp/content/last), ゥラ↑スト
+    - 自動詞: 持続する、存続する
+  - For as long as that lasts. は As long as that lasts. でも意味が同じでは？
+    - ChatGPT曰く、若干異なる。As long as のみは条件が焦点であり、For が付属すると条件付きの期間が焦点になる。
+    - まぁあんまりわからなかった
