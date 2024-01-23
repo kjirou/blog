@@ -501,8 +501,22 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 ### 20, Eliasis - 19:46 - Aradin, Tav
 
 - Aradin: If it ain't the fearless goblin-slayer.
+  - [fearless](https://ejje.weblio.jp/content/fearless), フィ(ア|ヤ)レス
+    - 形容詞: 恐れを知らない、大胆不敵な
 - Aradin: You sure you want to be seen with me? I ain't exactly popular with this lot.
+  - to be seen はto不定詞の受動態で、目的語は S （この場合は you）である
+  - [popular](https://ejje.weblio.jp/content/popular), パピュラァ
+    - 形容詞: 人気のある、評判の良い
+  - [lot](https://ejje.weblio.jp/content/lot), (ロ|ラ)ット
+    - 名詞: やつら
+      - 非公式の用法
+    - コアイメージは「偶然に割り当てられたもの」で、そこから「くじ」「運命」になり、割り当てられた一部分を意識することで「ひと区画の土地」にもなるらしい、最後のはよくわからん
 - Tav: All you did was stand up for your crew. I respect that.
+  - (All you did)=S (was)=V (stand up for your crew)=C
+    - stand up for your crew が動詞の原形なのは、be動詞の補語には原形不定詞を使うこともあるからのよう
+      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13173510478
+        - 主語が do で終わる文じゃないといけないとのこと
+      - なお、使役動詞や知覚動詞も原形不定詞の応用だった
 - Aradin: Half my crew are full of holes.
 - Aradin: Now I'm gonna take the blame for leading the goblins here, _and_ losing track of the bloody druid.
 - Tav: Who's the druid you lost track of?
