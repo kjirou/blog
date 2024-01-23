@@ -380,20 +380,86 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - [worse](https://ejje.weblio.jp/content/worse), (ウ|ワ)ース
     - 名詞: より悪いこと・状態
 - Astarion: Why she sounds positively demented.
+  - [why](https://ejje.weblio.jp/content/why), ワァイ
+    - 間投詞: あら！、おや！、まあ！
+      - > [意外なことの発見・承認などの際の発声として] あら!, おや!, まあ!; もちろんさ!, そりゃ!
+    - 普通は、Why の直後にカンマがありそう
+  - [sound](https://ejje.weblio.jp/content/sound), サァウンド
+    - 自動詞: S はそう聞こえる、S はそのように思われる、S はそのような口ぶりである
+  - [positively](https://ejje.weblio.jp/content/positively), パ↑ジティブリィ
+    - 副詞: まったく、断然
+  - [demented](https://ejje.weblio.jp/content/demented), デメンテッド
+    - 形容詞: 発狂した
+    - DEMENTO はラテン語で「狂気」
+  - ChatGPT訳:「彼女はまるで狂っているみたいだね。」
+  - 一般的には demented は好意的な意味は持たないとのこと by ChatGPT
 - Astarion: I love it! Let's tell her everything.
-  - えっ、こんなノリだったの君は
-- Auntie Ethel:
-- Tav:
-- \*\*
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Tav:
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Auntie Ethel:
-- Tav:
-- Auntie Ethel:
-- Auntie Ethel:
+  - I love it! の it は、この状況全体を指している。
+  - こんなノリだったの君は
+  - エルフは老人に好意的というアレがここでも
+- Auntie Ethel: What is it, petal? What's wrong?
+- Tav: I've got a mind flayer parasite in my head.
+- \*As you recount your adventure, Auntie Ethel nods along - her eyes wide.\*
+  - そういえば、as, while, when の違いはなんだろう？
+    - 品詞上の用法の違い
+      - as: 接続詞、副詞、前置詞
+      - while: 接続詞
+      - when: 接続詞, 副詞
+    - 意味の違い
+      - Ref. https://aitem-english.jp/difference-when-while-as
+        - when: 点のイメージ、when 対象と同時に何かが発生するとき
+        - while: 継続のイメージ、while 対象の継続中に何かが発生するとき
+        - as: 変化のイメージ、as 対象の変化に伴って何かが変わるとき
+  - [recount](https://ejje.weblio.jp/content/recount), ゥリ・カウント
+    - 他動詞: 〜を詳しく話す、〜を物語る
+  - [nod](https://ejje.weblio.jp/content/nod), ナァード
+    - 自動詞: うなづく
+- Auntie Ethel: You _poor_ pet. My heart goes out to you, truly.
+  - [poor](https://ejje.weblio.jp/content/poor), プーア
+    - 形容詞: 可哀想な
+  - pet は petal の省略
+  - You poor pet. 部分は、少なくとも正しい構文ではないとのこと。ただ親愛の情を示すのに使う一般的な言い回しとのこと。
+    - おそらくは、You, poor pet. という区切り
+  - my heart goes out to you
+    - イディオム: あなたに同情します、お悔やみ申し上げます
+      - Ref. https://dictionary.goo.ne.jp/word/en/My+heart+goes+out+to+you./
+  - [truly](https://ejje.weblio.jp/content/truly), トゥーリィ
+    - 副詞: 真実に、偽りなく
+- Auntie Ethel: I see no sign of a tentacle yet, but that could change in an instant. You need help, _serious_ help.
+  - [serious](https://ejje.weblio.jp/content/serious), (シ|セ)リアス
+    - 形容詞: 本気の、真剣な、まじめな
+- Auntie Ethel: I've ne'er a potion or lotion here that could do it, but...
+  - ne'er = never
+  - [never](https://ejje.weblio.jp/content/never), ネ↑・ヴァ
+    - 副詞: ひとつも〜がない
+- Auntie Ethel: ...yes. I may have something at home!
+- Tav: Such as?
+  - [such as](https://ejje.weblio.jp/content/such+as)
+    - 前置詞: 例えば
+- Auntie Ethel: I've collected some... interesting bits 'n bobs over the years.
+  - 'n = and
+  - the years に the がついているのは、この前に I come from a long line of women with a dab hand at such things. と長い年月で積み重ねてきたことを言っているからなのだろうか？
+- Auntie Ethel: You'll have to stop by my house - just at the edge of the forest!
+- Auntie Ethel: Let me mark it on your map. I'll be heading back soon, so I can meet you there.
+  - [head back](https://ejje.weblio.jp/content/head+back)
+    - 自動詞: 戻る、帰る
+    - [head](https://ejje.weblio.jp/content/head), ヘェッド
+      - 自動詞: 〜に向かって進む
+  - なら一緒に行けばいいやんという気はするが、ゲームの都合だと思う
+- Auntie Ethel: Now, do you need anything? I have a few odds and ends for sale.
+  - [odds and ends](https://ejje.weblio.jp/content/odds+and+ends)
+    - 名詞: がらくた、はんぱ物、残り物
+    - ends 単体では「物」という意味はない
+    - bits and bobs と似ている
+- Tav: What harm? Show me your wares.
+  - What harm?
+  - 直訳だと「何の害なの？何の害があるの？」、転じて「それをするのに何の害もないよね」→「もちろん」
+- Auntie Ethel: Nae bother.
+  - nae = no
+    - スコットランドの方言らしい
+  - [bother](https://ejje.weblio.jp/content/bother), (ボ|バ)ーザァー
+    - 名詞: 面倒、やっかい
+- Auntie Ethel: Be careful on the road - I'd _hate_ if something happened to you. Take care, petal.
+  - [hate](https://ejje.weblio.jp/content/hate), ヘ↑イト
+    - 他動詞: 〜をひどく嫌う
+    - この文では「嫌よ」「嫌だわ」という感じ
