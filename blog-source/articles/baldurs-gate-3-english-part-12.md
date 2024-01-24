@@ -564,13 +564,79 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
     - 名詞: (兵舎・野営地などで、下水道のない)便所
 - Tav: Can I have a look at that contract?
 - Aradin: Job's all yours, if you got a death wish.
-- Aradin: There's a wizard in Baldur's Gate that'll pay gobloads for a relic, supposedly buried rouund these parts.
+- Aradin: There's a wizard in Baldur's Gate that'll pay gobloads for a relic, supposedly buried round these parts.
+  - [supposedly](https://ejje.weblio.jp/content/supposedly), サポォズリィ
+    - 副詞: 推定では〜と思われる、〜と想像される
+  - gobloads
+    - gob-loads とどちらも「たくさんの量」を示す単語をつなげたもので、「すごいたくさんの量のもの」を意味するスラング。この文では「たくさんのお金」を意味する。
+    - [gob](https://ejje.weblio.jp/content/gob), ガーブ
+      - 名詞: たくさん、かたまり
+    - [load](https://ejje.weblio.jp/content/load), ロゥド
+      - 名詞: どっさり、多数
+        - 複数形で使う
+  - [bury](https://ejje.weblio.jp/content/bury), (ベ|バ)リィ
+    - 他動詞: 埋葬する
+  - supposedly buried round these parts は過去分詞の分詞構文
 - Aradin: But gold ain't any use if you're too cold to spend it.
+  - [any](https://ejje.weblio.jp/content/any), エニィ
+    - 形容詞: 少しも、全く
+      - 全体的に否定の強調の意味
+      - 限定用法、かつ、否定文でのみ使える
+  - [use](https://ejje.weblio.jp/content/use), ユゥーズ
+    - 名詞: 役に立つこと
+  - too cold は、「死んで冷たくなったら」という意味
 - Tav: Any idea what the relic actually is?
+  - what the relic actually is? は what is the relic actually? とは書かないの？
+    - 前者は、the relic actually is what の what が前に来たもの
+    - 後者は、is S the relic actually? の S が what になって前に来たもの
+    - 意味はほぼ同じ、前者の方が文学的表現に近く後者の方が口語に近いらしい by ChatGPT
+      - また、前者は文としてモジュラリティが高いので他の文に埋め込みやすい
 - Aradin: If I knew that, I wouldn't be back _here_ with half my crew gone.
 - Aradin: But look, if you're itching to meet Kelemvor, I won't stop you.
+  - But look の look は、「見て」「聞いて」「注目して」という命令文
+  - [itch](https://ejje.weblio.jp/content/itch), イッチ
+    - 自動詞: 何かがしたく・何かが欲しくててうずうず・むずむずする
+      - for 名詞 や to V を伴う
+      - 「かゆい」の意味が元
+  - Kelemvor, ケレムヴォー
+    - ゲーム用語,固有名詞: 死者の神
+      - Ref. https://forgottenrealms.fandom.com/wiki/Kelemvor
+    - つまり、死んでもいいならいいけど、という意味
 - Aradin: It's called the Nightsong. Supposed to be hidden under the temple where the goblins jumped us.
-- Aradin: I'd give you the map and with you a happy funeral, but my mate Brian kept hold of it like his own todger. Goblins makde short of the fat old chunk.
+  - It は the relic のこと
+  - [suppose](https://ejje.weblio.jp/content/suppose), サ・ポォゥズ
+    - 他動詞: O が C だと思う
+      - suppose O C または suppose O to be C
+  - Supposed は受動態
+  - [jump](https://ejje.weblio.jp/content/jump), ジャンプ
+    - 他動詞: 〜へ突然襲いかかる、〜へ飛びかかる
+- Aradin: I'd give you the map and with you a happy funeral, but my mate Brian kept hold of it like his own todger. Goblins made short of the fat old chunk.
+  - [funeral](https://ejje.weblio.jp/content/funeral), フューラォ
+    - 名詞: 葬式、葬儀
+  - [keep hold of](https://eow.alc.co.jp/search?q=keep+hold+of)
+    - keep - kept - kept
+    - 他動詞: 〜を手放さない、〜をしっかり握っておく
+    - [hold](https://ejje.weblio.jp/content/hold), ホーゥド
+      - 名詞: 掴むこと、握ること
+  - [todger](https://en.wiktionary.org/wiki/todger), トォジャー
+    - 名詞: 男性の性器
+      - イギリスのスラング
+  - [make short of](https://eow.alc.co.jp/search?q=make+short+of)
+    - 他動詞: 手早くやっつける、さっさと片付ける
+    - = [make short work of](https://ejje.weblio.jp/content/make+short+work+of)
+  - Brian = the fat old chunk
+  - 地図も上げたかったけど持ってない、という会話
 - Aradin: All I've got's the contract. It'll show you where we turned back, if you feel like dying.
+  - get - got - got | gotten
+  - got's = got is
+    - そんな節の区切りをまたいでつなげちゃうの...
+  - アイテムとして契約書はもらったが、別に引き返した場所は書いてない...と思ったら、Mapにマーカーが記載されていた。ゲーム上の都合っぽい。
+  - [feel like](https://ejje.weblio.jp/content/feel+like)
+    - 自動詞: C をしたい気がする、C が欲しい気がする
+  - It'll show you where we turned back, if you feel like dying. 前後の文のつながりがわからない
+    - if you feel like dying は「すごい危険だから勧めないけど」くらいの意味だろうけど、にしてもつながらない
 - Tav: Thanks.
 - Aradin: Heh, don't thank me. I'll be well on my way to Baldur's Gate when you die.
+  - [well](https://ejje.weblio.jp/content/well), ウェォ
+    - 副詞: 十分に、かなり良い結果になって
+  - やっぱりZevlorよりAradinの方に好感を持つな
