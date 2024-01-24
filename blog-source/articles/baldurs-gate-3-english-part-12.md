@@ -512,15 +512,39 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
       - 非公式の用法
     - コアイメージは「偶然に割り当てられたもの」で、そこから「くじ」「運命」になり、割り当てられた一部分を意識することで「ひと区画の土地」にもなるらしい、最後のはよくわからん
 - Tav: All you did was stand up for your crew. I respect that.
+  - [stand up for](https://ejje.weblio.jp/content/stand+up+for)
+    - 他動詞: 〜を守る、〜を擁護する
   - (All you did)=S (was)=V (stand up for your crew)=C
     - stand up for your crew が動詞の原形なのは、be動詞の補語には原形不定詞を使うこともあるからのよう
       - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13173510478
         - 主語が do で終わる文じゃないといけないとのこと
       - なお、使役動詞や知覚動詞も原形不定詞の応用だった
 - Aradin: Half my crew are full of holes.
+  - [crew](https://ejje.weblio.jp/content/crew), クルゥ
+    - 名詞: 全乗組員、全乗務員
+      - この意味の時は単数で使用する
+  - Half (of) my crew
+  - ChatGPT訳:「俺の乗組員の半分は穴だらけだ。」
 - Aradin: Now I'm gonna take the blame for leading the goblins here, _and_ losing track of the bloody druid.
+  - [lose track of](https://ejje.weblio.jp/content/lose+track+of)
+    - 他動詞: 〜の跡を見失う
+    - [track](https://ejje.weblio.jp/content/track), (ト|チョ)ラック
+      - 名詞: 足跡、痕跡、跡
+    - この文だと、「行方を見失う」と言った方がそれっぽそう
+  - the bloody druid の bloody は、直訳の血まみれ=怪我をしているということなのか、「くそドルイド」みたいに好意を持ってないということなのか
 - Tav: Who's the druid you lost track of?
-- Aradin: Halsin. He's the leader arouund these parts. Or was.
+- Aradin: Halsin. He's the leader around these parts. Or was.
+  - around these parts:「この辺りで」
+    - [around](https://ejje.weblio.jp/content/around), ア・ラァウンド
+      - 前置詞: 周囲に
+      - コアイメージは、「〜の周囲に」「〜に取り囲まれて」「〜周りを回って」、イマイチわからん
+    - around と about って何が違うんだ？
+      - Ref. https://www.rarejob.com/englishlab/column/20230602/
+        - > イギリス英語では空間を指す時は「about」を、アメリカ英語では「around」を使い、アメリカで「この辺りの場所」という意味では「about」は一般的に使われないことがあげられます。
+      - around には about のふわふわもやもやした感じがなさそう？
+  - [part](https://ejje.weblio.jp/content/part), パ↑ァト
+    - 名詞: 地方、地域
+      - 通常複数形で用いられる
 - Aradin: We've got a contract to track down some relic, and he wanted in on the job. Eyes lit up when he heard about it.
 - Aradin: Didn't work out, though. Goblins got him when we were turning tail. He's either diggin' latrines or boilin' in a cookpot by now.
 - Tav: Can I have a look at that contract?
