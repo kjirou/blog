@@ -546,9 +546,24 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
     - 名詞: 地方、地域
       - 通常複数形で用いられる
 - Aradin: We've got a contract to track down some relic, and he wanted in on the job. Eyes lit up when he heard about it.
+  - [track down](https://ejje.weblio.jp/content/track+down)
+    - 他動詞: 探し出す、追い詰める
+  - [relic](https://ejje.weblio.jp/content/relic), レ(レ|ラ)ック
+    - 名詞: 遺物、遺跡、遺品、遺骨
+  - [want in](https://en.wiktionary.org/wiki/want_in)
+    - 自動詞: 何かの一部になりたいと思う
+  - [light up](https://ejje.weblio.jp/content/light+up)
+    - light - lit - lit
+    - 自動詞: 輝く、より明るくする、点火する
 - Aradin: Didn't work out, though. Goblins got him when we were turning tail. He's either diggin' latrines or boilin' in a cookpot by now.
+  - [work out](https://ejje.weblio.jp/content/work+out)
+    - 自動詞: 何とか解決する、うまくいく
+  - [turn tail](https://ejje.weblio.jp/content/turn+tail)
+    - 自動詞: 背中や尻を向けて逃げる
+  - [latrine](https://ejje.weblio.jp/content/latrine), ラ・トォリーン
+    - 名詞: (兵舎・野営地などで、下水道のない)便所
 - Tav: Can I have a look at that contract?
-- Aradin: Job's all yours, if you got a death with.
+- Aradin: Job's all yours, if you got a death wish.
 - Aradin: There's a wizard in Baldur's Gate that'll pay gobloads for a relic, supposedly buried rouund these parts.
 - Aradin: But gold ain't any use if you're too cold to spend it.
 - Tav: Any idea what the relic actually is?
