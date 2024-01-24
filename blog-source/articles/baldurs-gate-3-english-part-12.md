@@ -500,6 +500,8 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 ### 20, Eliasis - 19:46 - Aradin, Tav
 
+先にゴブリンを門まで引き連れてしまい、戦闘していた冒険者たちのリーダーへ話しかけた
+
 - Aradin: If it ain't the fearless goblin-slayer.
   - [fearless](https://ejje.weblio.jp/content/fearless), フィ(ア|ヤ)レス
     - 形容詞: 恐れを知らない、大胆不敵な
@@ -640,3 +642,70 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
   - [well](https://ejje.weblio.jp/content/well), ウェォ
     - 副詞: 十分に、かなり良い結果になって
   - やっぱりZevlorよりAradinの方に好感を持つな
+
+### 20, Eliasis - 0:48 - Bex, Danis, Tav
+
+口論中のティーフリングのカップルへ話しかけた
+
+- Bex: And we'll have a dog, right?
+  - [have](https://ejje.weblio.jp/content/have), ハ↑ァブ
+    - 他動詞: 飼う
+- Danis: They don't allow 'em in Baldur's Gate. Cats, though...
+  - They は in Baldur's Gate （の人々）を指しているが、文中に初めて出た単語を主語の代名詞で指定することもあるんだ
+  - 'em = them
+  - Cats, though... は「猫、ならあるいは...」のような感じ
+- Bex: A little orange cat! And a house with a little door so it can come and go as it pleases.
+  - [so](https://ejje.weblio.jp/content/so), ソ↑ゥ
+    - 接続詞: だから、それゆえに
+      - 理由の意味
+    - 色々意味がありコアイメージが掴みにくくて難しい、整理してみたけど何もわからんかった
+      - 接続詞: 理由、結果: だから〜、〜のため
+        - これらがそもそも参照方向が真逆や
+      - 間投詞: 驚き、納得: まさか〜、まぁ！、それで〜、
+      - 副詞: 前の文脈の参照、強調、程度: そのような、非常に、そんなに
+      - 形容詞: 前の文脈の参照: そのような
+- Danis: ... and a high fence to keep eavesdroppers out.
+  - [eavesdropper](https://ejje.weblio.jp/content/eavesdropper), イーブズドロッパー
+    - 名詞: 立ち聞きする人
+  - ゲーム中ここまでの会話を読んだ時、周りの緊張感と全く合ってなくて、比較的簡単な文章のはずだけど内容が全然わからなかった
+- Tav: Don't mind me. I was just passing through.
+  - [pass through](https://ejje.weblio.jp/content/pass+through)
+    - 自動詞: 通り過ぎる
+    - 他動詞: 〜を通り過ぎる、〜の修了を完了する、〜を経験する
+- Danis: No bother. We're just daydreaming, anyhow.
+  - no bother
+    - 問題ないよ、大したことないよ
+    - 長い表現だと it's no bother at all になる
+    - [bother](https://ejje.weblio.jp/content/bother), (バ|ボ)↑ーザー
+      - 名詞: 面倒、やっかい、騒ぎ、いざこざ
+  - [daydream](https://ejje.weblio.jp/content/daydream), デ↑イ・ドリーム
+    - 自動詞: 空想にふける
+  - [anyhow](https://ejje.weblio.jp/content/anyhow), エニィハァウ
+    - 副詞: とにかく、いずれにせよ
+      - 「話題を変える」という説明がされてることが多いけど、それよりは日本語の「とにかく」が合ってそう
+        - Ref. https://dictionary.goo.ne.jp/word/%E3%81%A8%E3%81%AB%E3%81%8B%E3%81%8F/
+          - > 他の事柄は別問題としてという気持ちを表す。
+- Bex: What about you? Big plans for when you get to the city?
+  - for when は関係詞の構文ではなくて、前置詞と接続詞
+- Tav: It's The Blushing Mermaid for me. Bit rough, but the ale's cheap.
+  - [blush](https://ejje.weblio.jp/content/blush), ブラッシュ
+    - 自動詞: 顔を赤らめる
+  - [rough](https://ejje.weblio.jp/content/rough), ラァフ
+    - 形容詞: 荒れた、粗野な、下品な
+- Danis: We've had enough _rough_ to last us a good long while.
+  - [last](https://ejje.weblio.jp/content/last), ゥラァスト
+    - 他動詞: 持続する、耐える、間に合う、必要を満たす
+      - last O1(人) O2(期間): O1 に O2 の間 last する
+  - [while](https://ejje.weblio.jp/content/while), ゥワイル
+    - 名詞: ある長さの時間・期間
+  - a good long while:「とても長い期間」、good は強調
+  - 直訳:「我々は十分な荒さを手に入れたよ、長い期間必要なための」→意訳:「もうroughは十分だよ」
+- Bex: Good luck to you, then. And wish us some too!
+  - [wish](https://ejje.weblio.jp/content/wish)
+    - 他動詞: 人が〜であれば良いと願う
+      - wish O (to be) C
+  - [some](https://ejje.weblio.jp/content/some), サ(ン|ム)
+    - 代名詞: 多少、いくぶん
+  - some は Good luck to you した分のいくぶんかを、ということ
+  - 何でこの人たちこんな呑気なんだと思ったけど、極限状態でもこういう話をするのっていいよねというメッセージか
+    - 英語に脳の力をとられてると、機微を解する力が足りなくなる
