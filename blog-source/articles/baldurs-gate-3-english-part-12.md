@@ -726,3 +726,56 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
       - 形容詞: 20個の
     - 個数の表現は前置詞とか要らないんだっけと思ったけど、形容詞の後置修飾で特に悪いところがなかった
   - 話が噛み合ってるのかそうではないのか
+
+### 20, Eliasis - 1:51 - Dammon, Tav
+
+ティーフリングの鍛冶屋へ話しかけた
+
+- Dammon: Thanks for fighting off those goblins. If you need to replace any gear, just ask.
+  - [fight off](https://ejje.weblio.jp/content/fight+off)
+    - 他動詞: 戦って〜を撃退・退治する
+  - just ask:「遠慮せずに言え」
+- Dammon: My selection's pretty slim. I had to leave most of my equipment in Elturel.
+  - [slim](https://ejje.weblio.jp/content/slim), スリ↑ム
+    - 形容詞: ほんのわずかな
+      - ChatGPTは「品揃えは限られている」と表現してて、こっちの方が良さそう
+  - I had to leave:「去る必要があった」
+  - Elturel, エルチュレル
+    - ゲーム用語,固有名詞: 都市国家の名前、ある時に都市全体がアヴェルヌス内へ転移した
+      - Ref. https://forgottenrealms.fandom.com/wiki/Elturel
+- Tav: That forge is holding on by a thread. Are you a smith?
+  - [hold on](https://ejje.weblio.jp/content/hold+on)
+    - 自動詞: 持続する、続けていく、持ち堪える、踏みとどまる
+  - by a thread
+    - [hang by a thread](https://www.ei-navi.jp/dictionary/content/hang%2Bby%2Ba%2Bthread/)
+      - 形容詞: 危機に瀕している、崩壊寸前である
+      - [thread](https://ejje.weblio.jp/content/thread), スレェッド
+        - 名詞: 糸のように細いもの
+- Dammon: Of sorts. Used to be a bread-and-butter tinsmith before Elturel fell into Avernus. These days my talents are more... eclectic.
+  - (a smith) of sorts
+  - [bread-and-butter](https://ejje.weblio.jp/content/bread-and-butter)
+    - 形容詞: 平凡な、日常の、生計の道を得るための
+  - [tinsmith](https://ejje.weblio.jp/content/tinsmith), (ティ|ケ)ンスメ
+    - 名詞: ブリキ職人
+  - [eclectic](https://en.wiktionary.org/wiki/eclectic), (イ|エ)クレクティッ
+    - 形容詞: 様々なものを取捨選択して組み合わせた
+      - 様々な方法・スタイル・ノウハウなどを役立つように組み合わせて自分のものとしている感じ
+      - 例: eclectic taste, eclectic style
+  - [these days](https://ejje.weblio.jp/content/these+days)
+    - 副詞: このところ、最近
+- Dammon: Learned a lot in my time in the Hells. Hope to forget most of it, but between you and me, there's nothing in all the realms like the utter power of infernal machinery.
+  - [utter](https://ejje.weblio.jp/content/utter), アター
+    - 形容詞: まったくの、完全な、徹底的な
+  - [machinery](https://ejje.weblio.jp/content/machinery), マシーナリィ
+    - 名詞: 機械、機械類
+  - but between you and me, there's nothing in all the realms like the utter power of infernal machinery
+    - ChatGPT訳:「君と私だけの話、すべての領域において、地獄の機械の絶対的な力に匹敵するものはないんだ」
+    - 直訳してみると「君と私の間は、地獄の機械による完全な力のような領域が全てがない」
+    - わからん、「我々は無力だ」という感じ？
+- Dammon: Alas - my offerings are far more humble these days.
+  - [alas](https://ejje.weblio.jp/content/alas), ア・ラァス
+    - 間投詞: ああ！、悲しいかな！、嘆かわしいことに
+  - [humble](https://ejje.weblio.jp/content/humble), ハンボゥ
+    - 形容詞: 控えめな、つまらない
+- Tav: Let me see your wares.
+- Tav: _Leave._
