@@ -664,6 +664,8 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
       - 間投詞: 驚き、納得: まさか〜、まぁ！、それで〜、
       - 副詞: 前の文脈の参照、強調、程度: そのような、非常に、そんなに
       - 形容詞: 前の文脈の参照: そのような
+  - [please](https://ejje.weblio.jp/content/please), プリィズ
+    - 自動詞: 好む、気に入る
 - Danis: ... and a high fence to keep eavesdroppers out.
   - [eavesdropper](https://ejje.weblio.jp/content/eavesdropper), イーブズドロッパー
     - 名詞: 立ち聞きする人
@@ -779,3 +781,37 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
     - 形容詞: 控えめな、つまらない
 - Tav: Let me see your wares.
 - Tav: _Leave._
+
+### 20, Eliasis - 2:22 - Arka
+
+先ほど、捕虜のゴブリンへ私刑をしようとしていたティーフリングへ話しかけた
+
+- Arka: Having fun with your new goblin friend? Bet you aren't.
+  - [bet](https://ejje.weblio.jp/content/bet), ベ↑ェット
+    - 他動詞: 賭ける
+      - bet O: O へ賭ける
+      - bet O1 O2: O1 へ O2 を賭ける
+
+### 20, Eliasis - 2:23 - Memnos, Arka
+
+- Memnos: Please, leave us be. This isn't a good time -
+  - leave us be
+    - イディオム: 放っておく、そのままにする
+    - [leave](https://ejje.weblio.jp/content/leave) O V原形 という用法はあるけど、V原形が be 以外は非標準らしい
+    - leave O C に似てる
+- Arka: It's fine, Memnos.
+- Arka: I've had some time to think since we last talked. Can't say I'm enjoying it much.
+
+### 20, Eliasis - 2:25 - Zorru
+
+ティーフリングの一人へ話しかけた。
+この人は、外でLae'zelを捕らえていた二人組が話題に出していた人。
+
+- Zorru: How long d'you think we've got before the goblins come?
+
+### 20, Eliasis - 2:25 - Eramas
+
+ティーフリングの一人へ話しかけた
+
+- Eramas: Goblins. Druids. This grove is a death trap.
+- Eramas: Grab what you can and get out, that's my advice.
