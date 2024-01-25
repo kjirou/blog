@@ -810,6 +810,11 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 この人は、外でLae'zelを捕らえていた二人組が話題に出していた人。
 
 - Zorru: How long d'you think we've got before the goblins come?
+  - [have got](https://en.wiktionary.org/wiki/have_got)
+    - 自動詞: 持っている
+      - 他動詞の「〜を持っている」もある
+    - 概ね have と同じで、より口語的な砕けた表現。've got の縮約形で使われることが多い。
+  - have not に「時間を」という意味はない、そこは How long から察する
 
 ### 20, Eliasis - 2:25 - Eramas
 
@@ -817,3 +822,10 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 - Eramas: Goblins. Druids. This grove is a death trap.
 - Eramas: Grab what you can and get out, that's my advice.
+  - [grab](https://ejje.weblio.jp/content/grab), グラァブ
+    - 他動詞: ものをひっつかむ
+  - Grab what you can
+    - 直訳:「あなたが手に入れられる何かを手に入れて」、意訳:「可能な限り多くのものを手に入れて」
+    - 若干イディオムっぽい
+  - [advice](https://ejje.weblio.jp/content/advice), アド・ヴァイス
+    - 名詞: 忠告
