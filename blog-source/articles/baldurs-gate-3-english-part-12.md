@@ -709,3 +709,20 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
   - some は Good luck to you した分のいくぶんかを、ということ
   - 何でこの人たちこんな呑気なんだと思ったけど、極限状態でもこういう話をするのっていいよねというメッセージか
     - 英語に脳の力をとられてると、機微を解する力が足りなくなる
+
+### 20, Eliasis - 1:45 - Bex, Danis
+
+再び先ほどのカップルへ話しかけた
+
+- Danis: I suppose we'll start in the Outer City, get a little business going...
+  - Outer City
+    - ゲーム用語,固有名詞: バルダーズ・ゲートの一地域、貧しく治安が悪い地域
+      - Ref. https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate/Outer_City
+- Bex: Your spiced tea is _life-changing_. And I can bake up almond cakes twenty at a time!
+  - [almond](https://ejje.weblio.jp/content/almond), ア(ー|ル)モンド
+    - 名詞: アーモンド
+  - I can bake up almond cakes twenty at a time:「私はアーモンドケーキを一度に20個焼ける」
+    - [twenty](https://ejje.weblio.jp/content/twenty), トゥエンティ
+      - 形容詞: 20個の
+    - 個数の表現は前置詞とか要らないんだっけと思ったけど、形容詞の後置修飾で特に悪いところがなかった
+  - 話が噛み合ってるのかそうではないのか
