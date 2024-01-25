@@ -794,6 +794,8 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 ### 20, Eliasis - 2:23 - Memnos, Arka
 
+捕虜のゴブリンとのイベントがあった時にArkaと居たもう一人へ話しかけた
+
 - Memnos: Please, leave us be. This isn't a good time -
   - leave us be
     - イディオム: 放っておく、そのままにする
