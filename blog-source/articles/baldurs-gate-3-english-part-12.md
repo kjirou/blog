@@ -407,9 +407,11 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
       - when: 接続詞, 副詞
     - 意味の違い
       - Ref. https://aitem-english.jp/difference-when-while-as
-        - when: 点のイメージ、when 対象と同時に何かが発生するとき
+        - as: 変化のイメージ、as 対象の変化に伴って何かが変わるか、as 対象が何かの変化に伴って変わるか
+          - どちらが先の行動、つまり変化の起点になるかは、文中で先に書かれた方になるよう
+            - 節1 as 節2 なら、節1の変化に伴い節2が発生したことになるし、As 節1, 節2 なら、その逆
         - while: 継続のイメージ、while 対象の継続中に何かが発生するとき
-        - as: 変化のイメージ、as 対象の変化に伴って何かが変わるとき
+        - when: 点のイメージ、when 対象と同時に何かが発生するとき
   - [recount](https://ejje.weblio.jp/content/recount), ゥリ・カウント
     - 他動詞: 〜を詳しく話す、〜を物語る
   - [nod](https://ejje.weblio.jp/content/nod), ナァード
@@ -829,3 +831,50 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
     - 若干イディオムっぽい
   - [advice](https://ejje.weblio.jp/content/advice), アド・ヴァイス
     - 名詞: 忠告
+
+### 20, Eliasis - 2:26 - Rat, Tav
+
+地面を走ってるネズミへ注目した
+
+- Rat: \*Hiss!\*
+  - [hiss](https://ejje.weblio.jp/content/hiss), (フィ|ピ)ス
+    - 自動詞: シューッという音を立てる
+- Tav: _Calm the creature._
+- \*The rat's eyes soften as he emits a pained squeak.\*
+  - [soften](https://ejje.weblio.jp/content/soften), ソーフン
+    - 他動詞: 〜を優しくする、〜を柔らかくする
+  - [pained](https://en.wiktionary.org/wiki/pained), ペイント
+    - 形容詞: 不機嫌な、腹立たしい、心を痛めた
+      - 特に感情的な面での痛み
+  - [squeak](https://ejje.weblio.jp/content/squeak), スクゥィーク
+    - 名詞: チューチュー鳴くこと
+- \*You realise the source of his discomfort - one of his front teeth is chipped.\*
+  - [realise](https://ejje.weblio.jp/content/realise), ゥリアラァイズ
+    - 他動詞: 気付く
+  - [discomfort](https://ejje.weblio.jp/content/discomfort), デ↑ィス・コンフォート
+    - 名詞: 不愉快
+  - tooth - teeth
+  - [chip](https://ejje.weblio.jp/content/chip), チップ
+    - 他動詞: 〜を欠く
+- Tav: That's what gluttony will get you.
+  - That's what
+    - イディオム: それは〜だ、それは〜になる
+      - That's what 文
+      - 理由や結果を示す
+  - [gluttony](https://ejje.weblio.jp/content/gluttony), グラットニー
+    - 名詞: 大食、暴食、暴飲
+      - ハガレンのグラトニー
+- \*'Gluttony'? The rat squeaks in interest.\*
+  - [squeak](https://ejje.weblio.jp/content/squeak), スクゥィーク
+    - 自動詞: チューチュー鳴く
+- \*With an enthusiastic chitter, he urges you to follow.\*
+  - [enthusiastic](https://ejje.weblio.jp/content/enthusiastic), エンシュージアスティック
+    - 形容詞: 熱心な、熱狂的な、熱烈な
+  - chitter, チ↑タ
+    - 名詞: チッチッという動物が発する音
+      - 標準的は自動詞の用法のみ
+        - ChatGPTがこの用法を答えていたが、どの辞書にも名詞としての用法が書いてない
+        - 文脈から、名詞としてしか考えられない
+  - [urge](https://ejje.weblio.jp/content/urge), アージ
+    - 他動詞: 何かをするように促す
+      - urge O(人) to V: O へ V するように促す
