@@ -951,11 +951,19 @@ Aradinの仲間で先に会話したときに走ってどこかに行った人�
 再度話しかけた。
 
 - Barth: Hey. Thanks for steppping between me and the kid.
+  - [step between](https://en.wiktionary.org/wiki/step_between)
+    - 他動詞: 争いに介入する、二者間の問題を仲裁する
+    - [step](https://ejje.weblio.jp/content/step), ステッ
+      - 他動詞: O(足) を踏み入れる
 - Barth: My mum gave me that amulet. But I think she'd be happy knowing the kid has it now.
-- Barth: Year. I know she would.
+- Barth: Yeah. I know she would.
+  - she would が 主語 + 助動詞 だけで句になってよい理由はわかってない
+    - Yes, I can と同じ理屈そうには見える
 
 ### 20, Eliasis - 3:08 - Barth
 
 再度話しかけた。
 
 - Barth: You're all right by me.
+  - 直訳:「君は私にとって大丈夫だ。」「私の目から見て君は問題ない。」
+  - by me の意味があまりわからない
