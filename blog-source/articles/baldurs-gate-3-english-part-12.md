@@ -885,20 +885,65 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 Aradinの仲間で先に会話したときに走ってどこかに行った人が、ティーフリングの子供と揉めていた
 
 - Barth: Only going to ask you one more time, boy. Hand over my locket.
+  - (I am) Only going to ask you one more time
+  - [hand over](https://ejje.weblio.jp/content/hand+over)
+    - 他動詞: 手渡す、引き渡す
+  - [locket](https://ejje.weblio.jp/content/locket), ラーケッツ
+    - 名詞: ロケット
+      - > 小型写真・毛髪・形見の品などを入れて時計鎖や首飾りにつける装飾を施した小さなケース
 - Meli: I don't have your ugly locket. I've never even seen it before!
-- Barth: Hand it over or I'll slap the teethe out of your head.
-- Tav: You betteer do what he says, boy.
+  - [ugly](https://ejje.weblio.jp/content/ugly), アグリィ
+    - 形容詞: 醜い、見苦しい
+      - ここでは「ダサい」が適切そう
+  - I've never even seen it before の even は強調
+- Barth: Hand it over or I'll slap the teeth out of your head.
+  - [slap](https://ejje.weblio.jp/content/slap), スラ↑ップ
+    - 他動詞: 〜を平手でピシャリと打つ
+  - slap the teeth out of your head
+    - 直訳:「平手で歯をお前の頭の外へ飛ばす」、意訳:「顔をボコボコにしてやる」
+    - slap the shit out of you:「お前の臓物をぶちまけてやる」 とか、色々なバリエーションがある
+      - ここの the shit は内臓・臓物の意味
+- Tav: You better do what he says, boy.
+  - [better](https://ejje.weblio.jp/content/better), ベ↑ラー
+    - 副詞: いっそう良く
 - Meli: I said I don't have it. Maybe he dropped it running away from those big, scary goblins.
-- Barth: You littele split-tongued freak!
+- Barth: You little split-tongued freak!
+  - split-tongued
+    - 「嘘つき」や「裏切りもの」を意味する
+    - ChatGPTによると、特定の民話・逸話・神話に依るものではなく、蛇のイメージからかもしれないとのこと
+    - なお、検索したら、現実な split-tongued な方々が出てきた
 - Tav: You're not fooling anyone, boy. Why'd you take it?
+  - [fool](https://ejje.weblio.jp/content/fool), フーゥ
+    - 他動詞: 人をだます
+  - You're not fooling anyone:「お前は誰も騙せていない」
+  - Tavは何も見てない状況でこれを言ってるんだけど、交渉術のひとつなのか主人公補正なのか
 - Meli: What kind of question is that? Why does anyone steal anything?
+  - Why does anyone steal anything?
+    - 直訳:「人はなぜものを盗むのか？」
+    - 文脈上の意味がわからない、文脈上は「誰が何を盗むって？」みたいな返しになりそうだけど
 - Meli: _Fine._ I have the stupid amulet. Take it.
+  - Fine.:「わかったよ」「しょうがないな」
+    - 妥協や敗北を認める意味
+  - [stupid](https://ejje.weblio.jp/content/stupid), ストゥーピッ
+    - 形容詞: くだらない、馬鹿な
+  - [amulet](https://ejje.weblio.jp/content/amulet), ア↑ーミュレッ
+    - 名詞: お守り、魔除け
 - Tav: I want an answer - why'd you steal it?
 - Barth: To impress a girl, most like.
+  - [impress](https://ejje.weblio.jp/content/impress), イン・プレス
+    - 他動詞: 印象を与える
+  - most like
+    - 副詞 + 副詞 の副詞句で、「ほぼそうであるはず」「そうにちがいない」という意味
+    - like のみより確信度は高い
+    - most likely の口語的もしくは古風な言い方
 - Meli: It looked like my mother's, all right?
 - Meli: Just take the damn thing and leave me alone!
+  - [alone](https://ejje.weblio.jp/content/alone), ア・ローン
+    - 形容詞: ひとりぼっちな、ひとりな、孤立して、孤独で
 - Barth: Keep it, kid. You need it more than me.
 - Barth: Poor kid.
+  - [poor](https://ejje.weblio.jp/content/poor), (プ|ポ)ーァ
+    - 形容詞: かわいそうな、哀れな、気の毒な
   - 最初のプレイでは子供側を庇ったんだけど、その後Barthが可哀想だったのでやり直してしまった。やり直して良かった。
 
 ### 20, Eliasis - 3:06 - Barth
