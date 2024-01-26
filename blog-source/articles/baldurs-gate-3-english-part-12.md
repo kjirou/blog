@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-12
-lastUpdatedAt: "2024-01-20 08:50:16+0000"
+lastUpdatedAt: "2024-01-26 13:36:07+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 12冊目
@@ -12,7 +12,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
 
 ### 20, Eliasis - 16:00 - Ikaron
 
-見張りをしているティーフリングの衛兵へ話しかけた
+見張りをしているTieflingの衛兵へ話しかけた
 
 - Ikaron: We've known enough grief this tenday, traveller.
   - [grief](https://ejje.weblio.jp/content/grief), グリィフ
@@ -27,7 +27,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
 
 ### 20, Eliasis - 16:12 - Cal
 
-先ほど、他の避難民を置いて去るかどうかを議論していた、3人のティーフリング冒険者の内の一人へ話しかけた。  
+先ほど、他の避難民を置いて去るかどうかを議論していた、3人のTiefling冒険者の内の一人へ話しかけた。  
 この人は、その中で仲裁をするような立場だった。
 
 - Cal: Lia and Rolan would never admit it, but they'd take an arrow for the other. Also stab each other. Not sure what'll come first.
@@ -37,6 +37,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - 例文として、かの有名なSkyrimの "[I used to be an adventurer like you. Then I took an arrow in the knee...](https://en.wikipedia.org/wiki/Arrow_in_the_knee)" がある
   - [stab](https://ejje.weblio.jp/content/stab), スタァブ
     - 他動詞: 良心などを鋭く傷つける
+    - backstab
   - ChatGPT訳:「リアとロランは決して認めないだろうけど、互いのために矢を受けるだろう。また、お互いを刺すこともあるかもしれない。どちらが先かはわからないけど。」
 - Cal: Thanks for cutting in - there might have been more than words if you hadn't.
   - [cut in](https://ejje.weblio.jp/content/cut+in)
@@ -45,7 +46,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
 
 ### 20, Eliasis - 16:12 - Rolan, Tav, Gale
 
-先ほど、他の避難民を置いて去るかどうかを議論していた、3人のティーフリング冒険者の内の一人へ話しかけた。  
+先ほど、他の避難民を置いて去るかどうかを議論していた、3人のTiefling冒険者の内の一人へ話しかけた。  
 この人は、その中で去ることを主張していた人だった。
 
 - Rolan: We should have left by now. Damnation.
@@ -74,7 +75,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
 - Rolan: Yes - that Lorroakan. The greatest wizard in Baldur's Gate.
 - Gale: I've heard that name before. A young man, yes? Lives in Ramazith's Tower in the Upper City?
   - Ramazith's Tower
-    - ゲーム用語,固有名詞: Baldur's Gate内あるmage用の塔の名称
+    - ゲーム用語,固有名詞: Baldur's Gate内ある魔術師用の塔の名称
       - Ref. https://forgottenrealms.fandom.com/wiki/Ramazith%27s_tower
   - Upper City
     - ゲーム用語,固有名詞: Baldur's Gate内の裕福ないち地域の名称
@@ -92,8 +93,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - 形容詞: 熟達した
   - Word in Waterdeep has it he's a bit of a cad. を Word in Waterdeep has that he's a bit of a cad. と書くのはダメらしい by ChatGPT
     - Word in Waterdeep has it that he's a bit of a cad. なら良いとのこと
-    - 理由はおそらく文法に起因するものではなく、 word has it that:「噂によると」が慣用句だから
-      - Ref. Weblio辞書にはないが英辞郎にはあった https://eow.alc.co.jp/search?q=word+has+it+that
+    - 理由はおそらく文法に起因するものではなく、 [word has it that](https://eow.alc.co.jp/search?q=word+has+it+that):「噂によると」が慣用句だから
 - Rolan: Of course he is! The greatest spellcaster along the Sword Coast. As if I'd settle for a lesser mentor.
   - Sword Coast
     - ゲーム用語,固有名詞: Faerûn西部の海に面した地域名、その中の最大の都市としてBaldur's Gateがある
@@ -104,6 +104,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
       - もう一つの意味の「まるで〜という仮定であるかのように」の逆っぽい意味、どうしてこうなるんや
   - [settle](https://ejje.weblio.jp/content/settle), セトウ
     - 自動詞: 不満足なものに同意する、手を打つ
+    - コアイメージは、ふらふら移動していたものが一定の場所へ落ち着く
   - [lesser](https://ejje.weblio.jp/content/lesser), レッサァ
     - 形容詞: 劣った
       - less の比較級でもある
@@ -162,7 +163,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
 
 ### 20, Eliasis - 17:07 - Lia
 
-先ほど、他の避難民を置いて去るかどうかを議論していた、3人のティーフリング冒険者の内の一人へ話しかけた。  
+先ほど、他の避難民を置いて去るかどうかを議論していた、3人のTiefling冒険者の内の一人へ話しかけた。  
 この人は、その中で残ることを主張していた人だった。
 
 - Lia: I keep dreaming I'll wake up with my throat slit. May your sleep be more pleasant.
@@ -185,7 +186,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
 
 ### 20, Eliasis - 17:11 - Okta, Tav
 
-大鍋で料理をしているティーフリングの老婆へ話しかけた
+大鍋で料理をしているTieflingの老婆へ話しかけた
 
 - Okta: You. Saw you fighting those slimy bastards.
   - [slimy](https://ejje.weblio.jp/content/slimy), スライミィ
@@ -210,10 +211,9 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - [look](https://ejje.weblio.jp/content/look), ルゥック
     - 自動詞: ねえ、ほら
       - 命令形で用いる
-  - [ain't](https://ejje.weblio.jp/content/ain%27t), エイント
-    - be動詞＋否定語（ am not、 are not、 is not）の略、または、助動詞 have＋否定語（has not、 have not）の略
+  - [ain't](https://en.wiktionary.org/wiki/ain%27t), エイント
+    - 大体は、be動詞＋否定語（ am not、 are not、 is not）の略、または、助動詞 have＋否定語（has not、 have not）の略
       - Ref. https://eikaiwa.weblio.jp/column/phrases/natural_english/aint-slung
-    - Weblio辞書の単語の方だと説明が足りないので、Ref先を読んだ方が良い
   - ここでは ain't = is not
   - it is not much:「大して役に立たない」、謙遜の意味を含む
     - [much](https://ejje.weblio.jp/content/much) には代名詞で「重要なこと」という意味はあるが他の品詞にはなかった
@@ -237,7 +237,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - [bit](https://ejje.weblio.jp/content/bit), (ベ|ビ)ット
     - 名詞: 小さな破片、小片、細片
   - every bit を直訳すると「全ての小さな破片」だが、おそらく意訳で「かき集めた全て」
-  - さっきもらったGruelという食べ物には、特にバフ効果はないんだけどな... HP回復効果はあるけど
+  - なお、さっき Take a bowl のときに貰ったGruelという食べ物にはHP回復効果が付与されている
 
 ### 20, Eliasis - 17:35 - Auntie Ethel, Tav, Astarion
 
@@ -629,7 +629,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
     - 他動詞: 手早くやっつける、さっさと片付ける
     - = [make short work of](https://ejje.weblio.jp/content/make+short+work+of)
   - Brian = the fat old chunk
-  - 地図も上げたかったけど持ってない、という会話
+  - 地図もあげたかったけど持ってない、という会話
 - Aradin: All I've got's the contract. It'll show you where we turned back, if you feel like dying.
   - get - got - got | gotten
   - got's = got is
@@ -647,7 +647,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 ### 20, Eliasis - 0:48 - Bex, Danis, Tav
 
-口論中のティーフリングのカップルへ話しかけた
+口論中のTieflingのカップルへ話しかけた
 
 - Bex: And we'll have a dog, right?
   - [have](https://ejje.weblio.jp/content/have), ハ↑ァブ
@@ -733,7 +733,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 ### 20, Eliasis - 1:51 - Dammon, Tav
 
-ティーフリングの鍛冶屋へ話しかけた
+Tieflingの鍛冶屋へ話しかけた
 
 - Dammon: Thanks for fighting off those goblins. If you need to replace any gear, just ask.
   - [fight off](https://ejje.weblio.jp/content/fight+off)
@@ -743,9 +743,9 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
   - [slim](https://ejje.weblio.jp/content/slim), スリ↑ム
     - 形容詞: ほんのわずかな
       - ChatGPTは「品揃えは限られている」と表現してて、こっちの方が良さそう
-  - I had to leave:「去る必要があった」
+  - I had to leave:「残して去る必要があった」
   - Elturel, エルチュレル
-    - ゲーム用語,固有名詞: 都市国家の名前、ある時に都市全体がアヴェルヌス内へ転移した
+    - ゲーム用語,固有名詞: 都市国家の名前、ある時に都市全体がAvernus内へ転移した
       - Ref. https://forgottenrealms.fandom.com/wiki/Elturel
 - Tav: That forge is holding on by a thread. Are you a smith?
   - [hold on](https://ejje.weblio.jp/content/hold+on)
@@ -786,7 +786,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 ### 20, Eliasis - 2:22 - Arka
 
-先ほど、捕虜のゴブリンへ私刑をしようとしていたティーフリングへ話しかけた
+先ほど、捕虜のゴブリンへ私刑をしようとしていたTieflingへ話しかけた
 
 - Arka: Having fun with your new goblin friend? Bet you aren't.
   - [bet](https://ejje.weblio.jp/content/bet), ベ↑ェット
@@ -808,7 +808,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 ### 20, Eliasis - 2:25 - Zorru
 
-ティーフリングの一人へ話しかけた。
+Tieflingの一人へ話しかけた。
 この人は、外でLae'zelを捕らえていた二人組が話題に出していた人。
 
 - Zorru: How long d'you think we've got before the goblins come?
@@ -820,7 +820,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 ### 20, Eliasis - 2:25 - Eramas
 
-ティーフリングの一人へ話しかけた
+Tieflingの一人へ話しかけた
 
 - Eramas: Goblins. Druids. This grove is a death trap.
 - Eramas: Grab what you can and get out, that's my advice.
@@ -882,7 +882,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 ### 20, Eliasis - 2:55 - Barth, Meli, Tav
 
-Aradinの仲間で先に会話したときに走ってどこかに行った人が、ティーフリングの子供と揉めていた
+Aradinの仲間で先に会話したときに走ってどこかに行った人が、Tieflingの子供と揉めていた
 
 - Barth: Only going to ask you one more time, boy. Hand over my locket.
   - (I am) Only going to ask you one more time
