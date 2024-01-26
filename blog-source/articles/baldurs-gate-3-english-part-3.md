@@ -9,59 +9,94 @@ lastUpdatedAt: "2023-12-17 15:13:42+0000"
 
 ## 本編
 
-### 20, Eliasis - 18:43 - Shadowheart, Lae'zel, 主人公
+### 20, Eliasis - 18:43 - Shadowheart, Lae'zel, Tav
 
-- [straggler](https://ejje.weblio.jp/content/straggler), ストラ↑ーグ(ラ|ァ)↓
-  - 名詞: 落伍者
-  - [stranger](https://ejje.weblio.jp/content/stranger) と読み間違えていた
-- [contraption](https://ejje.weblio.jp/content/contraption), (コ|カ)↑ントラープシ(ョ|ェ)ン
-  - 名詞: 奇妙な仕掛け
-  - ゲームのアイテム名や技名に出てきてそうだけど思い出せない
-- [seal in](https://ejje.weblio.jp/content/seal+in)
-  - 動詞: 封じ込める
-  - [seal](https://ejje.weblio.jp/content/seal) 本体は、印を押す、封をする、という意味が主
-- Try that contraption just next to the pod - they did something to it when they sealed me in.
-  - ハーフエルフ女性の Shadowheart さんがポッドの中に捉えられてて出れず、通りががった主人公たちに助けを求めている状況
-  - Try that contraption が SV で仕掛けを試せ
+Shadowheartがあるポッドの中に捕らえられていて、通りすがったTavたちへ助けを求めてきた
+
+- Shadowheart: You! Get me out of this damn thing!
+- Lae'zel: We have no time for stragglers.
+  - [straggler](https://ejje.weblio.jp/content/straggler), ストラ↑ーグラァ
+    - 名詞: 落伍者
+    - [stranger](https://ejje.weblio.jp/content/stranger) とは異なる
+- Tav: I'll go look around - there must be some way to get this thing open.
+  - go look around は動詞が2つ続いている？
+    - go (and) look around と and が省略された形、日本語ブログだと go と come 以外に使われるケースは書いてない
+- Shadowheart: Try that contraption just next to the pod - they did something to it when they sealed me in.
+  - [contraption](https://ejje.weblio.jp/content/contraption), (コ|カ)↑ントラープシ(ョ|ェ)ン
+    - 名詞: 奇妙な仕掛け
+  - that contraption は、ポッドの真横についている開閉装置に見える仕掛けのこと
+  - [next](https://ejje.weblio.jp/content/next), ネ↑クスト
+    - 前置詞: 隣に、近くに
+  - [seal in](https://ejje.weblio.jp/content/seal+in)
+    - 他動詞: 封じ込める
+- Shadowheart: Hurry! _Please!_
 
 ### 20, Eliasis - 19:55 - 主人公
 
-- [spy](https://ejje.weblio.jp/content/spy), スパァイ
-  - 他動詞: 見つけ出す
-- The mechanisms are completely unrecognisable at first, but then you spy an empty socket.
-  - 主人公が Shadowheart が捉えられているポッドを操作する装置を眺めている状況
-  - [at first は今後理解できるようになりそうだという意味を含んでる](https://www.fruitfulenglish.com/blog/morgan-58/)と思うんだけど、どう見ても無理なやつ
-    - なんかハメたら動いたからヨシ！程度の理解ならいずれできそうだけど、それでもいいのかな
+Tavはポッドの開閉装置と見られる装置を操作しようと試みた
+
+- \*The console appears dormant.\*
+  - [appear](https://ejje.weblio.jp/content/appear), アピ(ヤ|ア)ー
+    - 自動詞: C のように見える・思われる
+  - [dormant](https://ejje.weblio.jp/content/dormant), ドゥオメント
+    - 形容詞: 休眠状態の、眠っているような
+- Tav: _Look for a switch or release._
+  - [release](https://ejje.weblio.jp/content/release), ゥリリィス
+    - 名詞: 解放をするための装置
+- \*The mechanisms are completely unrecognisable at first, but then you spy an empty socket.\*
+  - unrecognisable = unrecognizable
+  - [unrecognizable](https://ejje.weblio.jp/content/unrecognizable), アン・リコック・ナイザボォ
+    - 形容詞: 認識できない
+  - at first は、「今はまだ」という意味
+  - [spy](https://ejje.weblio.jp/content/spy), スパァイ
+    - 他動詞: 見つけ出す
+- Tav: _Hit it._
+  - 装置を蹴り飛ばした図
+- \*Nothing. The console remains dormant.\*
+  - [remain](https://ejje.weblio.jp/content/remain), ゥリ・メイン
+    - 自動詞: C のままである、相変わらず C である
+- Tav: _Leave._
 
 ### 20, Eliasis - 20:58 - Narrator
 
-- [daze](https://ejje.weblio.jp/content/daze), ディィ(ズ|ス)
-  - 動詞: ぼーっとさせる、ぼう然とさせる、人の目をくらます
-  - ゲームの状態異常として頻出単語
-- Dazed
-  - ゲーム用語: 状態効果(Status Effect)のひとつ
-  - ゲーム内テキスト: Has Disadvantage on Wisdom Saving Throws, can't take reactions, and loses the Dexterity bonus to their Armour Class.
-    - Disadvantage は Roll 2 dice and use the lower value. のやつ
-  - D&D 5e には [Daze](<https://dnd-wiki.org/wiki/Daze_(5e_Spell)>) という呪文はあるようだが、Dazed という状態効果はなさそう
+Shadowheartとは別の人が捕えられているポッドを調べた
+
+- \*A dazed woman is trapped inside the pod. She doesn't notice you.\*
+  - [daze](https://ejje.weblio.jp/content/daze), デェィズ
+    - 他動詞: ぼーっとさせる、ぼう然とさせる、人の目をくらます
+  - Dazed
+    - ゲーム用語: 状態効果(Status Effect)のひとつ
+    - ゲーム内テキスト: Has Disadvantage on Wisdom Saving Throws, can't take reactions, and loses the Dexterity bonus to their Armour Class.
+      - Disadvantage は Roll 2 dice and use the lower value. のやつ
+    - D&D 5e には [Daze](<https://dnd-wiki.org/wiki/Daze_(5e_Spell)>) という呪文はあるようだが、Dazed という状態効果はなさそう
 - [trap](https://ejje.weblio.jp/content/trap)
   - 他動詞: わなで捕らえる
 
 ### 20, Eliasis - 21:08 - 主人公
 
-- [dormant](https://ejje.weblio.jp/content/dormant), (デ|オ)ゥメン(ト|ツ)
-  - 形容詞: 活動停止中の、睡眠状態の、眠っているような
-- [hum](https://ejje.weblio.jp/content/hum)
-  - 自動詞: （ハチ・機械などが）ブンブンいう、ブーンと鳴る
-- The console hums to life.
-  - 休止状態だった端末へその鍵とおぼしきルーンを嵌め込んだ状況
-  - ChatGPT翻訳: そのコンソールは生き生きと鳴り始める。
-    - to life が「生き生きとして」なのは慣用句ではなさそう。life に to していることから一般的に浮かぶイメージっぽい。
-- Take a closer look at the powered-up console.
-  - look は名詞で「見ること、視線」
-  - closer は 形容詞 close「接近して、ごく近くで」 の比較級。「より近づいて」という意味のよう。
-  - というか [take a closer look](https://ejje.weblio.jp/content/take+a+closer+look)で慣用句だった
-    - [Gatsbyのチュートリアル](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-1/)にも同じ言い回しが出てきた
-      - > Let’s take a closer look at the process:
+Shadowheartが捕えられているポッドの解放装置の鍵のようなものを発見した後、再びポッドを調べた
+
+- \*The console appears dormant.\*
+- Tav: _Insert the rune into the socket._
+- \*The console hums to life.\*
+  - [hum](https://ejje.weblio.jp/content/hum), ハ(ン|ム)
+    - 自動詞: （ハチ・機械などが）ブンブンいう、ブーンと鳴る
+  - [life](https://ejje.weblio.jp/content/life), ゥライフ
+    - 名詞: 生気、元気、活気、精力
+  - to life は、直訳:「生気を得る方向に向かっている」、意訳:「活き活きと」
+- Tav: _Take a closer look at the powered-up console._
+  - [take a closer look](https://ejje.weblio.jp/content/take+a+closer+look)
+    - 自動詞: さらに詳しく見る
+    - closer は close の比較級なので、「より近づいて」になる
+- \*The pulsing glow and organic lines of the device make it seem more like a beating heart than a machine.\*
+- \*Perhaps it will open the nearby pod.\*
+- Tav: _Place your hand on the console._
+- \*Suddenly you feel a hideous squirming in your head. The parasite.\*
+- \*Then discomfort fades, and another sensation washes over you. Connection. _Authority._\*
+- Tav: _Will the pod to open._
+- \*You feel the biomechanical brain of the console process your command... and yield to it.\*
+- \*A shiver runs across your mind... You feel sated.\*
+
 - [pulse](https://ejje.weblio.jp/content/pulse), パ↑(ウ|ル)ス
   - 自動詞: 脈打つ
 - [glow](https://ejje.weblio.jp/content/glow)
