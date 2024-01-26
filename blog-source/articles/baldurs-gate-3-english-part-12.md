@@ -878,3 +878,39 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
   - [urge](https://ejje.weblio.jp/content/urge), アージ
     - 他動詞: 何かをするように促す
       - urge O(人) to V: O へ V するように促す
+  - 付いて行ったけど、目的地が鍵の掛かっている倉庫の中で入れなかった
+
+### 20, Eliasis - 2:55 - Barth, Meli, Tav
+
+Aradinの仲間で先に会話したときに走ってどこかに行った人が、ティーフリングの子供と揉めていた
+
+- Barth: Only going to ask you one more time, boy. Hand over my locket.
+- Meli: I don't have your ugly locket. I've never even seen it before!
+- Barth: Hand it over or I'll slap the teethe out of your head.
+- Tav: You betteer do what he says, boy.
+- Meli: I said I don't have it. Maybe he dropped it running away from those big, scary goblins.
+- Barth: You littele split-tongued freak!
+- Tav: You're not fooling anyone, boy. Why'd you take it?
+- Meli: What kind of question is that? Why does anyone steal anything?
+- Meli: _Fine._ I have the stupid amulet. Take it.
+- Tav: I want an answer - why'd you steal it?
+- Barth: To impress a girl, most like.
+- Meli: It looked like my mother's, all right?
+- Meli: Just take the damn thing and leave me alone!
+- Barth: Keep it, kid. You need it more than me.
+- Barth: Poor kid.
+  - 最初のプレイでは子供側を庇ったんだけど、その後Barthが可哀想だったのでやり直してしまった。やり直して良かった。
+
+### 20, Eliasis - 3:06 - Barth
+
+再度話しかけた。
+
+- Barth: Hey. Thanks for steppping between me and the kid.
+- Barth: My mum gave me that amulet. But I think she'd be happy knowing the kid has it now.
+- Barth: Year. I know she would.
+
+### 20, Eliasis - 3:08 - Barth
+
+再度話しかけた。
+
+- Barth: You're all right by me.
