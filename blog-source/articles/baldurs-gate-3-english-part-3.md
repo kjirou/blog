@@ -89,40 +89,47 @@ Shadowheartが捕えられているポッドの解放装置の鍵のようなも
     - 自動詞: さらに詳しく見る
     - closer は close の比較級なので、「より近づいて」になる
 - \*The pulsing glow and organic lines of the device make it seem more like a beating heart than a machine.\*
+  - [pulse](https://ejje.weblio.jp/content/pulse), パ↑(ウ|ル)ス
+    - 自動詞: 脈打つ
+  - [glow](https://ejje.weblio.jp/content/glow), グロゥ
+    - 名詞: 赤熱光、白熱光、光、輝き
+  - [organic](https://ejje.weblio.jp/content/organic), オーギ↑ャーニック
+    - 形容詞: 有機体の、臓器の
+  - organic lines は、直訳だと「有機的な線」。おそらくは、device の形状が生物のようであることを意味している。
+  - (... device)=S make=V (it seem ...)=O
+    - [make](https://ejje.weblio.jp/content/make), メ↑イ・ク
+      - 他動詞: 〜を生じさせる、〜の原因になる
 - \*Perhaps it will open the nearby pod.\*
+  - [perhaps](https://ejje.weblio.jp/content/perhaps), (パ|ポ)ーハ↑ップス
+    - 副詞: たぶん
+  - [nearby](https://ejje.weblio.jp/content/nearby), ニア・バーイ
+    - 形容詞: 近くの
 - Tav: _Place your hand on the console._
 - \*Suddenly you feel a hideous squirming in your head. The parasite.\*
+  - [hideous](https://ejje.weblio.jp/content/hideous), (ヒ|ハ)ディアス
+    - 形容詞: ぞっとする
+  - [squirm](https://ejje.weblio.jp/content/squirm), スクワァーム
+    - 自動詞: もがく、苦痛・不快・いらだちなどで身もだえする
 - \*Then discomfort fades, and another sensation washes over you. Connection. _Authority._\*
+  - [discomfort](https://ejje.weblio.jp/content/discomfort), デ↑ィス・コンフォー
+    - 名詞: 不快
+  - [fade](https://ejje.weblio.jp/content/fade), フ↑ェイ
+    - 自動詞: 次第に消えてゆく
+      - fade out でなくても fade 単独で似たような意味なんだ
+  - [sensation](https://ejje.weblio.jp/content/sensation), センセイシ(ョ|ェ)ン
+    - 名詞: 感覚、知覚
+  - [wash over](https://ejje.weblio.jp/content/wash+over)
+    - 他動詞: 洗い流す
+      - 「洪水などが堤防を超えて来る」という意味もある
+  - [authority](https://ejje.weblio.jp/content/authority), アッ・ソーリ(テ|リ)ィ
+    - 名詞: 認可、許可
+  - 精神にアクセスするなら、まだ仲間に成り切ってないTavが認証できるのはややおかしい気がするが、あんまり深読みしないでも良さそう
 - Tav: _Will the pod to open._
 - \*You feel the biomechanical brain of the console process your command... and yield to it.\*
 - \*A shiver runs across your mind... You feel sated.\*
 
-- [pulse](https://ejje.weblio.jp/content/pulse), パ↑(ウ|ル)ス
-  - 自動詞: 脈打つ
-- [glow](https://ejje.weblio.jp/content/glow)
-  - 名詞: 赤熱光、白熱光、光、輝き
-- [organic](https://ejje.weblio.jp/content/organic), オーギ↑ャーニック
-  - 形容詞: 有機体の、臓器の、
-- [perhaps](https://ejje.weblio.jp/content/perhaps), (パ|ポ)ーハ↑ップス
-  - 副詞: たぶん
-  - あんまり意識したことなかったけど、副詞だったんだ
-- [hideous](https://ejje.weblio.jp/content/hideous), (ヒ|ハ)↑ディアス
-  - 形容詞: ぞっとする
-- [discomfort](https://ejje.weblio.jp/content/discomfort), デ↑ィスコンフォー
-  - 名詞: 不快
-- [fade](https://ejje.weblio.jp/content/fade), フ↑ェイ
-  - 自動詞: 次第に消えてゆく
-  - その意味で fade out じゃなくて fade だけなのか
-- [sensation](https://ejje.weblio.jp/content/sensation), センセイシ(ョ|ェ)ン, カタカナ発音と似てる
-  - 名詞: 感覚、知覚
-- [wash over](https://ejje.weblio.jp/content/wash+over)
-  - 洗う
-- [authority](https://ejje.weblio.jp/content/authority), オソ↑ーリティ
-  - 名詞: 認可、自由裁量権
-- Then discomfort fades, and another sensation washes over you. Connection. Authority.
-  - 謎のマシンをOnしたら寄生体が疼いて機械が使えるようになった状況
-  - Authority のところだけ文字が斜体になってるのがわからない
-    - そういえば、奴隷に対して権限を与えるのはおかしい気はするけど、寄生体を埋め込んだ時点で裏切る可能性はほぼ無いはずだったのかもしれない
+---
+
 - [biomechanical](https://ejje.weblio.jp/content/biomechanical)
   - 形容詞: 生体力学の
 - [yield](https://ejje.weblio.jp/content/yield), (イ|ディ)ーォ(ド|ッ), 発音難しい
