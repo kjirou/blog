@@ -71,61 +71,84 @@ lastUpdatedAt: "2023-12-21 00:37:08+0000"
     - [let](https://ejje.weblio.jp/content/let), ゥレット
       - 他動詞: 許す、させる
     - let には許可を求める意味もあるので、訳のように頼む感じになる
+  - [get off](https://ejje.weblio.jp/content/get+off)
+    - 他動詞: 〜から降りる
+  - watch each other's backs
+    - backs が複数形になるのがわからない、自分の背中は見ないんだから単数形ではないのか
 - Tav: Did you feel what I felt just before? We were in each other's heads.
+  - この each other's heads の heads が複数形になるのはわかる
 - Shadowheart: I did... It must be because of those parasites they put in us...
+  - they put in us
+    - [put in](https://ejje.weblio.jp/content/put+in)
+      - 他動詞: 入れる、差し込む、取り付ける
+        - put in O1 O2: O1 を O2 へ入れる
+    - ChatGPTによると、put in の O1 は自明なので省略されているとのこと
 - Shadowheart: But that'll have to wait. Are we going to help each other, or not?
+  - [that'll](https://en.wiktionary.org/wiki/that%27ll), ザートォ
+    - 縮約形: that will
+    - 発音がわからなかった
 - Tav: All right then, let's get going. I'm Tav.
+  - [then](https://ejje.weblio.jp/content/then)
+    - 副詞: それなら、そういうわけで
+      - 結論や決定の意味、間投詞的にも使う
+  - [get going](https://ejje.weblio.jp/content/get+going)
+    - 自動詞: 行き始める、やり始める
 - Shadowheart: Shadowheart. One moment...
+  - [one moment](https://en.wiktionary.org/wiki/one_moment)
+    - 名詞: 数秒から数分程度の短い間隔
 - Tav: What's that?
 - Shadowheart: It's nothing. Trust me.
+  - [It's nothing](https://ejje.weblio.jp/content/it%27s+nothing)
+    - イディオム: なんでもありません
+  - 何のシーンだったか忘れた、大事に謎のアーティファクトを持ってるので、それをチラ見せしてたんだっけ？
 - Lae'zel: Enough of this chatter. We need to get to the helm - now.
+  - [enough of](https://ejje.weblio.jp/content/enough+of)
+    - イディオム: もうたくさん
+  - [chatter](https://ejje.weblio.jp/content/chatter), チ↑ャトォ
+    - 名詞: くだらないおしゃべり
+      - chat と異なり悪い意味
 - Shadowheart: She's right. Lead on.
-
----
-
-- that'll, ザ↑ートォ (US)
-  - 発音がわからなかったので調べた: https://dictionary.cambridge.org/ja/pronunciation/english/that-ll
-- [It's nothing](https://ejje.weblio.jp/content/it%27s+nothing)
-  - 慣用句: なんでもありません
-- [chatter](https://ejje.weblio.jp/content/chatter), チ↑ャトォ
-  - 名詞: くだらないおしゃべり
-    - chat と異なり悪い意味
+  - [lead on](https://ejje.weblio.jp/content/lead+on)
+    - 他動詞: 案内する
 
 ### 20, Eliasis - 0:32 - Lae'zel
 
-- [near](https://ejje.weblio.jp/content/near), ニ↑ー(ャ|ァ)
-  - 動詞: 近づく
-- Once inside, do as I say.
-  - "Once inside" が文の要素として何なのかわからなかった。
-    - ChatGPT氏に聞くと、二つの単語で「一度中に入ったら」という一つの接続詞とのこと。
-      - そして、類似表現として、 once outside, once alone, once finished, once seated, once approved を挙げていた。once + 形容詞 っぽい。
-      - ただこれ、個別の日本語記事を探しても、そう言及している記事がない
-        - 英二郎にはあったけど: https://eow.alc.co.jp/search?q=once+inside ...ただSEO対策にも見えるし
-      - Once (we are) inside の略のような気もするし、正しい理解かは保留。ChatGPTのいうような用法で事足りるのはわかったので、それで概ねヨシ。
+この会話のときの状況を忘れた
 
-### 20, Eliasis - 0:37 - Shadowheart, 主人公
+- Lae'zel: We are nearing the helm. Once inside, do as I say.
+  - [near](https://ejje.weblio.jp/content/near), ニ↑ー(ャ|ァ)
+    - 他動詞: 〜へ近づく
+  - Once inside
+    - Once (we are) inside かと思ったが、慣用句なのかもしれない。不明。
+    - 類似表現は、once outside, once alone, once finished, once seated, once approved など
 
-- Something the matter?
-  - 慣用句: 何か問題でも？
-  - 名詞 + 名詞 はルールで禁止スよね
-- [besides](https://ejje.weblio.jp/content/besides), ビ↑サァイ(ズ|ス)
-  - 前置詞: を除いて
-    - コアイメージは「〜を横に置いて」って書いてあるけどよくわからんな
-  - [beside](https://ejje.weblio.jp/content/beside)
-    - 前置詞: 〜のそばに
-      - コアイメージ: 〜の横に
-  - beside と besides ...?
-    - Ref. [「beside」と「besides」の違い！使い方をしっかりとマスターするポイント！](https://eitopi.com/beside-besides-tigai)
-      - beside: あるものの近くに存在するイメージ
-      - besides: あるものに追加するイメージ、転じて今ないものとして「それ以外」になる
-- [obvious](https://ejje.weblio.jp/content/obvious), オ↑ービァス
-  - 形容詞: (疑問の余地がないほど)明らかな
-    - 「((the ～))((名詞的に))明らかなこと」
-      - the obvious で名詞として「当たり前のこと」になるんだと思って良さそう
-        - Ref. [the obviousってどういう意味？](https://ameblo.jp/torahiko1031/entry-12520642174.html)
-- besides the obvious
-  - 慣用句: （前の文脈を受けて、当たり前にわかる）そのこと以外は
-  - Ref. [さらっと言ってみたいですね、"Besides the obvious, of course."](https://sayreally.hatenablog.com/entry/2017/02/13/000000)
-  - Shadowheart はこういう成句の言い回しを使うのが多くない？
-- I'm right behind you
+### 20, Eliasis - 0:37 - Shadowheart, Tav
+
+この会話のときの状況を忘れた
+
+- Shadowheart: Something the matter? Besides the obvious, that is.
+  - Something the matter?
+    - イディオム: 何か問題でも？
+    - 名詞 + 名詞 である
+  - [besides](https://ejje.weblio.jp/content/besides), ビ・サァイズ
+    - 前置詞: を除いて
+      - コアイメージは「〜を横に置いて」と書いてあるが、よくわからない
+    - [beside](https://ejje.weblio.jp/content/beside), ビ・サァイド
+      - 前置詞: 〜のそばに
+        - コアイメージは「〜の横に」で、こちらはわかる
+    - beside と besides の違い
+      - Ref. https://eitopi.com/beside-besides-tigai
+        - beside: あるものの近くに存在するイメージ
+        - besides: あるものに追加するイメージ、転じて今ないものとして「それ以外」になる
+  - besides the obvious
+    - イディオム: 当たり前にわかる・見てわかるそのこと以外は
+      - Ref. https://sayreally.hatenablog.com/entry/2017/02/13/000000
+    - the obvious
+      - 名詞: 当たり前のこと
+      - [obvious](https://ejje.weblio.jp/content/obvious), オ↑・ビァス
+        - 形容詞: 疑問の余地がないほど明らかな
+        - > ((the ～))((名詞的に))明らかなこと
+          - obvious には名詞としての用法はないが、これは特別に一般的な用法のよう
+- Tav: Let's keep going.
+- Shadowheart: I'm right behind you.
   - このときの right は副詞で「ちょうど、すぐに」、だから「あなたのすぐ後ろにいます」
