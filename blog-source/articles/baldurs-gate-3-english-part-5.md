@@ -11,18 +11,41 @@ lastUpdatedAt: "2023-12-25 02:08:27+0000"
 
 ### 20, Eliasis - 0:41 - Mind Flayer, Lae'zel, Us
 
-- [nerve](https://ejje.weblio.jp/content/nerve), ヌゥーブ
-  - 名詞: 神経
-    - ここでは端末を意味する。主人公を誘拐したMind Flayerの戦艦がオウム貝型の生物兵器だから。
+操舵室の中で、Mind FlayerたちとDaemonたちが戦っていた。  
+あるMind FlayerがTavたちへテレパシーで話しかけた。
+
+- Mind Flayer: _Thrall. Connect the nerves of the transponder. We must escape. Now._
+  - [nerve](https://ejje.weblio.jp/content/nerve), ヌゥーブ
+    - 名詞: 神経
+      - ここでは端末を意味する。Mind Flayerの戦艦がオウム貝型の生物兵器だから。
+  - [transponder](https://ejje.weblio.jp/content/transponder), トラァンスポンダ
+    - 名詞: 応答機
+      - 飛行機のコクピットの中についてるごちゃごちゃした機械のひとつなイメージ
+- Lae'zel: Do it. We will deal with the _ghaik_ after we escape.
+  - [deal with](https://ejje.weblio.jp/content/deal+with)
+    - 他動詞: 〜と取引する
+- Us: _Connect the nerves! We will connect them!_
+
+### 20, Eliasis - 1:36 - Lae'zel
+
+この会話のときの状況を忘れた
+
+- Lae'zel: _Tsk'va!_ Hurry - before they strike!
 
 ### 20, Eliasis - 2:12 - Narrator
 
-- [alien](https://ejje.weblio.jp/content/alien), エイリ(エ|ア)ン
-  - 形容詞: 地球圏外の、外国の
-- [in time](https://ejje.weblio.jp/content/in+time)
-  - 慣用句: 間に合って
+TavたちはDaemonたちを打ち倒しつつ、その端末まで到着した
 
-### 20, Eliasis - 2:24 - 主人公
+- \*The helm's alien transponder - you've made it in time.\*
+  - make - made - made
+  - [make it](https://ejje.weblio.jp/content/make+it)
+    - 動詞: 成功する、うまくやり遂げる
+  - [alien](https://ejje.weblio.jp/content/alien), エイリ(エ|ア)ン
+    - 形容詞: 地球圏外の、外国の
+  - [in time](https://ejje.weblio.jp/content/in+time)
+    - 副詞: 間に合って
+
+### 20, Eliasis - 2:24 - Tav
 
 - [wake](https://ejje.weblio.jp/content/wake), ウ↑ェイ(ク|)
   - 自動詞: 目覚める
