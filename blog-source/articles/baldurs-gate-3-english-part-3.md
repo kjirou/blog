@@ -125,25 +125,24 @@ Shadowheartが捕えられているポッドの解放装置の鍵のようなも
     - 名詞: 認可、許可
   - 精神にアクセスするなら、まだ仲間に成り切ってないTavが認証できるのはややおかしい気がするが、あんまり深読みしないでも良さそう
 - Tav: _Will the pod to open._
+  - この文章は文法がわからない、Willは動詞として命令形的に使っている？
+  - この文章の直後にWisdom Checkが行われる
 - \*You feel the biomechanical brain of the console process your command... and yield to it.\*
+  - [biomechanical](https://ejje.weblio.jp/content/biomechanical)
+    - 形容詞: 生体力学の
+  - [yield](https://ejje.weblio.jp/content/yield), (イ|ディ)ーォ(ド|ッ)
+    - 自動詞: 従う
+    - コアイメージは「困難に負けずに生み出す」らしい、転じて「圧力に従って屈する」「要求に従って譲る」などになる
+      - Ref. https://stress-free-english.net/blog/qa/5140/
+      - 本文も「the biomechanical brain が嫌々従う」という意味で合っている
+  - (You)=S (feel)=V (the biomechanical brain of the console)=O (process)=V原形
+    - 知覚動詞の構文のひとつ
+      - Ref. https://www.rarejob.com/englishlab/column/20221020/
+      - 他、hear, listen to, see, look at, watch, observe, smell, taste など
 - \*A shiver runs across your mind... You feel sated.\*
-
----
-
-- [biomechanical](https://ejje.weblio.jp/content/biomechanical)
-  - 形容詞: 生体力学の
-- [yield](https://ejje.weblio.jp/content/yield), (イ|ディ)ーォ(ド|ッ), 発音難しい
-  - 自動詞: 従う
-- You feel the biomechanical brain of the console process your command... and yield to it.
-  - DeepL翻訳: コンソールのバイオメカニカル・ブレインがあなたの命令を処理し、それに従うのを感じる。
-  - You feel + 目的語としての節、という構造に見えていたので、process が動詞の原形なのがわからなかった
-    - それは間違いで、知覚動詞(feel) + 目的語(the biomechanical brain of the console) + 動詞の原形(process) という構文だった
-      - 解説: [英語の「知覚動詞」とは？使い方を例文を参考にマスターしましょう！](https://nativecamp.net/blog/20221116-feel)
-      - なんで原形になるんだろう、一時的にその人や物を脳内でシミュレーションしているから人ごと感が薄れるのだろうか...
-  - process して yield するって言わなくて process だけで良いように思うけど、言い回しなんだろうなぁ
-- [shiver](https://ejje.weblio.jp/content/shiver), (ス|シ)(ヴ|ボ)ァ↓
-  - 名詞: 震え、身震い
-- [across](https://ejje.weblio.jp/content/across), (ア|エ)クロォス
-  - コアイメージは、平面を横切ること。a + cross（十字架）が語源らしい。
-- [sate](https://ejje.weblio.jp/content/sate), (ス|セ)ィ(ト|ッ)
-  - 他動詞: 飽きるほどうんざりさせる、十二分に満足させる
+  - [shiver](https://ejje.weblio.jp/content/shiver), シヴァー
+    - 名詞: 震え、身震い
+  - [across](https://ejje.weblio.jp/content/across), (ア|エ)クロォス
+    - コアイメージは、平面を横切ること、a + cross（十字架）が語源らしい
+  - [sate](https://ejje.weblio.jp/content/sate), セィト
+    - 他動詞: 飽きるほどうんざりさせる、十二分に満足させる
