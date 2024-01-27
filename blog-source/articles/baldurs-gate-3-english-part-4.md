@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-4
-lastUpdatedAt: "2023-12-21 00:37:08+0000"
+lastUpdatedAt: "2024-01-27 13:04:25+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 4冊目
@@ -86,7 +86,6 @@ lastUpdatedAt: "2023-12-21 00:37:08+0000"
 - Shadowheart: But that'll have to wait. Are we going to help each other, or not?
   - [that'll](https://en.wiktionary.org/wiki/that%27ll), ザートォ
     - 縮約形: that will
-    - 発音がわからなかった
 - Tav: All right then, let's get going. I'm Tav.
   - [then](https://ejje.weblio.jp/content/then)
     - 副詞: それなら、そういうわけで
