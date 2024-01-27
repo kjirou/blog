@@ -47,46 +47,66 @@ TavたちはDaemonたちを打ち倒しつつ、その端末まで到着した
 
 ### 20, Eliasis - 2:24 - Tav
 
-- [wake](https://ejje.weblio.jp/content/wake), ウ↑ェイ(ク|)
-  - 自動詞: 目覚める
-- [tadpole](https://ejje.weblio.jp/content/tadpole), タ↑ッポーゥ
-  - 名詞: おたまじゃくし
-- [infection](https://ejje.weblio.jp/content/infection), インフ↑ェクシ(ョ|ェ)ン
-  - 名詞: （悪い）影響
-- [intact](https://ejje.weblio.jp/content/intact), インタ↑ァク(ト|)
-  - 形容詞: そっくりそのままで
-- [other than](https://ejje.weblio.jp/content/other+than)
-  - 上記以外、の他に
-- more or less intact, [英辞郎](https://eow.alc.co.jp/search?q=more+or+less+intact)
-  - 慣用句: ほぼ無事で、ほぼ無傷で
-- Other than the infection, you're more or less intact.
-  - 上記単語群の例文
-  - 全部知らない単語で構成されていた
-- [given](https://ejje.weblio.jp/content/given)
-  - 前置詞: 考慮して
-    - considering や taking into account と同じような意味で頻繁に使われるらしい。なぜかWeblio辞書には強調して載ってないけど。
-      - Ref. https://ukaru-eigo.com/given/
-        - > 本来 given は本来分詞構文から派生した表現なのですが、現在 given はどの辞書にも独立した項目として「前置詞的・接続詞的」と記載されています。
-- [be through](https://ejje.weblio.jp/content/be+through)
-  - 句動詞: （困難を）乗り越えて、経験して、済んで
-- 句動詞(Pharsal Verb)
-  - Ref. https://www.rarejob.com/englishlab/column/20210906_04/
-    - > 「動詞 + 前置詞（もしくは副詞）」で1つの動詞として使えるフレーズ」
-- A miracle, given everything you've been through.
-  - ChatGPT:
-    - > "Given everything you've been through" は、前置詞句として機能しています。ここでの "given" は、"considering" や "taking into account" と同義で、何かを考慮に入れるという意味を表しています。この句全体は、話者が聞き手の経験した困難や挑戦を認識し、それを前提として何か（この場合は「それは奇跡です」）を述べていることを示しています。
-    - > "A miracle" は、実際には "It's a miracle"（それは奇跡です）の短縮形として使われています。英語では、特に口語や文脈が明確な場合、主語と動詞（特に "it is" や "there is" など）を省略することがよくあります。このような省略は、特に表現を強調したり、話の流れをスムーズにするために使われます。
-  - 難しい...
-- [for nothing](https://ejje.weblio.jp/content/for+nothing)
-  - 無駄に
-- [sentence](https://ejje.weblio.jp/content/sentence), セ↑ンテン(ス|)
-  - 名詞: 宣告
+Mind Flayerの戦艦から転移してAvernusのどこかの海岸へ落ちた
+
+- \*As you wake, the tadpole squirms in your skull.\*
+  - [wake](https://ejje.weblio.jp/content/wake), ウ↑ェイク
+    - 自動詞: 目覚める
+  - [tadpole](https://ejje.weblio.jp/content/tadpole), タ↑ッポーゥ
+    - 名詞: おたまじゃくし
+- Tav: _Check yourself for injuries._
+  - [injury](https://ejje.weblio.jp/content/injury), インジュリィ
+    - 名詞: 損傷、損害
+- \*Other than the infection, you're more or less intact. A miracle, given everything you've been through.\*
+  - [other than](https://ejje.weblio.jp/content/other+than)
+    - 副詞: 上記以外、の他に
+  - [infection](https://ejje.weblio.jp/content/infection), インフ↑ェクシ(ョ|ェ)ン
+    - 名詞: 悪い影響
+  - [more or less intact](https://eow.alc.co.jp/search?q=more+or+less+intact)
+    - 形容詞: ほぼ無事で、ほぼ無傷で
+    - [intact](https://ejje.weblio.jp/content/intact), インタ↑ァクト
+      - 形容詞: そっくりそのままで
+  - [given](https://ejje.weblio.jp/content/given), ギブン
+    - 前置詞: 考慮して
+      - considering や taking into account と同じような意味で頻繁に使われる
+        - Ref. https://ukaru-eigo.com/given/
+          - > 本来 given は本来分詞構文から派生した表現なのですが、現在 given はどの辞書にも独立した項目として「前置詞的・接続詞的」と記載されています。
+  - [be through](https://ejje.weblio.jp/content/be+through)
+    - 自動詞: 終わっている、済んでいる
+      - 転じて「困難を経験している」のような意味にもなる
+- \*But it'll all be for nothing if you don't find help soon.\*
+  - [for nothing](https://ejje.weblio.jp/content/for+nothing)
+    - 副詞: 無駄に
+- \*The tadpole is a death sentence, and the clock is ticking. You need a cure.\*
   - [death sentence](https://ejje.weblio.jp/content/death+sentence)
     - 名詞: 死刑宣告、死刑
+    - [sentence](https://ejje.weblio.jp/content/sentence), セ↑ンテンス
+      - 名詞: 宣告
     - FFシリーズの「死の宣告」はこの単語へ訳しているみたい
       - 全シリーズかはわからんけど、[少なくともFF7はそうっぽい](<https://finalfantasy.fandom.com/wiki/Death_Sentence_(Final_Fantasy_VII)>)
 
-### 20, Eliasis - 3:21 - 主人公, Shadowheart
+### 20, Eliasis - 3:21 - Tav, Shadowheart
+
+Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
+
+- Tav: _Wake her._
+- Shadowheart: You're alive. I'm alive. How is this possible...?
+- Tav: I was hoping you might know that.
+- Shadowheart: I remember the ship, I remember falling... then nothing.
+- Tav: Do you have any idea where we are?
+- Shadowheart: No... I don't recognise this place. But anything's an improvement on where we just came from.
+- Shadowheart: First things first - we need supplies, shelter, and most of all, a healer.
+- Shadowheart: We might have escaped, but we still have these little monsters in our heads.
+- Tav: What happened to our gith friend?
+- Shadowheart:
+- Tav:
+- Shadowheart:
+- Tav:
+- Shadowheart:
+- Shadowheart:
+- Shadowheart:
+
+---
 
 - [possible](https://ejje.weblio.jp/content/possible), パ↑ッシブルゥ, わりとブって言ってる
 - [first things first](https://ejje.weblio.jp/content/first+things+first)
