@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-3
-lastUpdatedAt: "2023-12-17 15:13:42+0000"
+lastUpdatedAt: "2024-01-27 07:13:02+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 3冊目
@@ -64,17 +64,17 @@ Shadowheartとは別の人が捕えられているポッドを調べた
 - \*A dazed woman is trapped inside the pod. She doesn't notice you.\*
   - [daze](https://ejje.weblio.jp/content/daze), デェィズ
     - 他動詞: ぼーっとさせる、ぼう然とさせる、人の目をくらます
-  - Dazed
-    - ゲーム用語: 状態効果(Status Effect)のひとつ
-    - ゲーム内テキスト: Has Disadvantage on Wisdom Saving Throws, can't take reactions, and loses the Dexterity bonus to their Armour Class.
-      - Disadvantage は Roll 2 dice and use the lower value. のやつ
-    - D&D 5e には [Daze](<https://dnd-wiki.org/wiki/Daze_(5e_Spell)>) という呪文はあるようだが、Dazed という状態効果はなさそう
+    - Dazed
+      - ゲーム用語: 状態効果(Status Effect)のひとつ
+      - ゲーム内テキスト: Has Disadvantage on Wisdom Saving Throws, can't take reactions, and loses the Dexterity bonus to their Armour Class.
+        - Disadvantage は Roll 2 dice and use the lower value. のやつ
+      - D&D 5e には [Daze](<https://dnd-wiki.org/wiki/Daze_(5e_Spell)>) という呪文はあるようだが、Dazed という状態効果はなさそう
 - [trap](https://ejje.weblio.jp/content/trap)
   - 他動詞: わなで捕らえる
 
 ### 20, Eliasis - 21:08 - 主人公
 
-Shadowheartが捕えられているポッドの解放装置の鍵のようなものを発見した後、再びポッドを調べた
+Shadowheartが捕えられているポッドの解放装置の鍵らしきルーンを発見した後、再びポッドを調べた
 
 - \*The console appears dormant.\*
 - Tav: _Insert the rune into the socket._
@@ -126,7 +126,7 @@ Shadowheartが捕えられているポッドの解放装置の鍵のようなも
   - 精神にアクセスするなら、まだ仲間に成り切ってないTavが認証できるのはややおかしい気がするが、あんまり深読みしないでも良さそう
 - Tav: _Will the pod to open._
   - この文章は文法がわからない、Willは動詞として命令形的に使っている？
-  - この文章の直後にWisdom Checkが行われる
+  - なお、この直後にWisdom Checkが行われる
 - \*You feel the biomechanical brain of the console process your command... and yield to it.\*
   - [biomechanical](https://ejje.weblio.jp/content/biomechanical)
     - 形容詞: 生体力学の
@@ -144,5 +144,7 @@ Shadowheartが捕えられているポッドの解放装置の鍵のようなも
     - 名詞: 震え、身震い
   - [across](https://ejje.weblio.jp/content/across), (ア|エ)クロォス
     - コアイメージは、平面を横切ること、a + cross（十字架）が語源らしい
-  - [sate](https://ejje.weblio.jp/content/sate), セィト
-    - 他動詞: 飽きるほどうんざりさせる、十二分に満足させる
+  - [sated](https://ejje.weblio.jp/content/sated), セィテッ
+    - 形容詞: 飽きるほどうんざりした
+    - [sate](https://ejje.weblio.jp/content/sate), セィト
+      - 他動詞: 飽きるほどうんざりさせる、十二分に満足させる
