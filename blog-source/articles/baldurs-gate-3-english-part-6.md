@@ -41,86 +41,99 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
   - [darling](https://ejje.weblio.jp/content/darling), ダァーリング
     - 形容詞: 大切な、最愛の
   - Astarionが主人公を騙し討ちし、羽交い締めしつつ首にナイフを添えている状況
-  - Not A. Not B. は、A をしなければ B にならない
+  - ChatGPTによると、Not A. Not B. の構文は、後者の Not が 前者の Not に対応しての強調の意味になる構文とのこと
+    - 他記事などでこの説の検証はできなかった
 - Astarion: And you - keep your distance. No need for this to get messy.
+  - AstarionがShadowheartを牽制している状況
+  - keep your distance
+    - 「近寄るな」
+    - distance や a distance じゃなくて your distance なのは？
+      - ChatGPT:
+        - > 相手が自分自身を守るため、または他人との関係を一定の距離で保つために確保している心理的または物理的な空間を指します。
+  - [messy](https://ejje.weblio.jp/content/messy), メ↑ッスィ
+    - 形容詞: 取り散らかした、乱雑な、面倒な、よごれた、体を汚すような
+  - No need for this to get messy.
+    - この状況が混乱することを言っているのか、Tavが血で汚れることを言っているのか、がわからない
 - Shadowheart: I need him alive - stow that blade or I'll show you just how messy things can get.
+  - need は SVOC で使用可能
+  - [stow](https://ejje.weblio.jp/content/stow), ストゥ
+    - 他動詞: しまい込む
+  - [show](https://ejje.weblio.jp/content/show), ショォウ
+    - 他動詞: 人に何かを見せる
+      - show O1 O2: O1 へ O2 を見せる
+  - how messy things can get
+    - イディオム: 混沌としたまたは面倒な状況が起こる
+    - [get](https://ejje.weblio.jp/content/get)
+      - 自動詞: なる、起こる、発生する
 - Astarion: Promises, promises. But I have other business, I'm afraid.
+  - [promises, promises](https://en.wiktionary.org/wiki/promises,_promises)
+    - イディオム: 口先ばかり
+      - 約束が守られることを疑っている、脅しが空虚なものであると思っている、ような時に使う
+    - promise の複数形がふたつでそう言う意味になるのは、約束がたくさんあるなら個々は信頼度が低くなるというイメージから
+  - [I'm afraid](https://ejje.weblio.jp/content/I%27m+afraid)
+    - イディオム: 残念ですが、遺憾ですが
 - Astarion: Now, I saw you on the ship, didn't I? Nod.
+  - [now](https://ejje.weblio.jp/content/now), ナ↑ァウ
+    - 副詞: そら、さあ、まあ、おい
+      - 間投詞的に使う、命令・要求・威嚇・慰めなどの意味
+  - didn't I は付加疑問（文）(tag question)という構文
+    - 後に付け足して疑問系にする、その時は肯定・否定が逆転する
+    - Ref. https://ipa-mania.com/tag-question/
+  - [nod](https://ejje.weblio.jp/content/nod), ノァード
+    - 自動詞: うなずいて同意する
 - Tav: _Nod._
+  - プレイ中は逆の意味だと思って肯定してしまったけど、会ってなかった
 - Astarion: Splendid.
+  - [splendid](https://ejje.weblio.jp/content/splendid), スプレンディド
+    - 形容詞: 素晴らしい、素敵な
 - Astarion: And now you're going to tell me exactly what you and those tentacled freaks did to me.
+  - be going to は命令的な意味も持つ
+    - Ref. https://toiguru.jp/be-going-to
+  - [exactly](https://ejje.weblio.jp/content/exactly), イグザ↑ァクトリィ
+    - 副詞: 正確に、厳密に
+  - [freak](https://ejje.weblio.jp/content/freak), フリィック
+    - 名詞: 奇形、変種
+      - 今回だと「化物」が一番近そう、HELLSINGにもあった
 - Tav: You have it backwards - they took me prisoner, just like you.
+  - [backwards](https://ejje.weblio.jp/content/backwards), バ↑ァックワァォズ
+    - 副詞: 真逆に
+    - [backward](https://ejje.weblio.jp/content/backward), バ↑ーックワォード
+      - 副詞: 後方へ、後ろの、戻りの、逆に
+    - backwards が backward でも間違いではないが、真逆な感じは薄くなる
+  - You have it backwards
+    - 「あなたは真逆に捉えている」
+- Astarion: Don't lie to me! I - agh.
+  - [lie](https://ejje.weblio.jp/content/lie), ラァイ
+    - 自動詞: 嘘をつく
+      - 「寝る」と同じ綴り
+  - [agh](https://ejje.weblio.jp/content/agh)
+    - 間投詞: ああぁぁ！
+      - 恐怖、嫌悪、不満の表現
+- \*\*
+- \*\*
+- Astarion:
+- Tav:
+- Astarion:
+- Astarion:
+- Tav:
 - Astarion:
 - Astarion:
 - Tav:
 - Astarion:
 - Astarion:
 - Tav:
+- Astarion:
+- Astarion:
+- Astarion:
+- Tav:
+- Astarion:
+- Tav:
+- Astarion:
+- Astarion:
+- Astarion:
 
 ---
 
-- Not a sound. Not if you want to keep that darling neck of yours.
-  - 「音を立てるな。あなたの大切な首を守りたいのならね。」という訳
-    - Astarionが主人公を騙し討ちし、羽交い締めしつつ首にナイフを添えている状況
-  - 二つ目の Not は、 ChatGTPによると Not a sound の Not の強調になっているとのことだが、どういう構文なのか詳細はわからなかった
-  - 一旦理解は保留
-- [messy](https://ejje.weblio.jp/content/messy), メ↑ッスィ
-  - 形容詞: 撮り散らかした、よごれた、面倒な、（体を）汚すような
-- And you - keep your distance. No need for this to get messy.
-  - AstarionがShadowheartを牽制している状況
-  - a distance や distance じゃなくて your distance なのは、だいたい日本語で考えたのと同じような意味っぽい
-    - ChatGPT:
-      - > 相手が自分自身を守るため、または他人との関係を一定の距離で保つために確保している心理的または物理的な空間を指します。
-    - 今回は牽制している側が言ってるので、「近寄るな」になる
-  - No need for this to get messy は「近寄るとこいつの血で汚れるぞ」みたいなことを言ってそうだが正確にはわからない
-    - 汚れるぞがShadowheartなのか主人公なのかが特にわからない
-- [stow](https://ejje.weblio.jp/content/stow), ス↑トゥ
-  - 他動詞: しまい込む
-- I need him alive - stow that blade or I'll show you just how messy things can get.
-  - how messy things can get は成句っぽいもので、「混沌としたまたは面倒な状況が起こる」という意味
-    - このときの get は自動詞で「起こる、発生する」という意味のよう by ChatGPT
-    - ShadowheartがAstarionを牽制している状況だから、「お前をめちゃくちゃにしてやるぞ」みたいな意味なんだろうけど、直訳だと「場をめちゃくちゃにしてやる」だと思う
-      - この辺の言い回しの機微ははわかってない
-- [afraid](https://ejje.weblio.jp/content/afraid), アフレェイ(ドゥ|)
-  - 形容詞: 恐れて、怖がって
-- [nod](https://ejje.weblio.jp/content/nod), ノ↑(ァ|ォ)ド
-  - 自動詞: うなずいて同意する
-- Now, I saw you on the ship, didn't I?
-  - Astarionが主人公へ質問している状況
-  - 「私はあなたに船で会いましたよね？」という文意だと思う
-    - これ「会ってないよね」だと思ってゲーム中で肯定を返してしまったんだけど、会った記憶はないので間違ってたな...
-  - [now](https://ejje.weblio.jp/content/now)
-    - > [間投詞的に，命令・要求・慰め・威嚇などを表わして] そら，さあ，まあ，おい.
-  - didn't I は付加疑問（文）(tag question)という構文
-    - 後に付け足して疑問系にする、その時は肯定・否定が逆転する、何故逆転するのかの気持ちはわからん\
-    - Ref. https://ipa-mania.com/tag-question/
-- [splendid](https://ejje.weblio.jp/content/splendid), スプレンディ(ド|)
-  - 形容詞: すばらしい、すてきな
-- [exactly](https://ejje.weblio.jp/content/exactly), イグザ↑ァクチョリィ
-- [freak](https://ejje.weblio.jp/content/freak), フリィ(ッ|ク)
-  - 名詞: 奇形、変種
-    - 今回だと「化物」が一番近そう、HELLSINGにもあった
-- [tentacle](https://ejje.weblio.jp/content/tentacle), テンタコォ
-- And now you're going to tell me exactly what you and those tentacled freaks did to me.
-  - be going to は命令の意味も持つ
-    - Ref. https://toiguru.jp/be-going-to
-- You have it backwards - they took me prisoner, just like you.
-  - [backwards](https://ejje.weblio.jp/content/backwards), バ↑ァクワ(ァ|ォ)ズ
-    - 副詞: 真逆に
-    - [backward](https://ejje.weblio.jp/content/backward) に変えたら成立するのというのをChatGPTに聞いた回答:
-      - > "backwards"が"backward"に変わると、英語の文脈における意味も少し変わりますが、基本的な意味合いは同じままです。"Backward"は、方向性に関する語として「後ろ向きの」「過去に向かう」などを意味し、比喩的には「進歩が遅い」や「保守的な」などの意味でも使われます。文脈によっては"backwards"とほぼ同じように「逆」や「反対」を意味することもあります。
-        >
-        > したがって、"You have it backwards - they took me prisoner, just like you." が "You have it backward - they took me prisoner, just like you." に変わった場合、文の意味するところは「あなたの理解は逆だ - 彼らは私をあなたと同じように捕虜にした。」とほぼ同じままですが、「逆さま」「真逆」というよりは、「後ろ向き」や「誤った方向」というニュアンスになるでしょう。
-  - they took me prisoner は SVOO で名詞として prisoner を受け取っているのか、SVOC で prisoner が形容詞的に使われているのか、それともそれ以外なのかが不明
-    - [take](https://ejje.weblio.jp/content/take) によると、SVOO のときの O2 は以下のような用法でしか使えなさそう
-      - > 〔(+目的語)+目的語〕〈人に〉〈時間・労力・金などを〉必要とする，かかる.
-    - わからんので保留
-- [lie](https://ejje.weblio.jp/content/lie), ラァイ
-  - 動詞: 嘘をつく
-    - 「寝る」と同音異義語なのマジでどうして
-- [agh](https://ejje.weblio.jp/content/agh)
-  - ああぁぁ！
-    - 恐怖、嫌悪、不満の感嘆詞
 - [prowl](https://ejje.weblio.jp/content/prowl), プ↑ラォゥ
   - 他動詞: 〈場所を〉うろつく，徘徊する
     - 自動詞の方に「(獲物を求めて・盗みの機会をねらって)うろつく」という意味がある
