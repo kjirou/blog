@@ -40,6 +40,9 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
     - 直訳:「私の興味を誇張することはない。」、意訳:「私の興味は計り知れない。」「とても興味がある。」
 - Tav: Fine - ask your questions.
 - Volo: _Glory!_ Now, then:
+  - [glory](https://ejje.weblio.jp/content/glory), グォーリィ
+    - 名詞: 栄光、誉れ、名誉、大満足
+    - この文だと、「素晴らしい！」で良い
 - Volo: How would you describe that particular batch of goblins? Size? Nature? Distinguishing qualities?
 - \*You search your mind, but remember nothing useful about goblin social order or behaviour.\*
 - Tav:
