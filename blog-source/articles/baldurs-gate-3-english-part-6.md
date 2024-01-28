@@ -191,40 +191,47 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
     - 副詞: 不運にも、不幸にも、残念ながら、あいにく
 - Astarion: Turn us into - ha, Hahaha!
 - Astarion: Of course it'll turn me into a monster. What else did I expect?
+  - [of course](https://ejje.weblio.jp/content/of+course)
+    - 間投詞: そうか！、そうだ！
+      - 相手に何かを指摘されたり、何かに思い当たったりしつつ
+  - [else](https://ejje.weblio.jp/content/else), エ(ル|ウ)ス
+    - 副詞: その他に
 - Astarion: Although it hasn't happended yet. If we can find an expert - someone that can control these things - there might still be time.
+  - [although](https://ejje.weblio.jp/content/although), (オ|ア)ール・ゾゥ
+    - 接続詞: だが、であるが、しかし
+      - 対立する状況（事実・推測・期待など）を示して、ある状況はあるがしかし、と言う時に使う
+  - [still](https://ejje.weblio.jp/content/still), スティルゥ
+    - 副詞: まだ、依然として、それにもかかわらず
+      - > 「still」が副詞として使われる場合、時間的な継続や、ある状態が変わらずに続いていること、または予想や反対の状況にもかかわらず、という意味を示す。
 - Tav: Control it? We need to get _rid_ of it.
 - Astarion: Well yes, of course. But first things first.
-- Tav:
-- Astarion:
-- Astarion:
-- Astarion:
-
----
-
-- [of course](https://ejje.weblio.jp/content/of+course)
-  - > [相手に何かを指摘されたり, 何かに思い当たったりして]そうか!, そうだ!
-- [still](https://ejje.weblio.jp/content/still), スティルゥ
-  - 副詞: まだ、依然として、それにもかかわらず
-    - > 「still」が副詞として使われる場合、時間的な継続や、ある状態が変わらずに続いていること、または予想や反対の状況にもかかわらず、という意味を示す。
-- [odds](https://ejje.weblio.jp/content/odds), アーッ(ズ|ス|)
-  - 名詞: 勝ち目、勝算
-- [you know](https://ejje.weblio.jp/content/you+know)
-  - well のように会話の間を持たせたり、相手に同意を求めるような意味に変えるのに使ったり、その他諸々
-    - こういう記事で調べたほうが良さそう: Ref. https://nativecamp.net/blog/20180806-you_know
-- I was ready to go this alone
-  - Astarionに一緒に行こうと言った直後の状況
-  - 自分は一人で行くはずだったんだ、という意味だろうけど go this の部分がよくわからない
-    - this がこの困難のことを指していて、go はそれに立ち向かうみたいな感じ？
-- [stick](https://ejje.weblio.jp/content/stick), ステ↑ィッ(ク|)
-  - 自動詞: 刺さっている、くっつく
-    - sticking with the herd という言い回しで使われてたけど、群れの一人でいることを言っていそう
-      - Astarionはプライドが高そうっすね
-- [herd](https://ejje.weblio.jp/content/herd), (ハ|ヘ)ー(ド|ズ|)
-  - 名詞: 群衆、群れ
-    - 家畜の群れ、下層民の群衆、のように若干下に見た意味
-- And you seem like a useful person to know.
-  - ChatGPT訳: あなたは知り合う価値のある人のようです。
-  - to know は、「知ること」「知り合いになること」を言っていそう
-- いち会話がくっそ長かった。流石にパケ絵の中心にいるAstarionさんのパートだ...
-  - いいキャラしてるなぁ
-  - 自分の主人公と同じローグで役割がドかぶってるので、仲間として連れ回しにくいのが残念
+- Tav: You should travel with me. Our odds are better together.
+  - [odds](https://ejje.weblio.jp/content/odds), アーッズ
+    - 名詞: 勝ち目、勝算
+- Astarion: You know, I was ready to go this alone, but maybe sticking with the herd isn't such a bad idea.
+  - [you know](https://en.wiktionary.org/wiki/you_know)
+    - 間投詞: 文頭において相手の未知の情報を伝えるときの表現
+      - 他にも、「単なる間やためらいの表現」「文末において、認識・承認・確認の同意の表現」など様々な意味がある
+  - [alone](https://ejje.weblio.jp/content/alone), アローン
+    - 形容詞: ひとりで
+  - [stick](https://ejje.weblio.jp/content/stick), ステ↑ィック
+    - 自動詞: 刺さっている、くっつく
+  - [herd](https://ejje.weblio.jp/content/herd), (ハ|ヘ)ード
+    - 名詞: 群衆、群れ
+      - 家畜の群れ、下層民の群衆、のように若干下に見た意味
+  - sticking with the herd
+    - 群の中の一人で居ること、を意味してそう
+    - Astarionはプライドが高そうっすね
+  - [such](https://ejje.weblio.jp/content/such)
+    - 形容詞: とても、非常に
+      - 多いや大きい側の程度や量を表す
+  - such a bad idea
+    - such が冠詞の前に来るのは、特に理屈がないよう
+      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
+    - 他、 many, half, all the, both the などが同様に形容詞なのに冠詞の前に来る
+      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
+- Astarion: And you seem like a useful person to know.
+  - ChatGPT訳:「あなたは知り合う価値のある人のようです。」
+- Astarion: All right, I accept. Lead on.
+  - いち会話がくっそ長かった。流石にパケ絵の中心にいるAstarionさんだ。
+  - いいキャラしているけど、主人公もローグ同士だから役割被りで連れまわしにくそう
