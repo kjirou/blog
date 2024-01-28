@@ -73,7 +73,16 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
   - [behaviour](https://ejje.weblio.jp/content/behaviour), ビィ・ヘイビァ
     - 名詞: 振る舞い
 - Tav: _Give an exact description._
+  - [exact](https://ejje.weblio.jp/content/exact), (エ|イ)グザァクト
+    - 形容詞: 正確な
+  - 先に「思い出せない」という判定がされたけど、詳細の説明はできるんだ
 - Volo: 'Goblins... were... of... rare... gem-coloured... hue... and wielded... magic... blowguns...' Right!
+  - [hue](https://ejje.weblio.jp/content/hue), ヒュゥ
+    - 名詞: 色合い、色調
+  - [wield](https://ejje.weblio.jp/content/wield), ウィールド
+    - 他動詞: ふるう、用いる
+  - [blowgun](https://ejje.weblio.jp/content/blowgun), ブロゥガン
+    - 名詞: 吹き矢
 - Volo: And the... _dragon_ they had marching in the rear. Was it of the brass or silver variety?
 - Tav: I think there's been a misunderstanding. What do you want, exactly?
   - 悪ノリして返す選択肢もあって普通のRPGならそれを選びそうなんだけど、英語だと余裕がないからかマジレス気味になる
