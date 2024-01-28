@@ -1,168 +1,239 @@
 ---
 publicId: baldurs-gate-3-english-part-6
-lastUpdatedAt: "2023-12-29 01:48:54+0000"
+lastUpdatedAt: "2024-01-28 09:09:40+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 6冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- Avernusを探索中
 
 ## 本編
 
 ### 20, Eliasis - 10:19 - Astarion, Tav, Shadowheart
 
-- [cornered](https://ejje.weblio.jp/content/cornered)
-  - 形容詞: 追い詰められた
-  - [corner](https://ejje.weblio.jp/content/corner), コォナァ
-    - 他動詞: 追い詰める
-- Hurry, I've got one of brain things cornered.
-  - brain things はChatGPT氏は「頭の中にあるもの」と翻訳していて、本来は抽象的なアイディアなどを指すよう
-  - Astarionが言ってたんだけど、たしか独り言を言ってたと思う
-- [can't you](https://ejje.weblio.jp/content/can%27t+you)
-  - できる？
-  - Can't you do it? で「できないの？」
-  - 日本語で考えたのと同じように、わりと嫌味っぽい言い方らしい
-- Stand back.
-  - 下がってろ
-- [shh](https://ejje.weblio.jp/content/shh)
-  - シーッ
-- [not a sound](https://ejje.weblio.jp/content/not+a+sound)
-  - 声を出すな、騒ぐな、音を立てるな
-- [darling](https://ejje.weblio.jp/content/darling), ダァーリン(グ|)
-  - 形容詞: 大切な、最愛の
-- Not a sound. Not if you want to keep that darling neck of yours.
-  - 「音を立てるな。あなたの大切な首を守りたいのならね。」という訳
-    - Astarionが主人公を騙し討ちし、羽交い締めしつつ首にナイフを添えている状況
-  - 二つ目の Not は、 ChatGTPによると Not a sound の Not の強調になっているとのことだが、どういう構文なのか詳細はわからなかった
-  - 一旦理解は保留
-- [messy](https://ejje.weblio.jp/content/messy), メ↑ッスィ
-  - 形容詞: 撮り散らかした、よごれた、面倒な、（体を）汚すような
-- And you - keep your distance. No need for this to get messy.
+道すがら、独り言を言っているAstarionを発見し、近づいた
+
+- Astarion: Hurry, I've got one of those brain things cornered.
+  - [cornered](https://ejje.weblio.jp/content/cornered), コォナァ
+    - 形容詞: 追い詰められた
+    - [corner](https://ejje.weblio.jp/content/corner), コォナァ
+      - 他動詞: 追い詰める
+  - ChatGPT訳:「急いで、あの脳みそみたいなものを追い詰めたんだ。」
+  - この文と次の文は言っていることが支離滅裂だが、ブツブツ何か言ってた図だったので、深く考えないで良い
+- Astarion: There, in the grass. You can kill it, can't you? Like you killed the others.
+  - [grass](https://ejje.weblio.jp/content/grass), グラァス
+    - 名詞: 草むら、芝生、草地、草
+  - [like](https://ejje.weblio.jp/content/like), ゥライク
+    - 接続詞: 〜のするように
+- Tav: Easily. Stand back.
+  - [easily](https://ejje.weblio.jp/content/easily), イー(ジ|ザ)リィ
+    - 副詞: 気楽に、楽に
+  - [stand back](https://ejje.weblio.jp/content/stand+back)
+    - 自動詞: 下がる、引っ込む
+- Astarion: There, can you see it?
+  - この直後にTavがPerception Checkを行い、失敗した
+- Astarion: Shh. Not a sound. Not if you want to keep that darling neck of yours.
+  - [shh](https://ejje.weblio.jp/content/shh)
+    - シーッ
+  - [not a sound](https://ejje.weblio.jp/content/not+a+sound)
+    - 声を出すな、騒ぐな、音を立てるな
+  - [darling](https://ejje.weblio.jp/content/darling), ダァーリング
+    - 形容詞: 大切な、最愛の
+  - Astarionが主人公を騙し討ちし、羽交い締めしつつ首にナイフを添えている状況
+  - ChatGPTによると、Not A. Not B. の構文は、後者の Not が 前者の Not に対応しての強調の意味になる構文とのこと
+    - 他記事などでこの説の検証はできなかった
+- Astarion: And you - keep your distance. No need for this to get messy.
   - AstarionがShadowheartを牽制している状況
-  - a distance や distance じゃなくて your distance なのは、だいたい日本語で考えたのと同じような意味っぽい
-    - ChatGPT:
-      - > 相手が自分自身を守るため、または他人との関係を一定の距離で保つために確保している心理的または物理的な空間を指します。
-    - 今回は牽制している側が言ってるので、「近寄るな」になる
-  - No need for this to get messy は「近寄るとこいつの血で汚れるぞ」みたいなことを言ってそうだが正確にはわからない
-    - 汚れるぞがShadowheartなのか主人公なのかが特にわからない
-- [stow](https://ejje.weblio.jp/content/stow), ス↑トゥ
-  - 他動詞: しまい込む
-- I need him alive - stow that blade or I'll show you just how messy things can get.
-  - how messy things can get は成句っぽいもので、「混沌としたまたは面倒な状況が起こる」という意味
-    - このときの get は自動詞で「起こる、発生する」という意味のよう by ChatGPT
-    - ShadowheartがAstarionを牽制している状況だから、「お前をめちゃくちゃにしてやるぞ」みたいな意味なんだろうけど、直訳だと「場をめちゃくちゃにしてやる」だと思う
-      - この辺の言い回しの機微ははわかってない
-- [afraid](https://ejje.weblio.jp/content/afraid), アフレェイ(ドゥ|)
-  - 形容詞: 恐れて、怖がって
-- [nod](https://ejje.weblio.jp/content/nod), ノ↑(ァ|ォ)ド
-  - 自動詞: うなずいて同意する
-- Now, I saw you on the ship, didn't I?
-  - Astarionが主人公へ質問している状況
-  - 「私はあなたに船で会いましたよね？」という文意だと思う
-    - これ「会ってないよね」だと思ってゲーム中で肯定を返してしまったんだけど、会った記憶はないので間違ってたな...
-  - [now](https://ejje.weblio.jp/content/now)
-    - > [間投詞的に，命令・要求・慰め・威嚇などを表わして] そら，さあ，まあ，おい.
+  - keep your distance
+    - 「近寄るな」
+    - distance や a distance じゃなくて your distance なのは？
+      - ChatGPT:
+        - > 相手が自分自身を守るため、または他人との関係を一定の距離で保つために確保している心理的または物理的な空間を指します。
+  - [messy](https://ejje.weblio.jp/content/messy), メ↑ッスィ
+    - 形容詞: 取り散らかした、乱雑な、面倒な、よごれた、体を汚すような
+  - No need for this to get messy.
+    - この状況が混乱することを言っているのか、Tavが血で汚れることを言っているのか、がわからない
+- Shadowheart: I need him alive - stow that blade or I'll show you just how messy things can get.
+  - need は SVOC で使用可能
+  - [stow](https://ejje.weblio.jp/content/stow), ストゥ
+    - 他動詞: しまい込む
+  - [show](https://ejje.weblio.jp/content/show), ショォウ
+    - 他動詞: 人に何かを見せる
+      - show O1 O2: O1 へ O2 を見せる
+  - how messy things can get
+    - イディオム: 混沌としたまたは面倒な状況が起こる
+    - [get](https://ejje.weblio.jp/content/get)
+      - 自動詞: なる、起こる、発生する
+- Astarion: Promises, promises. But I have other business, I'm afraid.
+  - [promises, promises](https://en.wiktionary.org/wiki/promises,_promises)
+    - イディオム: 口先ばかり
+      - 約束が守られることを疑っている、脅しが空虚なものであると思っている、ような時に使う
+    - promise の複数形がふたつでそう言う意味になるのは、約束がたくさんあるなら個々は信頼度が低くなるというイメージから
+  - [I'm afraid](https://ejje.weblio.jp/content/I%27m+afraid)
+    - イディオム: 残念ですが、遺憾ですが
+- Astarion: Now, I saw you on the ship, didn't I? Nod.
+  - [now](https://ejje.weblio.jp/content/now), ナ↑ァウ
+    - 副詞: そら、さあ、まあ、おい
+      - 間投詞的に使う、命令・要求・威嚇・慰めなどの意味
   - didn't I は付加疑問（文）(tag question)という構文
-    - 後に付け足して疑問系にする、その時は肯定・否定が逆転する、何故逆転するのかの気持ちはわからん\
+    - 後に付け足して疑問系にする、その時は肯定・否定が逆転する
     - Ref. https://ipa-mania.com/tag-question/
-- [splendid](https://ejje.weblio.jp/content/splendid), スプレンディ(ド|)
-  - 形容詞: すばらしい、すてきな
-- [exactly](https://ejje.weblio.jp/content/exactly), イグザ↑ァクチョリィ
-- [freak](https://ejje.weblio.jp/content/freak), フリィ(ッ|ク)
-  - 名詞: 奇形、変種
-    - 今回だと「化物」が一番近そう、HELLSINGにもあった
-- [tentacle](https://ejje.weblio.jp/content/tentacle), テンタコォ
-- And now you're going to tell me exactly what you and those tentacled freaks did to me.
-  - be going to は命令の意味も持つ
+  - [nod](https://ejje.weblio.jp/content/nod), ノァード
+    - 自動詞: うなずいて同意する
+- Tav: _Nod._
+  - プレイ中は逆の意味だと思って肯定してしまったけど、会ってなかった
+- Astarion: Splendid.
+  - [splendid](https://ejje.weblio.jp/content/splendid), スプレンディド
+    - 形容詞: 素晴らしい、素敵な
+- Astarion: And now you're going to tell me exactly what you and those tentacled freaks did to me.
+  - be going to は命令的な意味も持つ
     - Ref. https://toiguru.jp/be-going-to
-- You have it backwards - they took me prisoner, just like you.
-  - [backwards](https://ejje.weblio.jp/content/backwards), バ↑ァクワ(ァ|ォ)ズ
+  - [exactly](https://ejje.weblio.jp/content/exactly), イグザ↑ァクトリィ
+    - 副詞: 正確に、厳密に
+  - [freak](https://ejje.weblio.jp/content/freak), フリィック
+    - 名詞: 奇形、変種
+      - 今回だと「化物」が一番近そう、HELLSINGにもあった
+- Tav: You have it backwards - they took me prisoner, just like you.
+  - [backwards](https://ejje.weblio.jp/content/backwards), バ↑ァックワァォズ
     - 副詞: 真逆に
-    - [backward](https://ejje.weblio.jp/content/backward) に変えたら成立するのというのをChatGPTに聞いた回答:
-      - > "backwards"が"backward"に変わると、英語の文脈における意味も少し変わりますが、基本的な意味合いは同じままです。"Backward"は、方向性に関する語として「後ろ向きの」「過去に向かう」などを意味し、比喩的には「進歩が遅い」や「保守的な」などの意味でも使われます。文脈によっては"backwards"とほぼ同じように「逆」や「反対」を意味することもあります。
-        >
-        > したがって、"You have it backwards - they took me prisoner, just like you." が "You have it backward - they took me prisoner, just like you." に変わった場合、文の意味するところは「あなたの理解は逆だ - 彼らは私をあなたと同じように捕虜にした。」とほぼ同じままですが、「逆さま」「真逆」というよりは、「後ろ向き」や「誤った方向」というニュアンスになるでしょう。
-  - they took me prisoner は SVOO で名詞として prisoner を受け取っているのか、SVOC で prisoner が形容詞的に使われているのか、それともそれ以外なのかが不明
-    - [take](https://ejje.weblio.jp/content/take) によると、SVOO のときの O2 は以下のような用法でしか使えなさそう
-      - > 〔(+目的語)+目的語〕〈人に〉〈時間・労力・金などを〉必要とする，かかる.
-    - わからんので保留
-- [lie](https://ejje.weblio.jp/content/lie), ラァイ
-  - 動詞: 嘘をつく
-    - 「寝る」と同音異義語なのマジでどうして
-- [agh](https://ejje.weblio.jp/content/agh)
-  - ああぁぁ！
-    - 恐怖、嫌悪、不満の感嘆詞
-- [prowl](https://ejje.weblio.jp/content/prowl), プ↑ラォゥ
-  - 他動詞: 〈場所を〉うろつく，徘徊する
-    - 自動詞の方に「(獲物を求めて・盗みの機会をねらって)うろつく」という意味がある
-- [unfamiliar](https://ejje.weblio.jp/content/unfamiliar)
-  - 形容詞: 見慣れない、よく知らない
-- You're looking out of unfamiliar eyes, prowling dark, busy streets.
-  - 文法に沿って訳すと、You're looking out / of unfamiliar eyes, / (prowling dark, busy streets). で「あなたは見慣れない目を通して外を見て、暗くて忙しい通りをうろついています。」になりそう。
-    - ChatGPTやDeepL翻訳だとこの意味になる
-  - おそらくそれだと違ってて、「あなたは慣れない目を通して外を見ている、暗闇をうろつく姿、混雑した通り」という感じなのではないか？
-- [worm](https://ejje.weblio.jp/content/worm), ワ(ァ|ォ)ーム
-  - 名詞: (細長く足のない)虫、蛆虫、ワーム
-- [go on](https://ejje.weblio.jp/content/go+on)
-  - 句動詞・自動詞: 〈事が〉起こる; 〈行事などが〉行なわれる
-    - What's going on?
-    - 他にも意味はいっぱいある、コアイメージは go: 行く、on: 続けて、のよう
+    - [backward](https://ejje.weblio.jp/content/backward), バ↑ーックワォード
+      - 副詞: 後方へ、後ろの、戻りの、逆に
+    - backwards が backward でも間違いではないが、真逆な感じは薄くなる
+  - You have it backwards
+    - 「あなたは真逆に捉えている」
+- Astarion: Don't lie to me! I - agh.
+  - [lie](https://ejje.weblio.jp/content/lie), ラァイ
+    - 自動詞: 嘘をつく
+      - 「寝る」と同じ綴り
+  - [agh](https://ejje.weblio.jp/content/agh)
+    - 間投詞: ああぁぁ！
+      - 恐怖、嫌悪、不満の表現
+- \*Your mind twists. You're looking out of unfamiliar eyes, prowling dark, busy streets.\*
+  - [twist](https://ejje.weblio.jp/content/twist), トゥイスツ
+    - 自動詞: よじれる、ねじれる
+  - [look out](https://ejje.weblio.jp/content/look+out)
+    - 自動詞: 外を見る
+  - [unfamiliar](https://ejje.weblio.jp/content/unfamiliar), アン・ファミリア
+    - 形容詞: 見慣れない、よく知らない
+  - [prowl](https://ejje.weblio.jp/content/prowl), プ↑ラォゥ
+    - 他動詞: 獲物を求めてまたは盗みの機会を狙ってこそこそと〜をうろつく
+    - 自動詞でも使える
+  - ChatGPT訳:「あなたの心はねじれる。見慣れない目から、暗くて賑やかな通りをうろつきながら見ています。」
+  - You're looking out of unfamiliar eyes は、Astarionの目から外を見ているということを言ってそう
+- \*You try to hold the memory, but it fades to the worm. The light. The fear.\*
+  - [worm](https://ejje.weblio.jp/content/worm), ワ(ァ|ォ)ーム
+    - 名詞: 細長く足のない虫、蛆虫、ワーム
+  - ChatGPT訳:「記憶を保とうとしますが、それは虫へと消えていきます。光へ。恐怖へ。」
+- Astarion: What was that? What's going on?
+  - [go on](https://ejje.weblio.jp/content/go+on)
+    - 自動詞: 事が起こる、行事などが行なわれる
+    - 他にも意味はたくさんある。コアイメージは go: 行く、on: 続けて。
       - Ref. https://risat-english.com/go-on/
-- [ready](https://ejje.weblio.jp/content/ready), ゥレイディ
-  - 形容詞: 今にもしようとして
-- [innards](https://ejje.weblio.jp/content/innards), イ↑ナァ(ズ|ツ)
-  - 名詞: 内臓
-- [apology](https://ejje.weblio.jp/content/apology), アパ↑ァロズィ
-  - 名詞: 謝罪（すること）、わび（ること）
-- And to think I was ready to decorate the ground with your innards. Apologies.
-  - 「君のはらわたをぶちまけようとしていたよ。ごめんな。」という意味なんだとは思う
-  - to think がどういう意味なのかわからない
-- [kindred](https://ejje.weblio.jp/content/kindred), キ↑ンド(ゥ|ォ)レッ
+- Tav: It's the mind flayer's worm - it connected us.
+  - [connect](https://ejje.weblio.jp/content/connect), (カ|コ)ネクト
+    - 他動詞: あるものを他のものと接続する・結合する・連絡する
+- Astarion: You're not one of them. They took you, just the same as me.
+  - just the same as me は、just は副詞だが the same の名詞を修飾している
+- Astarion: And to think I was ready to decorate the ground with your innards. Apologies.
+  - [ready](https://ejje.weblio.jp/content/ready), ゥレイディ
+    - 形容詞: 今にもしようとして
+  - [decorate](https://ejje.weblio.jp/content/decorate), デ↑コレィト
+    - 他動詞: 〜を飾る
+  - [innards](https://ejje.weblio.jp/content/innards), イナァ・ズ
+    - 名詞: 内臓
+  - [apology](https://ejje.weblio.jp/content/apology), ア・パァロズィ
+    - 名詞: 謝罪、わび、謝罪すること
+  - ChatGPT訳:「そして、あなたの内臓で地面を飾ろうと思っていたのに。謝罪します。」
+    - 前後のつながりが少しおかしい
+      - 「...と思っていたことを。謝罪します。」の方がまだ適切？
+    - 何か微妙な意味があるのか、文が不適切なのか、わからない
+- Tav: Apology accepted. I might have done the same were the roles reversed.
+  - Apology accepted.
+    - accepted が過去分詞の分詞構文
+  - I might have done the same were the roles reversed. は if が省略されている
+    - 標準的な表現では、If the roles were reversed, I might have done the same.
+    - if を省略した表現で、Were the roles reversed, I might have done the same.
+      - 倒置の仮定法というらしい
+        - Ref. https://www.try-it.jp/chapters-3856/lessons-3869/
+    - その前後が入れ替わって本文
+- Astarion: Ah, a kindred spirit.
   - [kindred spirit](https://ejje.weblio.jp/content/kindred+spirit)
     - 同士、心の友
-      - ジャイアンのアレだ
-- [snatch](https://ejje.weblio.jp/content/snatch)
-  - 他動詞: 誘拐する、強奪する、ひったくる
-- Buldur's Gate
-  - ゲーム用語: バルダーズ・ゲートという街の名前
-    - > タイトルにもなっているバルダーズ・ゲートは，そんなフォーゴトン・レルムの――つまり惑星トリルのフェイルーン大陸南西部，沿岸地域ソード・コーストにある街の名前であり，多様な種族や職業，宗教関係者が集まる，フェイルーンでも有数の港湾商業都市のことだ。
+      - ジャイアンがいいそうらしい
+    - [kindred](https://ejje.weblio.jp/content/kindred), キ↑ンドレッド
+      - 名詞: 血縁、親族
+- Astarion: My name's Astarion. I was in Baldur's Gate when those beasts snatched me.
+  - Buldur's Gate
+    - ゲーム用語,名詞: バルダーズ・ゲートという都市の名前、この都市自体はD&Dの設定に存在する
       - Ref. https://www.4gamer.net/games/688/G068867/20231112001/
-  - 神秘的な力を持った門的なものなのかと思ってたわ...
-- Baldurian
-  - たぶん、Buldur's Gateの住人を指す
-  - なお、字面が似てる[Balduran](https://baldursgate.fandom.com/wiki/Balduran)（バルダラン）は、Buldur's Gateにまつわる過去の偉人の名前
-- [Is that so?](https://ejje.weblio.jp/content/is+that+so)
-  - そっか、本当に？
-- We clearly move in different circles.
-  - circle の意味が特にわからん
-  - 誘拐したときの範囲が違うという意味なのか、違う誘拐行為の周期だったという意味なのか、もっと抽象的に同じ場所にいたはずなのに違う結果だねという意味なのか
-- [so](https://ejje.weblio.jp/content/so)
-  - 接続詞: さて、それでは
-    - > 「so」が接続詞として使われる場合、理由や結果を導くために用いられる。
-- [of course](https://ejje.weblio.jp/content/of+course)
-  - > [相手に何かを指摘されたり, 何かに思い当たったりして]そうか!, そうだ!
-- [still](https://ejje.weblio.jp/content/still), スティルゥ
-  - 副詞: まだ、依然として、それにもかかわらず
-    - > 「still」が副詞として使われる場合、時間的な継続や、ある状態が変わらずに続いていること、または予想や反対の状況にもかかわらず、という意味を示す。
-- [odds](https://ejje.weblio.jp/content/odds), アーッ(ズ|ス|)
-  - 名詞: 勝ち目、勝算
-- [you know](https://ejje.weblio.jp/content/you+know)
-  - well のように会話の間を持たせたり、相手に同意を求めるような意味に変えるのに使ったり、その他諸々
-    - こういう記事で調べたほうが良さそう: Ref. https://nativecamp.net/blog/20180806-you_know
-- I was ready to go this alone
-  - Astarionに一緒に行こうと言った直後の状況
-  - 自分は一人で行くはずだったんだ、という意味だろうけど go this の部分がよくわからない
-    - this がこの困難のことを指していて、go はそれに立ち向かうみたいな感じ？
-- [stick](https://ejje.weblio.jp/content/stick), ステ↑ィッ(ク|)
-  - 自動詞: 刺さっている、くっつく
-    - sticking with the herd という言い回しで使われてたけど、群れの一人でいることを言っていそう
-      - Astarionはプライドが高そうっすね
-- [herd](https://ejje.weblio.jp/content/herd), (ハ|ヘ)ー(ド|ズ|)
-  - 名詞: 群衆、群れ
-    - 家畜の群れ、下層民の群衆、のように若干下に見た意味
-- And you seem like a useful person to know.
-  - ChatGPT訳: あなたは知り合う価値のある人のようです。
-  - to know は、「知ること」「知り合いになること」を言っていそう
-- いち会話がくっそ長かった。流石にパケ絵の中心にいるAstarionさんのパートだ...
-  - いいキャラしてるなぁ
-  - 自分の主人公と同じローグで役割がドかぶってるので、仲間として連れ回しにくいのが残念
+        - > タイトルにもなっているバルダーズ・ゲートは，そんなフォーゴトン・レルムの――つまり惑星トリルのフェイルーン大陸南西部，沿岸地域ソード・コーストにある街の名前であり，多様な種族や職業，宗教関係者が集まる，フェイルーンでも有数の港湾商業都市のことだ。
+      - Ref. https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate
+  - [snatch](https://ejje.weblio.jp/content/snatch), スナ↑ァッチ
+    - 他動詞: 誘拐する、強奪する、ひったくる
+    - SNATCHER
+- Tav: _Introduce yourself - you're a Baldurian too._
+  - Baldurian
+    - ゲーム用語,名詞: Buldur's Gateの住人
+    - なお、字面が似てる[Balduran](https://baldursgate.fandom.com/wiki/Balduran)（バルダラン）は、Buldur's Gateにまつわる過去の偉人の名前
+- Astarion: Is that so? We clearly move in different circles.
+  - [Is that so?](https://ejje.weblio.jp/content/is+that+so)
+    - イディオム: 本当に？、そうなの？
+  - [move](https://ejje.weblio.jp/content/move), ムゥーブ
+    - 自動詞: 社交界やサークルに出入りする
+  - [circle](https://ejje.weblio.jp/content/circle), (サ|セ)ーコォ
+    - 名詞: 仲間、団体、サークル
+- Astarion: So do you know anything about these worms?
+  - [so](https://ejje.weblio.jp/content/so), ソゥ
+    - 副詞: さて、そういうわけで
+      - 文頭に置いて間投詞的に用いるとき
+      - 前の文脈を参照している振る舞いは、他の副詞や形容詞の用法と同じ
+- Tav: Yes, unfortunately. They'll turn us into mind flayers.
+  - [unfortunately](https://ejje.weblio.jp/content/unfortunately), アン・フォーチュナテリィ
+    - 副詞: 不運にも、不幸にも、残念ながら、あいにく
+- Astarion: Turn us into - ha, Hahaha!
+- Astarion: Of course it'll turn me into a monster. What else did I expect?
+  - [of course](https://ejje.weblio.jp/content/of+course)
+    - 間投詞: そうか！、そうだ！
+      - 相手に何かを指摘されたり、何かに思い当たったりしつつ
+  - [else](https://ejje.weblio.jp/content/else), エ(ル|ウ)ス
+    - 副詞: その他に
+- Astarion: Although it hasn't happended yet. If we can find an expert - someone that can control these things - there might still be time.
+  - [although](https://ejje.weblio.jp/content/although), (オ|ア)ール・ゾゥ
+    - 接続詞: だが、であるが、しかし
+      - 対立する状況（事実・推測・期待など）を示して、ある状況はあるがしかし、と言う時に使う
+  - [still](https://ejje.weblio.jp/content/still), スティルゥ
+    - 副詞: まだ、依然として、それにもかかわらず
+      - > 「still」が副詞として使われる場合、時間的な継続や、ある状態が変わらずに続いていること、または予想や反対の状況にもかかわらず、という意味を示す。
+- Tav: Control it? We need to get _rid_ of it.
+- Astarion: Well yes, of course. But first things first.
+- Tav: You should travel with me. Our odds are better together.
+  - [odds](https://ejje.weblio.jp/content/odds), アーッズ
+    - 名詞: 勝ち目、勝算
+- Astarion: You know, I was ready to go this alone, but maybe sticking with the herd isn't such a bad idea.
+  - [you know](https://en.wiktionary.org/wiki/you_know)
+    - 間投詞: 文頭において相手の未知の情報を伝えるときの表現
+      - 他にも、「単なる間やためらいの表現」「文末において、認識・承認・確認の同意の表現」など様々な意味がある
+  - [alone](https://ejje.weblio.jp/content/alone), アローン
+    - 形容詞: ひとりで
+  - [stick](https://ejje.weblio.jp/content/stick), ステ↑ィック
+    - 自動詞: 刺さっている、くっつく
+  - [herd](https://ejje.weblio.jp/content/herd), (ハ|ヘ)ード
+    - 名詞: 群衆、群れ
+      - 家畜の群れ、下層民の群衆、のように若干下に見た意味
+  - sticking with the herd
+    - 群の中の一人で居ること、を意味してそう
+    - Astarionはプライドが高そうっすね
+  - [such](https://ejje.weblio.jp/content/such)
+    - 形容詞: とても、非常に
+      - 多いや大きい側の程度や量を表す
+  - such a bad idea
+    - such が冠詞の前に来るのは、特に理屈がないよう
+      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
+    - 他、 many, half, all the, both the などが同様に形容詞なのに冠詞の前に来る
+      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
+- Astarion: And you seem like a useful person to know.
+  - ChatGPT訳:「あなたは知り合う価値のある人のようです。」
+- Astarion: All right, I accept. Lead on.
+  - いち会話がくっそ長かった。流石にパケ絵の中心にいるAstarionさんだ。
+  - いいキャラしているけど、主人公もローグ同士だから役割被りで連れまわしにくそう
