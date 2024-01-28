@@ -6,30 +6,59 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
 # Baldur's Gate 3の英語を復習する 6冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- Avernusのどこかを探索中
 
 ## 本編
 
 ### 20, Eliasis - 10:19 - Astarion, Tav, Shadowheart
 
-- [cornered](https://ejje.weblio.jp/content/cornered)
-  - 形容詞: 追い詰められた
-  - [corner](https://ejje.weblio.jp/content/corner), コォナァ
-    - 他動詞: 追い詰める
-- Hurry, I've got one of brain things cornered.
-  - brain things はChatGPT氏は「頭の中にあるもの」と翻訳していて、本来は抽象的なアイディアなどを指すよう
-  - Astarionが言ってたんだけど、たしか独り言を言ってたと思う
-- [can't you](https://ejje.weblio.jp/content/can%27t+you)
-  - できる？
-  - Can't you do it? で「できないの？」
-  - 日本語で考えたのと同じように、わりと嫌味っぽい言い方らしい
-- Stand back.
-  - 下がってろ
-- [shh](https://ejje.weblio.jp/content/shh)
-  - シーッ
-- [not a sound](https://ejje.weblio.jp/content/not+a+sound)
-  - 声を出すな、騒ぐな、音を立てるな
-- [darling](https://ejje.weblio.jp/content/darling), ダァーリン(グ|)
-  - 形容詞: 大切な、最愛の
+道すがら、独り言を言っているAstarionを発見し、近づいた
+
+- Astarion: Hurry, I've got one of those brain things cornered.
+  - [cornered](https://ejje.weblio.jp/content/cornered), コォナァ
+    - 形容詞: 追い詰められた
+    - [corner](https://ejje.weblio.jp/content/corner), コォナァ
+      - 他動詞: 追い詰める
+  - ChatGPT訳:「急いで、あの脳みそみたいなものを追い詰めたんだ。」
+  - この文と次の文は言っていることが支離滅裂だが、ブツブツ何か言ってた図だったので、深く考えないで良い
+- Astarion: There, in the grass. You can kill it, can't you? Like you killed the others.
+  - [grass](https://ejje.weblio.jp/content/grass), グラァス
+    - 名詞: 草むら、芝生、草地、草
+  - [like](https://ejje.weblio.jp/content/like), ゥライク
+    - 接続詞: 〜のするように
+- Tav: Easily. Stand back.
+  - [easily](https://ejje.weblio.jp/content/easily), イー(ジ|ザ)リィ
+    - 副詞: 気楽に、楽に
+  - [stand back](https://ejje.weblio.jp/content/stand+back)
+    - 自動詞: 下がる、引っ込む
+- Astarion: There, can you see it?
+  - この直後にTavがPerception Checkを行い、失敗した
+- Astarion: Shh. Not a sound. Not if you want to keep that darling neck of yours.
+  - [shh](https://ejje.weblio.jp/content/shh)
+    - シーッ
+  - [not a sound](https://ejje.weblio.jp/content/not+a+sound)
+    - 声を出すな、騒ぐな、音を立てるな
+  - [darling](https://ejje.weblio.jp/content/darling), ダァーリング
+    - 形容詞: 大切な、最愛の
+  - Astarionが主人公を騙し討ちし、羽交い締めしつつ首にナイフを添えている状況
+  - Not A. Not B. は、A をしなければ B にならない
+- Astarion: And you - keep your distance. No need for this to get messy.
+- Shadowheart: I need him alive - stow that blade or I'll show you just how messy things can get.
+- Astarion: Promises, promises. But I have other business, I'm afraid.
+- Astarion: Now, I saw you on the ship, didn't I? Nod.
+- Tav: _Nod._
+- Astarion: Splendid.
+- Astarion: And now you're going to tell me exactly what you and those tentacled freaks did to me.
+- Tav: You have it backwards - they took me prisoner, just like you.
+- Astarion:
+- Astarion:
+- Tav:
+- Astarion:
+- Astarion:
+- Tav:
+
+---
+
 - Not a sound. Not if you want to keep that darling neck of yours.
   - 「音を立てるな。あなたの大切な首を守りたいのならね。」という訳
     - Astarionが主人公を騙し討ちし、羽交い締めしつつ首にナイフを添えている状況
