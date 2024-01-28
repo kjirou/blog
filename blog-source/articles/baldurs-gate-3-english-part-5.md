@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-5
-lastUpdatedAt: "2023-12-25 02:08:27+0000"
+lastUpdatedAt: "2024-01-28 02:31:19+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 5冊目
@@ -150,13 +150,16 @@ Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
         - 自然な all/both の位置は動詞や助動詞により変わるとのこと
           - S all/both V
           - S be動詞 all/both
-          - S 助動詞 V all/both
+          - S 助動詞 all/both V
   - [think of](https://ejje.weblio.jp/content/think+of)
     - 句動詞: 想像する、考え出す、みなす
     - think だと漠然とした「思考する」になる、より具体的な案を考えるときはこれを使う
 - Tav: All right, let's get moving.
 - Shadowheart: One thing, just before we go. I wanted to thank you again, for freeing me.
 - Shadowheart: It would've been all too easy for you to run right past my pod, but you didn't. I'll remember that.
+  - [right](https://ejje.weblio.jp/content/right), ゥライト
+    - 副詞: ちょうど、すぐに、完全に
+      - 全体的に強調の意味
   - [past](https://ejje.weblio.jp/content/past), パ↑スト
     - 前置詞: 通り過ぎて
   - [remember](https://ejje.weblio.jp/content/remember), ゥリメンバァ
