@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-6
-lastUpdatedAt: "2023-12-29 01:48:54+0000"
+lastUpdatedAt: "2024-01-28 09:09:40+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 6冊目
@@ -149,6 +149,8 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
       - 「...と思っていたことを。謝罪します。」の方がまだ適切？
     - 何か微妙な意味があるのか、文が不適切なのか、わからない
 - Tav: Apology accepted. I might have done the same were the roles reversed.
+  - Apology accepted.
+    - accepted が過去分詞の分詞構文
   - I might have done the same were the roles reversed. は if が省略されている
     - 標準的な表現では、If the roles were reversed, I might have done the same.
     - if を省略した表現で、Were the roles reversed, I might have done the same.
