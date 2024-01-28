@@ -90,55 +90,80 @@ Mind Flayerの戦艦から転移してAvernusのどこかの海岸へ落ちた
 Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
 
 - Tav: _Wake her._
+  - [wake](https://ejje.weblio.jp/content/wake), ウェイク
+    - 他動詞: 目覚めさせる、起こす
 - Shadowheart: You're alive. I'm alive. How is this possible...?
+  - [alive](https://ejje.weblio.jp/content/alive), ア・ラァイブ
+    - 形容詞: 生きて、存続して
+  - [possible](https://ejje.weblio.jp/content/possible), パ↑ッシブルゥ
+    - 形容詞: 可能な、起こり得る
 - Tav: I was hoping you might know that.
 - Shadowheart: I remember the ship, I remember falling... then nothing.
 - Tav: Do you have any idea where we are?
+  - [idea](https://ejje.weblio.jp/content/idea), アイ・ディアー
+    - 名詞: 考え、思いつき、着想
 - Shadowheart: No... I don't recognise this place. But anything's an improvement on where we just came from.
+  - recognise = recognize
+  - anything's an improvement on where we just came from
+    - ChatGPT訳:「さっきいたところよりはましね」
+    - on (where (we just came from (where))) で、where はMind Flayerの戦艦内を指す
+    - [on](https://ejje.weblio.jp/content/on)
+      - 前置詞: 比較の基準や焦点・原因・理由・条件を指す
 - Shadowheart: First things first - we need supplies, shelter, and most of all, a healer.
+  - [first things first](https://ejje.weblio.jp/content/first+things+first)
+    - イディオム: 大事なことを最初にしておこう
+  - [supply](https://ejje.weblio.jp/content/supply), サプラァイ
+    - 名詞: 備え、蓄え、供給
+  - [most of all](https://ejje.weblio.jp/content/most+of+all)
+    - 副詞: いちばん、とりわけ
+  - supplies, shelter, and most of all, a healer
+    - 最後に a healer がなかったら、 and most of all を「ほとんどすべてのもの」と訳してしまいそう
+    - しかし、その意味には絶対訳さないよう、わからん...
 - Shadowheart: We might have escaped, but we still have these little monsters in our heads.
 - Tav: What happened to our gith friend?
-- Shadowheart:
-- Tav:
-- Shadowheart:
-- Tav:
-- Shadowheart:
-- Shadowheart:
-- Shadowheart:
-
----
-
-- [possible](https://ejje.weblio.jp/content/possible), パ↑ッシブルゥ, わりとブって言ってる
-- [first things first](https://ejje.weblio.jp/content/first+things+first)
-  - 慣用句: 大事なことを最初にしておこう
-  - Shadowheart はやっぱりこういうことわざ的なのが好きそう
-- [most of all](https://ejje.weblio.jp/content/most+of+all)
-  - いちばん、とりわけ
-  - (略) - we need supplies. shelter, and most of all, a healer.
-- What happened to our gith friend?
-  - このときの What は主語
-    - Refs. https://eigozuki.com/kihon-gimonshi/what-shugo.shtml
-    - このような What の使い方を Wh-subject というよう、日本語に直接この用語を定義したものはみつからなかった
-- [reconsider](https://ejje.weblio.jp/content/reconsider), リ↑ー(カ|コ)ンシダ
-  - 他動詞: 考え直す、再考する
-- You want to stay together, I take it?
-  - I take it? ってどういう意味や
-    - ChatGPT:
-      - > "I take it?" というフレーズは、話し手が相手の意図や状況を推測していることを示しています。直訳すると「そう受け取っていいか？」や「そういうことでしょ？」という意味になります。この文脈では、話し手が相手が一緒にいたいと思っていることを推測しており、確認や同意を求めるニュアンスで使われています。
-    - Ref. https://britisheigo.com/british_word/11552.html
-      - 〜と理解する、〜と受け取る
-      - I take it that ~ のように使うのが本来のよう
-  - ログでみると主人公からめっちゃグイグイきてるように見えるけど、実際のイベント中はもっと自然な流れで一緒に行くことを促した記憶があるが...
-- [stake](https://ejje.weblio.jp/content/stake), (ス|)テ↑イ(ク|)
-  - 名詞: 賭け、利害関係
+  - [happen](https://ejje.weblio.jp/content/happen), ハ↑ーペン
+    - 自動詞: 起こる、生じる
+      - occur も同じ意味がある、occur の方が形式的な表現
+- Shadowheart: You might want to reconsider calling her a friend - looks like she ran off without us.
+  - [reconsider](https://ejje.weblio.jp/content/reconsider), リ↑ー(カ|コ)ンシ↑ダ
+    - 他動詞: 〜を考え直す、〜を再考する
+  - You might want to reconsider ~
+    - 「あなたは考え直すことを欲しても良い」
+    - 仮に You might reconsider ~ だったら、「あなたは考え直しても良い」
+    - want を入れることで提案の意味が強くなっている
+  - run - ran - run
+  - [run off](https://en.wiktionary.org/wiki/run_off)
+    - 自動詞: すぐ逃げる、出発する
+      - run だけとの違いは、より急にたくさん逃げている感じのよう
+- Tav: You want to stay together, I take it?
+  - [I take it](https://en.wiktionary.org/wiki/I_take_it)
+    - イディオム: そういうことですか？、そう受け取っていいか？
+      - 相手の立場を確認する時に使う
+- Shadowheart: We need each other, and we both know what's at stake. I can't think of better company.
   - [at stake](https://ejje.weblio.jp/content/at+stake)
-    - 賭けられて、危うくなって、問題となって
-- We need each other, and we both know what's at stake.
-  - お互いに生存しつつ頭の中の寄生体を除去しないといけないことを what's at stake と言ってそう
-- [think of](https://ejje.weblio.jp/content/think+of)
-  - 句動詞: 想像する、考え出す、みなす、
-  - think だと漠然とした「思考する」になる。より具体的な案を考えるときはこれを使う。
-- [past](https://ejje.weblio.jp/content/past), (フ|パ)↑ス(ト|)
-  - 前置詞: 通り過ぎて
-- [remember](https://ejje.weblio.jp/content/remember), (ゥ|リ)メン(バ|), 全体的にトーン低くさらっと発音する
-  - 他動詞: 心に留めておく
+    - 副詞: 問題になっているか、賭けられているか
+    - [stake](https://ejje.weblio.jp/content/stake), ステイク
+      - 名詞: 賭け、利害関係
+  - we both
+    - 代名詞が二つ並んでいるのは、「同格のboth」という構文。他 all など。
+      - Ref. https://10upenglish.com/all-of-us-and-we-all-both/
+        - 自然な all/both の位置は動詞や助動詞により変わるとのこと
+          - S all/both V
+          - S be動詞 all/both
+          - S 助動詞 V all/both
+  - [think of](https://ejje.weblio.jp/content/think+of)
+    - 句動詞: 想像する、考え出す、みなす
+    - think だと漠然とした「思考する」になる、より具体的な案を考えるときはこれを使う
+- Tav: All right, let's get moving.
+- Shadowheart: One thing, just before we go. I wanted to thank you again, for freeing me.
+- Shadowheart: It would've been all too easy for you to run right past my pod, but you didn't. I'll remember that.
+  - [past](https://ejje.weblio.jp/content/past), パ↑スト
+    - 前置詞: 通り過ぎて
+  - [remember](https://ejje.weblio.jp/content/remember), ゥリメンバァ
+    - 他動詞: 心に留めておく
+- Shadowheart: Lead the way.
+  - [lead the way](https://ejje.weblio.jp/content/lead+the+way)
+    - イディオム: 道案内する、手本を示す
+    - [lead](https://en.wiktionary.org/wiki/lead), リード
+      - 他動詞: 人を先導する・案内する
+        - 通常目的語は人や集団、lead the way は一般的にはあまり使われない目的語の取り方
