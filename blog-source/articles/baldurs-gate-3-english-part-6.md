@@ -6,7 +6,7 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
 # Baldur's Gate 3の英語を復習する 6冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
-- Avernusのどこかを探索中
+- Avernusを探索中
 
 ## 本編
 
@@ -109,24 +109,91 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
   - [agh](https://ejje.weblio.jp/content/agh)
     - 間投詞: ああぁぁ！
       - 恐怖、嫌悪、不満の表現
-- \*\*
-- \*\*
-- Astarion:
-- Tav:
-- Astarion:
-- Astarion:
-- Tav:
-- Astarion:
-- Astarion:
-- Tav:
-- Astarion:
-- Astarion:
-- Tav:
-- Astarion:
-- Astarion:
-- Astarion:
-- Tav:
-- Astarion:
+- \*Your mind twists. You're looking out of unfamiliar eyes, prowling dark, busy streets.\*
+  - [twist](https://ejje.weblio.jp/content/twist), トゥイスツ
+    - 自動詞: よじれる、ねじれる
+  - [look out](https://ejje.weblio.jp/content/look+out)
+    - 自動詞: 外を見る
+  - [unfamiliar](https://ejje.weblio.jp/content/unfamiliar), アン・ファミリア
+    - 形容詞: 見慣れない、よく知らない
+  - [prowl](https://ejje.weblio.jp/content/prowl), プ↑ラォゥ
+    - 他動詞: 獲物を求めてまたは盗みの機会を狙ってこそこそと〜をうろつく
+    - 自動詞でも使える
+  - ChatGPT訳:「あなたの心はねじれる。見慣れない目から、暗くて賑やかな通りをうろつきながら見ています。」
+  - You're looking out of unfamiliar eyes は、Astarionの目から外を見ているということを言ってそう
+- \*You try to hold the memory, but it fades to the worm. The light. The fear.\*
+  - [worm](https://ejje.weblio.jp/content/worm), ワ(ァ|ォ)ーム
+    - 名詞: 細長く足のない虫、蛆虫、ワーム
+  - ChatGPT訳:「記憶を保とうとしますが、それは虫へと消えていきます。光へ。恐怖へ。」
+- Astarion: What was that? What's going on?
+  - [go on](https://ejje.weblio.jp/content/go+on)
+    - 自動詞: 事が起こる、行事などが行なわれる
+    - 他にも意味はたくさんある。コアイメージは go: 行く、on: 続けて。
+      - Ref. https://risat-english.com/go-on/
+- Tav: It's the mind flayer's worm - it connected us.
+  - [connect](https://ejje.weblio.jp/content/connect), (カ|コ)ネクト
+    - 他動詞: あるものを他のものと接続する・結合する・連絡する
+- Astarion: You're not one of them. They took you, just the same as me.
+  - just the same as me は、just は副詞だが the same の名詞を修飾している
+- Astarion: And to think I was ready to decorate the ground with your innards. Apologies.
+  - [ready](https://ejje.weblio.jp/content/ready), ゥレイディ
+    - 形容詞: 今にもしようとして
+  - [decorate](https://ejje.weblio.jp/content/decorate), デ↑コレィト
+    - 他動詞: 〜を飾る
+  - [innards](https://ejje.weblio.jp/content/innards), イナァ・ズ
+    - 名詞: 内臓
+  - [apology](https://ejje.weblio.jp/content/apology), ア・パァロズィ
+    - 名詞: 謝罪、わび、謝罪すること
+  - ChatGPT訳:「そして、あなたの内臓で地面を飾ろうと思っていたのに。謝罪します。」
+    - 前後のつながりが少しおかしい
+      - 「...と思っていたことを。謝罪します。」の方がまだ適切？
+    - 何か微妙な意味があるのか、文が不適切なのか、わからない
+- Tav: Apology accepted. I might have done the same were the roles reversed.
+  - I might have done the same were the roles reversed. は if が省略されている
+    - 標準的な表現では、If the roles were reversed, I might have done the same.
+    - if を省略した表現で、Were the roles reversed, I might have done the same.
+      - 倒置の仮定法というらしい
+        - Ref. https://www.try-it.jp/chapters-3856/lessons-3869/
+    - その前後が入れ替わって本文
+- Astarion: Ah, a kindred spirit.
+  - [kindred spirit](https://ejje.weblio.jp/content/kindred+spirit)
+    - 同士、心の友
+      - ジャイアンがいいそうらしい
+    - [kindred](https://ejje.weblio.jp/content/kindred), キ↑ンドレッド
+      - 名詞: 血縁、親族
+- Astarion: My name's Astarion. I was in Baldur's Gate when those beasts snatched me.
+  - Buldur's Gate
+    - ゲーム用語,名詞: バルダーズ・ゲートという都市の名前、この都市自体はD&Dの設定に存在する
+      - Ref. https://www.4gamer.net/games/688/G068867/20231112001/
+        - > タイトルにもなっているバルダーズ・ゲートは，そんなフォーゴトン・レルムの――つまり惑星トリルのフェイルーン大陸南西部，沿岸地域ソード・コーストにある街の名前であり，多様な種族や職業，宗教関係者が集まる，フェイルーンでも有数の港湾商業都市のことだ。
+      - Ref. https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate
+  - [snatch](https://ejje.weblio.jp/content/snatch), スナ↑ァッチ
+    - 他動詞: 誘拐する、強奪する、ひったくる
+    - SNATCHER
+- Tav: _Introduce yourself - you're a Baldurian too._
+  - Baldurian
+    - ゲーム用語,名詞: Buldur's Gateの住人
+    - なお、字面が似てる[Balduran](https://baldursgate.fandom.com/wiki/Balduran)（バルダラン）は、Buldur's Gateにまつわる過去の偉人の名前
+- Astarion: Is that so? We clearly move in different circles.
+  - [Is that so?](https://ejje.weblio.jp/content/is+that+so)
+    - イディオム: 本当に？、そうなの？
+  - [move](https://ejje.weblio.jp/content/move), ムゥーブ
+    - 自動詞: 社交界やサークルに出入りする
+  - [circle](https://ejje.weblio.jp/content/circle), (サ|セ)ーコォ
+    - 名詞: 仲間、団体、サークル
+- Astarion: So do you know anything about these worms?
+  - [so](https://ejje.weblio.jp/content/so), ソゥ
+    - 副詞: さて、そういうわけで
+      - 文頭に置いて間投詞的に用いるとき
+      - 前の文脈を参照している振る舞いは、他の副詞や形容詞の用法と同じ
+- Tav: Yes, unfortunately. They'll turn us into mind flayers.
+  - [unfortunately](https://ejje.weblio.jp/content/unfortunately), アン・フォーチュナテリィ
+    - 副詞: 不運にも、不幸にも、残念ながら、あいにく
+- Astarion: Turn us into - ha, Hahaha!
+- Astarion: Of course it'll turn me into a monster. What else did I expect?
+- Astarion: Although it hasn't happended yet. If we can find an expert - someone that can control these things - there might still be time.
+- Tav: Control it? We need to get _rid_ of it.
+- Astarion: Well yes, of course. But first things first.
 - Tav:
 - Astarion:
 - Astarion:
@@ -134,53 +201,6 @@ lastUpdatedAt: "2023-12-29 01:48:54+0000"
 
 ---
 
-- [prowl](https://ejje.weblio.jp/content/prowl), プ↑ラォゥ
-  - 他動詞: 〈場所を〉うろつく，徘徊する
-    - 自動詞の方に「(獲物を求めて・盗みの機会をねらって)うろつく」という意味がある
-- [unfamiliar](https://ejje.weblio.jp/content/unfamiliar)
-  - 形容詞: 見慣れない、よく知らない
-- You're looking out of unfamiliar eyes, prowling dark, busy streets.
-  - 文法に沿って訳すと、You're looking out / of unfamiliar eyes, / (prowling dark, busy streets). で「あなたは見慣れない目を通して外を見て、暗くて忙しい通りをうろついています。」になりそう。
-    - ChatGPTやDeepL翻訳だとこの意味になる
-  - おそらくそれだと違ってて、「あなたは慣れない目を通して外を見ている、暗闇をうろつく姿、混雑した通り」という感じなのではないか？
-- [worm](https://ejje.weblio.jp/content/worm), ワ(ァ|ォ)ーム
-  - 名詞: (細長く足のない)虫、蛆虫、ワーム
-- [go on](https://ejje.weblio.jp/content/go+on)
-  - 句動詞・自動詞: 〈事が〉起こる; 〈行事などが〉行なわれる
-    - What's going on?
-    - 他にも意味はいっぱいある、コアイメージは go: 行く、on: 続けて、のよう
-      - Ref. https://risat-english.com/go-on/
-- [ready](https://ejje.weblio.jp/content/ready), ゥレイディ
-  - 形容詞: 今にもしようとして
-- [innards](https://ejje.weblio.jp/content/innards), イ↑ナァ(ズ|ツ)
-  - 名詞: 内臓
-- [apology](https://ejje.weblio.jp/content/apology), アパ↑ァロズィ
-  - 名詞: 謝罪（すること）、わび（ること）
-- And to think I was ready to decorate the ground with your innards. Apologies.
-  - 「君のはらわたをぶちまけようとしていたよ。ごめんな。」という意味なんだとは思う
-  - to think がどういう意味なのかわからない
-- [kindred](https://ejje.weblio.jp/content/kindred), キ↑ンド(ゥ|ォ)レッ
-  - [kindred spirit](https://ejje.weblio.jp/content/kindred+spirit)
-    - 同士、心の友
-      - ジャイアンのアレだ
-- [snatch](https://ejje.weblio.jp/content/snatch)
-  - 他動詞: 誘拐する、強奪する、ひったくる
-- Buldur's Gate
-  - ゲーム用語: バルダーズ・ゲートという街の名前
-    - > タイトルにもなっているバルダーズ・ゲートは，そんなフォーゴトン・レルムの――つまり惑星トリルのフェイルーン大陸南西部，沿岸地域ソード・コーストにある街の名前であり，多様な種族や職業，宗教関係者が集まる，フェイルーンでも有数の港湾商業都市のことだ。
-      - Ref. https://www.4gamer.net/games/688/G068867/20231112001/
-  - 神秘的な力を持った門的なものなのかと思ってたわ...
-- Baldurian
-  - たぶん、Buldur's Gateの住人を指す
-  - なお、字面が似てる[Balduran](https://baldursgate.fandom.com/wiki/Balduran)（バルダラン）は、Buldur's Gateにまつわる過去の偉人の名前
-- [Is that so?](https://ejje.weblio.jp/content/is+that+so)
-  - そっか、本当に？
-- We clearly move in different circles.
-  - circle の意味が特にわからん
-  - 誘拐したときの範囲が違うという意味なのか、違う誘拐行為の周期だったという意味なのか、もっと抽象的に同じ場所にいたはずなのに違う結果だねという意味なのか
-- [so](https://ejje.weblio.jp/content/so)
-  - 接続詞: さて、それでは
-    - > 「so」が接続詞として使われる場合、理由や結果を導くために用いられる。
 - [of course](https://ejje.weblio.jp/content/of+course)
   - > [相手に何かを指摘されたり, 何かに思い当たったりして]そうか!, そうだ!
 - [still](https://ejje.weblio.jp/content/still), スティルゥ
