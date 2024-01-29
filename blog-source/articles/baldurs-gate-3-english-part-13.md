@@ -84,19 +84,103 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
   - [blowgun](https://ejje.weblio.jp/content/blowgun), ブロゥガン
     - 名詞: 吹き矢
 - Volo: And the... _dragon_ they had marching in the rear. Was it of the brass or silver variety?
+  - [march](https://ejje.weblio.jp/content/march), マァチ
+    - 自動詞: 行進する、堂々と歩く、進軍する
+  - [rear](https://ejje.weblio.jp/content/rear), ゥリアァ
+    - 名詞: 後ろ、後部、背面
+  - they had marching
+    - they were marching と違うのは、 dragon を制御している意味合いが強いこと
+  - [brass](https://ejje.weblio.jp/content/brass), ブラァス
+    - 名詞: 真鍮、黄銅
+  - [variety](https://ejje.weblio.jp/content/variety), バライアティ
+    - 名詞: 同種の中での種類、変種
 - Tav: I think there's been a misunderstanding. What do you want, exactly?
+  - there's = there has
+  - [misunderstanding](https://ejje.weblio.jp/content/misunderstanding), ミス・アンダァステァンディング
+    - 名詞: 誤解
   - 悪ノリして返す選択肢もあって普通のRPGならそれを選びそうなんだけど、英語だと余裕がないからかマジレス気味になる
 - Volo: The truth, my friend! Not a jot more or less!
+  - [truth](https://ejje.weblio.jp/content/truth), ト↑ルゥ
+    - 名詞: 真実
+  - [jot](https://ejje.weblio.jp/content/jot), ジョォット
+    - 名詞: 非常に少ない・小さい量、わずか
+  - [more or less](https://en.wiktionary.org/wiki/more_or_less)
+    - 副詞: おおよそ、ほぼ
+      - = [approximately](https://ejje.weblio.jp/content/approximately)
 - Volo: Last question, then you'll be quite free. Did the attackers rally to 'the Absolute' when they fell upon the gates?
+  - [free](https://ejje.weblio.jp/content/free), フリィ
+    - 形容詞: 自由な、束縛のない
+  - you'll be quite free
+    - ChatGPTに何度聞いても、 quite は「かなり」という意味で「完全に」ではないとのこと
+      - 自由になるかならないかは排他では？と聞いても、そのような曖昧な言い方をすることもあるねん、と返された
+    - 日本語の例でいうと、「たぶん確信してる」のような変な言い方なのかもしれない
+  - [rally](https://ejje.weblio.jp/content/rally), ゥラーリィ
+    - 自動詞: 何かの周りに集まる・馳せ参ずる・結集する
+  - Did the attackers rally to 'the Absolute' when they fell upon the gates?
+    - ChatGPT訳:「攻撃者たちは門に襲いかかったとき、「絶対者」に忠誠を誓っていましたか？」
+      - rally と言う単語に「忠誠を誓う」というまでの意味はなく、「the Absoluteのために集結していた」の意訳
+  - [fall upon](https://en.wiktionary.org/wiki/fall_upon)
+    - 他動詞: 突然攻撃する
 - Tav: Yes - they called out the name like a war cry.
+  - [war cry](https://en.wiktionary.org/wiki/war_cry)
+    - 名詞: 鬨の声、戦いの雄叫び、兵士を結集させることを目的とした呼び声
   - そんな記憶は全然ないけど、捕虜のSazzaが言ってたからたぶん大丈夫っしょ
 - Volo: They did, didn't they? Oh-ho, curious. Curious _indeed_.
+  - They did, didn't they?
+    - すでに知っている情報のときの返答なので、この文脈だとどう言う意味なんだろう？
+      - うっかり忘れてた、なのか、それは知ってるよ、なのか
+  - [curious](https://ejje.weblio.jp/content/curious), キュリアス
+    - 形容詞: 好奇心をそそるような、不思議な、奇異な
+  - [indeed](https://ejje.weblio.jp/content/indeed)
+    - 副詞: まったく、実に
+      - 実際に何かが真実であることを強調する際や、驚きや感嘆を表す際に用いられる
 - Volo: I've interrogated one - a captive in this very camp. She reports they've abandoned their god Maglubiyet in favour of someone called 'the Absolute'.
+  - [interrogate](https://ejje.weblio.jp/content/interrogate), インテオリゲィト
+    - 他動詞: 尋問する、質問する
+  - [captive](https://ejje.weblio.jp/content/captive), キャプティブ
+    - 名詞: 捕虜
+  - [abandon](https://ejje.weblio.jp/content/abandon), ア(バ|ベ)ンドン
+    - 他動詞: 捨てる、捨て去る、習慣を止める
+  - Maglubiyet, マグルビエント
+    - ゲーム用語,名詞: Goblinたちの主神、武闘派
+      - Ref. https://forgottenrealms.fandom.com/wiki/Maglubiyet
+  - favour(UK) = favor(US)
+  - [in favor of](https://ejje.weblio.jp/content/in+favor+of)
+    - イディオム: 〜に味方して
 - Volo: The scandal!
+  - [scandal](https://en.wiktionary.org/wiki/scandal), スキャァンダゥ
+    - 名詞: 宗教的な不道徳
 - Tav: Goblin superstition - not worth the ink and parchment.
+  - [superstition](https://ejje.weblio.jp/content/superstition), スーパースティション
+    - 名詞: 迷信
 - Volo: Ah, but it superstition all? These goblins are informed by a kind of strategy anathema to their kind.
+  - [informed](https://en.wiktionary.org/wiki/informed), インフ↑ォァムド
+    - 形容詞: 知識・情報に基づいている
+  - [strategy](https://ejje.weblio.jp/content/strategy), ストラァテズィ
+    - 名詞: 戦略
+  - [anathema](https://ejje.weblio.jp/content/anathema), アナァセマ
+    - 名詞: 忌み嫌われるもの、呪われたもの
+  - [kind](https://ejje.weblio.jp/content/kind), カーイン
+    - 名詞: 種族、種類
+  - (a kind of strategy) (anathema to their kind)
+    - ChatGPTによると、後者の anathema は名詞であるが、句としては形容詞句であるとのこと
 - Volo: I, for one, intend to get to the bottom of it.
+  - [intend](https://en.wiktionary.org/wiki/intend#Verb), イン・テント
+    - 自動詞: 何かを強く心に決める・意図する、熱心に取り組む
+      - to Verb または on/upon Noun が後に続く事が多い
+  - [for one](https://en.wiktionary.org/wiki/for_one)
+    - 副詞: 同じ意見を持たないかもしれない人々の中の一人として、少なくとも私は
+  - [get to the bottom of](https://en.wiktionary.org/wiki/get_to_the_bottom_of)
+    - イディオム: 〜を見極める・真実を知る
 - Volo: I'm just preparing to head to their camp as we speak. In fact... if you'll excuse me, I ought not to dawdle.
-- Tav: Wait. About our conversation eriier - why the dragon?
+- Tav: Wait. About our conversation eariier - why the dragon?
 - Volo: My friend, _every_ story benefits from a dragon.
 - Volo: Until we meet again!
+
+### 20, Eliasis - 4:32 - Volo, Tav
+
+- Volo: Pardon me! Must prepare to travel - good day, my friend!
+- Tav: Where are you heading?
+- Volo: To the goblins camped nearby, of course. I've been tracing their doings with great care.
+- Volo: Whoever this 'Absolute' they're worshipping might be, I'll be the first to write about it.
+- Tav: _Leave._
