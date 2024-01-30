@@ -243,3 +243,61 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
     - 意訳なら「どんな人か」「どんな人かもしれないが」になるのかな
   - ChatGPT訳: 「彼らが崇拝しているこの「絶対者」が何者か、私が最初に書くことになるでしょう。」
 - Tav: _Leave._
+
+### 20, Eliasis - 5:07 - Apikusis, Tav
+
+周りのドルイドたちが儀式に参加している中で、一人だけ参加していなく鳥に話しかけている、おそらくHumanの女性へ話しかけた
+
+- Apikusis: Speak.
+  - Apikusis: アピクシス
+- Tav: What were you saying to that bird?
+- Apikusis: The bird knows. She needs to know. You do not.
+  - [need](https://en.wiktionary.org/wiki/need#Verb), ニ↑ィド
+    - 自動詞: 必須である、必要である
+  - ChatGPT訳: 「鳥は知っている。彼女は知る必要がある。あなたには知る必要はない。」
+- Tav: I helped defend this grove - I'm not your enemy.
+  - [defend](https://ejje.weblio.jp/content/defend), デ・フェーンド
+    - 他動詞: 〜を守る
+  - I helped defend
+    - defend は原形不定詞
+    - helped はそのまま過去形の意味で良い、事実を言っているだけ
+  - [enemy](https://ejje.weblio.jp/content/enemy), エネミィ
+    - 名詞: 敵
+  - この後にCharisuma (Persuasion) Checkに成功した
+- Apikusis: I - forgive me. It is not you I fear, it is my brethren.
+  - [forgive](https://ejje.weblio.jp/content/forgive), フォ・ギィブ
+    - 他動詞: 許す、大目に見る
+  - いきなり本Partで、許しての語彙が excuse me, pardon me, forgive me と3つ出てきた
+    - ちょうどWeblio辞書にそれらの違いのまとめがあった:
+      - > forgive は人の罪や過失を腹立ち・処罰などの感情を捨てて許す; pardon は罪や悪事に対して処罰を免除する; excuse はあまり重大ではない失敗や間違いなどを許す
+  - [fear](https://ejje.weblio.jp/content/fear), フィアー
+    - 他動詞: 〜を恐れる・怖がる
+      - 自動詞としての用法にはこの意味はなく、「心配する」「気遣う」である
+  - It is not you I fear
+    - より正確に書くなら It is not you whom I fear
+      - ただし、現代の英語では whom は省略するのが一般的であるとのこと
+    - 通常は I do not fear you と書くが、これは you を強調したい強調構文である
+      - Ref. https://nativecamp.net/blog/20230205-syntax_highlighting
+  - [brethren](https://ejje.weblio.jp/content/brethren), ブゥレスレン
+    - 名詞: 同胞、仲間
+    - brothers の古風な言い方
+- Apikusis: More follow Kagha every day. They are afraid and she offers a simple solution - eject the refugees and we will be safe.
+- Tav: Sounds like she has to be stopped. How would we do that?
+- Apikusis: A druid and an outsider? We can do nothing without turning the oters against us.
+- Apikusis: Only Master Halsin can stop this. I pray my bird returns with news of him.
+- Apikusis: If not, Ifear for my people.
+- Tav: I hear a retual can protect the grove. Are you helping prepare it?
+- Apikusis: I would prefer not to.
+- Apikusis: But if Master Halsin does not return, Kagha will give the order. And my voice will not matter.
+- Tav: _Leave._
+  - 誰かが動物と話す魔法の物品を売ってた記憶がある、後で買って鳥と話してみよう
+
+### 20, Eliasis - 5:07 - Tuffet, Tav
+
+寝ている熊へ話しかけた
+
+- Tuffet: \*Sniff.\*
+- _Carefully nudge the bear's flank._
+  - この後のWisdom (AnimalHandling) Checkに成功した
+- \*Grunt.\*
+  - これで、熊が動いて、後ろに隠れているレバーが操作できるようになった
