@@ -201,11 +201,45 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
   - until や before など時を指定する接続詞を使った副詞節の従属節の中は、動詞は現在形を使うよう
     - 未来を示すときは、will より確信度が高い意味合いになる
     - この文章は主節がないけど、前の文章を受けてとのことなんだろう
+  - Goblinは常にHumanなどと敵対している訳ではないのか
 
 ### 20, Eliasis - 4:32 - Volo, Tav
 
+再度Voloへ話しかけた
+
 - Volo: Pardon me! Must prepare to travel - good day, my friend!
+  - [pardon](https://ejje.weblio.jp/content/pardon), パードン
+    - 他動詞: 許す
+  - excuse me との違い
+    - Ref. https://jp.blog.voicetube.com/phrases/apology/
+    - excuse me は「すみません」に近い、pardon me はもう少し謝っている
 - Tav: Where are you heading?
+  - 現在進行形なのは、今まさに旅の準備をしているから
 - Volo: To the goblins camped nearby, of course. I've been tracing their doings with great care.
+  - [trace](https://ejje.weblio.jp/content/trace), トレイス
+    - 他動詞: 追跡する
+  - I've been tracing their doings with great care.
+    - ChatGPT訳: 「彼らの動向を大変注意深く追っています。」
+    - 現在完了進行形の意味がいまいちイメージできないので、端々の知識だけ集めておく
+      - 状態動詞の時は現在進行形、動作動詞の時は現在完了進行形、らしい
+        - Ref. https://kou.benesse.co.jp/nigate/english/a13e3901.html
+      - これからも動作を続ける、という意味も含まれる
+        - Ref. https://hoshino-english.com/present-perfect-continuous/
 - Volo: Whoever this 'Absolute' they're worshipping might be, I'll be the first to write about it.
+  - [whoever](https://ejje.weblio.jp/content/whoever), フーエバー
+    - 代名詞: 誰でも、どんな人でも
+      - 関係代名詞の先行詞として使える
+  - 'Absolute' は the が付かないの？
+    - 固有名詞は通常 the を付けない
+    - 一つ前の会話で 'the Absolute' と言っていたのは、Goblinたちの会話を模したからだと思う
+    - また、文脈によっては付きそうだけど、今考えても仕方ないのでやめとく
+  - [worship](https://ejje.weblio.jp/content/worship), ウォ・シップ
+    - 他動詞: 〜を崇拝する
+  - [might be](https://ejje.weblio.jp/content/might+be)
+    - イディオム: 〜かもしれない
+  - might be
+    - is に助動詞がついている形である
+    - is との差は、より不確実で確信を持ってない意味の付与
+    - 意訳なら「どんな人か」「どんな人かもしれないが」になるのかな
+  - ChatGPT訳: 「彼らが崇拝しているこの「絶対者」が何者か、私が最初に書くことになるでしょう。」
 - Tav: _Leave._
