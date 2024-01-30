@@ -173,9 +173,34 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
   - [get to the bottom of](https://en.wiktionary.org/wiki/get_to_the_bottom_of)
     - イディオム: 〜を見極める・真実を知る
 - Volo: I'm just preparing to head to their camp as we speak. In fact... if you'll excuse me, I ought not to dawdle.
-- Tav: Wait. About our conversation eariier - why the dragon?
+  - [excuse](https://ejje.weblio.jp/content/excuse), エクスキューズ
+    - 他動詞: 容赦する、許す
+    - コアイメージは「義務や責任の遂行を免ずる」らしい、「過去の責任を免ずる」が転じて「容赦する」
+  - as we speak
+    - 今Tavと話していることを指す
+    - 「Goblinたちと話すために」かと思ったけど、それなら事実ではないので現在形ではない
+  - if you'll excuse me
+    - excuse me の丁寧な表現
+  - [ought](https://ejje.weblio.jp/content/ought), オー(ト|ツ)
+    - 助動詞: 〜すべきである
+    - ought to または ought not to と to を含む形で使うのが現代的で、to がなくても正しい英文だが古風な感じになるらしい
+  - [dawdle](https://ejje.weblio.jp/content/dawdle), ドードウ
+    - 自動詞: ぐずぐずする、のらくらする
+  - この野郎...
+- Tav: Wait. About our conversation earlier - why the dragon?
+  - [conversation](https://ejje.weblio.jp/content/conversation), カンバセ↑イション
+    - 名詞: 会話、対話
+  - やっぱり、先の会話を参照するときには at じゃなくて about を使うなぁ
 - Volo: My friend, _every_ story benefits from a dragon.
+  - [benefit](https://ejje.weblio.jp/content/benefit), ベ↑ネフィッ
+    - 自動詞: 利益を得る
+      - by や from を伴って「〜から利益を得る」という形で使われる
 - Volo: Until we meet again!
+  - [until](https://ejje.weblio.jp/content/until), アン・ティウ
+    - 接続詞: 〜まで、条件が真になるときまで
+  - until や before など時を指定する接続詞を使った副詞節の従属節の中は、動詞は現在形を使うよう
+    - 未来を示すときは、will より確信度が高い意味合いになる
+    - この文章は主節がないけど、前の文章を受けてとのことなんだろう
 
 ### 20, Eliasis - 4:32 - Volo, Tav
 
