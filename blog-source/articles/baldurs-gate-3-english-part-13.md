@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-13
-lastUpdatedAt: "2024-01-29 13:36:07+0000"
+lastUpdatedAt: "2024-01-31 01:46:47+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 13冊目
@@ -67,15 +67,16 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
 - \*You search your mind, but remember nothing useful about goblin social order or behaviour.\*
   - [useful](https://ejje.weblio.jp/content/useful), ユゥスフゥ
     - 形容詞: 有益な、役にたつ
-  - [social+order](https://ejje.weblio.jp/content/social+order)
+  - [social order](https://ejje.weblio.jp/content/social+order)
     - 名詞: 社会秩序
   - goblin social order で複合名詞、複合名詞のときは先頭の名詞は形容詞的な意味になる
   - [behaviour](https://ejje.weblio.jp/content/behaviour), ビィ・ヘイビァ
     - 名詞: 振る舞い
+  - この直前に、 Intelligence (History) Check に失敗している
 - Tav: _Give an exact description._
   - [exact](https://ejje.weblio.jp/content/exact), (エ|イ)グザァクト
     - 形容詞: 正確な
-  - 先に「思い出せない」という判定がされたけど、詳細の説明はできるんだ
+  - 先の判定は、知識と絡めての返答ができるか、の判定だったのか
 - Volo: 'Goblins... were... of... rare... gem-coloured... hue... and wielded... magic... blowguns...' Right!
   - [hue](https://ejje.weblio.jp/content/hue), ヒュゥ
     - 名詞: 色合い、色調
@@ -122,6 +123,8 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
   - [fall upon](https://en.wiktionary.org/wiki/fall_upon)
     - 他動詞: 突然攻撃する
 - Tav: Yes - they called out the name like a war cry.
+  - [call out](https://ejje.weblio.jp/content/call+out)
+    - 他動詞: 〜を大声で叫ぶ
   - [war cry](https://en.wiktionary.org/wiki/war_cry)
     - 名詞: 鬨の声、戦いの雄叫び、兵士を結集させることを目的とした呼び声
   - そんな記憶は全然ないけど、捕虜のSazzaが言ってたからたぶん大丈夫っしょ
@@ -139,8 +142,15 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
     - 他動詞: 尋問する、質問する
   - [captive](https://ejje.weblio.jp/content/captive), キャプティブ
     - 名詞: 捕虜
+  - [very](https://en.wiktionary.org/wiki/very#Adverb), ベリィ
+    - 副詞: 程度や量が非常に高いことを示す強調
   - [abandon](https://ejje.weblio.jp/content/abandon), ア(バ|ベ)ンドン
     - 他動詞: 捨てる、捨て去る、習慣を止める
+  - in this very camp
+    - 公式に当てはめると、通常は副詞は形容詞の前に来るので、 in very this camp が正しい
+    - ChatGPTによると、「very を間に置くことで、this の修飾ではなく this camp の修飾になる」とのこと
+      - しかし、この回答に辿り着くまでのかなりの間、 in this very camp と in very this camp を間違えて矛盾した回答をしていたので信憑性は薄い
+    - まとめると、 in this very camp の語順は英語的に自然なもののようだが、その理由は不明
   - Maglubiyet, マグルビエント
     - ゲーム用語,名詞: Goblinたちの主神、武闘派
       - Ref. https://forgottenrealms.fandom.com/wiki/Maglubiyet
@@ -153,7 +163,13 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
 - Tav: Goblin superstition - not worth the ink and parchment.
   - [superstition](https://ejje.weblio.jp/content/superstition), スーパースティション
     - 名詞: 迷信
-- Volo: Ah, but it superstition all? These goblins are informed by a kind of strategy anathema to their kind.
+  - worth
+    - 前置詞か形容詞かで意見が分かれるもののよう
+    - とにかく、worth + 名詞句 という用法が多いので、それを覚えるしかなさそう
+  - the ink and parchment
+    - the がついている理由がわからない
+    - ここで ink と parchment を出しているのは貴重なものとしての比喩なので、 the 貴重なものたちの例 = 貴重なもの みたいな具象化をする機能？
+- Volo: Ah, but is superstition all? These goblins are informed by a kind of strategy anathema to their kind.
   - [informed](https://en.wiktionary.org/wiki/informed), インフ↑ォァムド
     - 形容詞: 知識・情報に基づいている
   - [strategy](https://ejje.weblio.jp/content/strategy), ストラァテズィ
@@ -216,6 +232,8 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
 - Tav: Where are you heading?
   - 現在進行形なのは、今まさに旅の準備をしているから
 - Volo: To the goblins camped nearby, of course. I've been tracing their doings with great care.
+  - [nearby](https://ejje.weblio.jp/content/nearby), ニィア・バァイ
+    - 副詞: 近くで
   - [trace](https://ejje.weblio.jp/content/trace), トレイス
     - 他動詞: 追跡する
   - I've been tracing their doings with great care.
