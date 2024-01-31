@@ -324,7 +324,14 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
 寝ている熊へ話しかけた
 
 - Tuffet: \*Sniff.\*
+  - [sniff](https://ejje.weblio.jp/content/sniff), スニッフ
+    - 自動詞: ふんふん・くんくんかぐ
 - _Carefully nudge the bear's flank._
+  - [nudge](https://ejje.weblio.jp/content/nudge), ナァッジ
+    - 他動詞: そっとつつく
+  - [flank](https://ejje.weblio.jp/content/flank), フ(レ|ア)ンク
+    - 名詞: 横原、脇腹
+    - 「フランクな話し方」の「フランク」は [frank](https://ejje.weblio.jp/content/frank) の方
   - この後のWisdom (AnimalHandling) Checkに成功した
 - \*Grunt.\*
   - これで、熊が動いて、後ろに隠れているレバーが操作できるようになった
