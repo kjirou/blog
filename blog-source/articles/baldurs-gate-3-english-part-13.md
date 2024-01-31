@@ -282,13 +282,40 @@ lastUpdatedAt: "2024-01-29 13:36:07+0000"
     - 名詞: 同胞、仲間
     - brothers の古風な言い方
 - Apikusis: More follow Kagha every day. They are afraid and she offers a simple solution - eject the refugees and we will be safe.
+  - [more](https://ejje.weblio.jp/content/more), モーア
+    - 代名詞: より多くの数の人やもの
+  - [solution](https://ejje.weblio.jp/content/solution), ソ・リ↑ューション
+    - 名詞: 解決策、解決
+  - [eject](https://ejje.weblio.jp/content/eject), イ・ジェクト
+    - 他動詞: 追い出す、放逐する、立ち退かせる
 - Tav: Sounds like she has to be stopped. How would we do that?
-- Apikusis: A druid and an outsider? We can do nothing without turning the oters against us.
+  - she has to be stopped
+    - have to:「〜すべき」の構文
+- Apikusis: A druid and an outsider? We can do nothing without turning the others against us.
+  - [turn against](https://ejje.weblio.jp/content/turn+against)
+    - 他動詞: 敵対する、反抗する
+      - turn A against B で「A が B に敵対する」
+  - We can do nothing without turning the others against us.
+    - ChatGPT訳:「他の者たちに反感を買わずに私たちができることは何もない。」
 - Apikusis: Only Master Halsin can stop this. I pray my bird returns with news of him.
-- Apikusis: If not, Ifear for my people.
+- Apikusis: If not, I fear for my people.
+  - [fear](https://ejje.weblio.jp/content/fear), フィアー
+    - 自動詞: 心配する、気遣う
+  - Apikusisは特に偉い地位の人ではなさそうで、そのときに my people という言い方はどういう意味なのか？
+    - ChatGPTによると、同じ集団に属している仲間やごく近い人を指して my と言っているよう
 - Tav: I hear a retual can protect the grove. Are you helping prepare it?
+  - prepare は原形不定詞
+  - この時点で「儀式があると聞きました」というのは、少なくとも文脈上おかしい
+    - ゲームの方が会話の調整に失敗しているのか、自分が文章を読めてないのかは不明
 - Apikusis: I would prefer not to.
+  - [prefer](https://ejje.weblio.jp/content/prefer), プレ・ファー
+    - 他動詞: 〜をより好む
+  - 末尾の to は、to不定詞の動詞がない状態。これは to の先は先の文脈に依存しているということを意味する
+  - I would not prefer to ではないのは、主には言い方がイディオムだからのよう
+    - 「好まない」と「しないのと好む」という差はあるが、ほぼ同じ意味らしい
 - Apikusis: But if Master Halsin does not return, Kagha will give the order. And my voice will not matter.
+  - [matter](https://ejje.weblio.jp/content/matter), マ↑・トォア
+    - 自動詞: 重要である、問題となる
 - Tav: _Leave._
   - 誰かが動物と話す魔法の物品を売ってた記憶がある、後で買って鳥と話してみよう
 
