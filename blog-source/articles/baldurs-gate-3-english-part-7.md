@@ -11,6 +11,25 @@ lastUpdatedAt: "2024-01-01 08:23:50+0000"
 
 ### 20, Eliasis - 12:44 - 主人公
 
+- \*\*
+- \*\*
+- \*\*
+- \*\*
+- Tav:
+- \*\*
+- \*\*
+- \*\*
+- \*\*
+- Tav:
+- \*\*
+- \*\*
+- \*\*
+- Tav:
+- \*\*
+- Tav:
+
+---
+
 - [approach](https://ejje.weblio.jp/content/approach), ア↑プロォチ
   - 他動詞: (場所的・時間的に)(…に)近づく
 - [dying](https://ejje.weblio.jp/content/dying), ダ↑ァイイン
