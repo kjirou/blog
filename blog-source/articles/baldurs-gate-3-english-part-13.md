@@ -1,0 +1,355 @@
+---
+publicId: baldurs-gate-3-english-part-13
+lastUpdatedAt: "2024-01-31 01:46:47+0000"
+---
+
+# Baldur's Gate 3の英語を復習する 13冊目
+
+- [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- まだ the grove を散策中。おそらくは、やっと次回 Kagha に会える。
+
+## 本編
+
+### 20, Eliasis - 3:37 - Volo, Tav
+
+少々気取った格好をしている、おそらくHumanの男性へ話しかけた
+
+- Volo: Ah, my good friend!
+- Volo: You were at the gates just now, no? When the goblins came? You saw them up close?
+  - [just now](https://ejje.weblio.jp/content/just+now)
+    - 副詞: ついさっき
+      - 少し過去のことも指定できる
+    - 現実では何週間か the grove を散策してるからずっと前だと思ってたけど、話上はさっきなのか...
+  - no?
+    - 非標準の付加疑問文、主節が肯定文でも否定文でも使える
+  - [up close](https://ejje.weblio.jp/content/up+close)
+    - 副詞: すぐ近くで
+    - [close](https://ejje.weblio.jp/content/close), クロゥズ
+      - 形容詞: 接近した
+        - 時間・空間・程度などで使える
+- Volo: A few questions, if you please. There's no overstating my interest.
+  - if you please
+    - 「もしよろしければ」、丁寧な依頼の表現
+    - 省略した形が Please らしい
+    - [please](https://ejje.weblio.jp/content/please), プリーズ
+      - 自動詞: したいと思う、好む、気に入る
+        - if, when, as などが導く従属節内でのみ使える、通常は「人を喜ばせる」の意味
+  - [overstate](https://ejje.weblio.jp/content/overstate), オーヴァーステイツ
+    - 他動詞: 誇張する、〜を大袈裟に話す
+  - There's no overstating my interest.
+    - 直訳:「私の興味を誇張することはない。」、意訳:「私の興味は計り知れない。」「とても興味がある。」
+- Tav: Fine - ask your questions.
+- Volo: _Glory!_ Now, then:
+  - [glory](https://ejje.weblio.jp/content/glory), グォーリィ
+    - 名詞: 栄光、誉れ、名誉、大満足
+    - この文では、「素晴らしい！」で良い
+- Volo: How would you describe that particular batch of goblins? Size? Nature? Distinguishing qualities?
+  - [describe](https://ejje.weblio.jp/content/describe), デスクラァイブ
+    - 他動詞: 言葉で説明する、評する、記述する、描写する
+  - [particular](https://ejje.weblio.jp/content/particular), パティキュラァ
+    - 形容詞: 特定の
+    - コアイメージ: 特定できるほどに際立った
+  - [nature](https://ejje.weblio.jp/content/nature), ネイチュア
+    - 名詞: 性質、特質
+  - [distinguishing](https://en.wiktionary.org/wiki/distinguishing)
+    - 形容詞: 区別するための
+    - [distinguish](https://ejje.weblio.jp/content/distinguish), ディスティングイッシュ
+      - 他動詞: 〜を区別する、〜を識別する
+  - [quality](https://ejje.weblio.jp/content/quality), クォリ(リ|テ)ィ
+    - 名詞: 特性、特質
+  - Distinguishing qualities?
+    - distinguish の動詞由来の形容詞だが、「qualities を区別している」なのか「qualities を区別するための」なのかがわからなかった
+    - 概ね、自動詞由来の-ing形容詞は「〜する、〜している」、他動詞由来の-ing形容詞は「〜させる」、とのこと
+      - Ref. https://toiguru.jp/participle-adjectives
+        - どちらも目的語を主語的に解釈させるとイメージに合いそう？
+          - 自動詞-ing: an aging society: society が aging している
+          - 他動詞-ing: my amazing story; story が amazing させる
+- \*You search your mind, but remember nothing useful about goblin social order or behaviour.\*
+  - [useful](https://ejje.weblio.jp/content/useful), ユゥスフゥ
+    - 形容詞: 有益な、役にたつ
+  - [social order](https://ejje.weblio.jp/content/social+order)
+    - 名詞: 社会秩序
+  - goblin social order で複合名詞、複合名詞のときは先頭の名詞は形容詞的な意味になる
+  - [behaviour](https://ejje.weblio.jp/content/behaviour), ビィ・ヘイビァ
+    - 名詞: 振る舞い
+  - この直前に、 Intelligence (History) Check に失敗している
+- Tav: _Give an exact description._
+  - [exact](https://ejje.weblio.jp/content/exact), (エ|イ)グザァクト
+    - 形容詞: 正確な
+  - 先の判定は、知識と絡めての返答ができるか、の判定だったのか
+- Volo: 'Goblins... were... of... rare... gem-coloured... hue... and wielded... magic... blowguns...' Right!
+  - [hue](https://ejje.weblio.jp/content/hue), ヒュゥ
+    - 名詞: 色合い、色調
+  - [wield](https://ejje.weblio.jp/content/wield), ウィールド
+    - 他動詞: ふるう、用いる
+  - [blowgun](https://ejje.weblio.jp/content/blowgun), ブロゥガン
+    - 名詞: 吹き矢
+- Volo: And the... _dragon_ they had marching in the rear. Was it of the brass or silver variety?
+  - [march](https://ejje.weblio.jp/content/march), マァチ
+    - 自動詞: 行進する、堂々と歩く、進軍する
+  - [rear](https://ejje.weblio.jp/content/rear), ゥリアァ
+    - 名詞: 後ろ、後部、背面
+  - they had marching
+    - they were marching と違うのは、 dragon を制御している意味合いが強いこと
+  - [brass](https://ejje.weblio.jp/content/brass), ブラァス
+    - 名詞: 真鍮、黄銅
+  - [variety](https://ejje.weblio.jp/content/variety), バライアティ
+    - 名詞: 同種の中での種類、変種
+- Tav: I think there's been a misunderstanding. What do you want, exactly?
+  - there's = there has
+  - [misunderstanding](https://ejje.weblio.jp/content/misunderstanding), ミス・アンダァステァンディング
+    - 名詞: 誤解
+  - 悪ノリして返す選択肢もあって普通のRPGならそれを選びそうなんだけど、英語だと余裕がないからかマジレス気味になる
+- Volo: The truth, my friend! Not a jot more or less!
+  - [truth](https://ejje.weblio.jp/content/truth), ト↑ルゥ
+    - 名詞: 真実
+  - [jot](https://ejje.weblio.jp/content/jot), ジョォット
+    - 名詞: 非常に少ない・小さい量、わずか
+  - [more or less](https://en.wiktionary.org/wiki/more_or_less)
+    - 副詞: おおよそ、ほぼ
+      - = [approximately](https://ejje.weblio.jp/content/approximately)
+- Volo: Last question, then you'll be quite free. Did the attackers rally to 'the Absolute' when they fell upon the gates?
+  - [free](https://ejje.weblio.jp/content/free), フリィ
+    - 形容詞: 自由な、束縛のない
+  - you'll be quite free
+    - ChatGPTに何度聞いても、 quite は「かなり」という意味で「完全に」ではないとのこと
+      - 自由になるかならないかは排他では？と聞いても、そのような曖昧な言い方をすることもあるねん、と返された
+    - 日本語の例でいうと、「たぶん確信してる」のような変な言い方なのかもしれない
+  - [rally](https://ejje.weblio.jp/content/rally), ゥラーリィ
+    - 自動詞: 何かの周りに集まる・馳せ参ずる・結集する
+  - Did the attackers rally to 'the Absolute' when they fell upon the gates?
+    - ChatGPT訳:「攻撃者たちは門に襲いかかったとき、「絶対者」に忠誠を誓っていましたか？」
+      - rally と言う単語に「忠誠を誓う」というまでの意味はなく、「the Absoluteのために集結していた」の意訳
+  - [fall upon](https://en.wiktionary.org/wiki/fall_upon)
+    - 他動詞: 突然攻撃する
+- Tav: Yes - they called out the name like a war cry.
+  - [call out](https://ejje.weblio.jp/content/call+out)
+    - 他動詞: 〜を大声で叫ぶ
+  - [war cry](https://en.wiktionary.org/wiki/war_cry)
+    - 名詞: 鬨の声、戦いの雄叫び、兵士を結集させることを目的とした呼び声
+  - そんな記憶は全然ないけど、捕虜のSazzaが言ってたからたぶん大丈夫っしょ
+- Volo: They did, didn't they? Oh-ho, curious. Curious _indeed_.
+  - They did, didn't they?
+    - すでに知っている情報のときの返答なので、この文脈だとどう言う意味なんだろう？
+      - うっかり忘れてた、なのか、それは知ってるよ、なのか
+  - [curious](https://ejje.weblio.jp/content/curious), キュリアス
+    - 形容詞: 好奇心をそそるような、不思議な、奇異な
+  - [indeed](https://ejje.weblio.jp/content/indeed)
+    - 副詞: まったく、実に
+      - 実際に何かが真実であることを強調する際や、驚きや感嘆を表す際に用いられる
+- Volo: I've interrogated one - a captive in this very camp. She reports they've abandoned their god Maglubiyet in favour of someone called 'the Absolute'.
+  - [interrogate](https://ejje.weblio.jp/content/interrogate), インテオリゲィト
+    - 他動詞: 尋問する、質問する
+  - [captive](https://ejje.weblio.jp/content/captive), キャプティブ
+    - 名詞: 捕虜
+  - [very](https://en.wiktionary.org/wiki/very#Adverb), ベリィ
+    - 副詞: 程度や量が非常に高いことを示す強調
+  - [abandon](https://ejje.weblio.jp/content/abandon), ア(バ|ベ)ンドン
+    - 他動詞: 捨てる、捨て去る、習慣を止める
+  - in this very camp
+    - 公式に当てはめると、通常は副詞は形容詞の前に来るので、 in very this camp が正しい
+    - ChatGPTによると、「very を間に置くことで、this の修飾ではなく this camp の修飾になる」とのこと
+      - しかし、この回答に辿り着くまでのかなりの間、 in this very camp と in very this camp を間違えて矛盾した回答をしていたので信憑性は薄い
+    - まとめると、 in this very camp の語順は英語的に自然なもののようだが、その理由は不明
+  - Maglubiyet, マグルビエント
+    - ゲーム用語,名詞: Goblinたちの主神、武闘派
+      - Ref. https://forgottenrealms.fandom.com/wiki/Maglubiyet
+  - favour(UK) = favor(US)
+  - [in favor of](https://ejje.weblio.jp/content/in+favor+of)
+    - イディオム: 〜に味方して
+- Volo: The scandal!
+  - [scandal](https://en.wiktionary.org/wiki/scandal), スキャァンダゥ
+    - 名詞: 宗教的な不道徳
+- Tav: Goblin superstition - not worth the ink and parchment.
+  - [superstition](https://ejje.weblio.jp/content/superstition), スーパースティション
+    - 名詞: 迷信
+  - worth
+    - 前置詞か形容詞かで意見が分かれるもののよう
+    - とにかく、worth + 名詞句 という用法が多いので、それを覚えるしかなさそう
+  - the ink and parchment
+    - the がついている理由がわからない
+    - ここで ink と parchment を出しているのは貴重なものとしての比喩なので、 the 貴重なものたちの例 = 貴重なもの みたいな具象化をする機能？
+- Volo: Ah, but is superstition all? These goblins are informed by a kind of strategy anathema to their kind.
+  - [informed](https://en.wiktionary.org/wiki/informed), インフ↑ォァムド
+    - 形容詞: 知識・情報に基づいている
+  - [strategy](https://ejje.weblio.jp/content/strategy), ストラァテズィ
+    - 名詞: 戦略
+  - [anathema](https://ejje.weblio.jp/content/anathema), アナァセマ
+    - 名詞: 忌み嫌われるもの、呪われたもの
+  - [kind](https://ejje.weblio.jp/content/kind), カーイン
+    - 名詞: 種族、種類
+  - (a kind of strategy) (anathema to their kind)
+    - ChatGPTによると、後者の anathema は名詞であるが、句としては形容詞句であるとのこと
+- Volo: I, for one, intend to get to the bottom of it.
+  - [intend](https://en.wiktionary.org/wiki/intend#Verb), イン・テント
+    - 自動詞: 何かを強く心に決める・意図する、熱心に取り組む
+      - to Verb または on/upon Noun が後に続く事が多い
+  - [for one](https://en.wiktionary.org/wiki/for_one)
+    - 副詞: 同じ意見を持たないかもしれない人々の中の一人として、少なくとも私は
+  - [get to the bottom of](https://en.wiktionary.org/wiki/get_to_the_bottom_of)
+    - イディオム: 〜を見極める・真実を知る
+- Volo: I'm just preparing to head to their camp as we speak. In fact... if you'll excuse me, I ought not to dawdle.
+  - [excuse](https://ejje.weblio.jp/content/excuse), エクスキューズ
+    - 他動詞: 容赦する、許す
+    - コアイメージは「義務や責任の遂行を免ずる」らしい、「過去の責任を免ずる」が転じて「容赦する」
+  - as we speak
+    - 今Tavと話していることを指す
+    - 「Goblinたちと話すために」かと思ったけど、それなら事実ではないので現在形ではない
+  - if you'll excuse me
+    - excuse me の丁寧な表現
+  - [ought](https://ejje.weblio.jp/content/ought), オー(ト|ツ)
+    - 助動詞: 〜すべきである
+    - ought to または ought not to と to を含む形で使うのが現代的で、to がなくても正しい英文だが古風な感じになるらしい
+  - [dawdle](https://ejje.weblio.jp/content/dawdle), ドードウ
+    - 自動詞: ぐずぐずする、のらくらする
+  - この野郎...
+- Tav: Wait. About our conversation earlier - why the dragon?
+  - [conversation](https://ejje.weblio.jp/content/conversation), カンバセ↑イション
+    - 名詞: 会話、対話
+  - やっぱり、先の会話を参照するときには at じゃなくて about を使うなぁ
+- Volo: My friend, _every_ story benefits from a dragon.
+  - [benefit](https://ejje.weblio.jp/content/benefit), ベ↑ネフィッ
+    - 自動詞: 利益を得る
+      - by や from を伴って「〜から利益を得る」という形で使われる
+- Volo: Until we meet again!
+  - [until](https://ejje.weblio.jp/content/until), アン・ティウ
+    - 接続詞: 〜まで、条件が真になるときまで
+  - until や before など時を指定する接続詞を使った副詞節の従属節の中は、動詞は現在形を使うよう
+    - 未来を示すときは、will より確信度が高い意味合いになる
+    - この文章は主節がないけど、前の文章を受けてとのことなんだろう
+  - Goblinは常にHumanなどと敵対している訳ではないのか
+
+### 20, Eliasis - 4:32 - Volo, Tav
+
+再度Voloへ話しかけた
+
+- Volo: Pardon me! Must prepare to travel - good day, my friend!
+  - [pardon](https://ejje.weblio.jp/content/pardon), パードン
+    - 他動詞: 許す
+  - excuse me との違い
+    - Ref. https://jp.blog.voicetube.com/phrases/apology/
+    - excuse me は「すみません」に近い、pardon me はもう少し謝っている
+- Tav: Where are you heading?
+  - 現在進行形なのは、今まさに旅の準備をしているから
+- Volo: To the goblins camped nearby, of course. I've been tracing their doings with great care.
+  - [nearby](https://ejje.weblio.jp/content/nearby), ニィア・バァイ
+    - 副詞: 近くで
+  - [trace](https://ejje.weblio.jp/content/trace), トレイス
+    - 他動詞: 追跡する
+  - I've been tracing their doings with great care.
+    - ChatGPT訳: 「彼らの動向を大変注意深く追っています。」
+    - 現在完了進行形の意味がいまいちイメージできないので、端々の知識だけ集めておく
+      - 状態動詞の時は現在進行形、動作動詞の時は現在完了進行形、らしい
+        - Ref. https://kou.benesse.co.jp/nigate/english/a13e3901.html
+      - これからも動作を続ける、という意味も含まれる
+        - Ref. https://hoshino-english.com/present-perfect-continuous/
+- Volo: Whoever this 'Absolute' they're worshipping might be, I'll be the first to write about it.
+  - [whoever](https://ejje.weblio.jp/content/whoever), フーエバー
+    - 代名詞: 誰でも、どんな人でも
+      - 関係代名詞の先行詞として使える
+  - 'Absolute' は the が付かないの？
+    - 固有名詞は通常 the を付けない
+    - 一つ前の会話で 'the Absolute' と言っていたのは、Goblinたちの会話を模したからだと思う
+    - また、文脈によっては付きそうだけど、今考えても仕方ないのでやめとく
+  - [worship](https://ejje.weblio.jp/content/worship), ウォ・シップ
+    - 他動詞: 〜を崇拝する
+  - [might be](https://ejje.weblio.jp/content/might+be)
+    - イディオム: 〜かもしれない
+  - might be
+    - is に助動詞がついている形である
+    - is との差は、より不確実で確信を持ってない意味の付与
+    - 意訳なら「どんな人か」「どんな人かもしれないが」になるのかな
+  - ChatGPT訳: 「彼らが崇拝しているこの「絶対者」が何者か、私が最初に書くことになるでしょう。」
+- Tav: _Leave._
+
+### 20, Eliasis - 5:07 - Apikusis, Tav
+
+周りのドルイドたちが儀式に参加している中で、一人だけ参加していなく鳥に話しかけている、おそらくHumanの女性へ話しかけた
+
+- Apikusis: Speak.
+  - Apikusis: アピクシス
+- Tav: What were you saying to that bird?
+- Apikusis: The bird knows. She needs to know. You do not.
+  - [need](https://en.wiktionary.org/wiki/need#Verb), ニ↑ィド
+    - 自動詞: 必須である、必要である
+  - ChatGPT訳: 「鳥は知っている。彼女は知る必要がある。あなたには知る必要はない。」
+- Tav: I helped defend this grove - I'm not your enemy.
+  - [defend](https://ejje.weblio.jp/content/defend), デ・フェーンド
+    - 他動詞: 〜を守る
+  - I helped defend
+    - defend は原形不定詞
+    - helped はそのまま過去形の意味で良い、事実を言っているだけ
+  - [enemy](https://ejje.weblio.jp/content/enemy), エネミィ
+    - 名詞: 敵
+  - この後にCharisuma (Persuasion) Checkに成功した
+- Apikusis: I - forgive me. It is not you I fear, it is my brethren.
+  - [forgive](https://ejje.weblio.jp/content/forgive), フォ・ギィブ
+    - 他動詞: 許す、大目に見る
+  - いきなり本Partで、許しての語彙が excuse me, pardon me, forgive me と3つ出てきた
+    - ちょうどWeblio辞書にそれらの違いのまとめがあった:
+      - > forgive は人の罪や過失を腹立ち・処罰などの感情を捨てて許す; pardon は罪や悪事に対して処罰を免除する; excuse はあまり重大ではない失敗や間違いなどを許す
+  - [fear](https://ejje.weblio.jp/content/fear), フィアー
+    - 他動詞: 〜を恐れる・怖がる
+      - 自動詞としての用法にはこの意味はなく、「心配する」「気遣う」である
+  - It is not you I fear
+    - より正確に書くなら It is not you whom I fear
+      - ただし、現代の英語では whom は省略するのが一般的であるとのこと
+    - 通常は I do not fear you と書くが、これは you を強調したい強調構文である
+      - Ref. https://nativecamp.net/blog/20230205-syntax_highlighting
+  - [brethren](https://ejje.weblio.jp/content/brethren), ブゥレスレン
+    - 名詞: 同胞、仲間
+    - brothers の古風な言い方
+- Apikusis: More follow Kagha every day. They are afraid and she offers a simple solution - eject the refugees and we will be safe.
+  - [more](https://ejje.weblio.jp/content/more), モーア
+    - 代名詞: より多くの数の人やもの
+  - [solution](https://ejje.weblio.jp/content/solution), ソ・リ↑ューション
+    - 名詞: 解決策、解決
+  - [eject](https://ejje.weblio.jp/content/eject), イ・ジェクト
+    - 他動詞: 追い出す、放逐する、立ち退かせる
+- Tav: Sounds like she has to be stopped. How would we do that?
+  - she has to be stopped
+    - have to:「〜すべき」の構文
+- Apikusis: A druid and an outsider? We can do nothing without turning the others against us.
+  - [turn against](https://ejje.weblio.jp/content/turn+against)
+    - 他動詞: 敵対する、反抗する
+      - turn A against B で「A が B に敵対する」
+  - We can do nothing without turning the others against us.
+    - ChatGPT訳:「他の者たちに反感を買わずに私たちができることは何もない。」
+- Apikusis: Only Master Halsin can stop this. I pray my bird returns with news of him.
+- Apikusis: If not, I fear for my people.
+  - [fear](https://ejje.weblio.jp/content/fear), フィアー
+    - 自動詞: 心配する、気遣う
+  - Apikusisは特に偉い地位の人ではなさそうで、そのときに my people という言い方はどういう意味なのか？
+    - ChatGPTによると、同じ集団に属している仲間やごく近い人を指して my と言っているよう
+- Tav: I hear a retual can protect the grove. Are you helping prepare it?
+  - prepare は原形不定詞
+  - この時点で「儀式があると聞きました」というのは、少なくとも文脈上おかしい
+    - ゲームの方が会話の調整に失敗しているのか、自分が文章を読めてないのかは不明
+- Apikusis: I would prefer not to.
+  - [prefer](https://ejje.weblio.jp/content/prefer), プレ・ファー
+    - 他動詞: 〜をより好む
+  - 末尾の to は、to不定詞の動詞がない状態。これは to の先は先の文脈に依存しているということを意味する
+  - I would not prefer to ではないのは、主には言い方がイディオムだからのよう
+    - 「好まない」と「しないのと好む」という差はあるが、ほぼ同じ意味らしい
+- Apikusis: But if Master Halsin does not return, Kagha will give the order. And my voice will not matter.
+  - [matter](https://ejje.weblio.jp/content/matter), マ↑・トォア
+    - 自動詞: 重要である、問題となる
+- Tav: _Leave._
+  - 誰かが動物と話す魔法の物品を売ってた記憶がある、後で買って鳥と話してみよう
+
+### 20, Eliasis - 5:07 - Tuffet, Tav
+
+寝ている熊へ話しかけた
+
+- Tuffet: \*Sniff.\*
+  - [sniff](https://ejje.weblio.jp/content/sniff), スニッフ
+    - 自動詞: ふんふん・くんくんかぐ
+- _Carefully nudge the bear's flank._
+  - [nudge](https://ejje.weblio.jp/content/nudge), ナァッジ
+    - 他動詞: そっとつつく
+  - [flank](https://ejje.weblio.jp/content/flank), フ(レ|ア)ンク
+    - 名詞: 横原、脇腹
+    - 「フランクな話し方」の「フランク」は [frank](https://ejje.weblio.jp/content/frank) の方
+  - この後のWisdom (AnimalHandling) Checkに成功した
+- \*Grunt.\*
+  - これで、熊が動いて、後ろに隠れているレバーが操作できるようになった
