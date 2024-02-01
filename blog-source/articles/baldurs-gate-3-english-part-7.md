@@ -65,63 +65,63 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [elsewhere](https://ejje.weblio.jp/content/elsewhere), エルスウェァ
     - 副詞: どこかよそに
   - Mind Flayerの精神攻撃の集中が切れた状況に読めるが、状況を忘れた
-- Tav:
-- \*\*
-- \*\*
-- \*\*
-- Tav:
-- \*\*
-- Tav:
-
----
-
-- And you deserve to be punished for it.
-  - 主人公を誘拐したMind Flayerが瀕死で倒れていたので、それに近寄って止めを刺そうとしている状況
-  - 直訳すると「あなたはそれに対して罰を受けるべきだ」になりそう（ChatGPTやDeepL翻訳も同じ答え）なんだけど、状況からして「相手は罰を受けるべきだ」になりそうでわからん
-  - なお、相手に対して親愛の情を感じさせる精神攻撃を受けつつなので、状況が複雑だが
-- [fuse](https://ejje.weblio.jp/content/fuse), (フ|ヒ)ューズ
-  - 自動詞: 融合する、溶解する
-- [lust](https://ejje.weblio.jp/content/lust), ゥラ↑ス(ト|)
-  - 自動詞: 切望する、渇望する
-- Your minds fuse, lusting for something that is... gone.
-  - 「あなたの精神が溶け出し、失ったものを渇望している」
-  - fuse の機微がわからん、または日本語でも意味がわからないかもしれない
-  - 心情描写の文章は難しい
-- [claw back](https://ejje.weblio.jp/content/claw+back)
-  - 他動詞: (苦労して)(…を)取り戻す
-- [vengeance](https://ejje.weblio.jp/content/vengeance), ベ↑ンジェンス
-  - 名詞: 復讐、復讐の行為、報復、仕返し
-- [vice](https://ejje.weblio.jp/content/vice), (バ|ヴァ)イス
-  - 名詞: 悪、悪徳、邪悪、不道徳行為、悪習、悪癖
-- [obedience](https://ejje.weblio.jp/content/obedience), オヴ↑ィーディエンス
-  - 名詞: 服従、従順
-- But then its grip claws back with a vengeance: a vice locking your mind into obedience.
-  - 全くわからん
-  - 「しかしその後、その grip は vengeance を取り戻す: 心を服従させる悪」
-  - a vengeance = a vice locking your mind into obedience のはず
-  - grip はMind Flayerによる精神攻撃行為を意味していて、a vengeance は主人公側が抵抗したことへの報復を言っている？
-  - でも前後の文脈上、ここは主人公が反撃しつつあることを表現している気がする...
-- [sustenance](https://ejje.weblio.jp/content/sustenance), サ↑ステ(ナ|ヌ)ンス
-  - 名詞: 生命を維持するもの、栄養、維持、耐久、持続
-- It needs sustenance to survive, and with your very body you can provide.
-  - your very body の very は「まさに」という強調
-  - sustenance to survive の sustenance と survive は意味が被ってる気がするんだけど、機微がわからない
-- [intrusion](https://ejje.weblio.jp/content/intrusion), イン(トゥ|チュ)ルージ(ェ|ョ)ン
-  - 名詞: 侵入
-- [exhausted](https://ejje.weblio.jp/content/exhausted), (イ|エ)クゾ↑ゥステッ
-  - 形容詞: 消耗した、疲れ切った
-- [radiate](https://ejje.weblio.jp/content/radiate), ゥ(ラ|リ)ディエィ(ト|)
-  - 他動詞: 放射する、撒き散らす
-  - [radiation](https://ejje.weblio.jp/content/radiation)
-    - 名詞: 放射能、放熱
-- [malice](https://ejje.weblio.jp/content/malice), マ↑(リ|ル)ス
-  - 名詞: 悪意、敵意
-- とにかくこの文章が一式でわからなかったので、今度誰かに聞こう
-  - ```
-    *Your minds fuse, lusting for something that is... gone.*
-    *But then its grip claws back with a vengeance: a vice locking your mind into obedience.*
-    *It needs sustenance to survive, and with your very body you can provide.*
-    ```
+- Tav: _Concentrate on its thoughts._
+  - [concentrate](https://ejje.weblio.jp/content/concentrate), コンセントレィ
+    - 自動詞: 全力を注ぐ、集中する
+      - on, upon, at, in を伴う
+  - この直後に Intelligence Check を行い、成功した
+- \*Your minds fuse, lusting for something that is... gone.\*
+  - [fuse](https://ejje.weblio.jp/content/fuse), フィユーズ
+    - 自動詞: 融合する、溶解する
+  - [lust](https://ejje.weblio.jp/content/lust), ゥラ↑スト
+    - 自動詞: 切望する、渇望する
+  - ChatGPT訳: 「あなたの心は融合し、なくなってしまった何かを切望しています。」
+- \*But then its grip claws back with a vengeance: a vice locking your mind into obedience.\*
+  - [claw back](https://en.wiktionary.org/wiki/claw_back)
+    - 他動詞: 非常に苦労をして失った何かを取り戻す
+  - [vengeance](https://ejje.weblio.jp/content/vengeance), ベ↑ンジェンス
+    - 名詞: 復讐、復讐の行為、報復、仕返し
+  - [vice](https://ejje.weblio.jp/content/vice), (バ|ヴァ)イス
+    - 名詞: 邪悪、不道徳行為
+  - [obedience](https://ejje.weblio.jp/content/obedience), オヴ↑ィーディエンス
+    - 名詞: 服従、従順
+  - ChatGPT訳: 「しかし、それが復讐と共に猛烈に掴み返します：あなたの心を服従へと締め付けるバイス。」
+  - claws back の目的語がない？
+    - claw back は他動詞としての用法しかなさそう、つまり目的語が省略されているか a vice がそれに相当するかの二択
+    - ChatGPTは、 :a vice ... 以降は前文の結果どうなったかを意味し、 claws back の目的語は省略されていると言っていた
+    - 個人的には claw back の目的語が a vice の方が文脈上正しい意味になりそうに思っている
+      - its grip=Mind Flayerの精神攻撃が、 a vice locking your mind into obedience=服従を強いる邪悪を、 claws back with a vengeance=復讐と共に取り戻す
+  - 結論としては、文の意味はわからなかった
+- \*It needs sustenance to survive, and with your very body you can provide.\*
+  - [sustenance](https://ejje.weblio.jp/content/sustenance), サ↑ステナンス
+    - 名詞: 生命を維持するもの、栄養、維持、耐久、持続
+  - [very](https://ejje.weblio.jp/content/very), ベリィ
+    - 形容詞: まさしくその、ちょうどその
+      - the, this, that, 所有格人称代名詞 を伴って名詞を修飾する
+  - ChatGPT訳: 「生き延びるためには栄養が必要で、あなた自身の身体でそれを供給できます。」
+  - この文章も文章だけ見ると唐突でおかしい、状況は忘れた
+- Tav: _Resist the intrusion with everything you have._
+  - [resist](https://ejje.weblio.jp/content/resist), ゥリジェスト
+    - 他動詞: 〜へ抵抗する・反抗する
+  - [intrusion](https://ejje.weblio.jp/content/intrusion), イントルゥージョン
+    - 名詞: 侵入
+  - この直後に Wisdom Check を行い、成功した
+- \*The monster lies exhausted, defeated. Its eyes - wet, orange pearls - radiate malice.\*
+  - [exhausted](https://ejje.weblio.jp/content/exhausted), エクゾ↑ゥステッド
+    - 形容詞: 消耗した、疲れ切った
+  - [defeat](https://ejje.weblio.jp/content/defeat), ディ・フィート
+    - 他動詞: 敵や相手を破る・負かす
+  - defeated は受動態の過去分詞の分詞構文、その時は S と V を省略できる
+  - [wet](https://ejje.weblio.jp/content/wet), ウェット
+    - 形容詞: ぬれた、湿った
+  - [radiate](https://ejje.weblio.jp/content/radiate), ゥリディエィト
+    - 他動詞: 放射する、撒き散らす
+    - ゲームでよく出てくる「放射能」を意味する RAD は、これの名詞形 [radiation](https://ejje.weblio.jp/content/radiation) の略
+  - [malice](https://ejje.weblio.jp/content/malice), マ↑(リ|ル)ス
+    - 名詞: 悪意、敵意
+  - ChatGPT訳: 「モンスターは疲れ果てて、敗れた。その目は—濡れた、オレンジ色の真珠のように—悪意を放っている。」
+- Tav: _Close those eyes forever._
+  - 判定に失敗してたらどうなってたんだろうか
 
 ### 20, Eliasis - 14:35 - 主人公, Gale, Shadowheart
 
