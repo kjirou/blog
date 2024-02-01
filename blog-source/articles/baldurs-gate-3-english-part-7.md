@@ -6,7 +6,7 @@ lastUpdatedAt: "2024-01-01 08:23:50+0000"
 # Baldur's Gate 3の英語を復習する 7冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
-- Avernusを散策中
+- 前回に引き続き、Avernusを探索中
 
 ## 本編
 
@@ -69,7 +69,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [concentrate](https://ejje.weblio.jp/content/concentrate), コンセントレィ
     - 自動詞: 全力を注ぐ、集中する
       - on, upon, at, in を伴う
-  - この直後に Intelligence Check を行い、成功した
+- Intelligence Successful: Tav
 - \*Your minds fuse, lusting for something that is... gone.\*
   - [fuse](https://ejje.weblio.jp/content/fuse), フィユーズ
     - 自動詞: 融合する、溶解する
@@ -105,7 +105,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 他動詞: 〜へ抵抗する・反抗する
   - [intrusion](https://ejje.weblio.jp/content/intrusion), イントルゥージョン
     - 名詞: 侵入
-  - この直後に Wisdom Check を行い、成功した
+- Wisdom Successful: Tav
 - \*The monster lies exhausted, defeated. Its eyes - wet, orange pearls - radiate malice.\*
   - [exhausted](https://ejje.weblio.jp/content/exhausted), エクゾ↑ゥステッド
     - 形容詞: 消耗した、疲れ切った
@@ -123,40 +123,54 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
 - Tav: _Close those eyes forever._
   - 判定に失敗してたらどうなってたんだろうか
 
-### 20, Eliasis - 14:35 - 主人公, Gale, Shadowheart
+### 20, Eliasis - 14:35 - Tav, Gale, Shadowheart
 
-- [sigil](https://ejje.weblio.jp/content/sigil), ス↑ィジョォ
-  - 名詞: 主に西洋魔術で使われる図形、記号、紋章、線形
-- [glitter](https://ejje.weblio.jp/content/glitter), グ↑リラァ
-  - 自動詞: ぴかぴか光る
-- [swirl](https://ejje.weblio.jp/content/swirl), スワー(ァ|ォ)
-  - 自動詞: 渦を巻く、ふらふらする
-- [erratically](https://ejje.weblio.jp/content/erratically)
-  - 副詞: でたらめに、不規則に
-- [as if](https://ejje.weblio.jp/content/as+if)
-  - まるで〜であるかのように
-- [malfunction](https://ejje.weblio.jp/content/malfunction), (マ|エ)↑ル・ファンクシ(ョ|ェ)ン
-  - 自動詞: 〈臓器・機械などが〉正常に働かない，動かない
-  - 名詞で、機能不全、故障、という意味もある
-- [slightly](https://ejje.weblio.jp/content/slightly), ス↑ライトリィ
-  - 副詞: わずかに、少し、細く、きゃしゃに
-  - 真逆の意味だと誤解してたんだけどなんでだろう... 似てる字面で違う意味の単語も思い出せないし
-- [stuck](https://ejje.weblio.jp/content/stuck), スタ↑ァック
-  - stick の過去形・過去分詞形
-  - [stick](https://ejje.weblio.jp/content/stick)
-    - > 〔+目的語(+副詞(句))〕〈…を〉(…に)はまり込ませる，行き詰まらせる; 動けなくする 《★通例過去分詞で形容詞的に用いる; ⇒stuck 形容詞 1a,c》.
-- Just your average traveller stuck between realms.
-  - 不思議なワープゲートみたいなところから手が出て、主人公がそれを引き上げてる最中という状況
-  - stuck は形容詞で、「領域の間に挟まっているただの旅行者だよ」になりそう
-    - 領域(realms)というのは、ワープゲートの両側を指しそう
-  - your は、親愛の情というか軽口というかそういう言い回しみたい
-    - ChatGPT:
-      - > この文脈において、"your" は読者または話を聞いている人に直接話しかける形で使用されています。ここでは、"your average traveller" というフレーズで、「あなたの典型的な旅行者」または「普通の旅行者」という意味で使われており、聞き手に対する親しみや共感を表現している可能性があります。つまり、"your" は具体的な個人を指しているのではなく、一般的な「あなた」や「誰でも」を意味する使い方として使われているのです。
-- [properly](https://ejje.weblio.jp/content/properly), (パ|プ)ロパリィ
-  - 副詞: 適切に、ほどよく、礼儀正しく
-- we'll get properly introduced
-  - （お互いに）きちんと（自己）紹介しましょう
-  - 成句ではないが、よく使われる言い回し
+奇妙な魔法的なワームホールのようなものを見つけた
+
+- \*You approach the sigil on the stone. Magic glitters and swirls from it erratically, as if malfunctioning. It looks slightly dangerous.\*
+  - [sigil](https://ejje.weblio.jp/content/sigil), ス↑ィジョォ
+    - 名詞: 主に西洋魔術で使われる図形、記号、紋章、線形
+  - [glitter](https://ejje.weblio.jp/content/glitter), グ↑リラァ
+    - 自動詞: ぴかぴか光る
+  - [swirl](https://ejje.weblio.jp/content/swirl), スワァォ
+    - 自動詞: 渦を巻く、ふらふらする
+  - [erratically](https://en.wiktionary.org/wiki/erratically)
+    - 副詞: でたらめに、不規則に
+  - [as if](https://ejje.weblio.jp/content/as+if)
+    - まるで〜であるかのように
+  - [malfunction](https://ejje.weblio.jp/content/malfunction), マウ・ファンクシ(ョ|ェ)ン
+    - 自動詞: 臓器・機械などが正常に働かない・動かない
+    - 名詞で、機能不全、故障、という意味もある
+  - [slightly](https://ejje.weblio.jp/content/slightly), ス・ライトリィ
+    - 副詞: わずかに、少し
+- Tav: _Touch the sigil._
+- Gale: A hand? Anyone?
+  - その sigil から人の手が出てきた
+- Tav: Who are you?
+- Gale: Just your average traveller stuck between realms. Pull me out and we'll get properly introduced.
+  - [average](https://ejje.weblio.jp/content/average), ア↑ーベ(レ|ラ)ッジ
+    - 形容詞: 並の、普通の
+      - 質・量・数などが平凡でありふれている様
+  - [stuck](https://en.wiktionary.org/wiki/stuck#Adjective), スタック
+    - 形容詞: 動けなくて
+    - [stick](https://ejje.weblio.jp/content/stick), スティック
+      - 自動詞: はまり込む、止まって動かない
+  - Just your average traveller
+    - your は通常は親愛の情を示す、ここではただの軽口だと思う
+  - stuck between realms
+    - stuck は動詞の過去形ではなく形容詞、過去形だとすると時制が合わない
+  - [properly](https://ejje.weblio.jp/content/properly), プロパリィ
+    - 副詞: 適切に、ほどよく、礼儀正しく
+  - we'll get properly introduced
+    - お互いにきちんと自己紹介しましょう
+    - properly introduced がイディオムではなさそうだが、よく使われる組み合わせのよう
+- Tav: _With a keen, but calculated twist, you attempt to sabotage the sigil._
+- Dexterity (SleightOfHand) Successful: Tav
+
+---
+
+- （お互いに）きちんと（自己）紹介しましょう
+- 成句ではないが、よく使われる言い回し
 - [keen](https://ejje.weblio.jp/content/keen)
   - 形容詞: 鋭い、頭の切れる
 - [sabotage](https://ejje.weblio.jp/content/sabotage), サ↑ァボタージュ
