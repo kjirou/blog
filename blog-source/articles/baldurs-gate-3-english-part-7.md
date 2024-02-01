@@ -6,20 +6,65 @@ lastUpdatedAt: "2024-01-01 08:23:50+0000"
 # Baldur's Gate 3の英語を復習する 7冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- Avernusを散策中
 
 ## 本編
 
 ### 20, Eliasis - 12:44 - 主人公
 
-- \*\*
-- \*\*
-- \*\*
-- \*\*
-- Tav:
-- \*\*
-- \*\*
-- \*\*
-- \*\*
+Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見した
+
+- \*You approach the dying monster. This is the thing that abducted you.\*
+  - [approach](https://ejje.weblio.jp/content/approach), アプロォチ
+    - 他動詞: 場所的・時間的に〜へ近づく
+  - [die](https://ejje.weblio.jp/content/die), ダァイ
+    - 自動詞: 死ぬ、消える
+  - [abduct](https://ejje.weblio.jp/content/abduct), ア↑ブタク(ト|ツ)
+    - 他動詞: 暴力や策略で誘拐する
+- \*You could end its life here and now, if only you didn't feel...\*
+- \*Compassion.\*
+  - [compassion](https://ejje.weblio.jp/content/compassion), (コ|カ)ンパ↑ァッション
+    - 名詞: 切実な同情心、哀れみ
+- \*Compassion?\*
+- Tav: _No. You should be furious... shouldn't you?_
+  - [furious](https://ejje.weblio.jp/content/furious), ヒュリアス
+    - 形容詞: 怒り狂った、猛烈に怒って
+- \*Yes, you feel hate. And you deserve to be punished for it.\*
+  - [feel](https://ejje.weblio.jp/content/feel), フィィルゥ
+    - 他動詞: 〜を感じる
+      - 肉体的・心理的なものどちらも
+  - [hate](https://ejje.weblio.jp/content/hate), ヘ↑イト
+    - 名詞: 憎しみ、憎悪
+  - [deserve](https://ejje.weblio.jp/content/deserve), デ・ザーヴ
+    - 他動詞: 〜する価値がある、〜を受けるに足る
+      - deserve to Verb
+  - [punish](https://ejje.weblio.jp/content/punish), パニッシュ
+    - 他動詞: 〜へ罰を与える
+  - for it の it は、 you feel hate のことを指す
+  - ChatGPT訳: 「はい、あなたは憎しみを感じています。そしてそのために罰を受けるべきです。」
+  - 既にこの時点からTavは精神攻撃を受けている
+- \*You should be whipped - made to bow before this creature in shame!\*
+  - [whip](https://ejje.weblio.jp/content/whip), ウィッ
+    - 他動詞: むち打つ、折檻する、直させる、厳しく教え込む
+  - [make](https://ejje.weblio.jp/content/make), メ↑ィク
+    - 他動詞: Oへ強制的にVerbをさせる
+      - make O Verb原形
+  - [bow](https://ejje.weblio.jp/content/bow), バァウ
+    - 自動詞: 挨拶・服従・礼拝などのために腰をかがめる
+  - You should be (whipped) - (made to bow ...) のこれらの部分が等位の関係、両方ともに受動態である
+  - make O Verb原形 が make O to不定詞 になっているのは、受動態の使役動詞のときにはto不定詞を使うルールがあるため
+    - Ref. https://kou.benesse.co.jp/nigate/english/a13e1103.html
+  - ChatGPT訳: 「あなたは鞭打たれるべきです - この生き物の前で恥を感じながら頭を垂れるべきです。」
+- \*It's possessing your mind, forcing you to... love it.\*
+  - [possess](https://ejje.weblio.jp/content/possess), (ポ|パ)ゼェス
+    - 他動詞: 考えや感情などが〜へ取り憑く、〜を所有する
+      - possess O to Verb
+- \*But then the feeling slips. The creature's mind seems to focus elsewhere.\*
+  - [slip](https://ejje.weblio.jp/content/slip), スリィップ
+    - 自動詞: さっと消える、滑る、滑り落ちる
+  - [elsewhere](https://ejje.weblio.jp/content/elsewhere), エルスウェァ
+    - 副詞: どこかよそに
+  - Mind Flayerの精神攻撃の集中が切れた状況に読めるが、状況を忘れた
 - Tav:
 - \*\*
 - \*\*
@@ -30,43 +75,10 @@ lastUpdatedAt: "2024-01-01 08:23:50+0000"
 
 ---
 
-- [approach](https://ejje.weblio.jp/content/approach), ア↑プロォチ
-  - 他動詞: (場所的・時間的に)(…に)近づく
-- [dying](https://ejje.weblio.jp/content/dying), ダ↑ァイイン
-  - 形容詞: 死にかかっている、瀕死状態の
-  - [die](https://ejje.weblio.jp/content/die)
-    - 自動詞: 死ぬ、消える
-- [abduct](https://ejje.weblio.jp/content/abduct), ア↑ブタク(ツ|ッ)
-  - 他動詞: (暴力・策略で)誘拐する
-- [compassion](https://ejje.weblio.jp/content/compassion), (コ|カ)ンパ↑ァッショ(ン|)
-  - 名詞: (切実な)同情(心)、哀れみ
-  - [concussion](https://ejje.weblio.jp/content/concussion)（震動）と間違えた
-- [furious](https://ejje.weblio.jp/content/furious), ヒ↑ュリアス
-  - 形容詞: 怒り狂った、猛烈に怒って
-  - [fury](https://ejje.weblio.jp/content/fury)
-    - 名詞: 激怒
-    - Ultima OnlineにDivine FuryというChivalryスキルの魔法があったっけ
-- [deserve](https://ejje.weblio.jp/content/deserve)
-  - 他動詞: 〜する価値がある
-    - deserve to do の形で
-- [punish](https://ejje.weblio.jp/content/punish), パ↑ニッシュ
-  - 他動詞: 罰を与える
 - And you deserve to be punished for it.
   - 主人公を誘拐したMind Flayerが瀕死で倒れていたので、それに近寄って止めを刺そうとしている状況
   - 直訳すると「あなたはそれに対して罰を受けるべきだ」になりそう（ChatGPTやDeepL翻訳も同じ答え）なんだけど、状況からして「相手は罰を受けるべきだ」になりそうでわからん
   - なお、相手に対して親愛の情を感じさせる精神攻撃を受けつつなので、状況が複雑だが
-- [whip](https://ejje.weblio.jp/content/whip), ウィッ
-  - 他動詞: むち打つ、折檻する、直させる、厳しく教え込む
-- [bow](https://ejje.weblio.jp/content/bow), バァウ
-- [possess](https://ejje.weblio.jp/content/possess), (ポ|パ)ゼェス
-  - 他動詞: 〜へ取りついてさせる
-    - possess O to do
-- [slip](https://ejje.weblio.jp/content/slip), スリィ(プ|)
-  - 自動詞: さっと消える、滑る、滑り落ちる
-- [elsewhere](https://ejje.weblio.jp/content/elsewhere), (イ|エ)↑ルスウ(ェ|ァ)
-  - 副詞: どこかよそに
-- But then the feeling slips. The creature's mind seems to focus elsewhere.
-  - Mind Flayerの精神攻撃の集中が切れた状況に読めるんだけど、何があったんだっけ、忘れた...
 - [fuse](https://ejje.weblio.jp/content/fuse), (フ|ヒ)ューズ
   - 自動詞: 融合する、溶解する
 - [lust](https://ejje.weblio.jp/content/lust), ゥラ↑ス(ト|)
