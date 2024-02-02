@@ -261,34 +261,31 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - ChatGPT訳: 「それなら、あなたも目の領域にかなり不快な挿入を受けたのだとしか思えませんね。」
 - Tav: Go on...
 - Gale: The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
+  - (are you aware) that ((after ...) (it will ...))?
+  - are you awere と、最後が形容詞で終わる節の後に that の従属節が続くのは普通はできないはず？
+    - aware や sure など、感覚や認識を示す形容詞の後は、その内容の説明として that 節を続けることができるらしい
+    - be {感覚や認識を示す形容詞} that {節} の構文
+      - また、 be {感覚や認識を示す形容詞} of {句} の構文もある
+  - [excruciate](https://ejje.weblio.jp/content/excruciate), (エ|イ)クスクルーシエィト
+    - 他動詞: 苦しめる
+  - [gestation](https://ejje.weblio.jp/content/gestation), ジェステイシ(ョ|ェ)ン
+    - 名詞: 形成
+  - [turn into](https://en.wiktionary.org/wiki/turn_into)
+    - 他動詞: 変形する、変える、変換する
+      - SVO と SVOC どちらも可、 turn 自体がそう
 - Gale: It's a process known as ceremorphosis, and let me assure you: it is to be avoided.
+  - ceremorphosis
+    - ゲーム用語,名詞: Mind Flayerの寄生体により変身させられること
+      - Ref. https://forgottenrealms.fandom.com/wiki/Ceremorphosis
+        - 寄生された人が助かるには、初期段階（脳みそが食べられかけている最中）までに頭を完全に破壊して復活の呪文をかけることらしい
+    - -sis の接尾語は「すること」「した結果」
+  - [assure](https://ejje.weblio.jp/content/assure), ア↑・シュァ
+    - 他動詞: 〜へ保証する
 - Gale: You don't happen to be a cleric, by any chance, do you? A doctor? Surgeon? Uncannily adroit with a knitting needle?
 - Shadowheart: You seem to know enough about our condition to realise it it beyond most clerics' skills.
 
 ---
 
-- The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
-  - we speak of の of は、think of の of みたいにより具体的な事象を指しそう
-  - are you aware that ((after a period of excruciating gestation) it will turn us into mind flayers)? というように after ~ の文は副詞節、たぶん gestation と it の間にカンマが入っても良い
-  - are you awere(形容詞) の後に that 節が続くのは普通はできないはず...?
-    - Ref. https://englishworkbooks.blogspot.com/2019/09/be-aware-of.html
-      - be aware that 節 / be aware of 句 で覚えると良さそう
-        - be (形容詞) that は他にもありそうだけど（be sure that とか）、文法上なんというのかわからなかった
-      - > 「気づいている」と書くと動詞っぽく見えちゃうんですよね。あくまで単語としては「気づいている状態」を表現する形容詞です。「気づいている状態にある」と表現するときに初めて、"She is aware of/that～"みたいな be awareの形になるんです。
-  - [excruciate](https://ejje.weblio.jp/content/excruciate), (エ|イ)クスクルーシエィ
-    - 他動詞: 苦しめる
-  - [gestation](https://ejje.weblio.jp/content/gestation), ジェステ↑イシ(ョ|ェ)ン
-    - 名詞: 形成
-- ceremorphosis
-  - ゲーム用語: Mind Flayerの寄生体により変身させられること
-    - Ref. https://forgottenrealms.fandom.com/wiki/Ceremorphosis
-      - 寄生された人が助かるには、初期段階（脳みそが食べられかけている最中）までに頭を完全に破壊して復活の呪文をかけることらしい
-  - -sis の接尾語は「すること」「した結果」
-- [assure](https://ejje.weblio.jp/content/assure), ア↑シュ(ェ|ァ)
-  - 他動詞: 〜へ保証する
-- it is to be avoided
-  - "to be 過去分詞" 部分の構文は、to不定詞の受動態
-    - Ref. https://e-grammar.info/infinitive/passive.html
 - You don't happen to be a cleric, by any chance, do you?
   - [happen](https://ejje.weblio.jp/content/happen), ハ↑ーペン
     - 自動詞: S がたまたま to do する
