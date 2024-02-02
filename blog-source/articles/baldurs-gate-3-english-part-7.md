@@ -165,84 +165,108 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - お互いにきちんと自己紹介しましょう
     - properly introduced がイディオムではなさそうだが、よく使われる組み合わせのよう
 - Tav: _With a keen, but calculated twist, you attempt to sabotage the sigil._
+  - [keen](https://ejje.weblio.jp/content/keen), キ↑ィン
+    - 形容詞: 鋭い、頭の切れる、熱心な、集中した、洞察力のある
+  - [twist](https://ejje.weblio.jp/content/twist), トゥィスト
+    - 名詞: ひねり、ねじれ、ゆがみ
+  - With a ((keen), but (calculated)) twist
+  - [sabotage](https://ejje.weblio.jp/content/sabotage), サァボタージ
+    - 他動詞: 妨害する
+  - ChatGPT訳: 「慎重かつ計算されたひねりを加えて、あなたはシジルを妨害しようと試みる。」
+    - but を表現してないので少しおかしい気がする
+    - 再提出してもらった訳: 「熱心に、しかし計算されたひねりを加えて、あなたはシジルを妨害しようと試みる。」
 - Dexterity (SleightOfHand) Successful: Tav
+- Gale: Whatever you're doing, it's working wonders! Now a quick little pull should do the trick.
+  - [whatever](https://en.wiktionary.org/wiki/whatever)
+    - 接続詞: 〜が何であれ、〜はさておいて
+      - 話者が気にしない、話したくない、重要だと考えてない、ことを意味するよう
+      - ただし、ChatGPTによると接続詞で、文脈上もそれが正しそうだが、辞書にはなかった
+  - [work](https://en.wiktionary.org/wiki/work#Verb), ウォ(オ|ア)ク
+    - 他動詞: 何かを意図して起こす、何かが結果として起こる
+  - [wonder](https://ejje.weblio.jp/content/wonder), ウォンダー
+    - 名詞: 奇跡、驚くべきこと
+  - working wonders
+    - work wonders または working wonders として、イディオムとしても認知されていそう
+  - [do the trick](https://en.wiktionary.org/wiki/do_the_trick)
+    - イディオム: 目的を達成するのに十分である、働く、効く、成功する、問題を解決する
+    - [trick](https://ejje.weblio.jp/content/trick), (ト|チョ)リック
+      - 名詞: 妙技、効果的・賢明・迅速な方法
+      - Ref: ハットトリック
+  - Now は副詞
+  - should は予測や期待を示す用法、could と似ているが、それより確信度が高い
+  - a quick little pull
+    - ChatGPTへ「名詞の前に形容詞を二つ置くのは一般的なの？」と聞いたら一般的だから気にするなとのこと
+  - ChatGPT訳: 「あなたがしていることは、驚異的に効果があるわ！今、さっと引っ張るだけでうまくいくはずよ。」
+    - 突然の女性口調
+- Gale: Ooft, hello. I'm Gale of Waterdeep. Apologies, I'm usually better at this.
+  - [ooft](https://en.wiktionary.org/wiki/ooft)
+    - = oof
+    - [oof](https://en.wiktionary.org/wiki/oof), ウーフ
+      - 間投詞: 痛みで息を吐く様
+      - = ouch
+  - Waterdeep
+    - ゲーム用語,名詞: 都市の名前
+      - Ref. https://forgottenrealms.fandom.com/wiki/Waterdeep
+- Tav: No need to apologise. Are you all right?
+- Gale: A bit shocked, but friend, it's a relief and a pleasure to make your acquaintance.
+  - [a bit](https://en.wiktionary.org/wiki/a_bit#Adverb)
+    副詞: わずかに、少量で
+    - [bit](https://ejje.weblio.jp/content/bit), (ベ|ビ)ット
+      - 名詞: 少し、わずか
+  - [shocked](https://ejje.weblio.jp/content/shocked), ショオクト
+    - 形容詞: 衝撃を受けた
+  - a bit shocked
+    - ChatGPTに聞くと bit は名詞と言っていたけど、 a bit 全体を副詞として捉えた方が納得できる
+      - shocked は a がつくような現象ではない気がする
+      - a bit は比喩表現なんじゃないかなぁ
+    - ちなみに、 a bit と対になる表現は a lot
+  - [relief](https://ejje.weblio.jp/content/relief), ゥリリーフ
+    - 名詞: 救助、救援
+  - [pleasure](https://ejje.weblio.jp/content/pleasure), プレジ(ャ|ュ)ァ
+    - 名詞: 喜び
+  - [acquaintance](https://ejje.weblio.jp/content/acquaintance), アクウェインタンス
+    - 名詞: 知人
+- Gale: Say, but I know you, don't I? In manner of speaking. You were on the nautiloid as well.
+  - [say](https://ejje.weblio.jp/content/say), セイィ
+    - 間投詞: ねえ、ちょっと
+  - [in a manner of speaking](https://en.wiktionary.org/wiki/in_a_manner_of_speaking)
+    - 前置詞: ある意味では、いわば、比喩的に言えば
+    - [manner](https://ejje.weblio.jp/content/manner) に「方法、態度」という意味があり、a manner of speaking は「言い回し」になる
+      - Ref. https://www.ihcway.com/1day/20160811214601.html
+  - [as well](https://ejje.weblio.jp/content/as+well)
+    - 副詞: 〜もまた、同様に
+      - 通常この意味のは文末においた時
+  - ChatGPT訳: 「言ってみなさい、でも僕はあなたを知っていますよね？ ある意味で。あなたもナウティロイドにいたんだ。」
+    - Say が「言ってみなさい」になっているが、「ねぇ、ちょっと」でも良いとのこと。少なくとも間投詞であるとのこと。
+  - GaleはTavが戦艦の中に居たのを知っているような物言いなんだけど、こちらにそのような記憶がなく、あまり意味がわからない
+- Tav: I was, yes.
+- Gale: Then I can only assume you too were on the receiving end of a rather unwelcome insertion in the ocular region.
+  - Then I can only assume
+    - only は「これ以外にない」という意味、つまり「これ以外に推測できない」
+  - [on the receiving end](https://en.wiktionary.org/wiki/on_the_receiving_end)
+    - 前置詞: 不快な行為の犠牲者である
+  - [rather](https://en.wiktionary.org/wiki/rather#Adverb), ゥラーザァ
+    - 副詞: ひどい、かなり
+      - very, pretty, quite, fairly などと同じように程度を表す意味
+      - 本来は、好ましい選択や好みを指定するような陽の意味のはずだが、これだと悪い方に使われている
+        - ググった例文でも悪い意味で使う方が多そうで、その趣旨の言及をしているブログ記事も見つけた
+          - Ref. https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
+  - [unwelcome](https://ejje.weblio.jp/content/unwelcome), アン・ウェルカム
+    - 形容詞: 歓迎しない、うれしくない
+  - [ocular](https://ejje.weblio.jp/content/ocular), ア↑ーキュラァ
+    - 形容詞: 目の、視覚の
+    - Assoc: Oculus VR
+  - in the ocular region
+    - 視覚内というよりは頭の中って印象だったのだが、目から挿入されたからその間くらいに寄生されている感じなのかな
+  - ChatGPT訳: 「それなら、あなたも目の領域にかなり不快な挿入を受けたのだとしか思えませんね。」
+- Tav: Go on...
+- Gale: The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
+- Gale: It's a process known as ceremorphosis, and let me assure you: it is to be avoided.
+- Gale: You don't happen to be a cleric, by any chance, do you? A doctor? Surgeon? Uncannily adroit with a knitting needle?
+- Shadowheart: You seem to know enough about our condition to realise it it beyond most clerics' skills.
 
 ---
 
-- （お互いに）きちんと（自己）紹介しましょう
-- 成句ではないが、よく使われる言い回し
-- [keen](https://ejje.weblio.jp/content/keen)
-  - 形容詞: 鋭い、頭の切れる
-- [sabotage](https://ejje.weblio.jp/content/sabotage), サ↑ァボタージュ
-  - 他動詞: 妨害する
-- With a keen, but calculated twist, you attempt to sabotage the sigil.
-  - その不思議なゲートから、主人公が手を出しているGaleを引き上げようとしている状況
-  - 「鋭くしかし計算されたひねりで、あなたはその sigil を妨害しようと試みる」
-  - calculated twist ってなんだろう
-- [whatever](https://ejje.weblio.jp/content/whatever), ワトエヴァー
-  - > (…する)ものは何でも、(…する)ものは皆、どんなことが…でも、いかに…でも、一体何が、全体何を
-  - イマイチわからなかったので、 https://nativecamp.net/blog/20210923english_whatever を読んだ
-  - とりあえずは代名詞で anything と同じように、「なんでも」「なんであっても」のよう
-- [wonder](https://ejje.weblio.jp/content/wonder), ウォンダー
-  - 名詞: 奇跡、驚くべきこと
-- Whatever you're doing, it's working wonders!
-  - 「君がなにをしてようが、それは驚くべき成果を発揮している！」という意味だと思う
-  - 前半はいいんだけど、後半が難しい
-    - [work](https://ejje.weblio.jp/content/work) を「影響がある」「ききめがある」「（作用として）働く」という意味で使うときは自動詞である
-    - それであるなら、次に続く単語は、通常は副詞か補語としての形容詞だが、wonders は名詞である
-    - わけがわからん、というところで、完全自動詞・不完全自動詞という概念を知った
-      - Ref. https://www.keiko.work/entry/2022/08/07/143000
-    - にしても、まだ自動詞の補語として名詞が入るのが謎だが、そういうこともあるらしい...?
-      - Ref. https://eigo-4989.hatenablog.com/entry/2020/12/29/182143
-    - 結局わからんのだが、be 動詞のときは補語に名詞が入るのは普通なので、不完全自動詞が be 動詞的な性質に近いのだとすれば、補語に名詞が入るのも変ではなさそう？
-    - [working wonders](https://ejje.weblio.jp/content/working+wonders): 「素晴らしい結果を収めること」「大変有益な効果があること」という成句としても存在した
-- [trick](https://ejje.weblio.jp/content/trick), (ト|チョ)リッ(ク|)
-  - 名詞: 妙技
-    - Weblio辞書にはなかったけど、[goo辞書](https://dictionary.goo.ne.jp/word/en/trick/)には書いてあった
-    - ハットトリックとかあるから、馴染みのある意味だと思うけど
-- Now a quick little pull should do the trick.
-  - 「今すぐ軽くひっぱればうまくいきます」
-  - [do the trick](https://ejje.weblio.jp/content/do+the+trick)
-    - うまくいく、効く
-- Ooft
-  - ChatGPT:
-    - > 英語のスラングで「Ooft」という言葉は、驚きや感動、あるいは賞賛を表す時に使われることが多いです。例えば、誰かがとても美しい服を着ているときや、驚くべきニュースを聞いた時に「Ooft」と言って、その感情を表現することがあります。この言葉は非公式な会話やオンラインでよく見られ、特にイギリスやオーストラリアの若者の間で使われることがあります。
-- [relief](https://ejje.weblio.jp/content/relief), リ↑リーフ
-  - 名詞: 救助、救援
-- [pleasure](https://ejje.weblio.jp/content/pleasure), プ↑レジ(ャ|ュ)ァ
-  - 名詞: 喜び
-- [acquaintance](https://ejje.weblio.jp/content/acquaintance), アク(ア|ウェ)インタンス
-  - 名詞: 知人
-- Say, but I know you, don't I?
-  - [say](https://ejje.weblio.jp/content/say)
-    - 間投詞: ねえ、ちょっと
-    - 訳は「ねえ、でも、私はあなたのことを知ってるよね？」だと思うけど、しかし主人公は知らないはずだけどどういう意味だろう
-- [in a manner of speaking](https://ejje.weblio.jp/content/in+a+manner+of+speaking)
-  - いわば、ある意味では
-  - [manner](https://ejje.weblio.jp/content/manner) に「方法、態度」という意味があり、a manner of speaking は「言い回し」になる
-    - Ref. https://www.ihcway.com/1day/20160811214601.html
-- [as well](https://ejje.weblio.jp/content/as+well)
-  - 〜もまた、同様に
-    - 通常この意味のは文末においた時
-  - You were on the nautiloid as well.
-    - 訳は「あなたも戦艦にいたよね？」だと思うんだが、なんでGaleは知ってるんだろうか...
-- Then I can only assume you too were on the receiving end of a rather unwelcome insertion in the ocular region.
-  - only の意味 by ChatGPT:
-    - > この文脈においての "I can only assume" での "only" は、話者が限られた情報や状況に基づいて、特定の結論に至る以外に選択肢がないことを強調しています。つまり、話者がその結論に至るために利用可能なデータや証拠が限られているため、その結論を導く以外に合理的な解釈がないという意味です。ここでの "only" は、その推測や仮定が唯一の合理的な結論であるということを示しています。
-  - [rather](https://ejje.weblio.jp/content/rather)
-    - 副詞: かなり
-      - very, pretty, quite, fairly などと同じように程度を表す意味
-      - Ref: https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
-        - > （好ましくない）かなり
-  - [receiving end](https://ejje.weblio.jp/content/receiving+end)
-    - 名詞: 受信するもの、受信者
-  - [ocular](https://ejje.weblio.jp/content/ocular), (ア|オ)↑ーキュ(ラ|ル)ァ
-    - 形容詞: 目の、視覚の
-    - Oculus VR
-  - a rather unwelcome insertion in the ocular region
-    - 頭の中に入っている寄生体のこと
-    - ocular region は「視覚の範囲内」みたいな意味に読めるが、どっちかというと目の中ってよりは頭の中な気はする？
-  - assume は think とか suppose と同じように次に文が来る動詞だけど、なんか慣れなくて Then I can only assume you too まで読んで混乱するので、次はちゃんと把握したい
 - The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
   - we speak of の of は、think of の of みたいにより具体的な事象を指しそう
   - are you aware that ((after a period of excruciating gestation) it will turn us into mind flayers)? というように after ~ の文は副詞節、たぶん gestation と it の間にカンマが入っても良い
