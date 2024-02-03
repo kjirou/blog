@@ -282,26 +282,34 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [assure](https://ejje.weblio.jp/content/assure), ア↑・シュァ
     - 他動詞: 〜へ保証する
 - Gale: You don't happen to be a cleric, by any chance, do you? A doctor? Surgeon? Uncannily adroit with a knitting needle?
-- Shadowheart: You seem to know enough about our condition to realise it it beyond most clerics' skills.
+  - [happen](https://ejje.weblio.jp/content/happen), ハ↑ーペン
+    - 自動詞: たまたま何かする
+      - happen to Verb
+  - [by any chance](https://en.wiktionary.org/wiki/by_any_chance)
+    - 副詞: もしかして、ひょっとして
+    - = possibly, perhaps
+  - [surgeon](https://ejje.weblio.jp/content/surgeon), (サ|ス)ージェン
+    - 名詞: 外科医、軍医
+  - [uncannily](https://ejje.weblio.jp/content/uncannily)
+    - 副詞: 異様に
+    - [uncanny](https://en.wiktionary.org/wiki/uncanny), アン・キャニィ
+      - 形容詞: 異様な、不気味な、奇妙な
+  - [adroit](https://ejje.weblio.jp/content/adroit), ア・ドロイ
+    - 形容詞: 巧み
+  - [knitting needle](https://ejje.weblio.jp/content/knitting+needle)
+    - 編み針
+- Shadowheart: You seem to know enough about our condition to realise it is beyond most clerics' skills.
+- Gale: Most, no doubt. But I find myself hoping to be in the presence of the few. You don't happen to be one of them?
+- Tav: I was going to ask you the same question.
+- Gale: Then it looks like we're both starved for answers.
+- Gale: We're most certainly going to need a healer, and soon too. How about we lend each other a helping hand once more and look for a healer together?
+- Tav: Sounds like a plan. You're welcome to join me.
+- Gale: Most excellent. A parasite shared is a parasite halved. Or something to that effect.
+- Gale: Oh! but before you think you're about to embark on a journey with most illmannered a man: thank you for pulling me out of that stone.
+- Gale: It was an act of foresighted kindness I assure you, for I hae the feeling ample opportunities will present themselves for me to return the favour.
 
 ---
 
-- You don't happen to be a cleric, by any chance, do you?
-  - [happen](https://ejje.weblio.jp/content/happen), ハ↑ーペン
-    - 自動詞: S がたまたま to do する
-      - S happen to do
-  - [by any chance](https://ejje.weblio.jp/content/by+any+chance)
-    - ひょっとして
-    - ChatGPT:
-      - > この文脈における "by any chance" は、「もしかして」「ひょっとして」という意味で使われています。これは一種の丁寧な表現で、相手に確認を求める際に、推測や可能性が低いことを前提としています。したがって、"You don't happen to be a cleric, by any chance, do you?" というフレーズ全体では、話者が相手に対して非常に礼儀正しく、かつ控えめに、相手が聖職者である可能性について尋ねています。
-- [surgeon](https://ejje.weblio.jp/content/surgeon), (サ|ス)ージェン
-  - 名詞: 外科医、軍医
-- [uncannily](https://ejje.weblio.jp/content/uncannily)
-  - 副詞: 異様に
-- [adroit](https://ejje.weblio.jp/content/adroit), (ア|エ)↑ドロイ
-  - 形容詞: 巧み
-- [knitting needle](https://ejje.weblio.jp/content/knitting+needle)
-  - 編み針
 - [realise](https://ejje.weblio.jp/content/realise), ゥリ↑ィラァイ(ズ|ス)
   - 他動詞: 気づく
     - = [realize](https://ejje.weblio.jp/content/realize)
