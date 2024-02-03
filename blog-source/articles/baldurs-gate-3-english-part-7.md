@@ -299,9 +299,24 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [knitting needle](https://ejje.weblio.jp/content/knitting+needle)
     - 編み針
 - Shadowheart: You seem to know enough about our condition to realise it is beyond most clerics' skills.
+  - [beyond](https://ejje.weblio.jp/content/beyond), ビィヨンド
+    - 前置詞: 〜を超えて
+  - to realise it is beyond most clerics' skills はそれ以外の文全体を修飾している
+  - ChatGPT訳: 「私たちの状態について十分知っているようですね。それはほとんどの僧侶の技能を超えていることを。」
 - Gale: Most, no doubt. But I find myself hoping to be in the presence of the few. You don't happen to be one of them?
+  - [find](https://ejje.weblio.jp/content/find), ファインド
+    - 他動詞: 人が〜しているのを偶然見つける
+      - find O Verb-ing
+  - ChatGPT訳: 「確かに、ほとんどはそうでしょう。しかし、私は少数派の中にいることを願っています。あなたはその中の一人ではありませんか？」
 - Tav: I was going to ask you the same question.
+  - [ask](https://ejje.weblio.jp/content/ask), アースク
+    - 他動詞: 人に質問する
+      - ask O1(=人) O2
+  - 過去進行形に仮定の意味はない、ので直訳だと「質問していた」という事実を述べる形になる
 - Gale: Then it looks like we're both starved for answers.
+  - [starve](https://ejje.weblio.jp/content/starve), スターブ
+    - 自動詞: 切望する、飢える
+    - Assoc: Don't Starve Together
 - Gale: We're most certainly going to need a healer, and soon too. How about we lend each other a helping hand once more and look for a healer together?
 - Tav: Sounds like a plan. You're welcome to join me.
 - Gale: Most excellent. A parasite shared is a parasite halved. Or something to that effect.
@@ -310,22 +325,6 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
 
 ---
 
-- [realise](https://ejje.weblio.jp/content/realise), ゥリ↑ィラァイ(ズ|ス)
-  - 他動詞: 気づく
-    - = [realize](https://ejje.weblio.jp/content/realize)
-- Most, no doubt. But I find myself hoping to be in the presence of the few. You don't happen to be one of them?
-  - Shadowheartに「この状況を解決できる聖職者なんか滅多にいないのはあなたもわかってるでしょ」みたいな嫌味を言われている状況
-  - [most](https://ejje.weblio.jp/content/most), モウス(ト|ツ|)
-    - 形容詞: 最大多数の、ほとんどの
-  - Most, no doubt. は、「この状況を解決できる聖職者がほとんどいない」なのか「この状況でも助かる人はほとんどいない」なのかがわからない。多分後者だと思う。
-  - [find](https://ejje.weblio.jp/content/find)
-    - > 〔+目的語+doing〕〈自分が〉〈…しているのに〉気づく; (気がついてみると)〈…して〉いる.
-    - But I find myself hoping to be in the presence of the few. は「しかし、気がつくと私はその少ない存在であることを望んでいることに気づく」みたいな意味だろうか
-  - You don't happen to be one of them? は、いきなり話が変わって、また「お前はもしかして解決してくれる人じゃない？」ということを聞いていそう
-    - 次の答えで You である主人公が、I was going to ask you the same question. と返している
-- [starve](https://ejje.weblio.jp/content/starve), スタ↑ーブ
-  - 自動詞: 切望する、飢える
-    - Don't Starve Together
 - We're most certainly going to need a healer, and soon too.
   - [most](https://ejje.weblio.jp/content/most), モウス(ト|ツ|)
     - 副詞: 最も、いちばん
