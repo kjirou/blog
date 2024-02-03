@@ -304,6 +304,10 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - to realise it is beyond most clerics' skills はそれ以外の文全体を修飾している
   - ChatGPT訳: 「私たちの状態について十分知っているようですね。それはほとんどの僧侶の技能を超えていることを。」
 - Gale: Most, no doubt. But I find myself hoping to be in the presence of the few. You don't happen to be one of them?
+  - [most](https://en.wiktionary.org/wiki/most#Adjective), モウスト
+    - 形容詞: グループの大多数の、ほとんどの
+  - Most, no doubt.
+    - Most が副詞のように見えるが、副詞の most に「グループの大多数の」という意味はない
   - [find](https://ejje.weblio.jp/content/find), ファインド
     - 他動詞: 人が〜しているのを偶然見つける
       - find O Verb-ing
@@ -318,49 +322,58 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 自動詞: 切望する、飢える
     - Assoc: Don't Starve Together
 - Gale: We're most certainly going to need a healer, and soon too. How about we lend each other a helping hand once more and look for a healer together?
+  - [most](https://en.wiktionary.org/wiki/most#Adverb), モウスト
+    - 副詞: かなりの程度または度合い
+      - = very, highly
+  - [certainly](https://ejje.weblio.jp/content/certainly), スァ↑ーテンリィ
+    - 副詞: 確実に、きっと間違いなく
+  - most certainly
+    - certainly 単体よりも強い確信度を表している
+  - [lend](https://ejje.weblio.jp/content/lend), ゥレ↑ン
+    - 他動詞: 〜を貸す
+      - lend O1(=貸す先) O2(=貸すもの)
+  - [helping hand](https://ejje.weblio.jp/content/helping+hand)
+    - 名詞: 助力、援助の手
+  - a helping hand once more
+    - once more は、さっき助けたことからもう一度、ということを言っていそう
+  - [how about](https://en.wiktionary.org/wiki/how_about)
+    - = what about
+    - [what about](https://en.wiktionary.org/wiki/what_about)
+      - 副詞: 提案をするときに使う
+        - 〜はいかがですか？、〜はどうお考えですか？
+  - ChatGPT: 「間違いなくヒーラーが必要になるだろうし、それもすぐにね。もう一度手を組んで一緒にヒーラーを探すのはどう？」
 - Tav: Sounds like a plan. You're welcome to join me.
+  - [sounds like a plan](https://en.wiktionary.org/wiki/sounds_like_a_plan)
+    - イディオム: 提案への同意を示す
+    - 「計画か否かわからない提案に対して計画だと認める」というロジックで肯定の意味を含むよう
+  - ChatGPT訳: 「いいね。一緒に行くことにするよ。」
 - Gale: Most excellent. A parasite shared is a parasite halved. Or something to that effect.
+  - [excellent](https://ejje.weblio.jp/content/excellent), エ↑ク(セ|ソ)レント
+    - 間投詞: よろしい、けっこう
+      - 形容詞だと「優秀な」
+  - A parasite shared is a parasite halved.
+    - ことわざをもじったもの
+    - [a problem shared is a problem halved](https://en.wiktionary.org/wiki/a_problem_shared_is_a_problem_halved)
+      - ことわざ: 問題は多くの人で議論されると解決しやすくなる
+      - [halve](https://ejje.weblio.jp/content/halve), ヘァーブ
+        - 他動詞: 二等分する
+  - [to that effect](https://en.wiktionary.org/wiki/to_that_effect)
+    - = to the effect
+    - [to the effect](https://en.wiktionary.org/wiki/to_the_effect)
+      - 前置詞: そのような意味の
+  - ChatGPT訳: 「最高です。共有された寄生虫は、寄生虫を半分にする。または、そのような効果です。」
 - Gale: Oh! but before you think you're about to embark on a journey with most illmannered a man: thank you for pulling me out of that stone.
+  - [be about to do](https://ejje.weblio.jp/content/be+about+to+do)
+    - イディオム: まさに〜しようとしている
+    - この about の品詞は何か不明。ChatGPTは副詞と言い、Weblio辞書の [about](https://ejje.weblio.jp/content/about) は叙述的用法の形容詞と言っている。
+  - [embark](https://ejje.weblio.jp/content/embark), エンヴ↑ァーク
+    - 自動詞: 新しいことや難事業などに乗り出す・従事する
+  - [illmannered](https://ejje.weblio.jp/content/illmannered), イルゥ(マ|メ)ナァ
+    - 形容詞: 無作法な、失礼な
 - Gale: It was an act of foresighted kindness I assure you, for I hae the feeling ample opportunities will present themselves for me to return the favour.
 
 ---
 
-- We're most certainly going to need a healer, and soon too.
-  - [most](https://ejje.weblio.jp/content/most), モウス(ト|ツ|)
-    - 副詞: 最も、いちばん
-      - > 副詞の場合には the をつけないことも多い
-  - [certainly](https://ejje.weblio.jp/content/certainly), (ス|サ)↑ー(タ|テ)ンリィ
-    - 副詞: 確実に、きっと間違いなく
-  - and soon too は、"We're most 1(certainly) 2(going to need a healer), and 1(soon) 2(too)." こういう対応関係である
-    - 「癒し手が最も確実に必要になる」and「癒し手が最もすぐに必要になる」
-- [how about](https://ejje.weblio.jp/content/how+about)
-  - 〜はいかがですか？
-    - How about 〜 ?
-- [lend](https://ejje.weblio.jp/content/lend), ゥレ↑ン
-  - 他動詞: S が O1 へ O2 を貸す
-    - S lend O1 O2
-- [helping hand](https://ejje.weblio.jp/content/helping+hand)
-  - 助力、援助の手
-- Sounds like a plan.
-  - ChatGPT:
-    - > 「それはいい考えのようだ。」または「そうしましょう。」となります。
-  - sounds like は「〜のように聞こえる、思える」というだけで、そこに良し悪しの意味はふくまれてないはず。そうなると a plan に「良い」という意味が含まれているということになるが、この機微がわからん。
-  - 成句としても認識されてそう: https://hapaeikaiwa.com/blog/2023/10/20/%E3%80%8Csounds-like-a-plan%E3%80%8D%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%86%E3%81%84%E3%81%86%E6%84%8F%E5%91%B3%EF%BC%9F/
-- [excellent](https://ejje.weblio.jp/content/excellent), エ↑ク(セ|ソ)レン(ト|)
-  - 間投詞: よろしい、けっこう
-    - 形容詞だと「優秀な」
-- A parasite shared is a parasite halved. Or something to that effect.
-  - 前半は、英語のことわざの [a problem shared is a problem halved](https://childenglishconv.main-path.com/meaning-of-a-problem-shared-is-a-problem-halved) の言い換え
-    - [halve](https://ejje.weblio.jp/content/halve), ヘァーブ
-      - 他動詞: 二等分する
-  - [to that effect](https://ejje.weblio.jp/content/to+that+effect)
-    - 同じ趣旨の
-    - ChatGPT:
-      - > "to that effect" は英語のフレーズで、何かが言われたり示されたりした意図や影響を指しています。直訳すると「その効果に」となりますが、実際には「その趣旨の」「その意味合いの」というニュアンスで使われます。つまり、話されている内容と同じかそれに近い意味のことを指していることを示します。例えば、誰かが特定の提案をしたとき、「Or something to that effect.」と言うと、「またはそのような趣旨のこと」という意味になり、提案された内容と似たようなことを指していることを示します。
-- [embark](https://ejje.weblio.jp/content/embark), エンヴ↑ァー(ク|)
-  - 自動詞: 〔新しいこと・難事業などに〕乗り出す，従事する
-- [illmannered](https://ejje.weblio.jp/content/illmannered), イ(ル|ウ)(マ|メ)ナォ
-  - 形容詞: 無作法な、失礼な
 - It was an act of foresighted kindness I assure you, for I have the feeling ample opportunities will present themselves for me to return the favour.
   - [foresighted](https://ejje.weblio.jp/content/foresighted), フォオ(シ|スィ)↑ーテッ
     - 形容詞: 先見の明がある
