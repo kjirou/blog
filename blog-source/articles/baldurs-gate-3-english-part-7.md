@@ -370,29 +370,30 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 自動詞: 新しいことや難事業などに乗り出す・従事する
   - [illmannered](https://ejje.weblio.jp/content/illmannered), イルゥ(マ|メ)ナァ
     - 形容詞: 無作法な、失礼な
-- Gale: It was an act of foresighted kindness I assure you, for I hae the feeling ample opportunities will present themselves for me to return the favour.
-
----
-
-- It was an act of foresighted kindness I assure you, for I have the feeling ample opportunities will present themselves for me to return the favour.
-  - [foresighted](https://ejje.weblio.jp/content/foresighted), フォオ(シ|スィ)↑ーテッ
+- Gale: It was an act of foresighted kindness I assure you, for I have the feeling ample opportunities will present themselves for me to return the favour.
+  - [act](https://ejje.weblio.jp/content/act), アァクト
+    - 名詞: 行為、行動、行い
+  - [foresighted](https://ejje.weblio.jp/content/foresighted), フォオスィ↑ーテッ
     - 形容詞: 先見の明がある
-    - [foresight](https://ejje.weblio.jp/content/foresight), フ↑ォオサイ
+    - [foresight](https://ejje.weblio.jp/content/foresight), フォオサイ
       - 名詞: 先見の明
-      - アクセントと後半の発音が形容詞と異なる
+  - [kindness](https://ejje.weblio.jp/content/kindness), カインドゥネス
+    - 名詞: 親切、優しさ、親切な行為
   - [ample](https://ejje.weblio.jp/content/ample), エンポォ
-    - 形容詞: (余るほど)十分な
-  - [present](https://ejje.weblio.jp/content/present), プ↑(レ|エ)ゼン(ト|ツ|)
+    - 形容詞: 余るほど十分な
+  - [opportunity](https://ejje.weblio.jp/content/opportunity), (オ|ア)ポチュニティ
+    - 名詞: 適切な機会、好機
+  - [for](https://ejje.weblio.jp/content/for), フォーア
+    - 接続詞: 前文に対する付加的な説明や理由を述べる
+      - 通常 , for とカンマが前に入る
+  - I have (the feeling (ample opportunities will present ...))
+  - [present](https://ejje.weblio.jp/content/present), プレゼント
     - 他動詞: 贈る、贈呈する
     - 形容詞で「今の」、名詞で「今」という意味もある。コアイメージは「存在している」「人の前に差し出す」。
-      - 名詞としては、[presence](https://ejje.weblio.jp/content/presence) と混乱する
-  - [favour](https://ejje.weblio.jp/content/favour), フ↑ェイヴァ
-  - 前半は「あなたの行為が先見の明のある親切だったことを私が保証しましょう」だと思う、後半の for I have ... 以降が難しい
-    - ChatGPT:
-      - > 「それは先見の明のある親切な行為でした、私は確信しています。なぜなら、その恩を返すための十分な機会が自分にも差し出されるだろうという感じがするからです。」
-  - I have (the feeling (ample opportunities will present themselves for me to return the favour))
-    - ample opportunities 自身が present の目的語として再帰代名詞 themselves にしている意味がわからん
-      - ChatGPTに聞いてみると、より ample opportunities が自発的に生まれる意味になるとのこと。
-      - たぶん、例えば、the journey will present ample opportunities とかだと提供元の主語が決まって意味がはっきりしてしまうので、それより先々に何が起こるかわからない感を出したかったのかもしれない
-- Galeは軽口を叩くタイプなので、Astarionよりもさらに大変だった。お前もうしゃべるな！
-  - キャラは好きだが
+  - [favour](https://ejje.weblio.jp/content/favour), フェイバ
+    - 名詞: 好意
+    - = favor
+  - ample opportunities will present themselves for me
+    - ample opportunities 自身が自身を差し出すという構造により、人の意思や推測ではない側面が強調され、より予言や運命じみた意味合いになっている
+  - ChatGPT訳: 「それは先見の明ある親切だったと保証します。私には、その恩を返す十分な機会が巡ってくるという感じがします。」
+  - Galeは軽口を叩くタイプなので、Astarionよりもさらに大変だった。お前しばらく話すな！
