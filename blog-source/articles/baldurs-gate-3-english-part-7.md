@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-7
-lastUpdatedAt: "2024-01-01 08:23:50+0000"
+lastUpdatedAt: "2024-02-04 01:45:51+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 7冊目
@@ -58,7 +58,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
 - \*It's possessing your mind, forcing you to... love it.\*
   - [possess](https://ejje.weblio.jp/content/possess), (ポ|パ)ゼェス
     - 他動詞: 考えや感情などが〜へ取り憑く、〜を所有する
-      - possess O to Verb
+      - possess O
 - \*But then the feeling slips. The creature's mind seems to focus elsewhere.\*
   - [slip](https://ejje.weblio.jp/content/slip), スリィップ
     - 自動詞: さっと消える、滑る、滑り落ちる
@@ -98,6 +98,8 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [very](https://ejje.weblio.jp/content/very), ベリィ
     - 形容詞: まさしくその、ちょうどその
       - the, this, that, 所有格人称代名詞 を伴って名詞を修飾する
+  - with your very body you can provide
+    - with の前置詞句が強調のために前に出ている形
   - ChatGPT訳: 「生き延びるためには栄養が必要で、あなた自身の身体でそれを供給できます。」
   - この文章も文章だけ見ると唐突でおかしい、状況は忘れた
 - Tav: _Resist the intrusion with everything you have._
@@ -136,6 +138,8 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 自動詞: 渦を巻く、ふらふらする
   - [erratically](https://en.wiktionary.org/wiki/erratically)
     - 副詞: でたらめに、不規則に
+    - [erratic](https://en.wiktionary.org/wiki/erratic#Adjective), エラティック
+      - 形容詞: 不安定でランダムな、予期できないような
   - [as if](https://ejje.weblio.jp/content/as+if)
     - まるで〜であるかのように
   - [malfunction](https://ejje.weblio.jp/content/malfunction), マウ・ファンクシ(ョ|ェ)ン
@@ -312,6 +316,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 他動詞: 人が〜しているのを偶然見つける
       - find O Verb-ing
   - ChatGPT訳: 「確かに、ほとんどはそうでしょう。しかし、私は少数派の中にいることを願っています。あなたはその中の一人ではありませんか？」
+  - Most, no doubt が「自分が非常に幸運である可能性が低いこと」を指すのか「ほとんどの Cleric がそのような技能を有しないこと」を指すのかがわからない
 - Tav: I was going to ask you the same question.
   - [ask](https://ejje.weblio.jp/content/ask), アースク
     - 他動詞: 人に質問する
