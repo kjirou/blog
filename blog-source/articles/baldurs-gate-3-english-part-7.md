@@ -1,312 +1,404 @@
 ---
 publicId: baldurs-gate-3-english-part-7
-lastUpdatedAt: "2024-01-01 08:23:50+0000"
+lastUpdatedAt: "2024-02-04 01:45:51+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 7冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- 前回に引き続き、Avernusを探索中
 
 ## 本編
 
 ### 20, Eliasis - 12:44 - 主人公
 
-- [approach](https://ejje.weblio.jp/content/approach), ア↑プロォチ
-  - 他動詞: (場所的・時間的に)(…に)近づく
-- [dying](https://ejje.weblio.jp/content/dying), ダ↑ァイイン
-  - 形容詞: 死にかかっている、瀕死状態の
-  - [die](https://ejje.weblio.jp/content/die)
+Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見した
+
+- \*You approach the dying monster. This is the thing that abducted you.\*
+  - [approach](https://ejje.weblio.jp/content/approach), アプロォチ
+    - 他動詞: 場所的・時間的に〜へ近づく
+  - [die](https://ejje.weblio.jp/content/die), ダァイ
     - 自動詞: 死ぬ、消える
-- [abduct](https://ejje.weblio.jp/content/abduct), ア↑ブタク(ツ|ッ)
-  - 他動詞: (暴力・策略で)誘拐する
-- [compassion](https://ejje.weblio.jp/content/compassion), (コ|カ)ンパ↑ァッショ(ン|)
-  - 名詞: (切実な)同情(心)、哀れみ
-  - [concussion](https://ejje.weblio.jp/content/concussion)（震動）と間違えた
-- [furious](https://ejje.weblio.jp/content/furious), ヒ↑ュリアス
-  - 形容詞: 怒り狂った、猛烈に怒って
-  - [fury](https://ejje.weblio.jp/content/fury)
-    - 名詞: 激怒
-    - Ultima OnlineにDivine FuryというChivalryスキルの魔法があったっけ
-- [deserve](https://ejje.weblio.jp/content/deserve)
-  - 他動詞: 〜する価値がある
-    - deserve to do の形で
-- [punish](https://ejje.weblio.jp/content/punish), パ↑ニッシュ
-  - 他動詞: 罰を与える
-- And you deserve to be punished for it.
-  - 主人公を誘拐したMind Flayerが瀕死で倒れていたので、それに近寄って止めを刺そうとしている状況
-  - 直訳すると「あなたはそれに対して罰を受けるべきだ」になりそう（ChatGPTやDeepL翻訳も同じ答え）なんだけど、状況からして「相手は罰を受けるべきだ」になりそうでわからん
-  - なお、相手に対して親愛の情を感じさせる精神攻撃を受けつつなので、状況が複雑だが
-- [whip](https://ejje.weblio.jp/content/whip), ウィッ
-  - 他動詞: むち打つ、折檻する、直させる、厳しく教え込む
-- [bow](https://ejje.weblio.jp/content/bow), バァウ
-- [possess](https://ejje.weblio.jp/content/possess), (ポ|パ)ゼェス
-  - 他動詞: 〜へ取りついてさせる
-    - possess O to do
-- [slip](https://ejje.weblio.jp/content/slip), スリィ(プ|)
-  - 自動詞: さっと消える、滑る、滑り落ちる
-- [elsewhere](https://ejje.weblio.jp/content/elsewhere), (イ|エ)↑ルスウ(ェ|ァ)
-  - 副詞: どこかよそに
-- But then the feeling slips. The creature's mind seems to focus elsewhere.
-  - Mind Flayerの精神攻撃の集中が切れた状況に読めるんだけど、何があったんだっけ、忘れた...
-- [fuse](https://ejje.weblio.jp/content/fuse), (フ|ヒ)ューズ
-  - 自動詞: 融合する、溶解する
-- [lust](https://ejje.weblio.jp/content/lust), ゥラ↑ス(ト|)
-  - 自動詞: 切望する、渇望する
-- Your minds fuse, lusting for something that is... gone.
-  - 「あなたの精神が溶け出し、失ったものを渇望している」
-  - fuse の機微がわからん、または日本語でも意味がわからないかもしれない
-  - 心情描写の文章は難しい
-- [claw back](https://ejje.weblio.jp/content/claw+back)
-  - 他動詞: (苦労して)(…を)取り戻す
-- [vengeance](https://ejje.weblio.jp/content/vengeance), ベ↑ンジェンス
-  - 名詞: 復讐、復讐の行為、報復、仕返し
-- [vice](https://ejje.weblio.jp/content/vice), (バ|ヴァ)イス
-  - 名詞: 悪、悪徳、邪悪、不道徳行為、悪習、悪癖
-- [obedience](https://ejje.weblio.jp/content/obedience), オヴ↑ィーディエンス
-  - 名詞: 服従、従順
-- But then its grip claws back with a vengeance: a vice locking your mind into obedience.
-  - 全くわからん
-  - 「しかしその後、その grip は vengeance を取り戻す: 心を服従させる悪」
-  - a vengeance = a vice locking your mind into obedience のはず
-  - grip はMind Flayerによる精神攻撃行為を意味していて、a vengeance は主人公側が抵抗したことへの報復を言っている？
-  - でも前後の文脈上、ここは主人公が反撃しつつあることを表現している気がする...
-- [sustenance](https://ejje.weblio.jp/content/sustenance), サ↑ステ(ナ|ヌ)ンス
-  - 名詞: 生命を維持するもの、栄養、維持、耐久、持続
-- It needs sustenance to survive, and with your very body you can provide.
-  - your very body の very は「まさに」という強調
-  - sustenance to survive の sustenance と survive は意味が被ってる気がするんだけど、機微がわからない
-- [intrusion](https://ejje.weblio.jp/content/intrusion), イン(トゥ|チュ)ルージ(ェ|ョ)ン
-  - 名詞: 侵入
-- [exhausted](https://ejje.weblio.jp/content/exhausted), (イ|エ)クゾ↑ゥステッ
-  - 形容詞: 消耗した、疲れ切った
-- [radiate](https://ejje.weblio.jp/content/radiate), ゥ(ラ|リ)ディエィ(ト|)
-  - 他動詞: 放射する、撒き散らす
-  - [radiation](https://ejje.weblio.jp/content/radiation)
-    - 名詞: 放射能、放熱
-- [malice](https://ejje.weblio.jp/content/malice), マ↑(リ|ル)ス
-  - 名詞: 悪意、敵意
-- とにかくこの文章が一式でわからなかったので、今度誰かに聞こう
-  - ```
-    *Your minds fuse, lusting for something that is... gone.*
-    *But then its grip claws back with a vengeance: a vice locking your mind into obedience.*
-    *It needs sustenance to survive, and with your very body you can provide.*
-    ```
+  - [abduct](https://ejje.weblio.jp/content/abduct), ア↑ブタク(ト|ツ)
+    - 他動詞: 暴力や策略で誘拐する
+- \*You could end its life here and now, if only you didn't feel...\*
+- \*Compassion.\*
+  - [compassion](https://ejje.weblio.jp/content/compassion), (コ|カ)ンパ↑ァッション
+    - 名詞: 切実な同情心、哀れみ
+- \*Compassion?\*
+- Tav: _No. You should be furious... shouldn't you?_
+  - [furious](https://ejje.weblio.jp/content/furious), ヒュリアス
+    - 形容詞: 怒り狂った、猛烈に怒って
+- \*Yes, you feel hate. And you deserve to be punished for it.\*
+  - [feel](https://ejje.weblio.jp/content/feel), フィィルゥ
+    - 他動詞: 〜を感じる
+      - 肉体的・心理的なものどちらも
+  - [hate](https://ejje.weblio.jp/content/hate), ヘ↑イト
+    - 名詞: 憎しみ、憎悪
+  - [deserve](https://ejje.weblio.jp/content/deserve), デ・ザーヴ
+    - 他動詞: 〜する価値がある、〜を受けるに足る
+      - deserve to Verb
+  - [punish](https://ejje.weblio.jp/content/punish), パニッシュ
+    - 他動詞: 〜へ罰を与える
+  - for it の it は、 you feel hate のことを指す
+  - ChatGPT訳: 「はい、あなたは憎しみを感じています。そしてそのために罰を受けるべきです。」
+  - 既にこの時点からTavは精神攻撃を受けている
+- \*You should be whipped - made to bow before this creature in shame!\*
+  - [whip](https://ejje.weblio.jp/content/whip), ウィッ
+    - 他動詞: むち打つ、折檻する、直させる、厳しく教え込む
+  - [make](https://ejje.weblio.jp/content/make), メ↑ィク
+    - 他動詞: Oへ強制的にVerbをさせる
+      - make O Verb原形
+  - [bow](https://ejje.weblio.jp/content/bow), バァウ
+    - 自動詞: 挨拶・服従・礼拝などのために腰をかがめる
+  - You should be (whipped) - (made to bow ...) のこれらの部分が等位の関係、両方ともに受動態である
+  - make O Verb原形 が make O to不定詞 になっているのは、受動態の使役動詞のときにはto不定詞を使うルールがあるため
+    - Ref. https://kou.benesse.co.jp/nigate/english/a13e1103.html
+  - ChatGPT訳: 「あなたは鞭打たれるべきです - この生き物の前で恥を感じながら頭を垂れるべきです。」
+- \*It's possessing your mind, forcing you to... love it.\*
+  - [possess](https://ejje.weblio.jp/content/possess), (ポ|パ)ゼェス
+    - 他動詞: 考えや感情などが〜へ取り憑く、〜を所有する
+      - possess O
+- \*But then the feeling slips. The creature's mind seems to focus elsewhere.\*
+  - [slip](https://ejje.weblio.jp/content/slip), スリィップ
+    - 自動詞: さっと消える、滑る、滑り落ちる
+  - [elsewhere](https://ejje.weblio.jp/content/elsewhere), エルスウェァ
+    - 副詞: どこかよそに
+  - Mind Flayerの精神攻撃の集中が切れた状況に読めるが、状況を忘れた
+- Tav: _Concentrate on its thoughts._
+  - [concentrate](https://ejje.weblio.jp/content/concentrate), コンセントレィ
+    - 自動詞: 全力を注ぐ、集中する
+      - on, upon, at, in を伴う
+- Intelligence Successful: Tav
+- \*Your minds fuse, lusting for something that is... gone.\*
+  - [fuse](https://ejje.weblio.jp/content/fuse), フィユーズ
+    - 自動詞: 融合する、溶解する
+  - [lust](https://ejje.weblio.jp/content/lust), ゥラ↑スト
+    - 自動詞: 切望する、渇望する
+  - ChatGPT訳: 「あなたの心は融合し、なくなってしまった何かを切望しています。」
+- \*But then its grip claws back with a vengeance: a vice locking your mind into obedience.\*
+  - [claw back](https://en.wiktionary.org/wiki/claw_back)
+    - 他動詞: 非常に苦労をして失った何かを取り戻す
+  - [vengeance](https://ejje.weblio.jp/content/vengeance), ベ↑ンジェンス
+    - 名詞: 復讐、復讐の行為、報復、仕返し
+  - [vice](https://ejje.weblio.jp/content/vice), (バ|ヴァ)イス
+    - 名詞: 邪悪、不道徳行為
+  - [obedience](https://ejje.weblio.jp/content/obedience), オヴ↑ィーディエンス
+    - 名詞: 服従、従順
+  - ChatGPT訳: 「しかし、それが復讐と共に猛烈に掴み返します：あなたの心を服従へと締め付けるバイス。」
+  - claws back の目的語がない？
+    - claw back は他動詞としての用法しかなさそう、つまり目的語が省略されているか a vice がそれに相当するかの二択
+    - ChatGPTは、 :a vice ... 以降は前文の結果どうなったかを意味し、 claws back の目的語は省略されていると言っていた
+    - 個人的には claw back の目的語が a vice の方が文脈上正しい意味になりそうに思っている
+      - its grip=Mind Flayerの精神攻撃が、 a vice locking your mind into obedience=服従を強いる邪悪を、 claws back with a vengeance=復讐と共に取り戻す
+  - 結論としては、文の意味はわからなかった
+- \*It needs sustenance to survive, and with your very body you can provide.\*
+  - [sustenance](https://ejje.weblio.jp/content/sustenance), サ↑ステナンス
+    - 名詞: 生命を維持するもの、栄養、維持、耐久、持続
+  - [very](https://ejje.weblio.jp/content/very), ベリィ
+    - 形容詞: まさしくその、ちょうどその
+      - the, this, that, 所有格人称代名詞 を伴って名詞を修飾する
+  - with your very body you can provide
+    - with の前置詞句が強調のために前に出ている形
+  - ChatGPT訳: 「生き延びるためには栄養が必要で、あなた自身の身体でそれを供給できます。」
+  - この文章も文章だけ見ると唐突でおかしい、状況は忘れた
+- Tav: _Resist the intrusion with everything you have._
+  - [resist](https://ejje.weblio.jp/content/resist), ゥリジェスト
+    - 他動詞: 〜へ抵抗する・反抗する
+  - [intrusion](https://ejje.weblio.jp/content/intrusion), イントルゥージョン
+    - 名詞: 侵入
+- Wisdom Successful: Tav
+- \*The monster lies exhausted, defeated. Its eyes - wet, orange pearls - radiate malice.\*
+  - [exhausted](https://ejje.weblio.jp/content/exhausted), エクゾ↑ゥステッド
+    - 形容詞: 消耗した、疲れ切った
+  - [defeat](https://ejje.weblio.jp/content/defeat), ディ・フィート
+    - 他動詞: 敵や相手を破る・負かす
+  - defeated は受動態の過去分詞の分詞構文、その時は S と V を省略できる
+  - [wet](https://ejje.weblio.jp/content/wet), ウェット
+    - 形容詞: ぬれた、湿った
+  - [radiate](https://ejje.weblio.jp/content/radiate), ゥリディエィト
+    - 他動詞: 放射する、撒き散らす
+    - ゲームでよく出てくる「放射能」を意味する RAD は、これの名詞形 [radiation](https://ejje.weblio.jp/content/radiation) の略
+  - [malice](https://ejje.weblio.jp/content/malice), マ↑(リ|ル)ス
+    - 名詞: 悪意、敵意
+  - ChatGPT訳: 「モンスターは疲れ果てて、敗れた。その目は—濡れた、オレンジ色の真珠のように—悪意を放っている。」
+- Tav: _Close those eyes forever._
+  - 判定に失敗してたらどうなってたんだろうか
 
-### 20, Eliasis - 14:35 - 主人公, Gale, Shadowheart
+### 20, Eliasis - 14:35 - Tav, Gale, Shadowheart
 
-- [sigil](https://ejje.weblio.jp/content/sigil), ス↑ィジョォ
-  - 名詞: 主に西洋魔術で使われる図形、記号、紋章、線形
-- [glitter](https://ejje.weblio.jp/content/glitter), グ↑リラァ
-  - 自動詞: ぴかぴか光る
-- [swirl](https://ejje.weblio.jp/content/swirl), スワー(ァ|ォ)
-  - 自動詞: 渦を巻く、ふらふらする
-- [erratically](https://ejje.weblio.jp/content/erratically)
-  - 副詞: でたらめに、不規則に
-- [as if](https://ejje.weblio.jp/content/as+if)
-  - まるで〜であるかのように
-- [malfunction](https://ejje.weblio.jp/content/malfunction), (マ|エ)↑ル・ファンクシ(ョ|ェ)ン
-  - 自動詞: 〈臓器・機械などが〉正常に働かない，動かない
-  - 名詞で、機能不全、故障、という意味もある
-- [slightly](https://ejje.weblio.jp/content/slightly), ス↑ライトリィ
-  - 副詞: わずかに、少し、細く、きゃしゃに
-  - 真逆の意味だと誤解してたんだけどなんでだろう... 似てる字面で違う意味の単語も思い出せないし
-- [stuck](https://ejje.weblio.jp/content/stuck), スタ↑ァック
-  - stick の過去形・過去分詞形
-  - [stick](https://ejje.weblio.jp/content/stick)
-    - > 〔+目的語(+副詞(句))〕〈…を〉(…に)はまり込ませる，行き詰まらせる; 動けなくする 《★通例過去分詞で形容詞的に用いる; ⇒stuck 形容詞 1a,c》.
-- Just your average traveller stuck between realms.
-  - 不思議なワープゲートみたいなところから手が出て、主人公がそれを引き上げてる最中という状況
-  - stuck は形容詞で、「領域の間に挟まっているただの旅行者だよ」になりそう
-    - 領域(realms)というのは、ワープゲートの両側を指しそう
-  - your は、親愛の情というか軽口というかそういう言い回しみたい
-    - ChatGPT:
-      - > この文脈において、"your" は読者または話を聞いている人に直接話しかける形で使用されています。ここでは、"your average traveller" というフレーズで、「あなたの典型的な旅行者」または「普通の旅行者」という意味で使われており、聞き手に対する親しみや共感を表現している可能性があります。つまり、"your" は具体的な個人を指しているのではなく、一般的な「あなた」や「誰でも」を意味する使い方として使われているのです。
-- [properly](https://ejje.weblio.jp/content/properly), (パ|プ)ロパリィ
-  - 副詞: 適切に、ほどよく、礼儀正しく
-- we'll get properly introduced
-  - （お互いに）きちんと（自己）紹介しましょう
-  - 成句ではないが、よく使われる言い回し
-- [keen](https://ejje.weblio.jp/content/keen)
-  - 形容詞: 鋭い、頭の切れる
-- [sabotage](https://ejje.weblio.jp/content/sabotage), サ↑ァボタージュ
-  - 他動詞: 妨害する
-- With a keen, but calculated twist, you attempt to sabotage the sigil.
-  - その不思議なゲートから、主人公が手を出しているGaleを引き上げようとしている状況
-  - 「鋭くしかし計算されたひねりで、あなたはその sigil を妨害しようと試みる」
-  - calculated twist ってなんだろう
-- [whatever](https://ejje.weblio.jp/content/whatever), ワトエヴァー
-  - > (…する)ものは何でも、(…する)ものは皆、どんなことが…でも、いかに…でも、一体何が、全体何を
-  - イマイチわからなかったので、 https://nativecamp.net/blog/20210923english_whatever を読んだ
-  - とりあえずは代名詞で anything と同じように、「なんでも」「なんであっても」のよう
-- [wonder](https://ejje.weblio.jp/content/wonder), ウォンダー
-  - 名詞: 奇跡、驚くべきこと
-- Whatever you're doing, it's working wonders!
-  - 「君がなにをしてようが、それは驚くべき成果を発揮している！」という意味だと思う
-  - 前半はいいんだけど、後半が難しい
-    - [work](https://ejje.weblio.jp/content/work) を「影響がある」「ききめがある」「（作用として）働く」という意味で使うときは自動詞である
-    - それであるなら、次に続く単語は、通常は副詞か補語としての形容詞だが、wonders は名詞である
-    - わけがわからん、というところで、完全自動詞・不完全自動詞という概念を知った
-      - Ref. https://www.keiko.work/entry/2022/08/07/143000
-    - にしても、まだ自動詞の補語として名詞が入るのが謎だが、そういうこともあるらしい...?
-      - Ref. https://eigo-4989.hatenablog.com/entry/2020/12/29/182143
-    - 結局わからんのだが、be 動詞のときは補語に名詞が入るのは普通なので、不完全自動詞が be 動詞的な性質に近いのだとすれば、補語に名詞が入るのも変ではなさそう？
-    - [working wonders](https://ejje.weblio.jp/content/working+wonders): 「素晴らしい結果を収めること」「大変有益な効果があること」という成句としても存在した
-- [trick](https://ejje.weblio.jp/content/trick), (ト|チョ)リッ(ク|)
-  - 名詞: 妙技
-    - Weblio辞書にはなかったけど、[goo辞書](https://dictionary.goo.ne.jp/word/en/trick/)には書いてあった
-    - ハットトリックとかあるから、馴染みのある意味だと思うけど
-- Now a quick little pull should do the trick.
-  - 「今すぐ軽くひっぱればうまくいきます」
-  - [do the trick](https://ejje.weblio.jp/content/do+the+trick)
-    - うまくいく、効く
-- Ooft
-  - ChatGPT:
-    - > 英語のスラングで「Ooft」という言葉は、驚きや感動、あるいは賞賛を表す時に使われることが多いです。例えば、誰かがとても美しい服を着ているときや、驚くべきニュースを聞いた時に「Ooft」と言って、その感情を表現することがあります。この言葉は非公式な会話やオンラインでよく見られ、特にイギリスやオーストラリアの若者の間で使われることがあります。
-- [relief](https://ejje.weblio.jp/content/relief), リ↑リーフ
-  - 名詞: 救助、救援
-- [pleasure](https://ejje.weblio.jp/content/pleasure), プ↑レジ(ャ|ュ)ァ
-  - 名詞: 喜び
-- [acquaintance](https://ejje.weblio.jp/content/acquaintance), アク(ア|ウェ)インタンス
-  - 名詞: 知人
-- Say, but I know you, don't I?
-  - [say](https://ejje.weblio.jp/content/say)
+奇妙な魔法的なワームホールのようなものを見つけた
+
+- \*You approach the sigil on the stone. Magic glitters and swirls from it erratically, as if malfunctioning. It looks slightly dangerous.\*
+  - [sigil](https://ejje.weblio.jp/content/sigil), ス↑ィジョォ
+    - 名詞: 主に西洋魔術で使われる図形、記号、紋章、線形
+  - [glitter](https://ejje.weblio.jp/content/glitter), グ↑リラァ
+    - 自動詞: ぴかぴか光る
+  - [swirl](https://ejje.weblio.jp/content/swirl), スワァォ
+    - 自動詞: 渦を巻く、ふらふらする
+  - [erratically](https://en.wiktionary.org/wiki/erratically)
+    - 副詞: でたらめに、不規則に
+    - [erratic](https://en.wiktionary.org/wiki/erratic#Adjective), エラティック
+      - 形容詞: 不安定でランダムな、予期できないような
+  - [as if](https://ejje.weblio.jp/content/as+if)
+    - まるで〜であるかのように
+  - [malfunction](https://ejje.weblio.jp/content/malfunction), マウ・ファンクシ(ョ|ェ)ン
+    - 自動詞: 臓器・機械などが正常に働かない・動かない
+    - 名詞で、機能不全、故障、という意味もある
+  - [slightly](https://ejje.weblio.jp/content/slightly), ス・ライトリィ
+    - 副詞: わずかに、少し
+- Tav: _Touch the sigil._
+- Gale: A hand? Anyone?
+  - その sigil から人の手が出てきた
+- Tav: Who are you?
+- Gale: Just your average traveller stuck between realms. Pull me out and we'll get properly introduced.
+  - [average](https://ejje.weblio.jp/content/average), ア↑ーベ(レ|ラ)ッジ
+    - 形容詞: 並の、普通の
+      - 質・量・数などが平凡でありふれている様
+  - [stuck](https://en.wiktionary.org/wiki/stuck#Adjective), スタック
+    - 形容詞: 動けなくて
+    - [stick](https://ejje.weblio.jp/content/stick), スティック
+      - 自動詞: はまり込む、止まって動かない
+  - Just your average traveller
+    - your は通常は親愛の情を示す、ここではただの軽口だと思う
+  - stuck between realms
+    - stuck は動詞の過去形ではなく形容詞、過去形だとすると時制が合わない
+  - [properly](https://ejje.weblio.jp/content/properly), プロパリィ
+    - 副詞: 適切に、ほどよく、礼儀正しく
+  - we'll get properly introduced
+    - お互いにきちんと自己紹介しましょう
+    - properly introduced がイディオムではなさそうだが、よく使われる組み合わせのよう
+- Tav: _With a keen, but calculated twist, you attempt to sabotage the sigil._
+  - [keen](https://ejje.weblio.jp/content/keen), キ↑ィン
+    - 形容詞: 鋭い、頭の切れる、熱心な、集中した、洞察力のある
+  - [twist](https://ejje.weblio.jp/content/twist), トゥィスト
+    - 名詞: ひねり、ねじれ、ゆがみ
+  - With a ((keen), but (calculated)) twist
+  - [sabotage](https://ejje.weblio.jp/content/sabotage), サァボタージ
+    - 他動詞: 妨害する
+  - ChatGPT訳: 「慎重かつ計算されたひねりを加えて、あなたはシジルを妨害しようと試みる。」
+    - but を表現してないので少しおかしい気がする
+    - 再提出してもらった訳: 「熱心に、しかし計算されたひねりを加えて、あなたはシジルを妨害しようと試みる。」
+- Dexterity (SleightOfHand) Successful: Tav
+- Gale: Whatever you're doing, it's working wonders! Now a quick little pull should do the trick.
+  - [whatever](https://en.wiktionary.org/wiki/whatever)
+    - 接続詞: 〜が何であれ、〜はさておいて
+      - 話者が気にしない、話したくない、重要だと考えてない、ことを意味するよう
+      - ただし、ChatGPTによると接続詞で、文脈上もそれが正しそうだが、辞書にはなかった
+  - [work](https://en.wiktionary.org/wiki/work#Verb), ウォ(オ|ア)ク
+    - 他動詞: 何かを意図して起こす、何かが結果として起こる
+  - [wonder](https://ejje.weblio.jp/content/wonder), ウォンダー
+    - 名詞: 奇跡、驚くべきこと
+  - working wonders
+    - work wonders または working wonders として、イディオムとしても認知されていそう
+  - [do the trick](https://en.wiktionary.org/wiki/do_the_trick)
+    - イディオム: 目的を達成するのに十分である、働く、効く、成功する、問題を解決する
+    - [trick](https://ejje.weblio.jp/content/trick), (ト|チョ)リック
+      - 名詞: 妙技、効果的・賢明・迅速な方法
+      - Ref: ハットトリック
+  - Now は副詞
+  - should は予測や期待を示す用法、could と似ているが、それより確信度が高い
+  - a quick little pull
+    - ChatGPTへ「名詞の前に形容詞を二つ置くのは一般的なの？」と聞いたら一般的だから気にするなとのこと
+  - ChatGPT訳: 「あなたがしていることは、驚異的に効果があるわ！今、さっと引っ張るだけでうまくいくはずよ。」
+    - 突然の女性口調
+- Gale: Ooft, hello. I'm Gale of Waterdeep. Apologies, I'm usually better at this.
+  - [ooft](https://en.wiktionary.org/wiki/ooft)
+    - = oof
+    - [oof](https://en.wiktionary.org/wiki/oof), ウーフ
+      - 間投詞: 痛みで息を吐く様
+      - = ouch
+  - Waterdeep
+    - ゲーム用語,名詞: 都市の名前
+      - Ref. https://forgottenrealms.fandom.com/wiki/Waterdeep
+- Tav: No need to apologise. Are you all right?
+- Gale: A bit shocked, but friend, it's a relief and a pleasure to make your acquaintance.
+  - [a bit](https://en.wiktionary.org/wiki/a_bit#Adverb)
+    副詞: わずかに、少量で
+    - [bit](https://ejje.weblio.jp/content/bit), (ベ|ビ)ット
+      - 名詞: 少し、わずか
+  - [shocked](https://ejje.weblio.jp/content/shocked), ショオクト
+    - 形容詞: 衝撃を受けた
+  - a bit shocked
+    - ChatGPTに聞くと bit は名詞と言っていたけど、 a bit 全体を副詞として捉えた方が納得できる
+      - shocked は a がつくような現象ではない気がする
+      - a bit は比喩表現なんじゃないかなぁ
+    - ちなみに、 a bit と対になる表現は a lot
+  - [relief](https://ejje.weblio.jp/content/relief), ゥリリーフ
+    - 名詞: 救助、救援
+  - [pleasure](https://ejje.weblio.jp/content/pleasure), プレジ(ャ|ュ)ァ
+    - 名詞: 喜び
+  - [acquaintance](https://ejje.weblio.jp/content/acquaintance), アクウェインタンス
+    - 名詞: 知人
+- Gale: Say, but I know you, don't I? In manner of speaking. You were on the nautiloid as well.
+  - [say](https://ejje.weblio.jp/content/say), セイィ
     - 間投詞: ねえ、ちょっと
-    - 訳は「ねえ、でも、私はあなたのことを知ってるよね？」だと思うけど、しかし主人公は知らないはずだけどどういう意味だろう
-- [in a manner of speaking](https://ejje.weblio.jp/content/in+a+manner+of+speaking)
-  - いわば、ある意味では
-  - [manner](https://ejje.weblio.jp/content/manner) に「方法、態度」という意味があり、a manner of speaking は「言い回し」になる
-    - Ref. https://www.ihcway.com/1day/20160811214601.html
-- [as well](https://ejje.weblio.jp/content/as+well)
-  - 〜もまた、同様に
-    - 通常この意味のは文末においた時
-  - You were on the nautiloid as well.
-    - 訳は「あなたも戦艦にいたよね？」だと思うんだが、なんでGaleは知ってるんだろうか...
-- Then I can only assume you too were on the receiving end of a rather unwelcome insertion in the ocular region.
-  - only の意味 by ChatGPT:
-    - > この文脈においての "I can only assume" での "only" は、話者が限られた情報や状況に基づいて、特定の結論に至る以外に選択肢がないことを強調しています。つまり、話者がその結論に至るために利用可能なデータや証拠が限られているため、その結論を導く以外に合理的な解釈がないという意味です。ここでの "only" は、その推測や仮定が唯一の合理的な結論であるということを示しています。
-  - [rather](https://ejje.weblio.jp/content/rather)
-    - 副詞: かなり
+  - [in a manner of speaking](https://en.wiktionary.org/wiki/in_a_manner_of_speaking)
+    - 前置詞: ある意味では、いわば、比喩的に言えば
+    - [manner](https://ejje.weblio.jp/content/manner) に「方法、態度」という意味があり、a manner of speaking は「言い回し」になる
+      - Ref. https://www.ihcway.com/1day/20160811214601.html
+  - [as well](https://ejje.weblio.jp/content/as+well)
+    - 副詞: 〜もまた、同様に
+      - 通常この意味のは文末においた時
+  - ChatGPT訳: 「言ってみなさい、でも僕はあなたを知っていますよね？ ある意味で。あなたもナウティロイドにいたんだ。」
+    - Say が「言ってみなさい」になっているが、「ねぇ、ちょっと」でも良いとのこと。少なくとも間投詞であるとのこと。
+  - GaleはTavが戦艦の中に居たのを知っているような物言いなんだけど、こちらにそのような記憶がなく、あまり意味がわからない
+- Tav: I was, yes.
+- Gale: Then I can only assume you too were on the receiving end of a rather unwelcome insertion in the ocular region.
+  - Then I can only assume
+    - only は「これ以外にない」という意味、つまり「これ以外に推測できない」
+  - [on the receiving end](https://en.wiktionary.org/wiki/on_the_receiving_end)
+    - 前置詞: 不快な行為の犠牲者である
+  - [rather](https://en.wiktionary.org/wiki/rather#Adverb), ゥラーザァ
+    - 副詞: ひどい、かなり
       - very, pretty, quite, fairly などと同じように程度を表す意味
-      - Ref: https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
-        - > （好ましくない）かなり
-  - [receiving end](https://ejje.weblio.jp/content/receiving+end)
-    - 名詞: 受信するもの、受信者
-  - [ocular](https://ejje.weblio.jp/content/ocular), (ア|オ)↑ーキュ(ラ|ル)ァ
+      - 本来は、好ましい選択や好みを指定するような陽の意味のはずだが、これだと悪い方に使われている
+        - ググった例文でも悪い意味で使う方が多そうで、その趣旨の言及をしているブログ記事も見つけた
+          - Ref. https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
+  - [unwelcome](https://ejje.weblio.jp/content/unwelcome), アン・ウェルカム
+    - 形容詞: 歓迎しない、うれしくない
+  - [ocular](https://ejje.weblio.jp/content/ocular), ア↑ーキュラァ
     - 形容詞: 目の、視覚の
-    - Oculus VR
-  - a rather unwelcome insertion in the ocular region
-    - 頭の中に入っている寄生体のこと
-    - ocular region は「視覚の範囲内」みたいな意味に読めるが、どっちかというと目の中ってよりは頭の中な気はする？
-  - assume は think とか suppose と同じように次に文が来る動詞だけど、なんか慣れなくて Then I can only assume you too まで読んで混乱するので、次はちゃんと把握したい
-- The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
-  - we speak of の of は、think of の of みたいにより具体的な事象を指しそう
-  - are you aware that ((after a period of excruciating gestation) it will turn us into mind flayers)? というように after ~ の文は副詞節、たぶん gestation と it の間にカンマが入っても良い
-  - are you awere(形容詞) の後に that 節が続くのは普通はできないはず...?
-    - Ref. https://englishworkbooks.blogspot.com/2019/09/be-aware-of.html
-      - be aware that 節 / be aware of 句 で覚えると良さそう
-        - be (形容詞) that は他にもありそうだけど（be sure that とか）、文法上なんというのかわからなかった
-      - > 「気づいている」と書くと動詞っぽく見えちゃうんですよね。あくまで単語としては「気づいている状態」を表現する形容詞です。「気づいている状態にある」と表現するときに初めて、"She is aware of/that～"みたいな be awareの形になるんです。
-  - [excruciate](https://ejje.weblio.jp/content/excruciate), (エ|イ)クスクルーシエィ
+    - Assoc: Oculus VR
+  - in the ocular region
+    - 視覚内というよりは頭の中って印象だったのだが、目から挿入されたからその間くらいに寄生されている感じなのかな
+  - ChatGPT訳: 「それなら、あなたも目の領域にかなり不快な挿入を受けたのだとしか思えませんね。」
+- Tav: Go on...
+- Gale: The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
+  - (are you aware) that ((after ...) (it will ...))?
+  - are you awere と、最後が形容詞で終わる節の後に that の従属節が続くのは普通はできないはず？
+    - aware や sure など、感覚や認識を示す形容詞の後は、その内容の説明として that 節を続けることができるらしい
+    - be {感覚や認識を示す形容詞} that {節} の構文
+      - また、 be {感覚や認識を示す形容詞} of {句} の構文もある
+  - [excruciate](https://ejje.weblio.jp/content/excruciate), (エ|イ)クスクルーシエィト
     - 他動詞: 苦しめる
-  - [gestation](https://ejje.weblio.jp/content/gestation), ジェステ↑イシ(ョ|ェ)ン
+  - [gestation](https://ejje.weblio.jp/content/gestation), ジェステイシ(ョ|ェ)ン
     - 名詞: 形成
-- ceremorphosis
-  - ゲーム用語: Mind Flayerの寄生体により変身させられること
-    - Ref. https://forgottenrealms.fandom.com/wiki/Ceremorphosis
-      - 寄生された人が助かるには、初期段階（脳みそが食べられかけている最中）までに頭を完全に破壊して復活の呪文をかけることらしい
-  - -sis の接尾語は「すること」「した結果」
-- [assure](https://ejje.weblio.jp/content/assure), ア↑シュ(ェ|ァ)
-  - 他動詞: 〜へ保証する
-- it is to be avoided
-  - "to be 過去分詞" 部分の構文は、to不定詞の受動態
-    - Ref. https://e-grammar.info/infinitive/passive.html
-- You don't happen to be a cleric, by any chance, do you?
+  - [turn into](https://en.wiktionary.org/wiki/turn_into)
+    - 他動詞: 変形する、変える、変換する
+      - SVO と SVOC どちらも可、 turn 自体がそう
+- Gale: It's a process known as ceremorphosis, and let me assure you: it is to be avoided.
+  - ceremorphosis
+    - ゲーム用語,名詞: Mind Flayerの寄生体により変身させられること
+      - Ref. https://forgottenrealms.fandom.com/wiki/Ceremorphosis
+        - 寄生された人が助かるには、初期段階（脳みそが食べられかけている最中）までに頭を完全に破壊して復活の呪文をかけることらしい
+    - -sis の接尾語は「すること」「した結果」
+  - [assure](https://ejje.weblio.jp/content/assure), ア↑・シュァ
+    - 他動詞: 〜へ保証する
+- Gale: You don't happen to be a cleric, by any chance, do you? A doctor? Surgeon? Uncannily adroit with a knitting needle?
   - [happen](https://ejje.weblio.jp/content/happen), ハ↑ーペン
-    - 自動詞: S がたまたま to do する
-      - S happen to do
-  - [by any chance](https://ejje.weblio.jp/content/by+any+chance)
-    - ひょっとして
-    - ChatGPT:
-      - > この文脈における "by any chance" は、「もしかして」「ひょっとして」という意味で使われています。これは一種の丁寧な表現で、相手に確認を求める際に、推測や可能性が低いことを前提としています。したがって、"You don't happen to be a cleric, by any chance, do you?" というフレーズ全体では、話者が相手に対して非常に礼儀正しく、かつ控えめに、相手が聖職者である可能性について尋ねています。
-- [surgeon](https://ejje.weblio.jp/content/surgeon), (サ|ス)ージェン
-  - 名詞: 外科医、軍医
-- [uncannily](https://ejje.weblio.jp/content/uncannily)
-  - 副詞: 異様に
-- [adroit](https://ejje.weblio.jp/content/adroit), (ア|エ)↑ドロイ
-  - 形容詞: 巧み
-- [knitting needle](https://ejje.weblio.jp/content/knitting+needle)
-  - 編み針
-- [realise](https://ejje.weblio.jp/content/realise), ゥリ↑ィラァイ(ズ|ス)
-  - 他動詞: 気づく
-    - = [realize](https://ejje.weblio.jp/content/realize)
-- Most, no doubt. But I find myself hoping to be in the presence of the few. You don't happen to be one of them?
-  - Shadowheartに「この状況を解決できる聖職者なんか滅多にいないのはあなたもわかってるでしょ」みたいな嫌味を言われている状況
-  - [most](https://ejje.weblio.jp/content/most), モウス(ト|ツ|)
-    - 形容詞: 最大多数の、ほとんどの
-  - Most, no doubt. は、「この状況を解決できる聖職者がほとんどいない」なのか「この状況でも助かる人はほとんどいない」なのかがわからない。多分後者だと思う。
-  - [find](https://ejje.weblio.jp/content/find)
-    - > 〔+目的語+doing〕〈自分が〉〈…しているのに〉気づく; (気がついてみると)〈…して〉いる.
-    - But I find myself hoping to be in the presence of the few. は「しかし、気がつくと私はその少ない存在であることを望んでいることに気づく」みたいな意味だろうか
-  - You don't happen to be one of them? は、いきなり話が変わって、また「お前はもしかして解決してくれる人じゃない？」ということを聞いていそう
-    - 次の答えで You である主人公が、I was going to ask you the same question. と返している
-- [starve](https://ejje.weblio.jp/content/starve), スタ↑ーブ
-  - 自動詞: 切望する、飢える
-    - Don't Starve Together
-- We're most certainly going to need a healer, and soon too.
-  - [most](https://ejje.weblio.jp/content/most), モウス(ト|ツ|)
-    - 副詞: 最も、いちばん
-      - > 副詞の場合には the をつけないことも多い
-  - [certainly](https://ejje.weblio.jp/content/certainly), (ス|サ)↑ー(タ|テ)ンリィ
+    - 自動詞: たまたま何かする
+      - happen to Verb
+  - [by any chance](https://en.wiktionary.org/wiki/by_any_chance)
+    - 副詞: もしかして、ひょっとして
+    - = possibly, perhaps
+  - [surgeon](https://ejje.weblio.jp/content/surgeon), (サ|ス)ージェン
+    - 名詞: 外科医、軍医
+  - [uncannily](https://ejje.weblio.jp/content/uncannily)
+    - 副詞: 異様に
+    - [uncanny](https://en.wiktionary.org/wiki/uncanny), アン・キャニィ
+      - 形容詞: 異様な、不気味な、奇妙な
+  - [adroit](https://ejje.weblio.jp/content/adroit), ア・ドロイ
+    - 形容詞: 巧み
+  - [knitting needle](https://ejje.weblio.jp/content/knitting+needle)
+    - 編み針
+- Shadowheart: You seem to know enough about our condition to realise it is beyond most clerics' skills.
+  - [beyond](https://ejje.weblio.jp/content/beyond), ビィヨンド
+    - 前置詞: 〜を超えて
+  - to realise it is beyond most clerics' skills はそれ以外の文全体を修飾している
+  - ChatGPT訳: 「私たちの状態について十分知っているようですね。それはほとんどの僧侶の技能を超えていることを。」
+- Gale: Most, no doubt. But I find myself hoping to be in the presence of the few. You don't happen to be one of them?
+  - [most](https://en.wiktionary.org/wiki/most#Adjective), モウスト
+    - 形容詞: グループの大多数の、ほとんどの
+  - Most, no doubt.
+    - Most が副詞のように見えるが、副詞の most に「グループの大多数の」という意味はない
+  - [find](https://ejje.weblio.jp/content/find), ファインド
+    - 他動詞: 人が〜しているのを偶然見つける
+      - find O Verb-ing
+  - ChatGPT訳: 「確かに、ほとんどはそうでしょう。しかし、私は少数派の中にいることを願っています。あなたはその中の一人ではありませんか？」
+  - Most, no doubt が「自分が非常に幸運である可能性が低いこと」を指すのか「ほとんどの Cleric がそのような技能を有しないこと」を指すのかがわからない
+- Tav: I was going to ask you the same question.
+  - [ask](https://ejje.weblio.jp/content/ask), アースク
+    - 他動詞: 人に質問する
+      - ask O1(=人) O2
+  - 過去進行形に仮定の意味はない、ので直訳だと「質問していた」という事実を述べる形になる
+- Gale: Then it looks like we're both starved for answers.
+  - [starve](https://ejje.weblio.jp/content/starve), スターブ
+    - 自動詞: 切望する、飢える
+    - Assoc: Don't Starve Together
+- Gale: We're most certainly going to need a healer, and soon too. How about we lend each other a helping hand once more and look for a healer together?
+  - [most](https://en.wiktionary.org/wiki/most#Adverb), モウスト
+    - 副詞: かなりの程度または度合い
+      - = very, highly
+  - [certainly](https://ejje.weblio.jp/content/certainly), スァ↑ーテンリィ
     - 副詞: 確実に、きっと間違いなく
-  - and soon too は、"We're most 1(certainly) 2(going to need a healer), and 1(soon) 2(too)." こういう対応関係である
-    - 「癒し手が最も確実に必要になる」and「癒し手が最もすぐに必要になる」
-- [how about](https://ejje.weblio.jp/content/how+about)
-  - 〜はいかがですか？
-    - How about 〜 ?
-- [lend](https://ejje.weblio.jp/content/lend), ゥレ↑ン
-  - 他動詞: S が O1 へ O2 を貸す
-    - S lend O1 O2
-- [helping hand](https://ejje.weblio.jp/content/helping+hand)
-  - 助力、援助の手
-- Sounds like a plan.
-  - ChatGPT:
-    - > 「それはいい考えのようだ。」または「そうしましょう。」となります。
-  - sounds like は「〜のように聞こえる、思える」というだけで、そこに良し悪しの意味はふくまれてないはず。そうなると a plan に「良い」という意味が含まれているということになるが、この機微がわからん。
-  - 成句としても認識されてそう: https://hapaeikaiwa.com/blog/2023/10/20/%E3%80%8Csounds-like-a-plan%E3%80%8D%E3%81%A3%E3%81%A6%E3%81%A9%E3%81%86%E3%81%84%E3%81%86%E6%84%8F%E5%91%B3%EF%BC%9F/
-- [excellent](https://ejje.weblio.jp/content/excellent), エ↑ク(セ|ソ)レン(ト|)
-  - 間投詞: よろしい、けっこう
-    - 形容詞だと「優秀な」
-- A parasite shared is a parasite halved. Or something to that effect.
-  - 前半は、英語のことわざの [a problem shared is a problem halved](https://childenglishconv.main-path.com/meaning-of-a-problem-shared-is-a-problem-halved) の言い換え
-    - [halve](https://ejje.weblio.jp/content/halve), ヘァーブ
-      - 他動詞: 二等分する
-  - [to that effect](https://ejje.weblio.jp/content/to+that+effect)
-    - 同じ趣旨の
-    - ChatGPT:
-      - > "to that effect" は英語のフレーズで、何かが言われたり示されたりした意図や影響を指しています。直訳すると「その効果に」となりますが、実際には「その趣旨の」「その意味合いの」というニュアンスで使われます。つまり、話されている内容と同じかそれに近い意味のことを指していることを示します。例えば、誰かが特定の提案をしたとき、「Or something to that effect.」と言うと、「またはそのような趣旨のこと」という意味になり、提案された内容と似たようなことを指していることを示します。
-- [embark](https://ejje.weblio.jp/content/embark), エンヴ↑ァー(ク|)
-  - 自動詞: 〔新しいこと・難事業などに〕乗り出す，従事する
-- [illmannered](https://ejje.weblio.jp/content/illmannered), イ(ル|ウ)(マ|メ)ナォ
-  - 形容詞: 無作法な、失礼な
-- It was an act of foresighted kindness I assure you, for I have the feeling ample opportunities will present themselves for me to return the favour.
-  - [foresighted](https://ejje.weblio.jp/content/foresighted), フォオ(シ|スィ)↑ーテッ
+  - most certainly
+    - certainly 単体よりも強い確信度を表している
+  - [lend](https://ejje.weblio.jp/content/lend), ゥレ↑ン
+    - 他動詞: 〜を貸す
+      - lend O1(=貸す先) O2(=貸すもの)
+  - [helping hand](https://ejje.weblio.jp/content/helping+hand)
+    - 名詞: 助力、援助の手
+  - a helping hand once more
+    - once more は、さっき助けたことからもう一度、ということを言っていそう
+  - [how about](https://en.wiktionary.org/wiki/how_about)
+    - = what about
+    - [what about](https://en.wiktionary.org/wiki/what_about)
+      - 副詞: 提案をするときに使う
+        - 〜はいかがですか？、〜はどうお考えですか？
+  - ChatGPT: 「間違いなくヒーラーが必要になるだろうし、それもすぐにね。もう一度手を組んで一緒にヒーラーを探すのはどう？」
+- Tav: Sounds like a plan. You're welcome to join me.
+  - [sounds like a plan](https://en.wiktionary.org/wiki/sounds_like_a_plan)
+    - イディオム: 提案への同意を示す
+    - 「計画か否かわからない提案に対して計画だと認める」というロジックで肯定の意味を含むよう
+  - ChatGPT訳: 「いいね。一緒に行くことにするよ。」
+- Gale: Most excellent. A parasite shared is a parasite halved. Or something to that effect.
+  - [excellent](https://ejje.weblio.jp/content/excellent), エ↑ク(セ|ソ)レント
+    - 間投詞: よろしい、けっこう
+      - 形容詞だと「優秀な」
+  - A parasite shared is a parasite halved.
+    - ことわざをもじったもの
+    - [a problem shared is a problem halved](https://en.wiktionary.org/wiki/a_problem_shared_is_a_problem_halved)
+      - ことわざ: 問題は多くの人で議論されると解決しやすくなる
+      - [halve](https://ejje.weblio.jp/content/halve), ヘァーブ
+        - 他動詞: 二等分する
+  - [to that effect](https://en.wiktionary.org/wiki/to_that_effect)
+    - = to the effect
+    - [to the effect](https://en.wiktionary.org/wiki/to_the_effect)
+      - 前置詞: そのような意味の
+  - ChatGPT訳: 「最高です。共有された寄生虫は、寄生虫を半分にする。または、そのような効果です。」
+- Gale: Oh! but before you think you're about to embark on a journey with most illmannered a man: thank you for pulling me out of that stone.
+  - [be about to do](https://ejje.weblio.jp/content/be+about+to+do)
+    - イディオム: まさに〜しようとしている
+    - この about の品詞は何か不明。ChatGPTは副詞と言い、Weblio辞書の [about](https://ejje.weblio.jp/content/about) は叙述的用法の形容詞と言っている。
+  - [embark](https://ejje.weblio.jp/content/embark), エンヴ↑ァーク
+    - 自動詞: 新しいことや難事業などに乗り出す・従事する
+  - [illmannered](https://ejje.weblio.jp/content/illmannered), イルゥ(マ|メ)ナァ
+    - 形容詞: 無作法な、失礼な
+- Gale: It was an act of foresighted kindness I assure you, for I have the feeling ample opportunities will present themselves for me to return the favour.
+  - [act](https://ejje.weblio.jp/content/act), アァクト
+    - 名詞: 行為、行動、行い
+  - [foresighted](https://ejje.weblio.jp/content/foresighted), フォオスィ↑ーテッ
     - 形容詞: 先見の明がある
-    - [foresight](https://ejje.weblio.jp/content/foresight), フ↑ォオサイ
+    - [foresight](https://ejje.weblio.jp/content/foresight), フォオサイ
       - 名詞: 先見の明
-      - アクセントと後半の発音が形容詞と異なる
+  - [kindness](https://ejje.weblio.jp/content/kindness), カインドゥネス
+    - 名詞: 親切、優しさ、親切な行為
   - [ample](https://ejje.weblio.jp/content/ample), エンポォ
-    - 形容詞: (余るほど)十分な
-  - [present](https://ejje.weblio.jp/content/present), プ↑(レ|エ)ゼン(ト|ツ|)
+    - 形容詞: 余るほど十分な
+  - [opportunity](https://ejje.weblio.jp/content/opportunity), (オ|ア)ポチュニティ
+    - 名詞: 適切な機会、好機
+  - [for](https://ejje.weblio.jp/content/for), フォーア
+    - 接続詞: 前文に対する付加的な説明や理由を述べる
+      - 通常 , for とカンマが前に入る
+  - I have (the feeling (ample opportunities will present ...))
+  - [present](https://ejje.weblio.jp/content/present), プレゼント
     - 他動詞: 贈る、贈呈する
     - 形容詞で「今の」、名詞で「今」という意味もある。コアイメージは「存在している」「人の前に差し出す」。
-      - 名詞としては、[presence](https://ejje.weblio.jp/content/presence) と混乱する
-  - [favour](https://ejje.weblio.jp/content/favour), フ↑ェイヴァ
-  - 前半は「あなたの行為が先見の明のある親切だったことを私が保証しましょう」だと思う、後半の for I have ... 以降が難しい
-    - ChatGPT:
-      - > 「それは先見の明のある親切な行為でした、私は確信しています。なぜなら、その恩を返すための十分な機会が自分にも差し出されるだろうという感じがするからです。」
-  - I have (the feeling (ample opportunities will present themselves for me to return the favour))
-    - ample opportunities 自身が present の目的語として再帰代名詞 themselves にしている意味がわからん
-      - ChatGPTに聞いてみると、より ample opportunities が自発的に生まれる意味になるとのこと。
-      - たぶん、例えば、the journey will present ample opportunities とかだと提供元の主語が決まって意味がはっきりしてしまうので、それより先々に何が起こるかわからない感を出したかったのかもしれない
-- Galeは軽口を叩くタイプなので、Astarionよりもさらに大変だった。お前もうしゃべるな！
-  - キャラは好きだが
+  - [favour](https://ejje.weblio.jp/content/favour), フェイバ
+    - 名詞: 好意
+    - = favor
+  - ample opportunities will present themselves for me
+    - ample opportunities 自身が自身を差し出すという構造により、人の意思や推測ではない側面が強調され、より予言や運命じみた意味合いになっている
+  - ChatGPT訳: 「それは先見の明ある親切だったと保証します。私には、その恩を返す十分な機会が巡ってくるという感じがします。」
+  - Galeは軽口を叩くタイプなので、Astarionよりもさらに大変だった。お前しばらく話すな！
