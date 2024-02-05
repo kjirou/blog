@@ -234,12 +234,48 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - can だと控えめな表現になる
 - Tav: _Trun to other matters_.
   - ここで Leave したかったけど、他の話題を選ばないといけなかった
-- Tav:
-- Shadowheart:
-- Tav:
-- Shadowheart:
-- Tav:
-- Shadowheart:
-- Tav:
-- Shadowheart:
-- Tav:
+- Tav: We should get to know each other a little more.
+  - [a little](https://en.wiktionary.org/wiki/a_little)
+    - 副詞: わずかな程度や少しの量
+- Shadowheart: Must we? No harm in a little mystery, don't you think?
+  - [harm](https://ejje.weblio.jp/content/harm), ハァム
+    - 名詞: 害、差し支え
+- Tav: You don't want to talk about yourself?
+- Shadowheart: I should hope not. Have you ever heard the people who want to talk about themselves? I'm doing you a favour.
+  - I should hope not. の not の位置が妙じゃない？
+    - これは「notなことを願っている。」という意味、仮に I should not hope. だと「願うべきではない。」
+  - [favour](https://ejje.weblio.jp/content/favour), フェイバ
+    - 名詞: 親切
+  - [do](https://ejje.weblio.jp/content/do), ドゥウ
+    - 他動詞: 利益や恩恵を与える、施す
+      - do O1(=対象) O2(=内容)
+  - ChatGPT訳: 「そう願うべきよ。自分のことばかり話したがる人たちを聞いたことある？私はあなたに親切をしているのよ。」
+- Tav: Maybe I'd like to get to know you better.
+  - [like](https://ejje.weblio.jp/content/like), ゥライク
+    - 他動詞: 〜をしたいと思う
+      - like to Verb の構文、Verb-ing は不可らしい
+  - [better](https://ejje.weblio.jp/content/better), ベ↑ラァ
+    - 副詞: よりいっそう
+- Shadowheart: Sweet of you... but don't worry - I'm sure you'll get to know me just fine by travelling together. No need for interrogations just yet.
+  - [sweet](https://ejje.weblio.jp/content/sweet), ス↑ウィート
+    - 形容詞: 優しい、親切な
+      - sweet of 代名詞 または sweet of 代名詞 to Verb の構文
+  - Sweet of you...
+    - 「優しいのね」という感じで、女性に多く見られる言い方
+  - to know me just fine
+    - just と fine は両方ともに副詞
+  - [interrogation](https://ejje.weblio.jp/content/interrogation), イントゥアロゲイション
+    - 名詞: 質問、取り調べ、尋問
+  - ChatGPT訳: 「優しい言葉ね...でも心配しないで - 一緒に旅をしていれば、自然と私のことを知ることができるでしょう。今すぐに尋問する必要はありません。」
+- Tav: If that's what you prefer, I can respect that.
+  - [prefer](https://ejje.weblio.jp/content/prefer), プレ・ファー
+    - 他動詞: むしろ〜の方を好む
+  - that's what you prefer
+    - what は関係代名詞で、最初の節の補語であり、後の節の目的語である
+    - このようなときの what は省略できない
+  - [respect](https://ejje.weblio.jp/content/respect), リスペ↑クト
+    - 他動詞: 〜へ敬意を払う、重んずる、尊敬する
+- Shadowheart: Thank you. I'm sure we'll get along perfectly well.
+  - [get along](https://en.wiktionary.org/wiki/get_along)
+    - 自動詞: 議論やトラブルなく共存する、共にうまく生き残る
+- Tav: _Leave_.
