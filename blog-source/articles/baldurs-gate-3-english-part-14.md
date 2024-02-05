@@ -162,3 +162,84 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
 ### 20, Eliasis - 7:20 - Shadowheart, Tav
 
 イベント会話のアイコンが発生したので話しかけた
+
+- Shadowheart: I know that look - you're wondering why I was in pain before. Let's just clear the air about that now.
+  - [look](https://ejje.weblio.jp/content/look), ルゥック
+    - 名詞: 顔つき、表情
+      - = face
+  - [air](https://en.wiktionary.org/wiki/air#Noun), エアー
+    - 名詞: 雰囲気、印象、感覚
+- Shadowheart: It's just an old wound that hurts me from time to time. Nothing to be concerned about.
+  - [from time to time](https://en.wiktionary.org/wiki/from_time_to_time)
+    - 前置詞句: 時々
+      - = occasionally
+    - [time to time](https://en.wiktionary.org/wiki/time_to_time) のみで表現されることも
+  - [hurt](https://en.wiktionary.org/wiki/hurt#Verb), (フ|ハ)ァト
+    - 他動詞: 〜へ身体的な痛みを引き起こす
+  - [concern](https://ejje.weblio.jp/content/concern), (カ|コ)ンサーン
+    - 他動詞: 人を心配させる
+      - concern O(=人) about 内容
+  - Nothing to be concerned about.
+    - A concern B は「A が B を心配させる」、受動態の B be concern にすると「B が誰かに心配させられる」
+    - to be concerned about は「誰かが誰かに何かのことで心配させられる」、という意味の形容詞句
+    - もしto不定詞を受動態にしないなら、似た意味として Nothing to concern you about. にできる
+      - 少なくとも、 Nothing to concern about という表現にはならない、目的語がないから
+    - そもそも受動態には、主語を「誰か」「何か」という曖昧なものにする機能もある...?
+- Shadowheart: It's nothing to do with the tadpoles at least, in case your imagination is in danger of getting away from you.
+  - [to do with](https://en.wiktionary.org/wiki/to_do_with)
+    - 前置詞: 〜と関連のある、〜と関係のある
+  - [imagination](https://ejje.weblio.jp/content/imagination), イ(マ|メ)ージネイション
+    - 名詞: 想像力、想像
+  - [get away](https://en.wiktionary.org/wiki/get_away)
+    - 自動詞: 離れる
+      - おおよそ from を伴い、〜から離れる
+  - your imagination is in danger of getting away from you
+    - 直訳だと、「あなたの想像力があなたから離れていく危険」
+  - ChatGPT訳: 「せめて、あなたの想像力が暴走することがないように、それはタッドポール（オタマジャクシ）とは関係ありません。」
+- Shadowheart: It's just... something I have to live with.
+  - [live with](https://en.wiktionary.org/wiki/live_with)
+    - 自動詞: 受け入れる、容認する
+  - something (which) I have to live with
+  - みんな持病持ちでわろた
+- Tav: How badly does it hurt?
+  - [badly](https://ejje.weblio.jp/content/badly), バ↑ードリィ
+    - 副詞: 悪く、ひどく
+- Shadowheart: Quite a lot, if I'm being honest. But it always passes quickly, so I can manage.
+  - [a lot](https://en.wiktionary.org/wiki/a_lot#Adverb)
+    - 副詞: とても、大いに、かなりの範囲・程度で
+  - [being](https://ejje.weblio.jp/content/being), ビ↑ーイン
+    - be - being
+  - I'm being honest
+    - be動詞の進行形
+    - I'm honest だと「私は普遍的に正直である」という意味だが、 I'm being honest だと「私は少なくとも今は正直である」という意味になるよう
+  - [honest](https://ejje.weblio.jp/content/honest), (ア|オ)ネスト
+    - 形容詞: 正直な、誠実な
+  - [manage](https://ejje.weblio.jp/content/manage), (マ|メ)ネージ
+    - 自動詞: どうにかやっていく
+    - コアイメージ: 困難な状況でうまくやっていく
+  - ChatGPT訳: 「正直に言うと、かなり痛いです。でも、いつもすぐに過ぎ去るので、何とか耐えられます。」
+- Tav: Are you _sure_ it's not connected to the tadpoles?
+  - [connected](https://ejje.weblio.jp/content/connected), (カ|コ)ネクテッド
+    - 形容詞: 関係のある
+    - [connect](https://ejje.weblio.jp/content/connect), (カ|コ)ネクト
+      - 他動詞: 結びつける、関係する
+        - connect O: O 同士を
+        - S connect O: S と O が
+  - Are you sure (that) ~
+    - 前に出てきた are you aware と同じ構文
+- Shadowheart: Positive. You can trust me on that.
+  - [positive](https://ejje.weblio.jp/content/positive), (パ|ポ)↑ズィティブ
+    - 形容詞: 肯定的な、明確な
+  - You can trust me on that.
+    - can だと控えめな表現になる
+- Tav: _Trun to other matters_.
+  - ここで Leave したかったけど、他の話題を選ばないといけなかった
+- Tav:
+- Shadowheart:
+- Tav:
+- Shadowheart:
+- Tav:
+- Shadowheart:
+- Tav:
+- Shadowheart:
+- Tav:
