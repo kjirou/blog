@@ -107,4 +107,58 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
 
 ### 20, Eliasis - 7:03 - Gale, Tav
 
+イベント会話のアイコンが発生したので話しかけた
+
+- Gale: That woman has more venom in her heart than a snake in its fangs, but at least the child is safe.
+  - The woman = Kagha
+  - [venom](https://ejje.weblio.jp/content/venom), ベノム
+    - 名詞: 毒液、悪意
+  - more ~ than ~ の品詞って何だっけ？
+    - more は比較級の形容詞、 than は前置詞
+  - a snake in its fang
+    - 「牙の中にある蛇」になってしまい、文法上変に見える。わからん。
+  - ChatGPT訳: 「その女性の心には蛇の牙にあるよりも多くの毒がありますが、少なくとも子供は安全です。」
+- Gale: What is youth if not a time to be forgiven for one's transgressions?
+  - [youth](https://ejje.weblio.jp/content/youth), ユゥス
+    - 名詞: 若さ
+  - [forgiven](https://ejje.weblio.jp/content/forgiven), フォオ・ギヴン
+    - forgive - forgave - forgiven
+    - [forgive](https://ejje.weblio.jp/content/forgive), フォ・ギィブ
+      - 自動詞: 許す
+  - [transgression](https://ejje.weblio.jp/content/transgression), トラァンス・グレッション
+    - 名詞: 罪、違反、犯罪
+  - a time to be forgiven for one's transgressions
+    - a time を to be forgiven for one's transgressions が形容詞的に修飾している
+    - to be forgiven はto不定詞の受動態だが、 forgive は自動詞の「許す」の意味のよう。つまり、 to be forgiven は「（特に目的語はなく）許される」。
+    - それに for one's transgressions が続く。これは forgive O for の用法とは無関係そう。
+  - ChatGPT訳: 「何が若さであろうか、それは自分の過ちを許される時ではないか？」
+- Tav: Sounds like you have something to confess.
+  - [confess](https://ejje.weblio.jp/content/confess), (カ|コ)ン・フェス
+    - 自動詞: 白状する、罪を認める
+- Gale: Ha! And you don't? You're wholly without vice or sin or the occasional lapse in judgement?
+  - [wholly](https://ejje.weblio.jp/content/wholly), フゥーリィ
+    - 副詞: 完全に、まったく
+  - [sin](https://ejje.weblio.jp/content/sin), (ス|シ)ン
+    - 名詞: 罪
+    - Assoc: DIVINITY ORIGINAL SIN 2
+  - [occasional](https://ejje.weblio.jp/content/occasional), オ・ケイジョナル
+    - 形容詞: 時たまの、時折の
+  - [lapse](https://ejje.weblio.jp/content/lapse), ゥラプス
+    - 名詞: ちょっとした間違い、しくじり
+  - [judgement](https://ejje.weblio.jp/content/judgement), ジャ↑ッジメント
+    - 名詞: 判断
+  - without ((vice) or (sin) or (the occasional lapse in judgement))
+  - ChatGPT訳: 「はは！君にだって何かあるでしょう？完全に無欠、罪も瑕も、たまには判断を誤ることもないわけ？」
+- Gale: No - you don't strike me as quite that boring.
+  - [strike as](https://ejje.weblio.jp/content/strike+as)
+    - 他動詞: 〜へ印象づける、〜へ感じさせる
+    - [strike](https://ejje.weblio.jp/content/strike), スト(レ|ラ)イク
+      - 他動詞: 〜へ印象を与える
+        - strike O as 印象の内容
+  - [boring](https://en.wiktionary.org/wiki/boring#Adjective), ボオリング
+    - 形容詞: 退屈や焦りでうんざりする・いらいらする
+  - ChatGPT訳: 「いや - 君がそんなに退屈な人だとは思えないな。」
+
 ### 20, Eliasis - 7:20 - Shadowheart, Tav
+
+イベント会話のアイコンが発生したので話しかけた
