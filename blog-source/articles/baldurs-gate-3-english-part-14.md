@@ -306,3 +306,70 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - 名詞: 神格、神性、神
   - [involved](https://ejje.weblio.jp/content/involved), インバゥブツ
     - 形容詞: 参加した、巻き込まれた
+
+### 20, Eliasis - 7:48 - Rath, Tav
+
+先にKaghaやArabellaと話したときに居た、おそらくは穏健派・Halsin派のDruidへ話しかけた
+
+- Rath: You did well to speak up for the girl. That snake is _fickle_. A tragedy prevented.
+  - [speak up](https://en.wiktionary.org/wiki/speak_up)
+    - 自動詞: 自分の意見を話す、大きな声で話す
+  - [fickle](https://ejje.weblio.jp/content/fickle), フィッコォ
+    - 形容詞: 移り気な
+  - That snake は、Kaghaのことを指していそう
+  - [tragedy](https://ejje.weblio.jp/content/tragedy), トラァジディ
+    - 名詞: 悲劇、惨劇
+  - [prevent](https://ejje.weblio.jp/content/prevent), プレベェント
+    - 他動詞: 〜が起こらないようにする、予防する、防止する
+- Tav: That Kagha seems dangerous.
+- Rath: Well seen. Well spotted. We've let a _snake_ replace our leader.
+  - [spot](https://ejje.weblio.jp/content/spot), ス(パ|ポ)ット
+    - 他動詞: 〜を見抜く、〜を見つける
+    - コアイメージ: 元々は「斑点」「しみ」、転じて「小さな点」から「特定の場所」「少量」へ
+  - Well seen. Well spotted.
+    - それぞれ、完了の分詞構文
+  - [replace](https://ejje.weblio.jp/content/replace), ゥリ・プレイス
+    - 他動詞: 〜に取って代わる
+- Tav: How did Kagha take over the whole grove?
+  - [take over](https://en.wiktionary.org/wiki/take_over)
+    - 他動詞: 特に力により何かを支配する、簒奪する
+- Rath: She is First Druid in Halsin's absence. With him caught - or dead - by goblins, none may gainsay her.
+  - [absence](https://ejje.weblio.jp/content/absence), アーブセンス
+    - 名詞: 不在、留守、欠席、欠乏
+  - [gainsay](https://ejje.weblio.jp/content/gainsay), ゲ↑イン・セイ
+    - 他動詞: 〜へ異を唱える、〜を否定する、〜へ反駁・反対する
+  - 可能性を意味する may と can の違い
+    - やや can の方が確信度高め
+    - can は外部要因がその理由にあることが多い
+- Rath: But more will die if her ritual is finished. I doubt those exiled by the rite will survive long outside.
+  - [doubt](https://ejje.weblio.jp/content/doubt), ダァウト
+    - 他動詞: 〜を疑わしいと思う、〜を疑う
+  - [exile](https://ejje.weblio.jp/content/exile), エ↑グザイ(ウ|ル)
+    - 他動詞: 〜を国外へ追放する
+    - Assoc: PATH OF EXLIE の時は名詞、流浪か追放か亡命かはわからない
+  - I doubt ((those exiled by the rite) will survive long outside)
+  - ChatGPT訳: 「しかし、彼女の儀式が完了すれば、もっと多くの人が死ぬでしょう。儀式によって追放された人々が外で長く生き残ることは疑わしいです。」
+- Tav: If no one's looking for Halsin, I could do it.
+- Rath: Would you? I would give anything to see Halsin return home.
+  - to see (Halsin)=S (return)=V原形 (home)=O
+    - 知覚動詞の構文、他には feel, hear など
+- Tav: No need to fret. I'll find him.
+  - [fret](https://ejje.weblio.jp/content/fret), フレット
+    - 自動詞: いらいらする、やきもきする
+  - この辺で主人公ムーブの選択肢を選んでしまうのは、まだこのゲームをそこまで信じれてないからかもしれない
+- Rath: Silvanus' blessing upon you. and my gratitude as well.
+  - [blessing](https://ejje.weblio.jp/content/blessing), ブレッシング
+    - 名詞: 祝福、祝福の言葉、恩恵
+  - [gratitude](https://ejje.weblio.jp/content/gratitude), グラ↑ーリテュード
+    - 名詞: 感謝、感謝の念
+- Rath: Halsin is an elf with the presence of a bear. He left west, with the adventurers.
+  - [presence](https://en.wiktionary.org/wiki/presence#Noun), プレゼンツ
+    - 名詞: 存在感、個人を他の人から際立たせる性質
+  - with the presence of a bear
+    - ChatGPTからすると「熊のような存在感を持つ」であることが自明のようだが、「熊のような存在を伴う」という訳にならない理由がわからない
+  - ChatGPT訳: 「ハルシンは熊のような存在感を持つエルフです。彼は冒険者たちと一緒に西へ向かいました。」
+  - adventurers はおそらくAradin一行のことだからかなり情報が古いが、この人は避難民側で何があったのか詳細を知らないということなのか
+- Rath: You won't mistake the First Druid for anyone else.
+  - [mistake](https://ejje.weblio.jp/content/mistake), ミステイク
+    - 他動詞: 〜を見間違える、〜を間違える
+  - ChatGPT訳: 「最初のドルイドを他の誰かと間違えることはありません。」
