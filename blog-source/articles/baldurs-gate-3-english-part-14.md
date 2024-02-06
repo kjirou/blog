@@ -284,7 +284,8 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
 
 ある石像を眺め、それに付属している壁画を読んだ
 
-- \*'By claw and tooth, from root to thorn, The Old Oak's grove, to wildlings sworn.'\*
+- \*'By claw and tooth, from root to thorn,  
+  The Old Oak's grove, to wildlings sworn.'\*
   - [thorn](https://ejje.weblio.jp/content/thorn), (ス|ソ)ォン
     - 名詞: 草木の棘、イバラ
   - [oak](https://ejje.weblio.jp/content/oak), オゥク
@@ -378,7 +379,8 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
 
 ある石像を眺め、それに付属している壁画を読んだ
 
-- \*In darkest hour, a concord made, 'Twixt harp and wild against the shade.'\*
+- \*In darkest hour, a concord made,  
+  'Twixt harp and wild against the shade.'\*
   - [concord](https://ejje.weblio.jp/content/concord), カ↑ン・コォード
     - 名詞: 協定、協約
   - [twixt](https://en.wiktionary.org/wiki/twixt#Preposition), トゥィッ・クスト
@@ -393,3 +395,21 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [riddle](https://ejje.weblio.jp/content/riddle), ゥリ↑ドォ
     - 名詞: なぞなぞ、謎
   - ChatGPT訳: 「地元の歴史、謎かけで書かれている。」
+
+### 20, Eliasis - 8:19 - Tav, Shadowheart
+
+ある石像を眺め、それに付属している壁画を読んだ
+
+- \*'The towers seized, the battle done,  
+  the moonrise broke the Darkest One.'\*
+- Intelligence (Religion) Successful: Tav
+- Not Found
+- Shadowheart: So many dead. Sent to the Nightsinger's embrace.
+  - おや、NightsongはAradinが依頼を受けて探していた relic の名前だったよな...?
+- \*'Moonrise' must be a reference to Shar's divine sister, Selûne.\*
+
+### 20, Eliasis - 8:25 - Loic
+
+### 20, Eliasis - 8:25 - Marcoryl
+
+### 20, Eliasis - 8:28 - Silver, Tav
