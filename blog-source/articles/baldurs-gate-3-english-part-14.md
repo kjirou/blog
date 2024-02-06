@@ -373,3 +373,23 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [mistake](https://ejje.weblio.jp/content/mistake), ミステイク
     - 他動詞: 〜を見間違える、〜を間違える
   - ChatGPT訳: 「最初のドルイドを他の誰かと間違えることはありません。」
+
+### 20, Eliasis - 8:18 - Tav
+
+ある石像を眺め、それに付属している壁画を読んだ
+
+- \*In darkest hour, a concord made, 'Twixt harp and wild against the shade.'\*
+  - [concord](https://ejje.weblio.jp/content/concord), カ↑ン・コォード
+    - 名詞: 協定、協約
+  - [twixt](https://en.wiktionary.org/wiki/twixt#Preposition), トゥィッ・クスト
+    - = betwixt, between
+  - [harp](https://ejje.weblio.jp/content/harp), ハァプ
+    - 名詞: 竪琴、ハープ
+  - ChatGPT訳: 「最も暗い時に、ハープと野生が影に対して結んだ協定。」
+- Intelligence (History) Save Failed: Tav
+- \*Local history, written in riddles.\*
+  - [local](https://ejje.weblio.jp/content/local), ローカウ
+    - 形容詞: 地元の、場所の、土地の、特定の地方の
+  - [riddle](https://ejje.weblio.jp/content/riddle), ゥリ↑ドォ
+    - 名詞: なぞなぞ、謎
+  - ChatGPT訳: 「地元の歴史、謎かけで書かれている。」
