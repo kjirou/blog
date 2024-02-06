@@ -279,3 +279,30 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [get along](https://en.wiktionary.org/wiki/get_along)
     - 自動詞: 議論やトラブルなく共存する、共にうまく生き残る
 - Tav: _Leave_.
+
+### 20, Eliasis - 7:41 - Tav
+
+ある石像を眺め、それに付属している壁画を読んだ
+
+- \*'By claw and tooth, from root to thorn, The Old Oak's grove, to wildlings sworn.'\*
+  - [thorn](https://ejje.weblio.jp/content/thorn), (ス|ソ)ォン
+    - 名詞: 草木の棘、イバラ
+  - [oak](https://ejje.weblio.jp/content/oak), オゥク
+    - 名詞: オーク、オーク材
+  - [wildling](https://en.wiktionary.org/wiki/wildling#Noun)
+    - 名詞: 野生植物、野生動物、自然とそこに住むすべて
+  - [sworn](https://ejje.weblio.jp/content/sworn), スウォァン
+    - swear - swore - sworn
+  - to wildlings sworn
+    - 文脈からすると wildlings has sworn to the Old Oak's grove の変形だと思うが、どういう変形でこうなったのかがわからない
+  - ChatGPT訳: 「爪と歯によって、根からとげまで、古いオークの森は、野生の者たちに誓われている。」
+- Intelligence (Religion) Save Failed: Tav
+- \*The mural depicts a ritual, but you do not recognise the deity involved.\*
+  - [mural](https://ejje.weblio.jp/content/mural), ミューラォ
+    - 名詞: 大きな壁画
+  - [depict](https://ejje.weblio.jp/content/depict), デ・ピクト
+    - 他動詞: 〜を言葉で描写する
+  - [deity](https://ejje.weblio.jp/content/deity), ディエティ
+    - 名詞: 神格、神性、神
+  - [involved](https://ejje.weblio.jp/content/involved), インバゥブツ
+    - 形容詞: 参加した、巻き込まれた
