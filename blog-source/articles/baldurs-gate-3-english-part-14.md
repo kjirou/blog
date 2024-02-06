@@ -402,11 +402,40 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
 
 - \*'The towers seized, the battle done,  
   the moonrise broke the Darkest One.'\*
+  - [seize](https://ejje.weblio.jp/content/seize), スィーズ
+    - 他動詞: 奪う
+  - [moonrise](https://ejje.weblio.jp/content/moonrise), ム↑ゥーン・ラァーイズ
+    - 名詞: 月の出
+  - The towers seized, the battle done,
+    - それぞれ、受動態の過去分詞の分詞構文、were と was が省略されている
+    - 分詞構文で動詞のみ省略する形は珍しいが、詩的な文章はリズムの調整でそういうこともあるらしい
+  - ChatGPT訳: 「塔は奪われ、戦いは終わり、月の出は最も暗い者を破った。」
 - Intelligence (Religion) Successful: Tav
 - Not Found
 - Shadowheart: So many dead. Sent to the Nightsinger's embrace.
-  - おや、NightsongはAradinが依頼を受けて探していた relic の名前だったよな...?
+  - [dead](https://ejje.weblio.jp/content/dead), デ↑ェッド
+    - 名詞: 死者
+  - Nightsinger
+    - ゲーム用語,名詞: Sharの化身の一つ
+    - Shar, シャー
+      - ゲーム用語: 闇と喪失の女神。闇、夜、喪失、死、策略、秘密などを司る。月の女神Selûneの姉。
+        - Ref: https://forgottenrealms.fandom.com/wiki/Shar
+        - Ref: https://gamecows.com/ja/%E3%82%B7%E3%83%A3%E3%83%BC5e/
+  - [embrace](https://ejje.weblio.jp/content/embrace), エン・ブレイス
+    - 名詞: 抱擁
+  - ChatGPT訳: 「こんなにも多くの死者たち。ナイトシンガーの抱擁へと送られた。」
+  - そういえば、NightsongはAradinが依頼を受けて探していた relic の名前だったよな...?
 - \*'Moonrise' must be a reference to Shar's divine sister, Selûne.\*
+  - [reference](https://ejje.weblio.jp/content/reference), リ・ファレンス
+    - 名詞: 参照、参照すること
+  - [divine](https://ejje.weblio.jp/content/divine), デ・バァイン
+    - 形容詞: 神聖な、神の
+  - [sister](https://ejje.weblio.jp/content/sister), (スィ|シ)スタァ
+    - 名詞: 妹、姉、姉妹
+  - Selûne, セルーン
+    - ゲーム用語,名詞: 月の女神。月、星、航海、探検、善なる獣人などを司る。夜の女神Sharの妹。
+      - Ref: https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne
+  - ChatGPT訳: 「「Moonrise」は、シャーの神聖な姉妹、セルーネを指しているに違いない。」
 
 ### 20, Eliasis - 8:25 - Loic
 
