@@ -649,4 +649,36 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
   - [rest](https://ejje.weblio.jp/content/rest), ゥレ↑スト
     - 名詞: 残り、残余
   - ChatGPT: 「でも、あなたの治療が儀式を超えて続くつもりなら、あなたも他の人たちと一緒に取り除かれることになるよ。」
+  - 治療すること自体は認めてくれるんだ
 - Tav: _Leave_.
+
+### 20, Eliasis - 9:27 - Nettie, Tav
+
+傷ついた鳥を治療中のNettieへ話しかけた
+
+- Nettie: I see you. Just give me a moment.
+  - [I see you](https://en.wiktionary.org/wiki/I_see_you)
+    - イディオム: 聞き手が話し手の存在を認識していることを表現する
+- Tav: _Wait patiently_.
+  - [patiently](https://ejje.weblio.jp/content/patiently), ペ↑イシェントリィ
+    - 副詞: 根気よく、気長に
+- Nettie: _Vis medicatrix..._
+- Nettie: There. It's up to her now. Life or death.
+  - [up to](https://en.wiktionary.org/wiki/up_to)
+    - 前置詞: 〜の責任範囲内である、〜次第で
+- Nettie: Now, what was it you needed?
+  - what (was it (you needed))
+- Tav: I'm looking for Nettie.
+- Nettie: You found her. But I still don't know what she can do for you.
+- Tav: Healing. As soon as possible.
+- Nettie: Come here. Let's have a look at you.
+- Nettie: You seem healthy enough. A bit tired 'round the eyes, maybe.
+  - 'round = around
+- Tav: No good way of putting this. I... uh... have a tadpole in my head.
+  - ChatGPT訳: 「これをいいように言う方法はないんだけど...えっと...頭の中にオタマジャクシがいるんだ。」
+- Nettie: A tadpole? A _mind flayer_ tadpole?
+- Tav: you know of them? Can you help me?
+- Nettie: I - I'll do what I can.
+  - 後にわかるが、この瞬間にNettieは「Tavが変異する前に殺す」ということも選択肢の一つとして考えている
+- Nettie: Come, follow me. I might be able to help.
+  - 実務的な会話はわかりやすくて良い
