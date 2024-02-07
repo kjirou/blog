@@ -462,4 +462,13 @@ KaghaやRathと同じ部屋に居る人へ話しかけた
 
 KaghaやRathと同じ部屋に居る人へ話しかけた
 
+- Marcoryl: What will the tieflings want next? Letting the hell child go was a mistake.
+  - [hell](https://en.wiktionary.org/wiki/hell), ヘ(ウ|ル)
+    - 名詞: 地獄
+    - 形容詞の用法はない
+  - hell child
+    - おそらくは、Tieflingのその見た目から、その子供達を指す複合名詞
+    - 本文では the を伴っているのでArabellaを指す
+  - ChatGPT訳: 「次にティーフリングたちは何を望むんだろう？地獄の子供を解放するのは間違いだった。」
+
 ### 20, Eliasis - 8:28 - Silver, Tav
