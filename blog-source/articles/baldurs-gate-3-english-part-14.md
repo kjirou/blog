@@ -472,3 +472,15 @@ KaghaやRathと同じ部屋に居る人へ話しかけた
   - ChatGPT訳: 「次にティーフリングたちは何を望むんだろう？地獄の子供を解放するのは間違いだった。」
 
 ### 20, Eliasis - 8:28 - Silver, Tav
+
+KaghaやRathと同じ部屋に居る狼へ話しかけた
+
+- Silver: \*Growl.\*
+  - [growl](https://ejje.weblio.jp/content/growl), グラァウル
+    - 自動詞: 犬などが怒って何かに向かって唸る
+  - この名前はSilvanusにあやかっているのかな？
+- Tav: _Try to get closer_.
+- Wisdom (AnimalHandling) Save Failed: Tav
+- Silver: \*Snarl!\*
+  - [snarl](https://ejje.weblio.jp/content/snarl), ス(ノ|ナ)ォル
+    - 自動詞: 怒った犬などが何かに歯を剥き出して唸る
