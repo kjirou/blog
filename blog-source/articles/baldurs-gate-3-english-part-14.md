@@ -484,3 +484,102 @@ KaghaやRathと同じ部屋に居る狼へ話しかけた
 - Silver: \*Snarl!\*
   - [snarl](https://ejje.weblio.jp/content/snarl), ス(ノ|ナ)ォル
     - 自動詞: 怒った犬などが何かに歯を剥き出して唸る
+
+### 20, Eliasis - 8:32 - Kagha, Tav
+
+Halsinが居ない現在、First DruidであるKaghaへ話しかけた
+
+- Kagha: Go on. Say it. You think I'm a monster.
+  - ChatGPT訳: 「さあ、言ってみな。私が怪物だと思ってるんだろう？」
+  - この人の行為は全般的にDruidたちの利益を優先していて、その面で一貫してるから悪いとは思ってないが、自分たちの都合に合わない
+    - ただ、Intelligence Checkで吐露された内心で小物バレしているんだ... あれ良くないよなぁ
+- Tav: Only a monster would threaten a child.
+  - [threaten](https://ejje.weblio.jp/content/threaten), スレテン
+    - 他動詞: 脅す、脅迫する
+  - ChatGPT訳: 「子供を脅すなんて、怪物以外の何者でもないよ。」
+  - いやーそんなことないっすよ、と返そうとしたんだけど程良い選択肢が無かった
+- Kagha: Yes - you _would_ say so. I know your kind. You see only villains and victims.
+  - [villain](https://ejje.weblio.jp/content/villain), ヴィリン
+    - 名詞: 悪党、悪者
+  - [victim](https://ejje.weblio.jp/content/victim), ヴィクティム
+    - 名詞: 犠牲者、被害者
+  - ChatGPT訳: 「ええ、そう言うでしょうね。私はあなたのような人を知っています。あなたは悪者と被害者しか見えない。」
+- Kagha: A viper bares her fangs defending her brood. I call her mother. You call her monster.
+  - [viper](https://ejje.weblio.jp/content/viper), ヴァイパァ
+    - 名詞: 毒蛇
+  - [bare](https://ejje.weblio.jp/content/bare), ベアー
+    - 他動詞: 物理的に裸にする・露出する、心情を吐露する
+  - [brood](https://ejje.weblio.jp/content/brood), ブルゥド
+    - 名詞: 一家の子供達
+  - ChatGPT訳: 「毒蛇が子どもを守るために牙を剥く。私は彼女を母と呼びます。あなたは彼女を怪物と呼びます。」
+- Kagha: No matter. I took back the Idol of Silvanus and the rite has resumed. We will seal the grove. Free from harm. Free of _intruders_.
+  - [free](https://ejje.weblio.jp/content/free), フリィ
+    - 形容詞: 自由な、束縛されていない、悩まされないで、何かを免れて
+  - [intruder](https://ejje.weblio.jp/content/intruder), イントゥルーダー
+    - 名詞: 侵入者
+  - free from と free of の違い
+    - free from だと、free が「自由な」という意味になり、 本文では「害から解放された」という意味になる。問題はあるけど解決したイメージ。
+    - free of だと、free が「免れた」という意味になり、 本文では「侵入者を免れた」という意味になる。問題自体が消えたイメージ。
+    - なぜ from と of でそういう解釈の違いになるのかは、わからない
+  - ChatGPT訳: 「問題ない。シルヴァヌスの偶像を取り戻し、儀式は再開された。私たちはこの聖域を封じる。害からも、侵入者からも自由だ。」
+- Tav: This rite must be born of powerful magic.
+  - [born](https://ejje.weblio.jp/content/born), ボァン
+    - bear - bare - born
+    - [bear](https://ejje.weblio.jp/content/bear), ベェアァ
+      - 他動詞: 出産する、生み出す、利益を産む
+        - この意味の時は基本的に直接は「出産」のイメージで、製品や作物ではない
+    - コアイメージ: 「我慢して支え持つ」。動きを伴うと「背負って運ぶ」、止まっていると「帯びる」「抱く」、事業なら「頑張って利益を生む」、重さに対しては「支える」。
+- Kagha: The Rite of Thorns. It is the Treefather's gift, that none come to harm. When we speak the final prayer, the Great Vine will sprout forth.
+  - Treefather
+    - ゲーム用語,名詞: Silvanusの呼び名の一つ
+  - [that](https://ejje.weblio.jp/content/that), (ザ|ダ)ット
+    - 接続詞: 前述の文を前提として後述の文を続ける、〜ということ
+  - [none](https://ejje.weblio.jp/content/none), ナン
+    - 代名詞: 誰もいない、何もない
+  - [come to](https://en.wiktionary.org/wiki/come_to)
+    - 他動詞: 〜が降りかかる(=befail)、〜が偶然発生する(=happen)
+  - [speak](https://ejje.weblio.jp/content/speak), スピィク
+    - 他動詞: 唱える
+    - コアイメージ: 声を出して言葉を話す。音を出す点に焦点があり、必ずしも対象を必要としない。
+  - [prayer](https://ejje.weblio.jp/content/prayer), プレイ(ヤ|ア)ァ
+    - 名詞: 祈り、祈祷、祈る人
+  - [sprout](https://ejje.weblio.jp/content/sprout), スプラ↑ウト
+    - 自動詞: 芽を出す、生え始める
+  - [forth](https://ejje.weblio.jp/content/forth), フォ(オ|ア)ス
+    - 副詞: 目に見えるところへ、前へ
+  - ChatGPT訳: 「茨の儀式。それは木の父の贈り物で、誰もが害を受けることがありません。最後の祈りを唱える時、大蔓が芽生えます。」
+- Kagha: The grove will be cloaked in bramble and thorn. No one enters, no one leaves. _Sanctuary_.
+  - [cloak](https://ejje.weblio.jp/content/cloak), (ク|コ)ロォク
+    - 他動詞: 覆う、覆って隠す
+  - [bramble](https://ejje.weblio.jp/content/bramble), ブランボゥ
+    - 名詞: 野バラ、イバラ
+  - [sanctuary](https://ejje.weblio.jp/content/sanctuary), サンチュアリィ
+    - 名詞: 神聖な場所、聖域
+      - 英語版風来のシレン5の「聖域の巻物」は、"Sanctuary Scroll" らしい
+        - Ref: https://sharksnack.github.io/shiren-5/items/scrolls#sanctuary-scroll
+  - この儀式の効果も大分怪しい。みんなイバラに変化するとか、イバラの怪物に食われるとかになりそう。
+- Kagha: None of this can happen while outlanders infect us. Silvanus _demands_ that we choke them out.
+  - [outlander](https://ejje.weblio.jp/content/outlander), アゥ・ランダァ
+    - 名詞: 外来者、外国人、外部の者
+  - [infect](https://ejje.weblio.jp/content/infect), イン・フェクト
+    - 他動詞: 〜を侵す、〜へ感染させる、〜へ病気をうつす
+  - [demand](https://ejje.weblio.jp/content/demand), ディ・マンド
+    - 他動詞: 〜を要求する
+  - [choke out](https://en.wiktionary.org/wiki/choke_out)
+    - 他動詞: 窒息させ失神させる
+    - [choke](https://ejje.weblio.jp/content/choke), チョォク
+      - 他動詞: 首を絞めて窒息させる
+      - 「息苦しくする」という意味もあり、そこから転じて「補給を断つ」という意味もある
+  - we choke them out
+    - choke out 自体に「外へ排除する」という意味はない、機能不全に陥らせるという物騒な意味を転じている
+  - ChatGPT訳: 「このようなことは、外来者が私たちに感染している間に起こることはありません。シルヴァヌスは私たちが彼らを排除することを要求しています。」
+  - 避難民たちを儀式の前に、この場所から武力で追放するということのよう
+- Tav:
+- Kagha:
+- Kagha:
+- Kagha:
+- Kagha:
+- Kagha:
+- Tav:
+- Kagha:
+- Kagha:
