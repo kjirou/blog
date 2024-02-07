@@ -574,12 +574,66 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
     - choke out 自体に「外へ排除する」という意味はない、機能不全に陥らせるという物騒な意味を転じている
   - ChatGPT訳: 「このようなことは、外来者が私たちに感染している間に起こることはありません。シルヴァヌスは私たちが彼らを排除することを要求しています。」
   - 避難民たちを儀式の前に、この場所から武力で追放するということのよう
+- Tav: I came on Zevlor's behalf. His people could perish if you force them out.
+  - [behalf](https://ejje.weblio.jp/content/behalf), (ベ|ビ)・ハウフ
+    - 名詞: 誰かの代理として
+  - I (came) (on Zevlor's behalf).
+    - come on の句動詞ではない
+  - [perish](https://ejje.weblio.jp/content/perish), ペ↑リッシュ
+    - 自動詞: 突然にまたは非業に死ぬ
+  - [force out](https://en.wiktionary.org/wiki/force_out#Verb)
+    - 他動詞: 〜を追い出す
+- Kagha: And mine perish if he stays.
+  - mine は、前文の his people と対応して my people を意味する
+- Kagha: You showed great mettle at the gate - the mettle of a skilled sword for hire.
+  - [mettle](https://ejje.weblio.jp/content/mettle), メトォ
+    - 名詞: 勇気、根性、気概
+  - [skilled](https://ejje.weblio.jp/content/skilled), スキルゥド
+    - 形容詞: 熟練の、腕のいい
+  - [sword](https://ejje.weblio.jp/content/sword), ソォード
+    - 名詞: 剣
+  - the mettle of a skilled sword for hire
+    - 「傭兵として雇われるための勇気を」という感じになりそう
+    - skilled sword は、ここでは「熟練の剣士・傭兵」を意味する
+    - 良く戦ったようだけど私たちには関係ないねという皮肉なのかもしれない
+  - [hire](https://ejje.weblio.jp/content/hire), ハイヤァ
+    - 名詞: 人の雇用
+- Kagha: I want you to provide your services to Zevlor. Offer to guide the outlanders out of the grove. I'm sure they'll reward you well.
+  - [guide](https://ejje.weblio.jp/content/guide), ガーイド
+    - 他動詞: 道案内する、先導する
+  - [reward](https://ejje.weblio.jp/content/reward), ゥリウォード
+    - 他動詞: 〜という対象へ報いる
+      - 〜という行為へ報いる、という意味もある
+- Kagha: They're to be gone before final prayer. If they are not...
+  - final prayer
+    - なぜ the が付かないのだろう？
+  - ChatGPT訳: 「彼らは最終祈祷前に去るべきです。もし去らなければ...」
+- Kagha: ...the viper must strike.
+  - [must](https://ejje.weblio.jp/content/must), マ↑スト
+    - コアイメージ: 強制力が働き、ある行為をせねばならない、ある認識をせねばならない
+  - [strike](https://ejje.weblio.jp/content/strike), スト(ラ|レ)イク
+    - 自動詞: 襲う、襲いかかる
+- Tav: Then it seems I'd best speak to Zevlor.
+- Kagha: You will do more than speak.
+  - ChatGPT によると、 do も speak も動詞とのことだが、そういう比較級の例を他で見つけられなかった
+  - ChatGPT訳: 「言葉以上のことをするでしょう。」
+- Kagha: This tale ends but one way: with the outlander rot cleansed and the grove forever shrouded.
+  - [tale](https://ejje.weblio.jp/content/tale), テイルゥ
+    - 名詞: 事実・架空・伝説の話、物語
+    - story より古めかしい
+  - [but](https://ejje.weblio.jp/content/but)
+    - 前置詞: 〜を除いて
+  - [rot](https://ejje.weblio.jp/content/rot), (ラ|ロ)ット
+    - 名詞: 社会的・精神的な腐敗
+  - [shroud](https://ejje.weblio.jp/content/shroud), シュラァウド
+    - 他動詞: 〜を覆い隠す
+  - ChatGPT訳: 「この物語はただ一つの方法で終わります: アウトランダーの腐敗が浄化され、森が永遠に覆われることで。」
+  - Kaghaは予言めいた言い方をするので、全体的に会話の意味が掴みにくかった
+
+### 20, Eliasis - 9:18 - Kagha, Tav
+
+- Kagha:
 - Tav:
 - Kagha:
 - Kagha:
-- Kagha:
-- Kagha:
-- Kagha:
-- Tav:
-- Kagha:
-- Kagha:
+- Tav: _Leave_.
