@@ -439,6 +439,27 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
 
 ### 20, Eliasis - 8:25 - Loic
 
+KaghaやRathと同じ部屋に居る人へ話しかけた
+
+- Loic: Please leave. Our hospitality has limits - and they were crossed long ago.
+  - [hospitality](https://ejje.weblio.jp/content/hospitality), (ハ|ホ)スピタリティ
+    - 名詞: 親切にもてなすこと、歓待、厚遇
+  - limits が複数形なのはなぜ？
+    - 複数の側面で限界があるから、例えば、資源・居住区域・時間・忍耐力など
+  - [limit](https://ejje.weblio.jp/content/limit), ゥリミット
+    - 名詞: 限界、限度
+  - [cross](https://en.wiktionary.org/wiki/cross#Verb), クロォス
+    - 他動詞: 横切る、何かの一方からもう一方へ移動する
+  - [long ago](https://en.wiktionary.org/wiki/long_ago)
+    - 副詞: 大昔に、特に遠い過去のある時点に
+  - they were crossed long ago
+    - they は limits を指し、それを前提に crossed は「超える」「越える」という意味になっている
+      - cross そのものにそのような意味はない
+  - ChatGPT訳: 「どうかお帰りください。私たちのおもてなしには限界があります - そして、それはとっくに超えられていました。」
+  - 受け入れるにも限度があるというのを直接言ったのは、この人が初めてである。そうだよね。
+
 ### 20, Eliasis - 8:25 - Marcoryl
+
+KaghaやRathと同じ部屋に居る人へ話しかけた
 
 ### 20, Eliasis - 8:28 - Silver, Tav
