@@ -632,8 +632,21 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
 
 ### 20, Eliasis - 9:18 - Kagha, Tav
 
-- Kagha:
-- Tav:
-- Kagha:
-- Kagha:
+再びKaghaへ話しかけた
+
+- Kagha: Why are you here? I sent you to Zevlor.
+- Tav: I'm told there is a healer here. Where is she?
+- Kagha: Nettie, yes. She's bumbling about somewhere.
+  - [bumble](https://ejje.weblio.jp/content/bumble), バンボゥ
+    - 自動詞: ブンブンいう、もぐもぐいう、ヘマなやり方をする
+  - ChatGPT訳: 「ネッティは、ええ。どこかでドジを踏んでいるよ。」
+  - あまりNettieのことを良く思っていないのかな？
+- Kagha: But if your treatment is meant to outlast the rite, you'll be removed with the rest.
+  - [mean](https://ejje.weblio.jp/content/mean), ミィーン
+    - 他動詞: 〜を意図する、〜を意味する
+  - [outlast](https://ejje.weblio.jp/content/outlast), アウト・ラ↑ァスト
+    - 他動詞: 〜より長持ちする、〜より長く続く
+  - [rest](https://ejje.weblio.jp/content/rest), ゥレ↑スト
+    - 名詞: 残り、残余
+  - ChatGPT: 「でも、あなたの治療が儀式を超えて続くつもりなら、あなたも他の人たちと一緒に取り除かれることになるよ。」
 - Tav: _Leave_.
