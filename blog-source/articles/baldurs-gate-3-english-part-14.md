@@ -675,6 +675,10 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
 - Nettie: You seem healthy enough. A bit tired 'round the eyes, maybe.
   - 'round = around
 - Tav: No good way of putting this. I... uh... have a tadpole in my head.
+  - [put](https://ejje.weblio.jp/content/put), プゥト
+    - 他動詞: ものや人をある場所へ置く
+    - コアイメージ: ある場所へ移動する
+    - 本文で使われているような「言う」「表現する」という意味を直接は持たない
   - ChatGPT訳: 「これをいいように言う方法はないんだけど...えっと...頭の中にオタマジャクシがいるんだ。」
 - Nettie: A tadpole? A _mind flayer_ tadpole?
 - Tav: you know of them? Can you help me?
@@ -682,3 +686,39 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
   - 後にわかるが、この瞬間にNettieは「Tavが変異する前に殺す」ということも選択肢の一つとして考えている
 - Nettie: Come, follow me. I might be able to help.
   - 実務的な会話はわかりやすくて良い
+
+### 20, Eliasis - 9:37 - Nettie, Tav, Shadowheart
+
+NettieはTavたちを人の死体のある場所まで連れて行き、そこで再び話し出した
+
+- Nettie: This one had the same problem as you. Attacked us in the woods together with some goblins.
+  - やっと、やっと物語の本筋っぽい情報が得られた...!
+- Nettie: Tadpole crawled out of his head soon after.
+- Tav: The drow and I have the same kind of parasite?
+  - Drow, ドラウ
+    - ゲーム用語,名詞: 暗めの肌や髪の色を持つElf族。 dark elves, deep elves, night elves, under-elves とも呼ばれる。邪悪な傾向にあるが、必ずしもそうとは限らない。
+      - Ref: https://forgottenrealms.fandom.com/wiki/Drow
+      - Ref: https://wikiwiki.jp/classicdnd/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/%E3%80%90%E3%83%89%E3%83%A9%E3%82%A6%E3%80%91
+- Nettie: Seems so. Gave Master Halsin a right start.
+  - [start](https://ejje.weblio.jp/content/start), スタァト
+    - 名詞: 驚くべき出来事
+  - a right start
+    - 「かなりの驚き」を意味する、イディオム的な句
+    - right はおそらく副詞の強調として使われている、形容詞としてはその意味は持たない
+- Nettie: It's why he joined the adventurers on their expedition. To find out what was happening.
+  - [find out](https://en.wiktionary.org/wiki/find_out#Verb)
+    - 他動詞: 調査や質問により発見すること
+- Nettie: A pity you got me instead of him. He understands these things - studied them. Still, we have options.
+  - [pity](https://ejje.weblio.jp/content/pity), ピ↑ィティ
+    - 名詞: 残念なこと、哀れみ、同情
+  - [study](https://ejje.weblio.jp/content/study), スタディ
+    - 他動詞: 〜を研究する、〜を綿密に調査する
+  - [option](https://ejje.weblio.jp/content/option), アープシ(ェ|ョ)ン
+    - 名詞: 選択肢、選択権
+  - ChatGPT訳: 「彼ではなく私を手に入れたのは残念です。彼はこれらのことを理解しています - 研究していました。それでも、私たちには選択肢があります。」
+- Nettie: You don't have to be here for this.
+- Shadowheart: No, I'll stay. I'd rather know exactly what you're up to.
+- Nettie: All right, let's see what we can do.
+- Tav: Thank you, I'll take anything that can help.
+- Nettie:
+- Tav:
