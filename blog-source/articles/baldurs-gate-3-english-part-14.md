@@ -717,8 +717,69 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - 名詞: 選択肢、選択権
   - ChatGPT訳: 「彼ではなく私を手に入れたのは残念です。彼はこれらのことを理解しています - 研究していました。それでも、私たちには選択肢があります。」
 - Nettie: You don't have to be here for this.
+  - have to be (here) (for this)
+    - have to は、「〜する必要がある」「〜すべき」
+    - be は、「居る」という意味の自動詞
+  - ChatGPT訳: 「これにはあなたがここにいる必要はありません。」
+  - 前文とのつながりにおいて文意がわからない、「選択肢がある」というからこちらの意思を伺うのかと思っていた
 - Shadowheart: No, I'll stay. I'd rather know exactly what you're up to.
+  - [rather](https://ejje.weblio.jp/content/rather), ラ↑ードァ
+    - 副詞: むしろ好んで
+  - [up to](https://en.wiktionary.org/wiki/up_to#Preposition)
+    - 前置詞: 〜をやっている(=doing)、〜に巻き込まれている
+    - Weblio辞書や日本語記事には「目的」「予定」と書いてあるのだが、Wikitionaryにはその説明はない
+  - ChatGPT訳: 「いいえ、私は残ります。あなたが何をしているのか正確に知りたいです。」
 - Nettie: All right, let's see what we can do.
 - Tav: Thank you, I'll take anything that can help.
+  - take (anything (that can help))
+  - ChatGPT: 「ありがとうございます、助けてくれるものなら何でもいただきます。」
+- Nettie: Of course. Now, tell me what's been happening. Any symptoms? Strange events?
+  - [symptom](https://ejje.weblio.jp/content/symptom), シンプ(タ|テ)ン
+    - 名詞: 病気の症状、物事の兆候
+  - Of course. の意味が少しわからない
+    - なんらかの回答をするための句だと思うが、前文は回答を要求する文ではない
+    - 少なくとも肯定の意味であることに問題はないが、それ以上の意味がわからない
+- Tav: I can merge my mind with anyone else that's infected.
+- Nettie: Victims can identify each other? Not that the others know they're victims, of course.
+  - [not that](https://en.wiktionary.org/wiki/not_that)
+    - 接続詞: 導く次節が真実ではないが前節を一部否定するために付け足す、〜というわけではないが
+  - the others は誰を指す？
+    - ChatGPTによると、前節でお互いに認識した以外の victims
+  - they're victims の they は誰を指す？
+    - ChatGPTによると、犠牲者グループ全体の中で特に自分たちが犠牲者であると認識できている人たち、を指す雰囲気だが、回答も混乱していてわからない
+    - 自分が考えるところによると、おそらくは、前文の each other の対象
+  - ChatGPT訳: 「犠牲者たちは互いにを認識できるのですね？もちろん、他の犠牲者たちは自分たちが犠牲者だとは知らないわけですが。」
+  - 自分の解釈だと、「他の犠牲者から見れば、互いに認識できたという2者間が本当に犠牲者かわからないよね？」という一部否定に読めている
+- Nettie: How'd you pick up the prasite? Halsin was desperate to find where all this was happening.
+  - [desperate](https://ejje.weblio.jp/content/desperate), デス・(パ|ペ)レト
+    - 形容詞: 必死で、死に物狂いで、〜が欲しくてたまらなくて、自暴自棄の
+  - all this は何を指すのか？
+    - 寄生虫問題の全体
+- Tav: On a mind flayer ship - I was kidnapped and infected.
+  - [kidnap](https://ejje.weblio.jp/content/kidnap), キッ・ナップ
+    - 他動詞: 誘拐する、子供を攫う
+- Nettie: A mind flayer ship? But Master Halsin was sure -
+  - 先の文で「必死になって探していた」と言っていたが、その中でも何か確信していた部分があった？
+- Nettie: ...Look, you've been straight with me, so I'll be straight with you. You're dangerous. If you transform here, we're all dead.
+  - [straight](https://ejje.weblio.jp/content/straight), ストレィト
+    - 形容詞: 正直で、あからさまで、公明正大で
+  - ChatGPT訳: 「...聞いて、あなたは私に正直だったから、私も正直に話すわ。あなたは危険よ。ここで変身したら、私たちはみんな死ぬわ。」
+  - その発想はなかった。ゲーム的にもMind Flayerの強個体に先手を取られたら、どんな強者でも被害は免れなさそう。
+- Nettie: But you seem like a good soul. You deserve a change to save yourself.
+  - [soul](https://ejje.weblio.jp/content/soul), ソォゥ
+    - 名詞: 心、精神
+- Nettie: This is a vial of wyvern poison. Swear to me you'll swallow it if you feel _any_ symptoms.
+  - [vial](https://ejje.weblio.jp/content/vial), ヴァイアウ
+    - 名詞: ガラス瓶、水晶瓶
+  - [Wyvern](https://forgottenrealms.fandom.com/wiki/Wyvern), ワイ・ヴァーン
+    - ゲーム用語,名詞: 大きい翼、有毒な刺す尾、鋭い歯を持つ飛行するトカゲ。ドラゴンの親戚。
+      - Ref: https://forgottenrealms.fandom.com/wiki/Wyvern
+  - [swallow](https://ejje.weblio.jp/content/swallow), スワロゥ
+    - 他動詞: ぐっと飲む、飲み込む
+- Tav: I swear.
+- Nettie: I hope it doesn't come to that but... thank you. Here.
+  - Wyvern Toxinという武器に塗って追加ダメージを与えるポーションを、イベントアイテム枠で貰った
+- Nettie:
+- Nettie:
 - Nettie:
 - Tav:
