@@ -778,7 +778,80 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - 他動詞: ぐっと飲む、飲み込む
 - Tav: I swear.
 - Nettie: I hope it doesn't come to that but... thank you. Here.
+  - [come to](https://en.wiktionary.org/wiki/come_to#Verb)
+    - 他動詞: 降りかかる(=befail)、偶然発生する(=happen)
+  - it doesn't come to that
+    - it は状況を示す形式主語
+    - that は「Tavがワイバーンの毒を飲むような状況」
   - Wyvern Toxinという武器に塗って追加ダメージを与えるポーションを、イベントアイテム枠で貰った
+- Nettie: You know, I've spent my life treating folk and never once saw a mind flayer infection. Then suddenly there's dozens of you - maybe more.
+  - [dozen](https://ejje.weblio.jp/content/dozen), ダァズン
+    - 名詞: 1ダース
+      - 複数形で「多数」「数十」
+  - there's dozens of you
+    - 正しい文章なら、 there are と複数形になる
+    - ChatGPT によると、口語では会話のリズムのために there's を使いたくなるときがあるとのこと
+  - ChatGPT訳: 「ねえ、私は人々を治療することに人生を費やしてきたけれど、一度もマインドフレイヤーの感染を見たことがなかったの。それなのに突然、あなたたちが何十人もいる - もしかしたらもっといるかもしれないわ。」
+- Nettie: Master Halsin and I were tracking them, studying them, trying to figure out what the hells was going on.
+  - [hell](https://ejje.weblio.jp/content/hell), ヘ↑ゥ
+    - 名詞: 地獄のような苦悩の場所・状況、修羅場
+  - trying to figure out (what (the hells was going on))
+  - ChatGPT訳: 「マスター・ハルシンと私は彼らを追跡し、研究し、一体全体何が起こっているのかを理解しようとしていました。」
+- Nettie: Because you should all be changing - there should be a small army of mind flayers out there! But you're not. Weird powers aside, you seem perfectly normal.
+  - Because you should all be changing
+    - you と all は同格の関係、 S 助動詞 同格のall V の構文
+      - Ref: Part 5
+  - out there
+    - 今更調べたが、イディオムではなく、 out:前置詞, there:副詞 の副詞句
+      - 「ちょっと離れたひと区画の場所のあそこに」「外に」という意味が主、本文だと文脈上「そこいら中に」になる
+    - イディオムとしても存在するが、意味が異なる
+      - Ref: https://en.wiktionary.org/wiki/out_there
+  - a small army of mind flayers out there の文意は？
+    - Tavたちが変化したらそれになるのか、TavがMind Flayerへ変化した後に召喚したり周りの人を取り込んでそうなるのか、どっちなんだろう
+  - [aside](https://ejje.weblio.jp/content/aside), ア・サァイド
+    - 副詞: 〜は別として、〜は考えないで、〜はさておいて
+      - 前置詞と定義する派もあるが、WiktionaryとWeblio辞書に従った
+    - コアイメージ: 脇へ、かたわらへ
+  - [normal](https://ejje.weblio.jp/content/normal), ノーマウ
+    - 形容詞: 正常の、標準の、一般並みの
+  - Weird powers aside
+    - ChatGPTによると、 aside は前置詞であり例外的な形とのことだが、他の辞書群だと副詞扱いだった
+    - aside を副詞だと考えても、名詞 + 副詞 と一般的ではない形？と思ったが、 ten years later とかもあるからそうでもないのかも
+    - {何か} aside, {文} で、「{何か}はさておいて・別として、{文}」という例外的な構文だと考えた方が良さそう
+      - Ref: https://nativecamp.net/heync/question/37250
+        - こちらの例だと、 {何か} 部分には文が入っている
+  - ChatGPT訳: 「みんな変わるべきなのに - そこら中にマインドフレイヤーの小さな軍隊がいるはずなのに！でも、おかしいね。変な力を除けば、あなたたちは完全に普通に見える。」
+- Tav: What do you mean 'should' be changeing?
+  - 'should' be changeing の主語がない？
+    - ChatGPTによると、この文はNettieの発言からの引用なので、暗黙的に主語は you(=Tavたち) であるとのこと
+  - ChatGPT訳: 「「変わるべき」とはどういう意味？」
+- Nettie: Mind flayers reproduce by infecting someone with their parasite. Seven gruesome days later, the victim transforms and a new mind flayer is born.
+  - [reproduce](https://ejje.weblio.jp/content/reproduce), ゥリピデュース
+    - 自動詞: 人間や動植物が繁殖する
+  - [gruesome](https://ejje.weblio.jp/content/gruesome), グルゥ↑ー・サム
+    - 形容詞: ぞっとする、身の毛もよだつような
+  - the victim は何を指している？
+    - これは先ほど会話に出てきた The drow ではなくて、仮定としての「ある犠牲者」を指す
+  - ChatGPT訳: 「マインドフレイヤーは、寄生虫で誰かを感染させることによって繁殖します。恐ろしい7日間の後、被害者は変身し、新しいマインドフレイヤーが誕生します。」
+- Nettie: The thing in your skull, though? It's different to anything in our records.
+  - [though](https://en.wiktionary.org/wiki/though#Adverb), (ザ|ゾ)ォ
+    - 副詞: 逆説的な内容に対して発言を強調する、ですが、けど、だけど、でも、しかし
+      - Wiktionaryには発言を逆説や疑問を呈示しつつ強める、というまでは書かれていないが、Weblio辞書や本文や各種例文を見るとそいういう意味が通常含まれるように見える
+  - ChatGPT訳: 「あなたの頭蓋骨の中にあるものは、ですが？ それは私たちの記録にあるどんなものとも違います。」
+    - 日本語へ訳すのは難しそう
+- Nettie: It's one of their worms, for sure, but this one gives you powers - telepathic connections. And it doesn't turn you into one of them.
+  - [for sure](https://en.wiktionary.org/wiki/for_sure#Prepositional_phrase)
+    - 前置詞句: 間違いなく、疑いなく
+  - [telepathic](https://ejje.weblio.jp/content/telepathic), テレ・パ↑ーシック
+    - 形容詞: テレパシーの、精神感応的な
+  - ChatGPT訳: 「間違いなく彼らのワームの一つだけど、このワームはあなたに力を与えるんだ - テレパシーの繋がりを。そして、それはあなたを彼らの一人に変えたりしないよ。」
+- Nettie: Not yet, anyhow.
+  - ChatGPT訳: 「少なくとも今はね。」
+- Tav: That's... good news?
+- Nettie:
+- Nettie:
+- Nettie:
+- Tav:
 - Nettie:
 - Nettie:
 - Nettie:
