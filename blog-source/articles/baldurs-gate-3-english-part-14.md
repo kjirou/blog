@@ -887,10 +887,45 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - ChatGPT訳のような「溢れている」のような意味はない。「腐敗した」が転じた「非常に悪い状態」を起点にしての意訳。
   - ChatGPT訳: 「実は、彼を探すために鳥を送ったんだけど、その場所はゴブリンで溢れているの。私たちでは近づくことすらできないのよ。」
 - Nettie: You, though? You're one of them - technically speaking, I mean. They won't kill someone carrying their parasite.
+  - [technically](https://ejje.weblio.jp/content/technically), (テ|チェ)↑クニカリ
+    - 副詞: 厳密に、法律的に、専門的に
+      - 「厳密に」は、 technically speaking としてイディオム的に使うときだけかも
+  - [I mean](https://en.wiktionary.org/wiki/I_mean)
+    - イディオム: 言い間違いを訂正するのに用いる、私は意図するのは、つまり
+  - You're one of them - technically speaking, I mean.
+    - You're one of them という言い方には「あなたは私たちとは違う」という意味を暗に含むこともあり、おそらくNettieは言った後に気まずい思いをしている
+    - そのため、直後に technically speaking, I mean. という補足を入れているのだと思う
   - ChatGPT訳: 「でもあなたなら？あなたは一応、彼らの一人と言えるわ。その寄生虫を持っている者を彼らは殺さないから。」
 - Nettie: If you can find Halsin and get him out of there, we can discover what he learned. And perhaps he can save your life. How's that sound?
+  - [discover](https://ejje.weblio.jp/content/discover), ディス(カ|コ)バー
+    - 他動詞: 発見する、真相を明らかにする
+    - コアイメージ: 覆いを取り除く
+  - we can discover what he learned
+    - Halsinが生還したらの話をしているのに、 discover(=発見する) という単語を使うのはおかしい気がした
+    - ChatGPTによると、「Halsinからその情報を聞き出す」のような意味とのこと
+  - How's = How does
+  - ChatGPT訳: 「もしハルシンを見つけてそこから連れ出せたら、彼が何を学んだかを知ることができます。そして、おそらく彼はあなたの命を救うことができるでしょう。どうですか？」
 - Tav: All right, I'll find Halsin.
-- Nettie: THank you. It would mean everything to the grove. To me.
+- Nettie: Thank you. It would mean everything to the grove. To me.
+  - It would は It will ではないの？
+    - 成功すればの条件付きの意思や推量を意味するので、 will だと実現性が高すぎる
+    - なお、このときの would はいわゆる仮定法と呼ばれる用法
+  - To me. は前文の to the grove に対して等位的な関係
+  - ChatGPT訳: 「ありがとう。それはグローブにとって全てを意味します。私にとっても。」
 - Nettie: I wish I could tell you more, but only those adventurers know what happened out there.
+  - [wish](https://ejje.weblio.jp/content/wish), ウィッシュ
+    - 自動詞: 容易に得られなそうなことを願う・望む・欲する
+  - ChatGPT訳: 「もっと詳しく話せたらいいのですが、そこで何が起こったのかは、冒険者たちにしかわかりません。」
 - Nettie: All I can say for sure is they all went to the old temple of Selûne and Master Halsin didn't make it back.
+  - ChatGPT訳: 「確かなことを言えるのは、彼ら全員がセルーネの古い寺院に行ったこと、そしてマスター・ハルシンが戻ってこなかったことだけです。」
 - Nettie: Good luck out there. And if things start to go bad - remember the vial. Remember your oath.
+  - Good luck out there.
+    - out there は、「未知の困難」という側面を強調する意図
+  - [go](https://ejje.weblio.jp/content/go), ゴォーウ
+    - 自動詞: ある状態へ変化する、なる
+      - 悪い意味で使うことが多い
+  - [bad](https://ejje.weblio.jp/content/bad), ベァード
+    - 形容詞: 悪い
+    - 副詞の badly の略でもあり、 go bad はそれと考えることもできるが、ChatGPTの意見は補語と考える方が妥当とのこと
+  - go bad
+    - イディオムとしての [go bad](https://en.wiktionary.org/wiki/go_bad) もあるが、本文では関係なさそう
