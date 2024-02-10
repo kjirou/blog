@@ -987,4 +987,66 @@ Arabellaを解放したので、依頼元のその家族へ会いに行った
 
 ### 20, Eliasis - 12:15 - Aradin, Tav
 
+Nettieとの会話でより情報が引き出せそうだったので、再びAradinへ話しかけた
+
+- Aradin: I'm drinkin'. You're leavin'.
+- Tav: I'm not leaving until you tell me exactly what happened to the First Druid.
+- Aradin: I already told you - he was at the temple ruins with us. But it ain't like we forced him to go along.
+  - [like](https://ejje.weblio.jp/content/like), ゥラ↑イク
+    - 前置詞: 〜のような
+  - [go along](https://en.wiktionary.org/wiki/go_along)
+    - 自動詞: 参加する(=participate), 協力する(=cooperate), 従う(=conform)
+  - ChatGPT訳: 「もう言ったじゃないか - 彼も私たちと一緒に寺院の廃墟にいた。でも、無理やり連れて行ったわけじゃないからね。」
+  - AradinたちがKaghaの依頼を受けて連れて行ったという考え方もできるが、それにしてはAradinたちの損失が大きすぎるのでなさそう
+- Aradin: As soon as he heard we had a contract to find that Nightsong relic, he was more eager than a hound in heat.
+  - [eager](https://ejje.weblio.jp/content/eager), イ↑ーガー
+    - 形容詞: 熱望して、しきりに求めて
+  - [hound](https://ejje.weblio.jp/content/hound), ハ↑ァウンド
+    - 名詞: 猟犬
+  - [in heat](https://en.wiktionary.org/wiki/in_heat#Prepositional_phrase)
+    - 前置詞句: 発情中である
+  - ChatGPT訳: 「ナイツソングの遺物を見つける契約があると聞いた途端、彼は発情期の猟犬よりも熱心だった。」
+  - 寺院自体に興味があったのではなくて、 Nightsong relic の方に興味があったのか？
+- Aradin: When the goblins jumped us, most of my crew scarpered, just like I taught 'em to. The old codger didn't.
+  - [scarper](https://ejje.weblio.jp/content/scarper), スカー(プ|パ)ー
+    - 自動詞: 逃げる、ずらかる
+  - [taught](https://ejje.weblio.jp/content/taught), トォト
+    - teach - taught - taught
+    - [teach](https://ejje.weblio.jp/content/teach), ティーチ
+      - 他動詞: 人に何かを行うように教える
+        - teach O(=人) to Verb(=行い)
+  - [codger](https://ejje.weblio.jp/content/codger), (カ|コ)↑ージャ
+    - 名詞: 老人の偏屈者
+- Tav: And where exactly did you leave him?
+- Aradin: Gobbos are holed up in the temple ruins out west of here - last I saw Halsin, he was right in the thick of 'em.
+  - Gobbos = goblins
+  - [hole up](https://en.wiktionary.org/wiki/hole_up)
+    - 自動詞: 穴へ入る・避難する・籠る
+  - Gobbos are holed up
+    - holed up を形容詞句とする能動態
+    - hole up は自動詞なので通常は受動態になれないため、これは受動態ではない可能性が高い、というロジック
+  - out (west of here)
+    - out により「ここから西の方向へ」という句へ「やや遠目の」という意味を付与している
+    - なお、ここでの west は名詞。通常は方角を指すときは形容詞や副詞の用法だが、ここではおそらく out を伴うために名詞として使っている。
+  - [thick](https://ejje.weblio.jp/content/thick), スィック
+    - 形容詞: 密集した、濃い
+  - he was right in the thick of 'em
+    - right は副詞の「ちょうど」「まさに」
+    - thick は比喩表現
+  - ChatGPT訳: 「ゴボスはここから西の寺院の廃墟に立てこもっている - ハルシンを最後に見た時、彼はその真っ只中にいたよ。」
+- Aradin: If you head that way, you'll likely smell 'em or hear their drums before you see 'em.
+  - [drum](https://ejje.weblio.jp/content/drum), デュ・ラム
+    - 名詞: 太鼓の音、太鼓
+  - ならなんで、Aradinたちはそのまま進んだのだろう？
+- Tav: All right. I'll leave you to your drinking.
+- Aradin: Thanks
+
 ### 20, Eliasis - 12:20 - Aradin
+
+またまた話しかけた。
+なお、Aradinの他の仲間の会話は変わっていなかった。
+
+- Aradin: Outta my face.
+  - outta = out of
+  - ChatGPT訳: 「俺の顔から離れろ。」
+    - 意訳で、「邪魔をするな」「放っておいてくれ」「近寄るな」
