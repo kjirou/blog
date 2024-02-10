@@ -961,3 +961,30 @@ Nettieへ再度話しかけた
 - Tav: _Leave_.
 
 ### 20, Eliasis - 11:57 - Komira, Arabella, Locke, Tav
+
+Arabellaを解放したので、依頼元のその家族へ会いに行った
+
+- Komira: You ever scare me like that again, and I'll feed you to a gnoll.
+  - [scare](https://ejje.weblio.jp/content/scare), スケアー
+    - 他動詞: 人を怖がらせる、怯えさせる
+  - [feed](https://ejje.weblio.jp/content/feed), フィ↑ード
+    - 他動詞: 食物や餌を人や動物へ与える
+      - feed O(=食物や餌) to {人や動物}
+  - そういうこと言ってるからグレるんだろぉ！
+- Arabella: Mum. I'm _fine_. Stop it.
+- Locke: Our little hellion told us what happened. Thank you - don't know what we'd do without her.
+  - [hellion](https://ejje.weblio.jp/content/hellion), ヘェリン
+    - 名詞: いたずらっ子、やんちゃ、わんぱく、乱暴者
+  - ChatGPT訳: 「私たちの小さなやんちゃ娘が何があったかを教えてくれました。ありがとう - 彼女がいなかったら私たちはどうしたらいいかわかりません。」
+- Tav: I hope we'll meet again under better circumstances.
+  - [circumstance](https://ejje.weblio.jp/content/circumstance),
+    - 名詞: 状況、周囲の事情・環境
+- Locke: Likewise. Arabella?
+  - [likewise](https://ejje.weblio.jp/content/likewise), ゥライク・ワァイズ
+    - 副詞: 同様に、同じように
+- Arabella: Thank you. For helping me.
+  - クエスト報酬として魔法の品を貰った
+
+### 20, Eliasis - 12:15 - Aradin, Tav
+
+### 20, Eliasis - 12:20 - Aradin
