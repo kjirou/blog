@@ -785,6 +785,8 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - that は「Tavがワイバーンの毒を飲むような状況」
   - Wyvern Toxinという武器に塗って追加ダメージを与えるポーションを、イベントアイテム枠で貰った
 - Nettie: You know, I've spent my life treating folk and never once saw a mind flayer infection. Then suddenly there's dozens of you - maybe more.
+  - [folk](https://ejje.weblio.jp/content/folk), フォウク
+    - 名詞: 人々
   - [dozen](https://ejje.weblio.jp/content/dozen), ダァズン
     - 名詞: 1ダース
       - 複数形で「多数」「数十」
@@ -848,11 +850,47 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
 - Nettie: Not yet, anyhow.
   - ChatGPT訳: 「少なくとも今はね。」
 - Tav: That's... good news?
-- Nettie:
-- Nettie:
-- Nettie:
-- Tav:
-- Nettie:
-- Nettie:
-- Nettie:
-- Tav:
+- Nettie: Could be, but there's a lot we don't know. Infected - folks like you - have been converging on an old tempple of Selûne, and I've no idea why.
+  - [lot](https://ejje.weblio.jp/content/lot), (ラ|ロ)ット
+    - 名詞: たくさん
+      - a lot の形で用いる
+  - folks が複数形？
+    - 通常は people のように集合名詞で使われる、これはより具体的に人が集まっているイメージできているからだろうか？
+  - [converge](https://ejje.weblio.jp/content/converge), コン・ヴァージ
+    - 自動詞: 一点に向かって集まる、収束する
+  - [why](https://ejje.weblio.jp/content/why), ワァイ
+    - 副詞: なぜ、どうして、どういう理由で、なんのために
+    - 文頭に配置するときは、以下のパターンのみ
+      - 疑問文: Why are you late?
+      - 接続詞的に使うとき: Why I did it, you'll never understand.
+      - 間投詞として使う: Why, that's the most beautiful painting I've ever seen!
+  - ChatGPT訳: 「そうかもしれないけれど、まだわからないことがたくさんあるわ。感染した人たち - あなたのような人たち - がセルーネの古い寺院に集まっているの。その理由は全くわからないのよ。」
+- Nettie: When Master Halsin heard the adventurers were heading that way, he saw a chance to get answers. Joined on the spot.
+  - [way](https://ejje.weblio.jp/content/way), ウェイ
+    - 名詞: 方向、方面
+  - [on the spot](https://en.wiktionary.org/wiki/on_the_spot)
+    - 前置詞句: その瞬間
+  - [join](https://ejje.weblio.jp/content/join), ジョ↑ーイン
+    - 自動詞: 参加する、行動を共にする
+  - ChatGPT訳: 「冒険者たちがその方向に向かっているとマスター・ハルシンが聞いた時、彼は答えを得るチャンスを見た。その場で参加した。」
+- Nettie: Whatever he found there, he didn't make it back.
+  - [back](https://ejje.weblio.jp/content/back), バ↑ァック
+    - 副詞: 元の状態・場所へ戻って
+  - make it back
+    - 「元の状態へ戻ることを成功しなかった」
+- Tav: What do you want me to do?
+- Nettie: The thing is, I've sent birds to find him, but the place is rotten with goblins. None of us can even get close.
+  - [the thing is](https://en.wiktionary.org/wiki/the_thing_is)
+    - イディオム: 重要な点を伝えるときの導入で使う、実は、要は、問題は
+  - [rotten](https://ejje.weblio.jp/content/rotten), ラ↑ットン
+    - 形容詞: 腐った、腐敗した
+    - ChatGPT訳のような「溢れている」のような意味はない。「腐敗した」が転じた「非常に悪い状態」を起点にしての意訳。
+  - ChatGPT訳: 「実は、彼を探すために鳥を送ったんだけど、その場所はゴブリンで溢れているの。私たちでは近づくことすらできないのよ。」
+- Nettie: You, though? You're one of them - technically speaking, I mean. They won't kill someone carrying their parasite.
+  - ChatGPT訳: 「でもあなたなら？あなたは一応、彼らの一人と言えるわ。その寄生虫を持っている者を彼らは殺さないから。」
+- Nettie: If you can find Halsin and get him out of there, we can discover what he learned. And perhaps he can save your life. How's that sound?
+- Tav: All right, I'll find Halsin.
+- Nettie: THank you. It would mean everything to the grove. To me.
+- Nettie: I wish I could tell you more, but only those adventurers know what happened out there.
+- Nettie: All I can say for sure is they all went to the old temple of Selûne and Master Halsin didn't make it back.
+- Nettie: Good luck out there. And if things start to go bad - remember the vial. Remember your oath.
