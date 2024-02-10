@@ -929,3 +929,35 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - 副詞の badly の略でもあり、 go bad はそれと考えることもできるが、ChatGPTの意見は補語と考える方が妥当とのこと
   - go bad
     - イディオムとしての [go bad](https://en.wiktionary.org/wiki/go_bad) もあるが、本文では関係なさそう
+
+### 20, Eliasis - 11:07 - Nettie, Tav
+
+Nettieへ再度話しかけた
+
+- Nettie: Any word on Master Halsin?
+  - [word](https://ejje.weblio.jp/content/word), ウォード
+    - 名詞: 知らせ、便り、消息
+- Tav: No, not yet.
+- Nettie: Please hurry - for both your sakes.
+  - [sake](https://ejje.weblio.jp/content/sake), セ↑イク
+    - 名詞: 何かのため、目的、理由
+  - for both your sakes
+    - for someone's sake というイディオムの変形
+    - your はTavのみではなく、TavとHalsinの両者を指す
+- Tav: Do you know where Halsin went?
+- Nettie: He and the adventurers were headed to the ruined temple in the west.
+  - [headed](https://en.wiktionary.org/wiki/headed#Adjective_2)
+    - 形容詞: 特定の方角に向かっている様子
+  - [ruined](https://ejje.weblio.jp/content/ruined), ルゥイント
+    - 形容詞: 荒廃した、破滅した
+  - He and the adventurers were headed
+    - 受動態ではない
+- Nettie: Master Halsin studied that drow for days, and he was sure something at the temple could help his research. I'm praying he was right.
+  - [right](https://ejje.weblio.jp/content/right), ゥ(ラ|レ)イト
+    - 形容詞: 間違いのない、正確な、正しい
+  - [pray](https://ejje.weblio.jp/content/pray), プレィ
+    - 他動詞: 心から願う
+      - that 節を伴って
+- Tav: _Leave_.
+
+### 20, Eliasis - 11:57 - Komira, Arabella, Locke, Tav
