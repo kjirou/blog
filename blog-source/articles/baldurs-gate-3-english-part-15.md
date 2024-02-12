@@ -122,7 +122,10 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
       - S V(=make) C(=sure) の文型で、その後に that による副詞節や of による副詞句を伴う形と考えた方が良さそう
   - ChatGPT訳: 「十分なものを用意してください。」
 - Zevlor: Of course. Everything we have. Anything we can give you, we will.
+  - ChatGPT訳: 「もちろんです。私たちが持っている全てです。あなたに提供できるものなら何でもします。」
 - Zevlor: We'll be ready to leave as soon as you give word.
+  - [word](https://ejje.weblio.jp/content/word), ウォード
+    - 名詞: 指図、命令、言葉による合図
 
 ### 20, Eliasis - 13:22 - Zevlor, Tav
 
