@@ -130,3 +130,35 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
 ### 20, Eliasis - 13:22 - Zevlor, Tav
 
 再び話した
+
+- Zevlor: Our time grows short. If Kagha won't abandon her madness, then we'll have to try the road - goblins or no.
+  - [grow](https://ejje.weblio.jp/content/grow), グロォウ
+    - 自動詞: 次第に〜になる
+      - grow C
+  - [abandon](https://ejje.weblio.jp/content/abandon), (ア|エ)バンドン
+    - 他動詞: 計画や習慣などを途中で止める
+  - goblins or no
+    - whether there are goblins or there are no goblins の略
+  - ChatGPT訳: 「私たちの時間はなくなりつつあります。もしカーガが彼女の狂気を諦めないなら、私たちは道を試さなければなりません - ゴブリンがいようといまいと。」
+- Tav: I want to discuss something else.
+  - [discuss](https://ejje.weblio.jp/content/discuss), ディス・カス
+    - 他動詞: ある問題をいろいろな角度から論じる
+- Zevlor: What is it?
+- Tav: Why did Halsin go with the adventurers?
+- Zevlor: Some artefact Aradin was hunting. I don't know any more than that - and don't want to.
+  - ChatGPT訳: 「Aradinが追っていた何かのアーティファクトだ。それ以上のことは知らないし、知りたくもない。」
+- Zevlor: This grove is poorer for losing Halsin, but I have my own people's concerns to look to.
+  - [poor](https://ejje.weblio.jp/content/poor), プゥーア
+    - 形容詞: 健康や気分などを悪くした
+  - [lose](https://ejje.weblio.jp/content/lose), ルゥーズ
+    - 他動詞: 事故などで永久的に失う、ものを一時的に失う
+  - [own](https://ejje.weblio.jp/content/own), オゥンヌ
+    - 形容詞: 所有の意味を強調する、独自性を強調する、自分自身の
+  - [concern](https://ejje.weblio.jp/content/concern), (カ|コ)ンサーン
+    - 名詞: 関心事、重要なこと
+  - [look to](https://en.wiktionary.org/wiki/look_to)
+    - 他動詞: 世話をする(take care of)、準備をする(=prepare)
+  - I have ((my own people's concerns) to look to)
+    - look to の目的語は暗黙的に my own people's concerns である、文脈から明確なため省略されている
+  - ChatGPT訳: 「この森はハルシンを失って貧しくなったが、私は自分の民の問題に目を向けなければならない。」
+- Tav: _Leave_.
