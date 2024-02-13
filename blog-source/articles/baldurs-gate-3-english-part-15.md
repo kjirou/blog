@@ -162,3 +162,12 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - look to の目的語は暗黙的に my own people's concerns である、文脈から明確なため省略されている
   - ChatGPT訳: 「この森はハルシンを失って貧しくなったが、私は自分の民の問題に目を向けなければならない。」
 - Tav: _Leave_.
+
+### 20, Eliasis - 13:51 - Rechel
+
+通行していたTieflingへ話しかけた
+
+- Rechel: Those druids are going to get us killed - nothing sacred about this lot!
+  - [sacred](https://ejje.weblio.jp/content/sacred), セイク(レ|リ)ッド
+    - 形容詞: 神聖な
+  - (nothing sacred) about (this lot)
