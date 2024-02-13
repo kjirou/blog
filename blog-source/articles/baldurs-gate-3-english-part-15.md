@@ -161,7 +161,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
   - I have ((my own people's concerns) to look to)
     - look to の目的語は暗黙的に my own people's concerns である、文脈から明確なため省略されている
   - ChatGPT訳: 「この森はハルシンを失って貧しくなったが、私は自分の民の問題に目を向けなければならない。」
-- Tav: _Leave_.
+- Tav: _Leave._
 
 ### 20, Eliasis - 13:51 - Rechel
 
@@ -171,3 +171,42 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
   - [sacred](https://ejje.weblio.jp/content/sacred), セイク(レ|リ)ッド
     - 形容詞: 神聖な
   - (nothing sacred) about (this lot)
+
+### 20, Eliasis - 15:22 - Tav
+
+丘の上に偵察用と思われる望遠鏡が配置してあり、それを操作した
+
+- \*You peer through the telescope.\*
+  - [peer](https://ejje.weblio.jp/content/peer), ピィーアァ
+    - 自動詞: じっと見る、凝視する
+  - [telescope](https://ejje.weblio.jp/content/telescope), テレスコ↓ォプ
+    - 名詞: 望遠鏡
+  - ChatGPT訳: 「望遠鏡を覗きます。」
+  - ドラゴンらしき生物が飛行しているのが見えるが、望遠鏡は焦点が合っておらずぼやけている
+- Tav: _Focus the telescope on the distant object, trying to get a clear view._
+  - [focus](https://ejje.weblio.jp/content/focus), フォーカァス
+    - 他動詞: 〜の焦点を合わせる
+  - [distant](https://ejje.weblio.jp/content/distant), ディ↑ス・タント
+    - 形容詞: 距離的に遠い、遠隔の
+  - ChatGPT訳: 「遠くの物体に望遠鏡を合わせ、はっきりとした視界を得ようとする。」
+- Wisdom (Perception) Successful: Tav
+- \*You see a dragon circling like a bird of prey. Hunting.\*
+  - [circle](https://ejje.weblio.jp/content/circle), シーコゥ
+    - 自動詞: 旋回する、回転する
+  - [prey](https://ejje.weblio.jp/content/prey), プレェイ
+    - 名詞: 捕食する習性、捕食すること、猛禽性
+      - 非標準の用法
+- Tav: _Move the telescope to the left._
+- \*The telescope points to the left.\*
+  - [point](https://ejje.weblio.jp/content/point), ポーイント
+    - 自動詞: ある方向を向いている、何かを指す・示す
+- Tav: _Move the telescope to the right._
+- \*The telescope points straight ahead.\*
+  - [straight](https://ejje.weblio.jp/content/straight), ストレィ・ト
+    - 形容詞: まっすぐな、一直線の、曲がってない
+    - コアイメージ: ある一点へ向かう直線、くねくねしたり歪んでいない
+  - [ahead](https://ejje.weblio.jp/content/ahead), ア・ヘッド
+    - 副詞: 前方に
+- Tav: _Move the telescope to the right._
+- \*The telescope points to the right.\*
+- Tav: _Leave._
