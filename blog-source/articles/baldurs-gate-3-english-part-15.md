@@ -273,3 +273,56 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - it = the killing
     - 直訳で「あなたは殺しが簡単に見えることを作った」
   - ChatGPT訳: 「あなたはそれをとても簡単に見せたわ、殺しを。」
+
+### 20, Eliasis - 16:24 - Astarion, Tav
+
+メンバーから外すために、Campへ入り、Astarionへ話しかけた
+
+- Astarion: So, we're travelling with the famed 'Blade of Frontiers'. I feel safer already.
+  - [so](https://ejje.weblio.jp/content/so), ソ↑ゥ
+    - 接続詞: 理由を示す、だから、それゆえに
+  - I feel safer already
+    - safer は比較級、「安全性が向上した」という意味
+    - already を含む「すでに安全性が向上した」という文意は、日本語だと若干使われない言い回しに思うが、ChatGPT的には問題ないとのこと
+  - ChatGPT訳: 「だから、我々は名高い「フロンティアの刃」と共に旅をしている。もう安心だ。」
+- Tav: I think it's better if you stay here in camp for a while.
+  - [while](https://ejje.weblio.jp/content/while), ゥワイル
+    - 名詞: 短い間、暫時
+  - for a while
+    - よく使われる句だが、イディオムとまでは言えなさそう
+  - ChatGPT訳: 「しばらくキャンプでここにいた方がいいと思う。」
+    - 直訳だと、「もしあなたがしばらくここ、キャンプで留まるならば、それが良いと思う」
+- Astarion: Oh darling, I'm hurt. I thought we had something special.
+  - [darling](https://ejje.weblio.jp/content/darling), ダァリング
+    - 名詞: 最愛の人、かわいい人
+  - [hurt](https://ejje.weblio.jp/content/hurt), (ハ|フ)ゥト
+    - 形容詞: 傷ついた、怪我をした
+      - 身体的・精神的なこと両方を含む
+  - [special](https://ejje.weblio.jp/content/special), スペシャ(ル|ゥ)
+    - 形容詞: 普通一般のものと異なった特別な、特殊な
+  - ChatGPT訳: 「ああ、ダーリン、傷ついたよ。僕たちには特別なものがあると思っていたのに。」
+- Tav: Please just stay here.
+  - just は「ここにいる以外に何もしないで」という意味を含んだ強調
+- Astarion: I guess I'll spend my evenings lounging here while you do all the hard work.
+  - [guess](https://ejje.weblio.jp/content/guess), ゲェス
+    - 他動詞: 情報が不完全な状態で何かを推測する、憶測する
+      - 本文だと、パーティから外されることの不満を表現している
+  - [spend](https://ejje.weblio.jp/content/spend), スペ↑ンド
+    - 他動詞: お金や時間などの資源を使う、消費する、時や休暇を過ごす
+    - 「浪費する」という意味合いは自動詞のとき
+  - [evening](https://ejje.weblio.jp/content/evening), イーブニン
+    - 名詞: 夕方、晩、夜、宵
+  - [lounge](https://ejje.weblio.jp/content/lounge), ラァウンジ
+    - 自動詞: ぶらぶらする、ゆっくり横になる、もたれかかる
+  - [hard](https://ejje.weblio.jp/content/hard), ハァード
+    - 形容詞: 行為や気質が厳しい・激しい・難しい
+    - コアイメージ: 形容詞としては「物理的に硬い」、副詞としては「激しい」、そして両者で意味を共有している
+  - ChatGPT訳: 「私は夜をここで横になりながら過ごすことにするよ。あなたが全ての大変な仕事をする間ね。」
+- Astarion: It sounds awful.
+  - [awful](https://ejje.weblio.jp/content/awful), オーフゥ
+    - 形容詞: 程度が非常な、ひどい、恐ろしい
+  - 結構真面目なのかな？しかしそれでも犠牲になるのだ、パーティバランスの
+
+### 20, Eliasis - 16:29 - Wyll, Tav
+
+メンバーへ追加するためにWyllへ話しかけた
