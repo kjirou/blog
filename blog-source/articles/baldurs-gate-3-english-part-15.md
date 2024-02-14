@@ -210,3 +210,49 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
 - Tav: _Move the telescope to the right._
 - \*The telescope points to the right.\*
 - Tav: _Leave._
+
+### 20, Eliasis - 15:49 - Rikka, Tav
+
+門の上で見張りをしているTieflingの一人へ話しかけた
+
+- Rikka: Glad you were here for those goblins. Picked one off yesterday, myself. Shot her through the throat.
+  - [glad](https://ejje.weblio.jp/content/glad), グラァード
+    - 形容詞: 嬉しく感じる
+      - 一時的な意味を含む、継続的に感じるなら happy
+  - you were here
+    - here は副詞、この文脈では「ここにいる」だけではなく「なんらかの活動をしている」ことも意味する
+      - here の単語自体にはそこまでの意味はない
+  - [pick off](https://en.wiktionary.org/wiki/pick_off)
+    - 他動詞: 敵・障害物・課題などを一つずつ正確に処理する
+      - 特に遠距離から射抜くという意味で使われるケースは多い
+  - [shot](https://ejje.weblio.jp/content/shot), ショァト
+    - shoot - shot - shot
+    - [shoot](https://ejje.weblio.jp/content/shoot), シュゥト
+      - 他動詞: 撃つ、射る、放つ
+        - shoot O: O を撃つ
+        - shoot O: O で撃つ
+  - ChatGPT訳: 「ゴブリンたちに対処してくれてよかったね。自分も昨日、一匹倒したよ。喉を射抜いたんだ。」
+- Rikka: That should've killed her, but... she kept _grasping_. Clawing at the arrow.
+  - [grasp](https://ejje.weblio.jp/content/grasp), グラァスプ
+    - 自動詞: 掴もうとする
+  - [claw](https://ejje.weblio.jp/content/claw), クラゥ
+    - 自動詞: つめなどで引っ掻く
+      - claw at で場所を示すことが多い
+  - Clawing at the arrow
+    - 直訳だと「矢を爪で引っ掻く」になるが、「矢に刺さった場所を引っ掻く」の方が正しそう
+  - ChatGPT訳: 「それで死ぬはずだったけど…彼女はまだもがいていた。矢に手を伸ばしてひっかいていた。」
+    - grasping は「刺さった矢を掴もうとしていた」だが、それを意訳して「もがいていた」と表現していたとのこと
+- Tav: Taking life always has a cost. You have to feel it, or you'll lose who you are.
+  - [cost](https://ejje.weblio.jp/content/cost)
+    - 名詞: 人命・時間・労力などの犠牲・損失・代償
+      - 標準的には不可算名詞で、 the cost で使う
+      - 割と貴重なものを意味するよう
+  - a cost には、具体的なイメージはないはずなのになぜ a がついているのか？
+    - ChatGPTによると、「なんらかの代償」という側面を強調したかったとのこと、わからん
+  - ChatGPT訳: 「命を奪うことには常に代償が伴います。それを感じなければ、自分を失ってしまいます。」
+- Rikka: I had the same thought. And it's just going to keep happening...
+  - [thought](https://ejje.weblio.jp/content/thought), ソ(ォ|ァ)ト
+    - 名詞: 考え、思いつき、考えること、思考
+  - it's just going to keep happening
+    - happen は「偶然起こる」「やむなく起こる」という意味なので、諦めや達観の気持ちを含む文意
+  - ChatGPT訳: 「私も同じことを考えました。そして、それはこれからも続くでしょう...」
