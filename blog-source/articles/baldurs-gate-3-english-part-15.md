@@ -256,3 +256,20 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
   - it's just going to keep happening
     - happen は「偶然起こる」「やむなく起こる」という意味なので、諦めや達観の気持ちを含む文意
   - ChatGPT訳: 「私も同じことを考えました。そして、それはこれからも続くでしょう...」
+
+### 20, Eliasis - 16:14 - Rikka
+
+再び話しかけた
+
+- Rikka: You made it look so easy, the killing.
+  - [look](https://ejje.weblio.jp/content/look), ルゥック
+    - 自動詞: 様子や顔つきが〜のように見える・思われる
+      - look C
+  - [easy](https://ejje.weblio.jp/content/easy), イィジィ
+    - 形容詞: 簡単な、容易な
+    - コアイメージ: 課題や気持ちなどが楽な
+  - You (made it (look so easy))
+    - made は使役動詞としての用法
+    - it = the killing
+    - 直訳で「あなたは殺しが簡単に見えることを作った」
+  - ChatGPT訳: 「あなたはそれをとても簡単に見せたわ、殺しを。」
