@@ -326,3 +326,85 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
 ### 20, Eliasis - 16:29 - Wyll, Tav
 
 メンバーへ追加するためにWyllへ話しかけた
+
+- Wyll: The Blade of Frontiers, at your calling.
+  - [calling](https://ejje.weblio.jp/content/calling), コーリング
+    - 名詞: 呼び出すこと、召集
+  - at your calling
+    - 「呼びかけに応じて」
+  - ChatGPT訳: 「フロンティアの剣、お呼びですか。」
+    - 意味はあまりわからない、「参上」みたいな感じなのかな
+- Tav: How does the Blade of Frontiers end up chasing a devil in the Hells?
+  - [chase](https://ejje.weblio.jp/content/chase), チェ↑イス
+    - 他動詞: 〜を捕まえるために素早く追う、追跡する、追撃する、狩る
+  - [end up](https://en.wiktionary.org/wiki/end_up#Verb)
+    - 自動詞,繋辞: 〜の最終的な場所・条件・状況になる、予期・予想せず〜になる、〜ということになる
+      - 繋辞（または判定詞） = [copularverb](https://en.wiktionary.org/wiki/copular_verb)
+        - be動詞みたいなもので、主語と補語を繋げる役割の動詞
+        - Ref: https://www.nihongo-appliedlinguistics.net/wp/archives/9777
+- Wyll: Karlach's fires raged in Baldur's Gate before she escaped to Avernus, as my source told it - and she was planning to return.
+  - [rage](https://ejje.weblio.jp/content/rage), ゥレイージ
+    - 自動詞: 嵐・戦争・病気・熱情などが荒れ狂う・猛威を振るう
+  - [source](https://ejje.weblio.jp/content/source), ソォス
+    - 名詞: 情報源
+  - as my source told it
+    - そこに至るまでの文を修飾している
+  - [plan](https://ejje.weblio.jp/content/plan), プラ↑ァン
+    - 自動詞: 計画を立てる、〜をしようと思う、〜するつもりである
+  - ChatGPT訳: 「私の情報源が言うには、彼女がアヴェルヌスへ逃れる前に、カーラックの火はバルダーズ・ゲートで激しく燃えた、そして彼女が戻るつもりでいたそうです。」
+    - and 以降は「そして情報源は〜とも言っていました」というような意味だと思う
+- Wyll: One of the archdevil Zariel's own - chaos incarnate, a devil with pure fire for a heart. I made my way to Avernus to stop her.
+  - Zariel, (ザ|ゼ)リエル
+    - ゲーム用語,名詞: Avernusの女太公の大悪魔
+      - Ref: https://forgottenrealms.fandom.com/wiki/Zariel
+    - ということは、Karlachは元々Avernusに由来のある悪魔なのか
+  - [make one's way](https://en.wiktionary.org/wiki/make_one%27s_way)
+    - 自動詞: 物理的・概念的に目的地や目標に向かって前進する
+  - ChatGPT訳: 「ザリエルの独自の大悪魔の一人 - 純粋な火を心に持つ、混沌そのものの悪魔。彼女を止めるために、私はアヴェルヌスへと向かった。」
+- Wyll: She fled from my reach - even climbed aboard the mind flayer ship as it screeched through the Hells. I followed in close pursuit.
+  - [fled](https://ejje.weblio.jp/content/fled), フレッド
+    - flee - fled - fled
+    - [flee](https://ejje.weblio.jp/content/flee), フリィ
+      - 自動詞: 逃げる、脱出する
+  - [reach](https://ejje.weblio.jp/content/reach), ゥリィチ
+    - 名詞: 力や理解が及ぶ範囲、手や腕などが届く範囲
+  - [climb](https://ejje.weblio.jp/content/climb), クラァイム
+    - 自動詞: 手足を使ってよじ登る
+  - [aboard](https://ejje.weblio.jp/content/aboard), アボ(ァ|ォ)ド
+    - 副詞: 船に乗って
+  - [screech](https://en.wiktionary.org/wiki/screech#Verb), スクリィ↑チィ
+    - 自動詞: ブレーキがないかのように非常に早く進む、キーッと鳴る、金切り声を上げる
+  - as it screeched through the Hells
+    - even climbed aboard the mind flayer ship を修飾しており、「すごい速度で進む、飛び乗るには危険な船に」という文意
+  - ChatGPT訳: 「彼女は私の手の届かないところへ逃げていった - 地獄を突き進むマインドフレイヤーの船にまで飛び乗った。私は密接に追跡した。」
+- Wyll: I can't bear to imagine the lives Karlach might be taking, the damage she might be doing.
+  - the lives Karlach might be taking, the damage she might be doing
+    - 間のカンマは and の意味
+  - ChatGPT訳: 「カーラックがどれだけの命を奪い、どれだけの被害を与えているか、想像することすら耐えられない。」
+- Tav: Who is this 'source' of yours?
+- Wyll: A powerful friend with a keen interest in... privacy. I'm sworn to say no more.
+  - [privacy](https://ejje.weblio.jp/content/privacy), プラ↑イバ・スィ
+    - 名詞: 秘密、プライバシー、人に公開したくない私生活
+  - [keen](https://ejje.weblio.jp/content/keen), キィン
+    - 形容詞: 強い、熱心な
+  - [interest](https://ejje.weblio.jp/content/interest), インチョレスト
+    - 名詞: 興味、関心、興味を起こさせるもの
+  - [swear](https://ejje.weblio.jp/content/swear), スウェアァ
+    - 他動詞: 〜へ誓いを守らせる
+      - swear O(=人)
+  - ChatGPT訳: 「プライバシーに...非常に関心を持っている強力な友人です。これ以上言わないことを誓っています。」
+    - 「プライバシーに...」ではなくて、「...いや、秘密だ」と話を打ち切っているのだと思う
+- Tav: Let's move on to other matters.
+  - [move on](https://en.wiktionary.org/wiki/move_on#Verb)
+    - 自動詞: 続ける(=continue)、続行する(=proceed, go on)
+- Wyll: All right.
+- Wyll: What else is on your mind?
+  - [else](https://ejje.weblio.jp/content/else), エ(ル|ウ)ス
+    - 形容詞: その他の
+      - 不定代名詞(e.g. someone, something, anyone, anything)・疑問代名詞(e.g. what, where, who)の後に置くときの用法
+- Tav: I'd like you to join me.
+- Wyll: That's the spirit.
+  - [spirit](https://ejje.weblio.jp/content/spirit), スピ↑リット
+    - 名詞: 意気、気迫、元気
+  - ChatGPT訳: 「それこそがやる気だ。」
+    - Tavを褒めている
