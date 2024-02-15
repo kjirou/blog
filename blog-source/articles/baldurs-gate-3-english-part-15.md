@@ -408,3 +408,33 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 名詞: 意気、気迫、元気
   - ChatGPT訳: 「それこそがやる気だ。」
     - Tavを褒めている
+
+### 20, Eliasis - 20:45 - Elegis
+
+正確な状況を忘れたが、おそらくは見張りをしているTieflingの一人へ話しかけた
+
+- Elegis: I haven't seen a single goblin. That's good, isn't it?
+  - [single](https://ejje.weblio.jp/content/single), スィンゴォ
+    - 形容詞: ただの一つもない
+      - 否定語を伴う時の用法
+  - ChatGPT訳: 「一匹のゴブリンも見ていない。それは良いことだよね？」
+
+### 20, Eliasis - 20:46 - Kaldani, Tav
+
+正確な状況を忘れたが、おそらくは見張りをしているTieflingの一人へ話しかけた
+
+- Kaldani: Aradin's back with his tail between his legs. I'm glad for your help, but I'd hoped you were Halsin.
+  - [tail between one's legs](https://en.wiktionary.org/wiki/tail_between_one%27s_legs#Phrase)
+    - イディオム: 惨めまたは卑怯に敗北した、尻尾を巻いて戻ってきた
+  - I'd hoped = I had hoped
+  - ChatGPT訳: 「アラディンがしっぽを巻いて戻ってきた。君の助けは嬉しいが、君がハルシンだったらと期待していたんだ。」
+    - こんなしょーもないことを言わんだろと思って、それで訳がわからなくなっていたパターンだった
+- Tav: Sorry to disappoint.
+  - [disappoint](https://ejje.weblio.jp/content/disappoint), ディ・サ・ポォイント
+    - 他動詞: 人を失望させる
+- Kaldani: Hells, I didn't mean it that way. Halsin's important, but you're the first bit of good faith we've had since he left.
+  - [hell](https://en.wiktionary.org/wiki/hell#Interjection), ヘ↑(ウ|ル)
+    - 間投詞: 不幸・不満・怒りを下品または失礼に表現する
+      - 本文だと「そういう意味じゃない」という意味だけど、直接その意味はなさそうだった
+  - ChatGPT訳: 「いや、そういうわけじゃない。ハルシンは重要だけど、彼が去ってから君は初めての善意の兆しだったんだ。」
+- Kaldani: Keep your wits about you. Things are tense with the druids here.
