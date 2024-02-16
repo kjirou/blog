@@ -536,6 +536,14 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - be to不定詞の構文、複数の意味があり、本文では「意図」の意味
     - 割と異なる複数の意味があり、イメージしにくい。一般的にも苦戦するところのよう。
       - Ref: https://kyoushoku.shinshu-u.ac.jp/kyoushoku/paper/no5/2012akakami.pdf
+  - there can be no room for hesitation
+    - can be には複数の意味があるが、コアイメージは「〜できる」
+    - there can be は「〜がありうる」「〜がある余地がある」
   - ChatGPT訳: 「でもあなたの言う通り――私たちがこれら全てを乗り越えるつもりなら、躊躇する余地はありません。あなたは上手くやっています。」
 - Shadowheart: It's a beautiful night. I think I'll stay up to enjoy it while I still can. Rest well.
+  - [stay up](https://en.wiktionary.org/wiki/stay_up#Verb)
+    - 自動詞: 起きている、寝ない
+  - [rest](https://ejje.weblio.jp/content/rest), ゥレ↑スト
+    - 自動詞: 休む、休息する
+  - ChatGPT訳: 「美しい夜ですね。まだできるうちに、この夜を楽しむことにします。ゆっくり休んでください。」
   - あー、好感度を上げ損ねた音がする...
