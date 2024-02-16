@@ -547,3 +547,40 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 自動詞: 休む、休息する
   - ChatGPT訳: 「美しい夜ですね。まだできるうちに、この夜を楽しむことにします。ゆっくり休んでください。」
   - あー、好感度を上げ損ねた音がする...
+
+### 20, Eliasis - 22:11 - Astarion, Tav
+
+初めてのLong Restを行い、その中でイベント会話が発生していたAstarionへ話しかけた
+
+- Astarion: You know, I've been thinking.
+  - ChatGPT訳: 「ねえ、考えていたんだ。」
+- Astarion: Reflectiong on what tomorrow might bring, when we find the druid.
+  - [reflect on](https://en.wiktionary.org/wiki/reflect_on#Verb)
+    - 他動詞: 何かについて注意深く考えて十分に検討する
+    - [reflect](https://ejje.weblio.jp/content/reflect), リフ・レクト
+      - 他動詞: 反射する、映す、反映する、表す
+  - Reflectiong on (what tomorrow might bring (what))
+    - 今回はこうなるんだが、一方で bring (on what) が前に出ていると言う様にも見える。これは形式的に判別がつくのだろうか？
+  - ChatGPT訳: 「明日、ドルイドを見つけた時に何が起こるか、それについて反省していたよ。」
+- Astarion: Will he know how to bring the worm under control? Will this little adventure of ours be over?
+  - [bring](https://ejje.weblio.jp/content/bring), ブリン・グ
+    - 他動詞: 人やものを持ってくる
+      - bring O: O を持ってくる
+      - bring O1 O2: O1 へ O2 を持ってくる
+  - bring the worm under control
+    - bring O を under control が修飾しているだけの形
+    - [bring under](https://en.wiktionary.org/wiki/bring_under) で「征服する」「感情などを抑える」という慣用句はあるが、今回は関係なさそう
+  - be over
+    - be動詞の補語が over という前置詞のみ
+    - 前置詞句は形容詞的にも副詞的にもなり得るから、同様に前置詞単体でもそうなり得る
+  - ChatGPT訳: 「彼はワームを制御する方法を知っているのか？私たちのこの小さな冒険は終わるのか？」
+- Tav: It doesn't have to be. We can still travel together.
+- Astarion:
+- Astarion:
+- Astarion:
+- Tav:
+- Astarion:
+- Tav:
+- Astarion:
+- Astarion:
+- Astarion:
