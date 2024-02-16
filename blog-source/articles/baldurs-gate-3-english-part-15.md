@@ -436,5 +436,97 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
   - [hell](https://en.wiktionary.org/wiki/hell#Interjection), ヘ↑(ウ|ル)
     - 間投詞: 不幸・不満・怒りを下品または失礼に表現する
       - 本文だと「そういう意味じゃない」という意味だけど、直接その意味はなさそうだった
+  - [that way](https://en.wiktionary.org/wiki/that_way#Adverb)
+    - 副詞: 直前の文脈を参照してあのように・そのように・あんな風に
+      - in that way で使われることも多く、意味は変わらない
+    - Wikitionaryにはこの意味がなさそうだが、ChatGPTとWeblioには書いてあった
+  - [good faith](https://en.wiktionary.org/wiki/good_faith)
+    - 名詞: 善良で誠実な意図
+      - たとえ、それが悪い結果をもたらしても、という意味も含む
+    - [faith](https://ejje.weblio.jp/content/faith), フェ↑イス
+      - 名詞: 信頼、信用、信念
+  - [since](https://ejje.weblio.jp/content/since), (ス|シ)ンス
+    - 接続詞: 〜以来、〜から
+      - 前置詞としても同じような意味がある
+    - コアイメージ: 現在またはある時点まで継続している事柄の起点
+  - but (you're (the first bit of good faith we've had)) since he left
   - ChatGPT訳: 「いや、そういうわけじゃない。ハルシンは重要だけど、彼が去ってから君は初めての善意の兆しだったんだ。」
 - Kaldani: Keep your wits about you. Things are tense with the druids here.
+  - [wit](https://ejje.weblio.jp/content/wit), ウィット
+    - 名詞: 機知、理知、知恵、知力
+  - about you
+    - 自分の周辺に対して、ということ
+  - [tense](https://ejje.weblio.jp/content/tense), テ↑ンス
+    - 形容詞: 張り詰めた、緊張した、ぴんと張った
+    - Tencent は綴りが違った
+  - ChatGPT訳: 「気を引き締めて。ここのドルイドたちとの間は緊張しているからね。」
+
+### 20, Eliasis - 22:06 - Shadowheart, Tav
+
+初めてのLong Restを行い、その中でイベント会話が発生していたShadowheartへ話しかけた
+
+- Shadowheart: Finally, some good fortune. Come morning, we know what to do.
+  - [finally](https://ejje.weblio.jp/content/finally), ファイナリィ
+    - 副詞: ついに、とうとう、最後に、最終的に
+  - [fortune](https://ejje.weblio.jp/content/fortune), フォォ・チュン
+    - 名詞: 幸運、果報、運
+  - Come morning
+    - 正しい文法ではない
+    - 丁寧に書くなら、 When morning comes や By the time morning arrives
+  - ChatGPT訳: 「ついに幸運が訪れた。朝になれば、私たちが何をすべきかが分かる。」
+    - Finally, some good fortune. に対して「訪れた」を付与しているのは、推測して補完しているとのこと。動詞が省略されているということではなさそう。
+  - 「朝になると何をすればいいのかわかる」という発言は、予知や暗示ではなくて、イベントの進行状況に対する説明っぽい
+- Shadowheart: The sooner we find the druid Halsin, the better. I can't wait to get rid of this thing in my head.
+  - The sooner ~, the better
+    - the 比較級A, the 比較級B の「Aするほど、Bである」の構文
+  - ChatGPT訳: 「ドルイドのハルシンを早く見つけるほどよい。頭の中のこのものを取り除くのが待ち遠しい。」
+- Tav: So what will come next for you, once this is all over?
+  - [so](https://ejje.weblio.jp/content/so), ソ↑ゥ
+    - 接続詞: 会話を導く・促す、だから、さて
+      - この文では理由を示すものではなく、こちらの意味
+  - [next](https://ejje.weblio.jp/content/next), ンネ↑クスト
+    - 副詞: 場所・時間・序列などで次に、今度
+  - [once](https://ejje.weblio.jp/content/once), ゥワンス
+    - 接続詞: 一度〜したら
+      - 「〜したらすぐ」のような意味もある
+  - [all over](https://en.wiktionary.org/wiki/all_over#Adverb)
+    - 副詞: 完全に終わって、終了して
+      - しかしこの意味はWiktionaryには無い、WeblioとChatGPTにはある
+    - どちらかというと、「全体を覆う」という意味の方が主なよう
+    - 前置詞の用法があり、また allover や all-over として形容詞の用法もある
+  - ChatGPT訳: 「これが全て終わったら、次にあなたには何が待っているんですか？」
+- Shadowheart: Head to Baldur's Gate, Someone's waiting for me.
+- Tav: Oh yes? Who?
+- Shadowheart: Let a girl have some secrets. Was there anything else?
+  - Was there anything else?
+    - 特に裏の意味などはなくて、そのままの意味のよう
+  - ChatGPT訳: 「少しは秘密を持たせてよ。他に何かあった？」
+- Tav: How are you feeling?
+  - ChatGPT訳: 「調子はどう？」
+  - 現代でも、日常の挨拶や医療現場で使われる言い回し
+- Shadowheart: The same. These prasites are proving suspiciously benign.
+  - [suspiciously](https://ejje.weblio.jp/content/suspiciously), (サ|ス)ス・ピシャスリィ
+    - 副詞: 疑わしげに、怪しげに
+  - [benign](https://ejje.weblio.jp/content/benign), ビ・ナーン
+    - 形容詞: 良性の、気候などが温和な
+  - ChatGPT訳: 「変わらないわ。これらの寄生虫は不自然に無害でいることが疑わしいわ。」
+- Shadowheart: But suppose I turn... what would you do?
+  - [suppose](https://ejje.weblio.jp/content/suppose), サポゥーズ
+    - 他動詞: 〜と仮定する・想定する
+- Tav: No hesitations. I'd just end your misery, then and there.
+  - [hesitation](https://ejje.weblio.jp/content/hesitation), ヘズテ↑ィション
+    - 名詞: ちゅうちょ、ためらい
+  - [misery](https://ejje.weblio.jp/content/misery), ミ(ゼ|ズ)リィ
+    - 名詞: 肉体的・精神的な苦痛・苦しみ・苦悩、惨めさ、悲惨
+  - ChatGPT訳: 「迷いはない。そこで直ちにあなたの苦しみを終わらせる。」
+- Shadowheart: Wise... though I hope you'd miss me after I'm gone. I think I would, if the positions were reversed.
+  - [wise](https://ejje.weblio.jp/content/wise), ワァイズ
+    - 形容詞: 賢い、賢明な
+  - [miss](https://ejje.weblio.jp/content/miss), ミス
+    - 他動詞: 〜が居ないのを寂しく思う、〜がないのを困る、〜が居ないのに気づく
+  - [gone](https://en.wiktionary.org/wiki/gone#Adjective), ゴォーンヌ
+    - 形容詞: 死んだ、もう存在しない、過ぎ去った
+  - ChatGPT訳: 「賢明ね... ただ、私がいなくなった後、あなたが私を恋しがることを願うわ。もし立場が逆なら、私もそうすると思う。」
+- Shadowheart: But you're right - if we're to make it through all this, there can be no room for hesitation. You're doing well.
+- Shadowheart: It's a beautiful night. I think I'll stay up to enjoy it while I still can. Rest well.
+  - あー、好感度を上げ損ねた音がする...
