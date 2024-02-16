@@ -526,7 +526,16 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 他動詞: 〜が居ないのを寂しく思う、〜がないのを困る、〜が居ないのに気づく
   - [gone](https://en.wiktionary.org/wiki/gone#Adjective), ゴォーンヌ
     - 形容詞: 死んだ、もう存在しない、過ぎ去った
+  - [reverse](https://ejje.weblio.jp/content/reverse), ゥリバース
+    - 他動詞: 逆にする、反対にする、裏返す
   - ChatGPT訳: 「賢明ね... ただ、私がいなくなった後、あなたが私を恋しがることを願うわ。もし立場が逆なら、私もそうすると思う。」
 - Shadowheart: But you're right - if we're to make it through all this, there can be no room for hesitation. You're doing well.
+  - [through](https://ejje.weblio.jp/content/through), スルゥー
+    - 副詞: まったく、徹底的に
+  - we're to make it through
+    - be to不定詞の構文、複数の意味があり、本文では「意図」の意味
+    - 割と異なる複数の意味があり、イメージしにくい。一般的にも苦戦するところのよう。
+      - Ref: https://kyoushoku.shinshu-u.ac.jp/kyoushoku/paper/no5/2012akakami.pdf
+  - ChatGPT訳: 「でもあなたの言う通り――私たちがこれら全てを乗り越えるつもりなら、躊躇する余地はありません。あなたは上手くやっています。」
 - Shadowheart: It's a beautiful night. I think I'll stay up to enjoy it while I still can. Rest well.
   - あー、好感度を上げ損ねた音がする...
