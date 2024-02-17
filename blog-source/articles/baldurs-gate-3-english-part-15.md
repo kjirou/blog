@@ -575,7 +575,13 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 前置詞句は形容詞的にも副詞的にもなり得るから、同様に前置詞単体でもそうなり得る
   - ChatGPT訳: 「彼はワームを制御する方法を知っているのか？私たちのこの小さな冒険は終わるのか？」
 - Tav: It doesn't have to be. We can still travel together.
-- Astarion:
+  - [travel](https://ejje.weblio.jp/content/travel), トラァ・ボゥ
+    - 自動詞: 遠方や外国へ旅行する、乗り物で行く
+  - [together](https://ejje.weblio.jp/content/together), トゥギャザー
+    - 副詞: 共に、一緒に
+    - 副詞なのか前置詞なのかわからなくなる
+  - ChatGPT訳: 「それはそうでなくてもいい。私たちはまだ一緒に旅を続けることができる。」
+- Astarion: Good! Idon't want you to run off just yet.
 - Astarion:
 - Astarion:
 - Tav:
