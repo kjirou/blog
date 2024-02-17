@@ -581,12 +581,66 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 副詞: 共に、一緒に
     - 副詞なのか前置詞なのかわからなくなる
   - ChatGPT訳: 「それはそうでなくてもいい。私たちはまだ一緒に旅を続けることができる。」
-- Astarion: Good! Idon't want you to run off just yet.
-- Astarion:
-- Astarion:
-- Tav:
-- Astarion:
-- Tav:
-- Astarion:
-- Astarion:
-- Astarion:
+- Astarion: Good! I don't want you to run off just yet.
+  - [run off](https://en.wiktionary.org/wiki/run_off)
+    - 自動詞: 急いで逃げる・立ち去る
+  - ChatGPT訳: 「良い！まだ逃げ出してほしくないんだ。」
+- Astarion: You're quite the ally, after all. Traversing Avernus. Surviving the crash. Surviving everything that's followed...
+  - [ally](https://ejje.weblio.jp/content/ally), ア・ラァイ
+    - 名詞: 味方、盟友、同盟者、同盟国
+  - [after all](https://en.wiktionary.org/wiki/after_all#Prepositional_phrase)
+    - 前置詞句: 期待や予想に反して今は、最終的に、結果として、しかしながら
+  - [traverse](https://ejje.weblio.jp/content/traverse), トラ・ヴァース
+    - 他動詞: 人・動物・船などが〜を横切っていく・横断旅行する
+  - [crash](https://ejje.weblio.jp/content/crash), クラ↑ァッシュ
+    - 名詞: 飛行機の墜落、車の衝突
+  - [follow](https://ejje.weblio.jp/content/follow), フォ↑ロゥ
+    - 自動詞: 後から追って行く、後ろについてくる
+  - Surviving (everything (that's followed))
+    - that's followd = that has followed
+  - ChatGPT訳: 「結局、あなたはかなりの味方ですね。アヴェルヌスを渡り、墜落を生き延び、その後に続くすべてを生き延びて...」
+- Astarion: I'm not easily impressed by people, you're stronger than I gave you credit for.
+  - [impress](https://ejje.weblio.jp/content/impress), イン・プ(レ|ラ)ス
+    - 他動詞: 人へ印象を与える
+      - impress O(=人)
+  - [credit](https://ejje.weblio.jp/content/credit), クレディット
+    - 名詞: 評価、評判、信頼、信用
+  - you're stronger than I gave you credit for
+    - I gave you credit for (being strong) が自明なので省略されている
+    - 比較級の構文の一種なのか、それとも単に比較級だと自明な度合いが上がるからなのか、についてはわからない
+  - ChatGPT訳: 「人には簡単に感心させられない私ですが、あなたは私が思っていたよりも強いですね。」
+- Tav: I'm just trying to survive. Like you.
+- Astarion: Yes, we're more similar than I thought...
+  - [similar](https://ejje.weblio.jp/content/similar), (ス|シ)ミラァ
+    - 形容詞: 類似した、同様の、同類の
+- Tav: Are you feeling all right?
+  - [all right](https://en.wiktionary.org/wiki/all_right#Adverb)
+    - 形容詞: 良い(=good)、素晴らしくはなくともほどほど、健康、無傷
+    - なお、副詞の用法もあり、その場合は「かなり良く」
+  - ChatGPT訳: 「大丈夫ですか？」
+    - 健康や困り事がないかを心配したり確認する文意
+    - 先にあった How are you feeling? も鑑みるに、 feel が入ると、挨拶というよりは少し心配よりになるのだろうか
+- Astarion: Hmm? Oh, I was leagues away. I just need to...
+  - [league](https://ejje.weblio.jp/content/league), リィーグ
+    - 名詞: 昔の距離の単位
+      - 英米では約3マイル
+  - I was leagues away
+    - leagues away は、 {距離} {離れている度合いを意味する単語} の構文
+      - Ref: https://3040english.info/away-from/
+        - 引用の例:
+          - > It’s about 12 kilometers away.
+          - > The two premises are approximately 800m apart.
+    - 本文では、「気持ちが離れていた」つまり「考え事をしていた」と言う意味の比喩表現
+- Astarion: ...get some air. Clear my head.
+  - [clear](https://ejje.weblio.jp/content/clear), クリアァ
+    - 他動詞: 頭や目をはっきり・すっきりさせる、〜を綺麗にする、〜の汚れを取る
+- Astarion: I'll see you later, I'm sure. Sleep tight.
+  - I'm sure
+    - 直訳だと「私は確信している」だが、よくある挨拶の一部
+    - 「また会いましょう」とかそのくらいのものらしい
+  - [sleep tight](https://en.wiktionary.org/wiki/sleep_tight#Phrase)
+    - 慣用句: 就寝を勧める愛情ある表現、ぐっすり眠りなさい、おやすみなさい
+      - Wiktionaryに書いてあるような、「ベッドにしっかり結ぶ」と言う意味での tight なのかは、諸説あるよう
+    - [tight](https://ejje.weblio.jp/content/tight), タ↑イト
+      - 形容詞: 堅く結んだ、しっかり固定した
+  - ChatGPT訳: 「また後で会いましょう。おやすみなさい。」
