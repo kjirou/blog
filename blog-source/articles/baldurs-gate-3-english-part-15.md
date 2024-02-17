@@ -644,3 +644,46 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - [tight](https://ejje.weblio.jp/content/tight), タ↑イト
       - 形容詞: 堅く結んだ、しっかり固定した
   - ChatGPT訳: 「また後で会いましょう。おやすみなさい。」
+
+### 20, Eliasis - 22:49 - Wyll, Tav
+
+- \*A tingle runs through your head and down to your feet.\*
+  - [tingle](https://ejje.weblio.jp/content/tingle), ティ↑ングォ
+    - 名詞: うずき、ひりひり・ぴりぴり・ぞくぞくとした感覚
+  - [down](https://ejje.weblio.jp/content/down), ダァウン
+    - 前置詞: 高所から下方へ移動して
+  - runs ((through your head) and (down to your feet))
+  - ChatGPT訳: 「頭から足までぞくぞくとした感覚が走ります。」
+- Wyll: Ah, there it is - that shiver. Our little brain-worms have made fast friends, it would seem.
+  - [shiver](https://ejje.weblio.jp/content/shiver), シ↑ヴァー
+    - 名詞: 震え、身震い、悪寒、寒気
+  - [fast friend](https://en.wiktionary.org/wiki/fast_friend)
+    - 名詞: 頻繁に一緒にいて切っても切れない様な関係の友人、親友
+    - [fast](https://ejje.weblio.jp/content/fast), ファァスト
+      - 形容詞: 心の変わらぬ、忠実な
+      - コアイメージ: 「しっかり固定した」または「速い」
+        - なぜその2つなのかは、関連まで長そうだし諸説ありそうだし、一言では説明できなさそう
+          - Ref: https://www.etymonline.com/jp/word/fast
+  - ChatGPT訳: 「ああ、そこに来たか - その震え。私たちの小さな脳内虫が、早速仲良くなったようだね。」
+- Wyll: How do you feel?
+  - ChatGPT訳: 「どう感じる？」
+    - 一般的な言い回しで、相手の体調や感情を尋ねるときに使う
+- Tav: Surprisingly fine, in spite of it all.
+  - [in spite of](https://en.wiktionary.org/wiki/in_spite_of#Preposition)
+    - 前置詞: 〜にも関わらず(=despite)
+      - ChatGPTによると、前提の事象となるのは困難や障害らしい
+  - it all
+    - 少なくとも、両方とも代名詞ではあるよう
+    - いわゆる「主語と同格」の用法とは異なりそう
+    - 議論のあるところらしい、慣用句として認識してしまうのが良さそう
+      Ref: https://oshiete.goo.ne.jp/qa/1814054.html#google_vignette
+- Wyll: 'Surprising' is just the word, isn't it?
+- Wyll:
+- Wyll:
+- Wyll:
+- Tav:
+- Wyll:
+- Wyll:
+- Wyll:
+- Wyll:
+- Wyll:
