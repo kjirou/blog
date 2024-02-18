@@ -892,7 +892,45 @@ Long Rest時に会える、機能を提供するためのNPCだったよう。
 - Tav: I would like to talk about hirelings.
 - Withers: Very well.
 - Tav: _Leave._
+  - 仲間が雇えそう
 
 ### 20, Eliasis - 0:20 - Withers, Tav
 
 再び話しかけた
+
+- Withers: Fate spins along as it should. Have you need of my services?
+  - [fate](https://ejje.weblio.jp/content/fate), フェイト
+    - 名詞: 運命、宿命
+  - Fate spins
+    - spin には特に運命を意味した意味はなく、これは比喩表現
+  - ChatGPT訳: 「運命はそのままに進むもの。私の力が必要か？」
+- Tav: What kind of services can a skeleton offer?
+  - [offer](https://ejje.weblio.jp/content/offer), (ア|オ)・ファー
+    - 他動詞: ものや援助を提供する
+  - 今回は What の節は目的語が前に出た形だけど、そうじゃないこともあるよね？
+    - 疑問代名詞の what
+      - What is your current job?
+        - 肯定文と語順は変わらない
+    - 疑問形容詞の what
+      - What product is selling?
+        - 肯定文と語順は変わらない
+    - 疑問副詞の what
+      - What kind of services can a skeleton offer?
+        - 目的語が前に出て、主語と述語が疑問文の順序になる
+    - Ref: https://english-club.jp/blog/english-grammar-interrogative/#2_9
+- Withers: A mending of the threads between life and death.
+  - ChatGPT訳: 「生と死の糸を繋ぎ直すこと。」
+- Withers: Should thou or any of thy compatriots perish, I will cleave soul to body once more.
+  - [compatriot](https://ejje.weblio.jp/content/compatriot), コンペイトリオット
+    - 名詞: 同胞、同国人
+  - [perish](https://ejje.weblio.jp/content/perish), ペェ↑リッシュ
+    - 自動詞: 突然または非業な死に方で死ぬ
+  - [cleave](https://ejje.weblio.jp/content/cleave), クリィブ
+    - 他動詞: くっつける、結びつける
+      - 古い英語でのみ使う意味、現在も「くっつく」と言う意味はあるが自動詞のみのよう、標準的にはは逆の「切り裂く」「分ける」の意味
+- Tav: You mentioned a cost - what is it?
+  - ChatGPT訳: 「費用について言及しましたが、それは何ですか？」
+    - 話の流れがややおかしい、ゲームの流れ上のもののような気がするけど忘れた
+- Withers: A matter of coin. {ここにgpの値が入るが不具合で読めない}
+- Tav: _Leave._
+  - 死んだ時の復活もできそう
