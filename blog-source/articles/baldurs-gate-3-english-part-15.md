@@ -856,11 +856,42 @@ Long Rest時に会える、機能を提供するためのNPCだったよう。
     - 名詞: 運命、宿命
   - ChatGPT訳: 「彼らは自分たちの運命に大いなる不満を抱いている。」
 - Withers: For a mere pittance of coin, I might summon the worthiest among them to lend aid to thy undertaking.
-- Tav:
-- Withers:
-- Tav:
-- Withers:
-- Tav:
+  - [mere](https://ejje.weblio.jp/content/mere), ミィアァ
+    - 形容詞: ほんの、単なる
+  - [pittance](https://ejje.weblio.jp/content/pittance), ピッ・ン・ス
+    - 名詞: わずかな手当・収入・金
+  - [aid](https://ejje.weblio.jp/content/aid), エェイド
+    - 名詞: 助力、手伝い
+  - [undertaking](https://ejje.weblio.jp/content/undertaking), アン(ダ|デュ)ア・テイキング
+    - 名詞: 引き受けた仕事、約束
+  - ChatGPT訳: 「ほんの少しの金貨であれば、彼らの中で最も価値ある者を召喚し、君の企てに協力させることができるかもしれない。」
+- Tav: Will these hirelings be joining me willingly?
+  - [hireling](https://ejje.weblio.jp/content/hireling), ハ↑イヤリン
+    - 名詞: 雇い人、金のために働く人
+  - [willingly](https://ejje.weblio.jp/content/willingly), ウィリングリィ
+    - 副詞: 喜んで、快く、進んで
+    - [willing](https://ejje.weblio.jp/content/willing), ウィリング
+      - 形容詞: 本当はやりたくないことを求められても進んでして、いとわないで
+        - 「求められると進んでする」「自発的な」と言う意味もある
+- Withers: Most willingly, forsooth. Their passions doth run deep for what hath been wrought upon them.
+  - [forsooth](https://ejje.weblio.jp/content/forsooth), フォオスワーフ
+    - 副詞: 真実に(=truthfully)、本当に(=really)、確かに(=indeed)
+      - 皮肉を込めて逆の意味で使われることの方が現代だと多い
+  - [passion](https://ejje.weblio.jp/content/passion), パァツション
+    - 名詞: 激情、熱情、情熱
+      - 本文の文意からだと「激しい怒り」くらいが合ってそう
+  - [run](https://ejje.weblio.jp/content/run), ゥランヌ
+    - 自動詞: 液体などが流れる
+  - [deep](https://ejje.weblio.jp/content/deep), ディープ
+    - 形容詞: 感情などを深く感じる、痛切な、心からの
+  - [hath](https://ejje.weblio.jp/content/hath), ハァス
+    - = has
+  - [wrought](https://ejje.weblio.jp/content/wrought), ウロゥ
+    - work - worked | wrought - worked | wrought
+  - ChatGPT訳: 「まことに喜んでです。彼らの情熱は、彼らに対して行われたことに対して深く走っています。」
+- Tav: I would like to talk about hirelings.
+- Withers: Very well.
+- Tav: _Leave._
 
 ### 20, Eliasis - 0:20 - Withers, Tav
 
