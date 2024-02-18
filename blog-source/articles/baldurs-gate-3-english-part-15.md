@@ -669,6 +669,8 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
   - ChatGPT訳: 「どう感じる？」
     - 一般的な言い回しで、相手の体調や感情を尋ねるときに使う
 - Tav: Surprisingly fine, in spite of it all.
+  - [surprisingly](https://ejje.weblio.jp/content/surprisingly), サ・プラィジングリィ
+    - 副詞: 驚くほどに、非常に
   - [in spite of](https://en.wiktionary.org/wiki/in_spite_of#Preposition)
     - 前置詞: 〜にも関わらず(=despite)
       - ChatGPTによると、前提の事象となるのは困難や障害らしい
@@ -678,12 +680,74 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 議論のあるところらしい、慣用句として認識してしまうのが良さそう
       Ref: https://oshiete.goo.ne.jp/qa/1814054.html#google_vignette
 - Wyll: 'Surprising' is just the word, isn't it?
-- Wyll:
-- Wyll:
-- Wyll:
-- Tav:
-- Wyll:
-- Wyll:
-- Wyll:
-- Wyll:
-- Wyll:
+- Wyll: Before the illithids' unscheduled surgery, I'd felled hundreds of beasts and a fair few friends.
+  - [unscheduled](https://ejje.weblio.jp/content/unscheduled), アン・スケジュールド
+    - 形容詞: 予定外の、臨時の
+  - [surgery](https://ejje.weblio.jp/content/surgery), スァジェリィ
+    - 名詞: 外科手術
+  - [fell](https://ejje.weblio.jp/content/fell), フェ(ル|ウ)
+    - 他動詞: 切り倒す、伐採する
+  - [a fair few](https://en.wiktionary.org/wiki/a_fair_few)
+    - 限定詞: 不定なやや大きい数の、少なくない数の、かなりの数の
+    - 限定詞(determiner)とは？
+      - その状況での名詞の役割を指定する単語。冠詞は限定詞の一種。
+        - Ref: https://ipa-mania.com/determiner/
+    - [fair](https://ejje.weblio.jp/content/fair), フェアァ
+      - 形容詞: かなりたくさんの、相当な
+  - ChatGPT訳: 「イリシッドによる予定外の手術を受ける前に、私は何百もの獣とそれなりに多くの友人を倒してきた。」
+    - この「友人」がどういう意味合いかはわかっていない
+- Wyll: The tadpole's weakened me, suppressed greater talents. But beyond that -
+  - [weaken](https://ejje.weblio.jp/content/weaken), ウィーケン
+    - 他動詞: 弱める、もろくする、虚弱にする
+  - [beyond](https://ejje.weblio.jp/content/beyond), ビ・ヨーンド
+    - 前置詞: 〜を超えて
+    - コアイメージ: ある基準を飛び越えて彼方へ
+  - ChatGPT訳: 「オタマジャクシが私を弱めた、より大きな才能を抑えている。しかし、それを超えて -」
+- Wyll: I've shown no sign of turning. No nausea, no pain, not even a hot flash.
+  - [nausea](https://ejje.weblio.jp/content/nausea), ノアズィア
+    - 名詞: 吐き気、むかつき
+  - [not even](https://en.wiktionary.org/wiki/not_even#Adverb)
+    - 副詞: not より強力な否定
+  - [hot flash](https://en.wiktionary.org/wiki/hot_flash#Noun)
+    - = hot flush
+    - [hot flush](https://en.wiktionary.org/wiki/hot_flush#Noun)
+      - 名詞: 突然短時間体全体が熱くなる感覚
+  - not even a hot flash
+    - 前のふたつが no no で並んでいるのにこれは not even なのは、強調するのに even を使うのが妥当で、それなら not even が正しい言い方になるからのよう
+  - ChatGPT訳: 「変化の兆しは見せていない。吐き気も痛みもない、熱っぽささえもない。」
+- Tav: Something's special about us. Or at least, about our tadpoles.
+- Wyll: Indeed. Perhaps the worms' vat was poisoned. Perhaps we're uncommonly fit.
+  - [vat](https://ejje.weblio.jp/content/vat), ヴァット
+    - 名詞: 大桶
+  - [uncommonly](https://ejje.weblio.jp/content/uncommonly), アン・カーモンリィ
+    - 副詞: 特別に、異常なほどに
+    - [uncommon](https://ejje.weblio.jp/content/uncommon), アン・カーメン
+      - 形容詞: 非凡な、異常な、珍しい、稀な
+  - [fit](https://ejje.weblio.jp/content/fit), フィット
+    - 形容詞: 条件・要求・目的などに適当な・ふさわしい、適合した
+  - ChatGPT訳: 「確かに。たぶん、ワームの容器が毒を盛られたのかもしれない。もしくは私たちが並外れて適合しているのかもしれない。」
+- Wyll: Or perhaps the tadpoles are merely on holiday.
+  - [merely](https://ejje.weblio.jp/content/merely), ミィアリィ
+    - 副詞: 単に〜に過ぎない
+      - only より形式的
+- Wyll: We could conjecture all night. I suppose the 'why' doesn't matter so much as the 'what next'.
+  - [conjecture](https://ejje.weblio.jp/content/conjecture), (カ|コ)ンジェクチュア
+    - 自動詞: 推測する、当てずっぽうを言う
+  - [all night](https://en.wiktionary.org/wiki/all_night#Adverb)
+    - 副詞: 一晩中
+  - [so much as](https://en.wiktionary.org/wiki/so_much_as#Adverb)
+    - = (but) rather
+    - [rather](https://ejje.weblio.jp/content/rather), ラー(ダ|ザ)ォ
+      - 副詞: むしろ〜だ
+        - but rather だと、前言を否定してむしろ〜だ、になる。なお or rather だと、前言を言い換える意味合い。
+    - so much が弱めの強度を表していて、 as が「〜として」で他の弱くない強度の何かを提示して、だからこっちの方が大事でしょ？というイメージかもしれない
+  - ChatGPT訳: 「一晩中推測しても仕方ない。多分、「なぜ」よりも「次に何をするか」が重要だ。」
+- Wyll: And that answer is plain as the horns on a wardevil's head: we get these things out.
+  - [plain](https://ejje.weblio.jp/content/plain), プレイン
+    - 形容詞: 明白な、わかりやすい、明瞭な
+    - Assoc: Plain Text の方の意味は「装飾のない」「模様のない」
+  - ChatGPT訳: 「そしてその答えは、戦鬼の頭にある角のように明白だ：これらのものを取り出すんだ。」
+- Wyll: Let's get some rest. Dawn comes sooner than we think.
+  - some rest
+    - 「いくらかの」「少しの」と言う意味はなく、これで「休息を取る」となる言い回し
+  - 「あのBlade of Frontiersの一員が！」みたいに言われてたけど主人公たちと同じ低いレベルだったのは、Mind Flayerの手術で弱体化したからなのか
