@@ -1,0 +1,941 @@
+---
+publicId: baldurs-gate-3-english-part-15
+lastUpdatedAt: "2024-02-18 08:07:19+0000"
+---
+
+# Baldur's Gate 3の英語を復習する 15冊目
+
+- [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- あらすじ: 最後にZevlorへ話せば The grove の探索は概ね終わりの予定
+
+## 本編
+
+### 20, Eliasis - 12:28 - Zevlor, Tav
+
+Kaghaの話を受けて、再びZevlorへ会いに来た
+
+- Zevlor: I heard what happened. Thank you for protecting the child.
+  - [protect](https://ejje.weblio.jp/content/protect), プロ・テ↑ークト
+    - 他動詞: 保護する、守る
+- Zevlor: If the druids are this far gone, then it's not just goblins we have to fear.
+  - [this](https://ejje.weblio.jp/content/this), ディス
+    - 副詞: これほど、こんなに
+  - [far](https://ejje.weblio.jp/content/far)
+    - 副詞: 程度が激しすぎて、はるかに、大いに
+  - the druids are (this (far gone))
+    - far gone は直訳の「とても遠くに行ってしまった」を意訳して「迷走してしまった」という意味の形容詞句
+      - gone は過去分詞の完了形の形容詞的用法
+      - [far gone](https://en.wiktionary.org/wiki/far_gone) というイディオムはあるけど、関係なさそう
+    - this の「これほど」という程度は、「The Rite of Thornsをしてまで自分たちを守ろうとしていること」を指していそう
+  - ChatGPT訳: 「もしドルイドたちがこれほどまでに迷走しているなら、我々が恐れるべきはゴブリンだけではない。」
+- Zevlor: So we can risk violence here or face it for certain on the road. Quite the choice, isn't it?
+  - [risk](https://ejje.weblio.jp/content/risk), ゥリ↑スク
+    - 他動詞: 失敗や危険などを覚悟の上で〜を行う
+  - [violence](https://ejje.weblio.jp/content/violence), バイオレンス
+    - 名詞: 暴力、乱暴
+  - [face](https://ejje.weblio.jp/content/face), フェイス
+    - 他動詞: 事実などに直面する、何かを直視する
+  - [for certain](https://en.wiktionary.org/wiki/for_certain#Prepositional_phrase)
+    - 前置詞句: 間違いなく(=definitely)、明確に(=positively)、疑いなく(=without doubt)
+    - 同義語: certainly
+    - [certain](https://ejje.weblio.jp/content/certain), サーテン
+      - 形容詞: 客観的に確かな
+  - [quite](https://ejje.weblio.jp/content/quite), クゥアイト
+    - 副詞: 思っていたよりかなり、想定していたよりかなり
+      - Wikitionaryにはこの意味はなく、ChatGPTの回答と日本語記事群が根拠
+  - ChatGPT訳: 「だから、ここで暴力を冒すリスクを取るか、道中で確実に直面するか、なんとも選択ですね。」
+- Tav: Leaving the grove is the best option. I can help.
+- Zevlor: It's good of you to offer, but there's a whole army of goblins out there.
+  - It's good of you to offer
+    - good of you
+      - {性質・属性・側面} of {人の代名詞} で、その人が持つ性質を意味する
+    - to offer
+      - good of you を修飾している
+      - いわゆる、to不定詞の副詞的用法の原因を示す使い方のよう
+  - [whole](https://ejje.weblio.jp/content/whole), フゥル
+    - 形容詞: 全体の、全ての、完全な、無傷の
+  - [army](https://ejje.weblio.jp/content/army), アァミィ
+    - 名詞: 軍隊、陸軍
+  - a whole army of goblins
+    - 直訳だと「ゴブリン全軍が」だが、意図としては「脅威である大軍のゴブリン軍が」ということを言っていそう
+  - ChatGPT訳: 「君が申し出てくれるのは嬉しいが、外にはゴブリンの大軍がいるんだ。」
+- Zevlor: We'd need an army of our own to escort us safely to Baldur's Gate, and while I don't doubt your abilities... you're no army.
+  - [own](https://ejje.weblio.jp/content/own), オゥンヌ
+    - 代名詞: 自分自身のもの、わがもの
+  - [escort](https://ejje.weblio.jp/content/escort), エ↑ス・コォト
+    - 他動詞: 〜を護送する・護衛する
+  - [safely](https://ejje.weblio.jp/content/safely), セ↑イフリィ
+    - 副詞: 安全に、無事に、間違いなく
+  - ChatGPT訳: 「僕たちを安全にバルダーズ・ゲートまで護衛するには、自分たちの軍隊が必要だ。君の能力を疑っているわけではないが...君は軍隊ではない。」
+- Zevlor: There may be a way though. Goblins are ill-disciplined - it's unlike them to organize so cleverly.
+  - [ill](https://ejje.weblio.jp/content/ill), イ(ル|ウ)
+    - 形容詞: 下手な、まずい、欠点のある、優れない、悪い
+  - [discipline](https://ejje.weblio.jp/content/discipline), ディシプ(ラ|レ)ン
+    - 他動詞: 訓練する、鍛錬する、しつける
+  - [organize](https://ejje.weblio.jp/content/organize), オォーガナァイズ
+    - 自動詞: 組織する、団結する
+      - WikitionaryにもWeblioにも自動詞としてのこの意味はあまりなさそうだったが、ChatGPTによると一般的とのこと
+  - [cleverly](https://ejje.weblio.jp/content/cleverly), (ク|カ)レヴァリィ
+    - 副詞: 利口に、賢く、上手に、器用に
+    - [clever](https://ejje.weblio.jp/content/clever), (ク|カ)レヴァ
+      - 形容詞: 利口な、賢い、上手な、才気のある
+  - ChatGPT訳: 「しかし、方法があるかもしれない。ゴブリンは無秩序だ - 彼らがそんなに巧みに組織するのは珍しい。」
+- Zevlor: Somebody must be leading them, bringing discipline to their ranks. Take out that leadership, and they'll scatter.
+  - [discipline](https://ejje.weblio.jp/content/discipline), ディシプ(ラ|レ)ン
+    - 名詞: 規律
+  - [rank](https://ejje.weblio.jp/content/rank), ゥランク
+    - 名詞: 軍事上の横列・隊列、並び
+  - [take out](https://en.wiktionary.org/wiki/take_out#Verb)
+    - 他動詞: 取り除く(=remove)
+  - [scatter](https://ejje.weblio.jp/content/scatter), スキ↑ャロゥ
+    - 自動詞: 四散する、散り散りになる
+  - ChatGPT訳: 「誰かが彼らを率いて、その隊列に規律をもたらしているに違いない。その指導者を排除すれば、彼らは散り散りになるだろう。」
+- Zevlor: It's no small thing to ask, but... I've seen you fight. You're equal to the task.
+  - I've seen you fight
+    - 知覚動詞の構文
+  - [equal](https://ejje.weblio.jp/content/equal), イ↑ークォル
+    - 形容詞: 対等な
+  - [task](https://ejje.weblio.jp/content/task), タースク
+    - 名詞: つらい仕事、課された任務
+  - ChatGPT訳: 「それを頼むのは大それたことだが... あなたの戦い方を見てきた。あなたならその任務にふさわしい。」
+- Tav: That depends - can you pay me?
+  - ChatGPT訳: 「それはあなたが私に支払うことができるかによります。」
+- Zevlor: I suppose so. We don't have much. But we'll scrape together whatever we can.
+  - [suppose](https://ejje.weblio.jp/content/suppose), サ・ポーズ
+    - 他動詞: 判断の根拠が比較的薄い形で思う・考える
+  - I suppose so
+    - so は副詞で「そのように」という前文を参照する意味
+    - 前文へ同意しているが確信がないことを表現している
+  - [scrape together](https://en.wiktionary.org/wiki/scrape_together)
+    - 他動詞: 困難を伴いながらお金などを少しずつ集める、かき集める
+    - [scrape](https://ejje.weblio.jp/content/scrape), スクレイプ
+      - 他動詞: 生活費をやっと稼ぎ出す、指などでかき集める、苦労してかき集める、こすって削り落とす
+    - [together](https://ejje.weblio.jp/content/together), トゥギャザー
+      - 副詞: 共に連携して、同時に
+    - [whatever](https://ejje.weblio.jp/content/whatever), ワトエヴァー
+      - 代名詞: 文を伴って〜をするものはなんでも・どんなことでも
+  - ChatGPT訳: 「そうですね。多くはありませんが、何とかかき集めます。」
+- Tav: Make sure it's enough.
+  - [make sure](https://en.wiktionary.org/wiki/make_sure)
+    - イディオム: 何かの発生や完了を確認する
+      - 句動詞は標準的には動詞と前置詞または副詞の組み合わせなので、これを句動詞とはあまり言えなさそう
+      - S V(=make) C(=sure) の文型で、その後に that による副詞節や of による副詞句を伴う形と考えた方が良さそう
+  - ChatGPT訳: 「十分なものを用意してください。」
+- Zevlor: Of course. Everything we have. Anything we can give you, we will.
+  - ChatGPT訳: 「もちろんです。私たちが持っている全てです。あなたに提供できるものなら何でもします。」
+- Zevlor: We'll be ready to leave as soon as you give word.
+  - [word](https://ejje.weblio.jp/content/word), ウォード
+    - 名詞: 指図、命令、言葉による合図
+  - ChatGPT訳: 「あなたが合図をすれば、すぐに出発準備が整います。」
+    - 合図をしたらすぐ出れる様に事前に整えておく、のかと思ったけど、直訳だと違うよな
+
+### 20, Eliasis - 13:22 - Zevlor, Tav
+
+再び話した
+
+- Zevlor: Our time grows short. If Kagha won't abandon her madness, then we'll have to try the road - goblins or no.
+  - [grow](https://ejje.weblio.jp/content/grow), グロォウ
+    - 自動詞: 次第に〜になる
+      - grow C
+  - [abandon](https://ejje.weblio.jp/content/abandon), (ア|エ)バンドン
+    - 他動詞: 計画や習慣などを途中で止める
+  - goblins or no
+    - whether there are goblins or there are no goblins の略
+  - ChatGPT訳: 「私たちの時間はなくなりつつあります。もしカーガが彼女の狂気を諦めないなら、私たちは道を試さなければなりません - ゴブリンがいようといまいと。」
+- Tav: I want to discuss something else.
+  - [discuss](https://ejje.weblio.jp/content/discuss), ディス・カス
+    - 他動詞: ある問題をいろいろな角度から論じる
+- Zevlor: What is it?
+- Tav: Why did Halsin go with the adventurers?
+- Zevlor: Some artefact Aradin was hunting. I don't know any more than that - and don't want to.
+  - ChatGPT訳: 「Aradinが追っていた何かのアーティファクトだ。それ以上のことは知らないし、知りたくもない。」
+- Zevlor: This grove is poorer for losing Halsin, but I have my own people's concerns to look to.
+  - [poor](https://ejje.weblio.jp/content/poor), プゥーア
+    - 形容詞: 健康や気分などを悪くした
+  - [lose](https://ejje.weblio.jp/content/lose), ルゥーズ
+    - 他動詞: 事故などで永久的に失う、ものを一時的に失う
+  - [own](https://ejje.weblio.jp/content/own), オゥンヌ
+    - 形容詞: 所有の意味を強調する、独自性を強調する、自分自身の
+  - [concern](https://ejje.weblio.jp/content/concern), (カ|コ)ンサーン
+    - 名詞: 関心事、重要なこと
+  - [look to](https://en.wiktionary.org/wiki/look_to)
+    - 他動詞: 世話をする(take care of)、準備をする(=prepare)
+  - I have ((my own people's concerns) to look to)
+    - look to の目的語は暗黙的に my own people's concerns である、文脈から明確なため省略されている
+  - ChatGPT訳: 「この森はハルシンを失って貧しくなったが、私は自分の民の問題に目を向けなければならない。」
+- Tav: _Leave._
+
+### 20, Eliasis - 13:51 - Rechel
+
+通行していたTieflingへ話しかけた
+
+- Rechel: Those druids are going to get us killed - nothing sacred about this lot!
+  - [sacred](https://ejje.weblio.jp/content/sacred), セイク(レ|リ)ッド
+    - 形容詞: 神聖な
+  - (nothing sacred) about (this lot)
+
+### 20, Eliasis - 15:22 - Tav
+
+丘の上に偵察用と思われる望遠鏡が配置してあり、それを操作した
+
+- \*You peer through the telescope.\*
+  - [peer](https://ejje.weblio.jp/content/peer), ピィーアァ
+    - 自動詞: じっと見る、凝視する
+  - [telescope](https://ejje.weblio.jp/content/telescope), テレスコ↓ォプ
+    - 名詞: 望遠鏡
+  - ChatGPT訳: 「望遠鏡を覗きます。」
+  - ドラゴンらしき生物が飛行しているのが見えるが、望遠鏡は焦点が合っておらずぼやけている
+- Tav: _Focus the telescope on the distant object, trying to get a clear view._
+  - [focus](https://ejje.weblio.jp/content/focus), フォーカァス
+    - 他動詞: 〜の焦点を合わせる
+  - [distant](https://ejje.weblio.jp/content/distant), ディ↑ス・タント
+    - 形容詞: 距離的に遠い、遠隔の
+  - ChatGPT訳: 「遠くの物体に望遠鏡を合わせ、はっきりとした視界を得ようとする。」
+- Wisdom (Perception) Successful: Tav
+- \*You see a dragon circling like a bird of prey. Hunting.\*
+  - [circle](https://ejje.weblio.jp/content/circle), シーコゥ
+    - 自動詞: 旋回する、回転する
+  - [prey](https://ejje.weblio.jp/content/prey), プレェイ
+    - 名詞: 捕食する習性、捕食すること、猛禽性
+      - 非標準の用法
+- Tav: _Move the telescope to the left._
+- \*The telescope points to the left.\*
+  - [point](https://ejje.weblio.jp/content/point), ポーイント
+    - 自動詞: ある方向を向いている、何かを指す・示す
+- Tav: _Move the telescope to the right._
+- \*The telescope points straight ahead.\*
+  - [straight](https://ejje.weblio.jp/content/straight), ストレィ・ト
+    - 形容詞: まっすぐな、一直線の、曲がってない
+    - コアイメージ: ある一点へ向かう直線、くねくねしたり歪んでいない
+  - [ahead](https://ejje.weblio.jp/content/ahead), ア・ヘッド
+    - 副詞: 前方に
+- Tav: _Move the telescope to the right._
+- \*The telescope points to the right.\*
+- Tav: _Leave._
+
+### 20, Eliasis - 15:49 - Rikka, Tav
+
+門の上で見張りをしているTieflingの一人へ話しかけた
+
+- Rikka: Glad you were here for those goblins. Picked one off yesterday, myself. Shot her through the throat.
+  - [glad](https://ejje.weblio.jp/content/glad), グラァード
+    - 形容詞: 嬉しく感じる
+      - 一時的な意味を含む、継続的に感じるなら happy
+  - you were here
+    - here は副詞、この文脈では「ここにいる」だけではなく「なんらかの活動をしている」ことも意味する
+      - here の単語自体にはそこまでの意味はない
+  - [pick off](https://en.wiktionary.org/wiki/pick_off)
+    - 他動詞: 敵・障害物・課題などを一つずつ正確に処理する
+      - 特に遠距離から射抜くという意味で使われるケースは多い
+  - [shot](https://ejje.weblio.jp/content/shot), ショァト
+    - shoot - shot - shot
+    - [shoot](https://ejje.weblio.jp/content/shoot), シュゥト
+      - 他動詞: 撃つ、射る、放つ
+        - shoot O: O を撃つ
+        - shoot O: O で撃つ
+  - ChatGPT訳: 「ゴブリンたちに対処してくれてよかったね。自分も昨日、一匹倒したよ。喉を射抜いたんだ。」
+- Rikka: That should've killed her, but... she kept _grasping_. Clawing at the arrow.
+  - [grasp](https://ejje.weblio.jp/content/grasp), グラァスプ
+    - 自動詞: 掴もうとする
+  - [claw](https://ejje.weblio.jp/content/claw), クラゥ
+    - 自動詞: つめなどで引っ掻く
+      - claw at で場所を示すことが多い
+  - Clawing at the arrow
+    - 直訳だと「矢を爪で引っ掻く」になるが、「矢に刺さった場所を引っ掻く」の方が正しそう
+  - ChatGPT訳: 「それで死ぬはずだったけど…彼女はまだもがいていた。矢に手を伸ばしてひっかいていた。」
+    - grasping は「刺さった矢を掴もうとしていた」だが、それを意訳して「もがいていた」と表現していたとのこと
+- Tav: Taking life always has a cost. You have to feel it, or you'll lose who you are.
+  - [cost](https://ejje.weblio.jp/content/cost)
+    - 名詞: 人命・時間・労力などの犠牲・損失・代償
+      - 標準的には不可算名詞で、 the cost で使う
+      - 割と貴重なものを意味するよう
+  - a cost には、具体的なイメージはないはずなのになぜ a がついているのか？
+    - ChatGPTによると、「なんらかの代償」という側面を強調したかったとのこと、わからん
+  - ChatGPT訳: 「命を奪うことには常に代償が伴います。それを感じなければ、自分を失ってしまいます。」
+- Rikka: I had the same thought. And it's just going to keep happening...
+  - [thought](https://ejje.weblio.jp/content/thought), ソ(ォ|ァ)ト
+    - 名詞: 考え、思いつき、考えること、思考
+  - it's just going to keep happening
+    - happen は「偶然起こる」「やむなく起こる」という意味なので、諦めや達観の気持ちを含む文意
+  - ChatGPT訳: 「私も同じことを考えました。そして、それはこれからも続くでしょう...」
+
+### 20, Eliasis - 16:14 - Rikka
+
+再び話しかけた
+
+- Rikka: You made it look so easy, the killing.
+  - [look](https://ejje.weblio.jp/content/look), ルゥック
+    - 自動詞: 様子や顔つきが〜のように見える・思われる
+      - look C
+  - [easy](https://ejje.weblio.jp/content/easy), イィジィ
+    - 形容詞: 簡単な、容易な
+    - コアイメージ: 課題や気持ちなどが楽な
+  - You (made it (look so easy))
+    - made は使役動詞としての用法
+    - it = the killing
+    - 直訳で「あなたは殺しが簡単に見えることを作った」
+  - ChatGPT訳: 「あなたはそれをとても簡単に見せたわ、殺しを。」
+
+### 20, Eliasis - 16:24 - Astarion, Tav
+
+メンバーから外すために、Campへ入り、Astarionへ話しかけた
+
+- Astarion: So, we're travelling with the famed 'Blade of Frontiers'. I feel safer already.
+  - [so](https://ejje.weblio.jp/content/so), ソ↑ゥ
+    - 接続詞: 理由を示す、だから、それゆえに
+  - I feel safer already
+    - safer は比較級、「安全性が向上した」という意味
+    - already を含む「すでに安全性が向上した」という文意は、日本語だと若干使われない言い回しに思うが、ChatGPT的には問題ないとのこと
+  - ChatGPT訳: 「だから、我々は名高い「フロンティアの刃」と共に旅をしている。もう安心だ。」
+- Tav: I think it's better if you stay here in camp for a while.
+  - [while](https://ejje.weblio.jp/content/while), ゥワイル
+    - 名詞: 短い間、暫時
+  - for a while
+    - よく使われる句だが、イディオムとまでは言えなさそう
+  - ChatGPT訳: 「しばらくキャンプでここにいた方がいいと思う。」
+    - 直訳だと、「もしあなたがしばらくここ、キャンプで留まるならば、それが良いと思う」
+- Astarion: Oh darling, I'm hurt. I thought we had something special.
+  - [darling](https://ejje.weblio.jp/content/darling), ダァリング
+    - 名詞: 最愛の人、かわいい人
+  - [hurt](https://ejje.weblio.jp/content/hurt), (ハ|フ)ゥト
+    - 形容詞: 傷ついた、怪我をした
+      - 身体的・精神的なこと両方を含む
+  - [special](https://ejje.weblio.jp/content/special), スペシャ(ル|ゥ)
+    - 形容詞: 普通一般のものと異なった特別な、特殊な
+  - ChatGPT訳: 「ああ、ダーリン、傷ついたよ。僕たちには特別なものがあると思っていたのに。」
+- Tav: Please just stay here.
+  - just は「ここにいる以外に何もしないで」という意味を含んだ強調
+- Astarion: I guess I'll spend my evenings lounging here while you do all the hard work.
+  - [guess](https://ejje.weblio.jp/content/guess), ゲェス
+    - 他動詞: 情報が不完全な状態で何かを推測する、憶測する
+      - 本文だと、パーティから外されることの不満を表現している
+  - [spend](https://ejje.weblio.jp/content/spend), スペ↑ンド
+    - 他動詞: お金や時間などの資源を使う、消費する、時や休暇を過ごす
+    - 「浪費する」という意味合いは自動詞のとき
+  - [evening](https://ejje.weblio.jp/content/evening), イーブニン
+    - 名詞: 夕方、晩、夜、宵
+  - [lounge](https://ejje.weblio.jp/content/lounge), ラァウンジ
+    - 自動詞: ぶらぶらする、ゆっくり横になる、もたれかかる
+  - [hard](https://ejje.weblio.jp/content/hard), ハァード
+    - 形容詞: 行為や気質が厳しい・激しい・難しい
+    - コアイメージ: 形容詞としては「物理的に硬い」、副詞としては「激しい」、そして両者で意味を共有している
+  - ChatGPT訳: 「私は夜をここで横になりながら過ごすことにするよ。あなたが全ての大変な仕事をする間ね。」
+- Astarion: It sounds awful.
+  - [awful](https://ejje.weblio.jp/content/awful), オーフゥ
+    - 形容詞: 程度が非常な、ひどい、恐ろしい
+  - 結構真面目なのかな？しかしそれでも犠牲になるのだ、パーティバランスの
+
+### 20, Eliasis - 16:29 - Wyll, Tav
+
+メンバーへ追加するためにWyllへ話しかけた
+
+- Wyll: The Blade of Frontiers, at your calling.
+  - [calling](https://ejje.weblio.jp/content/calling), コーリング
+    - 名詞: 呼び出すこと、召集
+  - at your calling
+    - 「呼びかけに応じて」
+  - ChatGPT訳: 「フロンティアの剣、お呼びですか。」
+    - 意味はあまりわからない、「参上」みたいな感じなのかな
+- Tav: How does the Blade of Frontiers end up chasing a devil in the Hells?
+  - [chase](https://ejje.weblio.jp/content/chase), チェ↑イス
+    - 他動詞: 〜を捕まえるために素早く追う、追跡する、追撃する、狩る
+  - [end up](https://en.wiktionary.org/wiki/end_up#Verb)
+    - 自動詞,繋辞: 〜の最終的な場所・条件・状況になる、予期・予想せず〜になる、〜ということになる
+      - 繋辞（または判定詞） = [copular verb](https://en.wiktionary.org/wiki/copular_verb)
+        - be動詞みたいなもので、主語と補語を繋げる役割の動詞
+        - Ref: https://www.nihongo-appliedlinguistics.net/wp/archives/9777
+- Wyll: Karlach's fires raged in Baldur's Gate before she escaped to Avernus, as my source told it - and she was planning to return.
+  - [rage](https://ejje.weblio.jp/content/rage), ゥレイージ
+    - 自動詞: 嵐・戦争・病気・熱情などが荒れ狂う・猛威を振るう
+  - [source](https://ejje.weblio.jp/content/source), ソォス
+    - 名詞: 情報源
+  - [plan](https://ejje.weblio.jp/content/plan), プラ↑ァン
+    - 自動詞: 計画を立てる、〜をしようと思う、〜するつもりである
+  - ChatGPT訳: 「私の情報源が言うには、彼女がアヴェルヌスへ逃れる前に、カーラックの火はバルダーズ・ゲートで激しく燃えた、そして彼女が戻るつもりでいたそうです。」
+    - and 以降は「そして情報源は〜とも言っていました」というような意味だと思う
+- Wyll: One of the archdevil Zariel's own - chaos incarnate, a devil with pure fire for a heart. I made my way to Avernus to stop her.
+  - Zariel, (ザ|ゼ)リエル
+    - ゲーム用語,名詞: Avernusの女太公の大悪魔
+      - Ref: https://forgottenrealms.fandom.com/wiki/Zariel
+    - ということは、Karlachは元々Avernusに由来のある悪魔なのか
+  - [make one's way](https://en.wiktionary.org/wiki/make_one%27s_way)
+    - 自動詞: 物理的・概念的に目的地や目標に向かって前進する
+  - ChatGPT訳: 「ザリエルの独自の大悪魔の一人 - 純粋な火を心に持つ、混沌そのものの悪魔。彼女を止めるために、私はアヴェルヌスへと向かった。」
+- Wyll: She fled from my reach - even climbed aboard the mind flayer ship as it screeched through the Hells. I followed in close pursuit.
+  - [fled](https://ejje.weblio.jp/content/fled), フレッド
+    - flee - fled - fled
+    - [flee](https://ejje.weblio.jp/content/flee), フリィ
+      - 自動詞: 逃げる、脱出する
+  - [reach](https://ejje.weblio.jp/content/reach), ゥリィチ
+    - 名詞: 力や理解が及ぶ範囲、手や腕などが届く範囲
+  - [climb](https://ejje.weblio.jp/content/climb), クラァイム
+    - 自動詞: 手足を使ってよじ登る
+  - [aboard](https://ejje.weblio.jp/content/aboard), アボ(ァ|ォ)ド
+    - 副詞: 船に乗って
+  - [screech](https://en.wiktionary.org/wiki/screech#Verb), スクリィ↑チィ
+    - 自動詞: ブレーキがないかのように非常に早く進む、キーッと鳴る、金切り声を上げる
+  - [follow](https://ejje.weblio.jp/content/follow), フォ・ロゥ
+    - 自動詞: 後から追っていく
+  - [pursuit](https://ejje.weblio.jp/content/pursuit), パァスゥト
+    - 名詞: 追跡、追撃
+  - as it screeched through the Hells
+    - even climbed aboard the mind flayer ship を修飾しており、「すごい速度で進む、飛び乗るには危険な船に」という文意
+  - ChatGPT訳: 「彼女は私の手の届かないところへ逃げていった - 地獄を突き進むマインドフレイヤーの船にまで飛び乗った。私は密接に追跡した。」
+- Wyll: I can't bear to imagine the lives Karlach might be taking, the damage she might be doing.
+  - the lives Karlach might be taking, the damage she might be doing
+    - 間のカンマは and の意味
+  - ChatGPT訳: 「カーラックがどれだけの命を奪い、どれだけの被害を与えているか、想像することすら耐えられない。」
+- Tav: Who is this 'source' of yours?
+- Wyll: A powerful friend with a keen interest in... privacy. I'm sworn to say no more.
+  - [privacy](https://ejje.weblio.jp/content/privacy), プラ↑イバ・スィ
+    - 名詞: 秘密、プライバシー、人に公開したくない私生活
+  - [keen](https://ejje.weblio.jp/content/keen), キィン
+    - 形容詞: 強い、熱心な
+  - [interest](https://ejje.weblio.jp/content/interest), インチョレスト
+    - 名詞: 興味、関心、興味を起こさせるもの
+  - [swear](https://ejje.weblio.jp/content/swear), スウェアァ
+    - 他動詞: 〜へ誓いを守らせる
+      - swear O(=人)
+  - ChatGPT訳: 「プライバシーに...非常に関心を持っている強力な友人です。これ以上言わないことを誓っています。」
+    - 「プライバシーに...」ではなくて、「...いや、秘密だ」と話を打ち切っているのだと思う
+- Tav: Let's move on to other matters.
+  - [move on](https://en.wiktionary.org/wiki/move_on#Verb)
+    - 自動詞: 続ける(=continue)、続行する(=proceed, go on)
+- Wyll: All right.
+- Wyll: What else is on your mind?
+  - [else](https://ejje.weblio.jp/content/else), エ(ル|ウ)ス
+    - 形容詞: その他の
+      - 不定代名詞(e.g. someone, something, anyone, anything)・疑問代名詞(e.g. what, where, who)の後に置くときの用法
+- Tav: I'd like you to join me.
+- Wyll: That's the spirit.
+  - [spirit](https://ejje.weblio.jp/content/spirit), スピ↑リット
+    - 名詞: 意気、気迫、元気
+  - ChatGPT訳: 「それこそがやる気だ。」
+    - Tavを褒めている
+
+### 20, Eliasis - 20:45 - Elegis
+
+正確な状況を忘れたが、おそらくは見張りをしているTieflingの一人へ話しかけた
+
+- Elegis: I haven't seen a single goblin. That's good, isn't it?
+  - [single](https://ejje.weblio.jp/content/single), スィンゴォ
+    - 形容詞: ただの一つもない
+      - 否定語を伴う時の用法
+  - ChatGPT訳: 「一匹のゴブリンも見ていない。それは良いことだよね？」
+
+### 20, Eliasis - 20:46 - Kaldani, Tav
+
+正確な状況を忘れたが、おそらくは見張りをしているTieflingの一人へ話しかけた
+
+- Kaldani: Aradin's back with his tail between his legs. I'm glad for your help, but I'd hoped you were Halsin.
+  - [tail between one's legs](https://en.wiktionary.org/wiki/tail_between_one%27s_legs#Phrase)
+    - イディオム: 惨めまたは卑怯に敗北した、尻尾を巻いて戻ってきた
+  - I'd hoped = I had hoped
+  - ChatGPT訳: 「アラディンがしっぽを巻いて戻ってきた。君の助けは嬉しいが、君がハルシンだったらと期待していたんだ。」
+    - こんなしょーもないことを言わんだろと思って、それで訳がわからなくなっていたパターンだった
+- Tav: Sorry to disappoint.
+  - [disappoint](https://ejje.weblio.jp/content/disappoint), ディ・サ・ポォイント
+    - 他動詞: 人を失望させる
+- Kaldani: Hells, I didn't mean it that way. Halsin's important, but you're the first bit of good faith we've had since he left.
+  - [hell](https://en.wiktionary.org/wiki/hell#Interjection), ヘ↑(ウ|ル)
+    - 間投詞: 不幸・不満・怒りを下品または失礼に表現する
+      - 本文だと「そういう意味じゃない」という意味だけど、直接その意味はなさそうだった
+  - [that way](https://en.wiktionary.org/wiki/that_way#Adverb)
+    - 副詞: 直前の文脈を参照してあのように・そのように・あんな風に
+      - in that way で使われることも多く、意味は変わらない
+    - Wikitionaryにはこの意味がなさそうだが、ChatGPTとWeblioには書いてあった
+  - [good faith](https://en.wiktionary.org/wiki/good_faith)
+    - 名詞: 善良で誠実な意図
+      - たとえ、それが悪い結果をもたらしても、という意味も含む
+    - [faith](https://ejje.weblio.jp/content/faith), フェ↑イス
+      - 名詞: 信頼、信用、信念
+  - [since](https://ejje.weblio.jp/content/since), (ス|シ)ンス
+    - 接続詞: 〜以来、〜から
+      - 前置詞としても同じような意味がある
+    - コアイメージ: 現在またはある時点まで継続している事柄の起点
+  - but (you're (the first bit of good faith we've had)) since he left
+  - ChatGPT訳: 「いや、そういうわけじゃない。ハルシンは重要だけど、彼が去ってから君は初めての善意の兆しだったんだ。」
+- Kaldani: Keep your wits about you. Things are tense with the druids here.
+  - [wit](https://ejje.weblio.jp/content/wit), ウィット
+    - 名詞: 機知、理知、知恵、知力
+  - about you
+    - 自分の周辺に対して、ということ
+  - [tense](https://ejje.weblio.jp/content/tense), テ↑ンス
+    - 形容詞: 張り詰めた、緊張した、ぴんと張った
+    - Tencent は綴りが違った
+  - ChatGPT訳: 「気を引き締めて。ここのドルイドたちとの間は緊張しているからね。」
+
+### 20, Eliasis - 22:06 - Shadowheart, Tav
+
+初めてのLong Restを行い、その中でイベント会話が発生していたShadowheartへ話しかけた
+
+- Shadowheart: Finally, some good fortune. Come morning, we know what to do.
+  - [finally](https://ejje.weblio.jp/content/finally), ファイナリィ
+    - 副詞: ついに、とうとう、最後に、最終的に
+  - [fortune](https://ejje.weblio.jp/content/fortune), フォォ・チュン
+    - 名詞: 幸運、果報、運
+  - Come morning
+    - 正しい文法ではない
+    - 丁寧に書くなら、 When morning comes や By the time morning arrives
+  - ChatGPT訳: 「ついに幸運が訪れた。朝になれば、私たちが何をすべきかが分かる。」
+    - Finally, some good fortune. に対して「訪れた」を付与しているのは、推測して補完しているとのこと。動詞が省略されているということではなさそう。
+  - 「朝になると何をすればいいのかわかる」という発言は、予知や暗示ではなくて、イベントの進行状況に対する説明なのかな？
+- Shadowheart: The sooner we find the druid Halsin, the better. I can't wait to get rid of this thing in my head.
+  - The sooner ~, the better
+    - the 比較級A, the 比較級B の「Aするほど、Bである」の構文
+  - ChatGPT訳: 「ドルイドのハルシンを早く見つけるほどよい。頭の中のこのものを取り除くのが待ち遠しい。」
+- Tav: So what will come next for you, once this is all over?
+  - [so](https://ejje.weblio.jp/content/so), ソ↑ゥ
+    - 接続詞: 会話を導く・促す、だから、さて
+      - この文では理由を示すものではなく、こちらの意味
+  - [next](https://ejje.weblio.jp/content/next), ンネ↑クスト
+    - 副詞: 場所・時間・序列などで次に、今度
+  - [once](https://ejje.weblio.jp/content/once), ゥワンス
+    - 接続詞: 一度〜したら
+      - 「〜したらすぐ」のような意味もある
+  - [all over](https://en.wiktionary.org/wiki/all_over#Adverb)
+    - 副詞: 完全に終わって、終了して
+      - しかしこの意味はWiktionaryには無い、WeblioとChatGPTにはある
+    - どちらかというと、「全体を覆う」という意味の方が主なよう
+    - 前置詞の用法があり、また allover や all-over として形容詞の用法もある
+  - ChatGPT訳: 「これが全て終わったら、次にあなたには何が待っているんですか？」
+- Shadowheart: Head to Baldur's Gate, Someone's waiting for me.
+- Tav: Oh yes? Who?
+- Shadowheart: Let a girl have some secrets. Was there anything else?
+  - Was there anything else?
+    - 特に裏の意味などはなくて、そのままの意味のよう
+  - ChatGPT訳: 「少しは秘密を持たせてよ。他に何かあった？」
+- Tav: How are you feeling?
+  - ChatGPT訳: 「調子はどう？」
+  - 現代でも、日常の挨拶や医療現場で使われる言い回し
+- Shadowheart: The same. These prasites are proving suspiciously benign.
+  - [suspiciously](https://ejje.weblio.jp/content/suspiciously), (サ|ス)ス・ピシャスリィ
+    - 副詞: 疑わしげに、怪しげに
+  - [benign](https://ejje.weblio.jp/content/benign), ビ・ナーン
+    - 形容詞: 良性の、気候などが温和な
+  - ChatGPT訳: 「変わらないわ。これらの寄生虫は不自然に無害でいることが疑わしいわ。」
+- Shadowheart: But suppose I turn... what would you do?
+  - [suppose](https://ejje.weblio.jp/content/suppose), サポゥーズ
+    - 他動詞: 〜と仮定する・想定する
+- Tav: No hesitations. I'd just end your misery, then and there.
+  - [hesitation](https://ejje.weblio.jp/content/hesitation), ヘズテ↑ィション
+    - 名詞: ちゅうちょ、ためらい
+  - [misery](https://ejje.weblio.jp/content/misery), ミ(ゼ|ズ)リィ
+    - 名詞: 肉体的・精神的な苦痛・苦しみ・苦悩、惨めさ、悲惨
+  - ChatGPT訳: 「迷いはない。そこで直ちにあなたの苦しみを終わらせる。」
+- Shadowheart: Wise... though I hope you'd miss me after I'm gone. I think I would, if the positions were reversed.
+  - [wise](https://ejje.weblio.jp/content/wise), ワァイズ
+    - 形容詞: 賢い、賢明な
+  - [miss](https://ejje.weblio.jp/content/miss), ミス
+    - 他動詞: 〜が居ないのを寂しく思う、〜がないのを困る、〜が居ないのに気づく
+  - [gone](https://en.wiktionary.org/wiki/gone#Adjective), ゴォーンヌ
+    - 形容詞: 死んだ、もう存在しない、過ぎ去った
+  - [reverse](https://ejje.weblio.jp/content/reverse), ゥリバース
+    - 他動詞: 逆にする、反対にする、裏返す
+  - ChatGPT訳: 「賢明ね... ただ、私がいなくなった後、あなたが私を恋しがることを願うわ。もし立場が逆なら、私もそうすると思う。」
+- Shadowheart: But you're right - if we're to make it through all this, there can be no room for hesitation. You're doing well.
+  - [through](https://ejje.weblio.jp/content/through), スルゥー
+    - 副詞: まったく、徹底的に
+  - we're to make it through
+    - be to不定詞の構文、複数の意味があり、本文では「意図」の意味
+    - 割と異なる複数の意味があり、イメージしにくい。一般的にも苦戦するところのよう。
+      - Ref: https://kyoushoku.shinshu-u.ac.jp/kyoushoku/paper/no5/2012akakami.pdf
+  - there can be no room for hesitation
+    - can be には複数の意味があるが、コアイメージは「〜できる」
+    - there can be は「〜がありうる」「〜がある余地がある」
+  - ChatGPT訳: 「でもあなたの言う通り――私たちがこれら全てを乗り越えるつもりなら、躊躇する余地はありません。あなたは上手くやっています。」
+- Shadowheart: It's a beautiful night. I think I'll stay up to enjoy it while I still can. Rest well.
+  - [stay up](https://en.wiktionary.org/wiki/stay_up#Verb)
+    - 自動詞: 起きている、寝ない
+  - [rest](https://ejje.weblio.jp/content/rest), ゥレ↑スト
+    - 自動詞: 休む、休息する
+  - ChatGPT訳: 「美しい夜ですね。まだできるうちに、この夜を楽しむことにします。ゆっくり休んでください。」
+  - あー、好感度を上げ損ねた音がする...
+
+### 20, Eliasis - 22:11 - Astarion, Tav
+
+初めてのLong Restを行い、その中でイベント会話が発生していたAstarionへ話しかけた
+
+- Astarion: You know, I've been thinking.
+  - ChatGPT訳: 「ねえ、考えていたんだ。」
+- Astarion: Reflecting on what tomorrow might bring, when we find the druid.
+  - [reflect on](https://en.wiktionary.org/wiki/reflect_on#Verb)
+    - 他動詞: 何かについて注意深く考えて十分に検討する
+    - [reflect](https://ejje.weblio.jp/content/reflect), リフ・レクト
+      - 他動詞: 反射する、映す、反映する、表す
+  - Reflecting on (what tomorrow might bring (what))
+    - 今回はこうなるんだが、一方で bring (on what) が前に出ていると言う様にも見える。これは形式的に判別がつくのだろうか？
+  - ChatGPT訳: 「明日、ドルイドを見つけた時に何が起こるか、それについて反省していたよ。」
+- Astarion: Will he know how to bring the worm under control? Will this little adventure of ours be over?
+  - [bring](https://ejje.weblio.jp/content/bring), ブリン・グ
+    - 他動詞: 人やものを持ってくる
+      - bring O: O を持ってくる
+      - bring O1 O2: O1 へ O2 を持ってくる
+  - bring the worm under control
+    - bring O を under control が修飾しているだけの形
+    - [bring under](https://en.wiktionary.org/wiki/bring_under) で「征服する」「感情などを抑える」という慣用句はあるが、今回は関係なさそう
+  - be over
+    - be動詞の補語が over という前置詞のみ
+    - 前置詞句は形容詞的にも副詞的にもなり得るから、同様に前置詞単体でもそうなり得る
+  - ChatGPT訳: 「彼はワームを制御する方法を知っているのか？私たちのこの小さな冒険は終わるのか？」
+- Tav: It doesn't have to be. We can still travel together.
+  - [travel](https://ejje.weblio.jp/content/travel), トラァ・ボゥ
+    - 自動詞: 遠方や外国へ旅行する、乗り物で行く
+  - [together](https://ejje.weblio.jp/content/together), トゥギャザー
+    - 副詞: 共に、一緒に
+    - 副詞なのか前置詞なのかわからなくなる
+  - ChatGPT訳: 「それはそうでなくてもいい。私たちはまだ一緒に旅を続けることができる。」
+- Astarion: Good! I don't want you to run off just yet.
+  - [run off](https://en.wiktionary.org/wiki/run_off)
+    - 自動詞: 急いで逃げる・立ち去る
+  - ChatGPT訳: 「良い！まだ逃げ出してほしくないんだ。」
+- Astarion: You're quite the ally, after all. Traversing Avernus. Surviving the crash. Surviving everything that's followed...
+  - [ally](https://ejje.weblio.jp/content/ally), ア・ラァイ
+    - 名詞: 味方、盟友、同盟者、同盟国
+  - [after all](https://en.wiktionary.org/wiki/after_all#Prepositional_phrase)
+    - 前置詞句: 期待や予想に反して今は、最終的に、結果として、しかしながら
+  - [traverse](https://ejje.weblio.jp/content/traverse), トラ・ヴァース
+    - 他動詞: 人・動物・船などが〜を横切っていく・横断旅行する
+  - [crash](https://ejje.weblio.jp/content/crash), クラ↑ァッシュ
+    - 名詞: 飛行機の墜落、車の衝突
+  - [follow](https://ejje.weblio.jp/content/follow), フォ↑ロゥ
+    - 自動詞: 後から追って行く、後ろについてくる
+  - Surviving (everything (that's followed))
+    - that's followd = that has followed
+  - ChatGPT訳: 「結局、あなたはかなりの味方ですね。アヴェルヌスを渡り、墜落を生き延び、その後に続くすべてを生き延びて...」
+- Astarion: I'm not easily impressed by people, you're stronger than I gave you credit for.
+  - [impress](https://ejje.weblio.jp/content/impress), イン・プ(レ|ラ)ス
+    - 他動詞: 人へ印象を与える
+      - impress O(=人)
+  - [credit](https://ejje.weblio.jp/content/credit), クレディット
+    - 名詞: 評価、評判、信頼、信用
+  - you're stronger than I gave you credit for
+    - I gave you credit for (being strong) が自明なので省略されている
+    - 比較級の構文の一種なのか、それとも単に比較級だと自明な度合いが上がるからなのか、についてはわからない
+  - ChatGPT訳: 「人には簡単に感心させられない私ですが、あなたは私が思っていたよりも強いですね。」
+- Tav: I'm just trying to survive. Like you.
+- Astarion: Yes, we're more similar than I thought...
+  - [similar](https://ejje.weblio.jp/content/similar), (ス|シ)ミラァ
+    - 形容詞: 類似した、同様の、同類の
+- Tav: Are you feeling all right?
+  - [all right](https://en.wiktionary.org/wiki/all_right#Adverb)
+    - 形容詞: 良い(=good)、素晴らしくはなくともほどほど、健康、無傷
+    - なお、副詞の用法もあり、その場合は「かなり良く」
+  - ChatGPT訳: 「大丈夫ですか？」
+    - 健康や困り事がないかを心配したり確認する文意
+    - 先にあった How are you feeling? も鑑みるに、 feel が入ると、挨拶というよりは少し心配よりになるのだろうか
+- Astarion: Hmm? Oh, I was leagues away. I just need to...
+  - [league](https://ejje.weblio.jp/content/league), リィーグ
+    - 名詞: 昔の距離の単位
+      - 英米では約3マイル
+  - I was leagues away
+    - leagues away は、 {距離} {離れている度合いを意味する単語} の構文
+      - Ref: https://3040english.info/away-from/
+        - 引用の例:
+          - > It’s about 12 kilometers away.
+          - > The two premises are approximately 800m apart.
+    - 本文では、「気持ちが離れていた」つまり「考え事をしていた」と言う意味の比喩表現
+- Astarion: ...get some air. Clear my head.
+  - [clear](https://ejje.weblio.jp/content/clear), クリアァ
+    - 他動詞: 頭や目をはっきり・すっきりさせる、〜を綺麗にする、〜の汚れを取る
+- Astarion: I'll see you later, I'm sure. Sleep tight.
+  - I'm sure
+    - 直訳だと「私は確信している」だが、よくある挨拶の一部
+    - 「また会いましょう」とかそのくらいのものらしい
+  - [sleep tight](https://en.wiktionary.org/wiki/sleep_tight#Phrase)
+    - 慣用句: 就寝を勧める愛情ある表現、ぐっすり眠りなさい、おやすみなさい
+      - Wiktionaryに書いてあるような、「ベッドにしっかり結ぶ」と言う意味での tight なのかは、諸説あるよう
+    - [tight](https://ejje.weblio.jp/content/tight), タ↑イト
+      - 形容詞: 堅く結んだ、しっかり固定した
+  - ChatGPT訳: 「また後で会いましょう。おやすみなさい。」
+
+### 20, Eliasis - 22:49 - Wyll, Tav
+
+- \*A tingle runs through your head and down to your feet.\*
+  - [tingle](https://ejje.weblio.jp/content/tingle), ティ↑ングォ
+    - 名詞: うずき、ひりひり・ぴりぴり・ぞくぞくとした感覚
+  - [down](https://ejje.weblio.jp/content/down), ダァウン
+    - 前置詞: 高所から下方へ移動して
+  - runs ((through your head) and (down to your feet))
+  - ChatGPT訳: 「頭から足までぞくぞくとした感覚が走ります。」
+- Wyll: Ah, there it is - that shiver. Our little brain-worms have made fast friends, it would seem.
+  - [shiver](https://ejje.weblio.jp/content/shiver), シ↑ヴァー
+    - 名詞: 震え、身震い、悪寒、寒気
+  - [fast friend](https://en.wiktionary.org/wiki/fast_friend)
+    - 名詞: 頻繁に一緒にいて切っても切れない様な関係の友人、親友
+    - [fast](https://ejje.weblio.jp/content/fast), ファァスト
+      - 形容詞: 心の変わらぬ、忠実な
+      - コアイメージ: 「しっかり固定した」または「速い」
+        - なぜその2つなのかは、関連まで長そうだし諸説ありそうだし、一言では説明できなさそう
+          - Ref: https://www.etymonline.com/jp/word/fast
+  - ChatGPT訳: 「ああ、そこに来たか - その震え。私たちの小さな脳内虫が、早速仲良くなったようだね。」
+- Wyll: How do you feel?
+  - ChatGPT訳: 「どう感じる？」
+    - 一般的な言い回しで、相手の体調や感情を尋ねるときに使う
+- Tav: Surprisingly fine, in spite of it all.
+  - [surprisingly](https://ejje.weblio.jp/content/surprisingly), サ・プラィジングリィ
+    - 副詞: 驚くほどに、非常に
+  - [in spite of](https://en.wiktionary.org/wiki/in_spite_of#Preposition)
+    - 前置詞: 〜にも関わらず(=despite)
+      - ChatGPTによると、前提の事象となるのは困難や障害らしい
+  - it all
+    - 少なくとも、両方とも代名詞ではあるよう
+    - いわゆる「主語と同格」の用法とは異なりそう
+    - 議論のあるところらしい、慣用句として認識してしまうのが良さそう
+      - Ref: https://oshiete.goo.ne.jp/qa/1814054.html#google_vignette
+- Wyll: 'Surprising' is just the word, isn't it?
+- Wyll: Before the illithids' unscheduled surgery, I'd felled hundreds of beasts and a fair few friends.
+  - [unscheduled](https://ejje.weblio.jp/content/unscheduled), アン・スケジュールド
+    - 形容詞: 予定外の、臨時の
+  - [surgery](https://ejje.weblio.jp/content/surgery), スァジェリィ
+    - 名詞: 外科手術
+  - [fell](https://ejje.weblio.jp/content/fell), フェ(ル|ウ)
+    - 他動詞: 切り倒す、伐採する
+  - [a fair few](https://en.wiktionary.org/wiki/a_fair_few)
+    - 限定詞: 不定なやや大きい数の、少なくない数の、かなりの数の
+    - 限定詞(determiner)とは？
+      - その状況での名詞の役割を指定する単語。冠詞は限定詞の一種。
+        - Ref: https://ipa-mania.com/determiner/
+    - [fair](https://ejje.weblio.jp/content/fair), フェアァ
+      - 形容詞: かなりたくさんの、相当な
+  - ChatGPT訳: 「イリシッドによる予定外の手術を受ける前に、私は何百もの獣とそれなりに多くの友人を倒してきた。」
+    - この「友人」がどういう意味合いかはわかっていない
+- Wyll: The tadpole's weakened me, suppressed greater talents. But beyond that -
+  - [weaken](https://ejje.weblio.jp/content/weaken), ウィーケン
+    - 他動詞: 弱める、もろくする、虚弱にする
+  - [beyond](https://ejje.weblio.jp/content/beyond), ビ・ヨーンド
+    - 前置詞: 〜を超えて
+    - コアイメージ: ある基準を飛び越えて彼方へ
+  - ChatGPT訳: 「オタマジャクシが私を弱めた、より大きな才能を抑えている。しかし、それを超えて -」
+- Wyll: I've shown no sign of turning. No nausea, no pain, not even a hot flash.
+  - [nausea](https://ejje.weblio.jp/content/nausea), ノアズィア
+    - 名詞: 吐き気、むかつき
+  - [not even](https://en.wiktionary.org/wiki/not_even#Adverb)
+    - 副詞: not より強力な否定
+  - [hot flash](https://en.wiktionary.org/wiki/hot_flash#Noun)
+    - = hot flush
+    - [hot flush](https://en.wiktionary.org/wiki/hot_flush#Noun)
+      - 名詞: 突然短時間体全体が熱くなる感覚
+  - not even a hot flash
+    - 前のふたつが no no で並んでいるのにこれは not even なのは、強調するのに even を使うのが妥当で、それなら not even が正しい言い方になるからのよう
+  - ChatGPT訳: 「変化の兆しは見せていない。吐き気も痛みもない、熱っぽささえもない。」
+- Tav: Something's special about us. Or at least, about our tadpoles.
+- Wyll: Indeed. Perhaps the worms' vat was poisoned. Perhaps we're uncommonly fit.
+  - [vat](https://ejje.weblio.jp/content/vat), ヴァット
+    - 名詞: 大桶
+  - [uncommonly](https://ejje.weblio.jp/content/uncommonly), アン・カーモンリィ
+    - 副詞: 特別に、異常なほどに
+    - [uncommon](https://ejje.weblio.jp/content/uncommon), アン・カーメン
+      - 形容詞: 非凡な、異常な、珍しい、稀な
+  - [fit](https://ejje.weblio.jp/content/fit), フィット
+    - 形容詞: 条件・要求・目的などに適当な・ふさわしい、適合した
+  - ChatGPT訳: 「確かに。たぶん、ワームの容器が毒を盛られたのかもしれない。もしくは私たちが並外れて適合しているのかもしれない。」
+- Wyll: Or perhaps the tadpoles are merely on holiday.
+  - [merely](https://ejje.weblio.jp/content/merely), ミィアリィ
+    - 副詞: 単に〜に過ぎない
+      - only より形式的
+- Wyll: We could conjecture all night. I suppose the 'why' doesn't matter so much as the 'what next'.
+  - [conjecture](https://ejje.weblio.jp/content/conjecture), (カ|コ)ンジェクチュア
+    - 自動詞: 推測する、当てずっぽうを言う
+  - [all night](https://en.wiktionary.org/wiki/all_night#Adverb)
+    - 副詞: 一晩中
+  - [so much as](https://en.wiktionary.org/wiki/so_much_as#Adverb)
+    - = (but) rather
+    - [rather](https://ejje.weblio.jp/content/rather), ラー(ダ|ザ)ォ
+      - 副詞: むしろ〜だ
+        - but rather だと、前言を否定してむしろ〜だ、になる。なお or rather だと、前言を言い換える意味合い。
+    - so much が弱めの強度を表していて、 as が「〜として」で他の弱くない強度の何かを提示して、だからこっちの方が大事でしょ？というイメージかもしれない
+  - ChatGPT訳: 「一晩中推測することもできるでしょう。たぶん、「なぜ」よりも「次は何をするか」の方が重要ですね。」
+- Wyll: And that answer is plain as the horns on a wardevil's head: we get these things out.
+  - [plain](https://ejje.weblio.jp/content/plain), プレイン
+    - 形容詞: 明白な、わかりやすい、明瞭な
+    - Assoc: Plain Text の方の意味は「装飾のない」「模様のない」
+  - ChatGPT訳: 「そしてその答えは、戦鬼の頭にある角のように明白だ：これらのものを取り出すんだ。」
+- Wyll: Let's get some rest. Dawn comes sooner than we think.
+  - some rest
+    - 「いくらかの」「少しの」と言う意味はなく、これで「休息を取る」となる言い回し
+  - 「あのBlade of Frontiersの一員が！」みたいに言われてたけど主人公たちと同じ低いレベルだったのは、Mind Flayerの手術で弱体化したからなのか
+
+### 20, Eliasis - 23:53 - Withers, Tav
+
+以前に遺跡の奥で会ったLichらしき謎の人物が居たので話しかけた。  
+Long Rest時に会える、機能を提供するためのNPCだったよう。
+
+- Withers: We meet again, as predicted.
+  - [as](https://ejje.weblio.jp/content/as)
+    - 接続詞: 〜のように
+  - [predict](https://ejje.weblio.jp/content/predict), プディクト
+    - 他動詞: 予言する、予報する
+  - as (it is) predicted
+- Withers: I shall be here in thy camp, for whenever thou hast need of my services.
+  - [shall](https://ejje.weblio.jp/content/shall), シャァゥ
+    - 助動詞: おおよそwillと同様
+      - shall の方がより必然・運命的な意味を含む
+        - Ref: https://www.otonanoeigoyobikou.com/blog_list/2822/
+          - will=人の意思、shall=神の意思という定義をしている
+    - 古風な言い回しでもあり、現代ではあまり使われない
+  - [thy](https://ejje.weblio.jp/content/thy), ザァイ
+    - 形容詞: なんじの、そなたの
+      - thou の所有格
+  - [hast](https://ejje.weblio.jp/content/hast), ハ↑スト
+    - = have
+- Tav: Not to be rude, but what _are_ you?
+  - [rude](https://ejje.weblio.jp/content/rude), ルゥード
+    - 形容詞: 失礼な、無礼な、不作法な
+  - Not to be rude
+    - 「失礼ながら」「失礼かもしれないが」という意味、少なくとも自分の言うことが失礼になる可能性があることは認識している上での前置き
+    - 直訳だと「失礼ではない」なので、なぜこの意味になるのかはわからない。何かが省略されている？
+    - I don't mean to be rude, but ~ のようにも使われる
+  - what are you
+    - who are you ではないのは、相手が人間かもわからない未知の超常的な存在に見えているため
+  - ChatGPT訳: 「失礼だとは思うけど、あなたは何者？」
+- Withers: There are many answers to that question. None are important.
+  - None are important
+    - none は no one または not one を由来とする単語で、元々は単数扱いだったが、現在では not any 的に複数扱いもするよう
+- Tav: _Leave._
+
+### 20, Eliasis - 0:02 - Withers, Tav
+
+再び話しかけた
+
+- Withers: ...Not this one. Nor this one. And this one, less worthy still...
+  - [nor](https://ejje.weblio.jp/content/nor), ノーァ
+    - 接続詞: これもまた〜ではない
+      - 2つ以上の否定が並ぶときに後に付け足す形で使う
+  - [worthy](https://ejje.weblio.jp/content/worthy), ウォアズィ
+    - 形容詞: 価値のある
+  - [still](https://ejje.weblio.jp/content/still), スティ(ル|ウ)
+    - 副詞: なおいっそう、さらに
+      - 標準的な、比較級を強める用法
+        - コアイメージは「静止」なのに、なぜこれが比較級だと強める意味になるんだろう？逆に弱まるならわかるが...
+        - 調べても出てこなかった、謎
+  - ChatGPT訳: 「...これも違う。これも違う。そして、これはなおさら価値がない...」
+- Tav: 'Less worthy still'? More riddles from my resident jester.
+  - [resident](https://ejje.weblio.jp/content/resident), ゥレジデント
+    - 形容詞: 居住する、在住の、駐在する
+  - [jester](https://ejje.weblio.jp/content/jester), ジ↑ェスタァ
+    - 名詞: 中世王侯や貴族に雇われた道化師、冗談を言う人
+    - Assoc: npmのjestって、そういやアイコンとして道化師の顔や靴が描いてあった
+  - ChatGPT訳: 「「なおさら価値がない」？私の住む道化師からのまた謎か。」
+- Withers: I riddle thee not. I speak only what requires telling.
+  - [thee](https://ejje.weblio.jp/content/thee), ズィー
+    - 代名詞: thou の目的格、なんじを
+  - I riddle thee not
+    - I don't riddle you を古風にした言い方
+  - [require](https://ejje.weblio.jp/content/require), ゥリクァイア
+    - 他動詞: 〜すること・であることを必要とする
+      - require Verb-ing または require to Verb の形で
+  - ChatGPT訳: 「私は謎をかけてはおらぬ。伝えるべきことのみを話している。」
+- Withers: Beyond mortal realms, there doth exist an amalgamation of spirits akin to thine own, ensnared by the treacherous cult of the Absolute, felled in its name.
+  - [mortal](https://ejje.weblio.jp/content/mortal), モー(タ|ト)ル
+    - 形容詞: 生者の、死ぬべき人間の、死ぬべき運命の
+  - [doth](https://ejje.weblio.jp/content/doth), (ド|ダ)ース
+    - = does
+  - [amalgamation](https://ejje.weblio.jp/content/amalgamation), アマーガメイシャン
+    - 名詞: 融合、合金・合成物・混合物にすること
+    - Assoc: フルメタの「アマルガム」
+  - [akin](https://ejje.weblio.jp/content/akin), ア・キィン
+    - 形容詞: 同族で、血族で、同種で、類似で
+  - [thine](https://ejje.weblio.jp/content/thine), ザァイン
+    - 代名詞: なんじのもの
+      - thou の所有代名詞
+  - there doth exist an amalgamation of spirits
+    - there exists an amalgamation of spirits を古風にした言い方
+      - there does exist = there exists なのはまた別のルールがありそうだが、未調査
+  - [ensnare](https://ejje.weblio.jp/content/ensnare), (イ|エ)ン・スネア
+    - 他動詞: 人や動物をわなにかける・誘惑する
+  - [treacherous](https://ejje.weblio.jp/content/treacherous), (テュ|ツ)レチャレス
+    - 形容詞: 危険な、油断できない
+  - [cult](https://ejje.weblio.jp/content/cult), カゥト
+    - 名詞: 礼賛者のグループ、にせ宗教のものたち、にせ宗教、新興宗教
+  - ChatGPT訳: 「この世の領域を超えたところに、あなた自身のような精神の集合体が存在します。それは、絶対者の邪悪な教団によって捕らえられ、その名の下に倒されました。」
+  - akin to thine own というのはどういうことなんだろう？システム上の何かなのかな？
+- Withers: They bear great discontentment with their destiny.
+  - [bear](https://ejje.weblio.jp/content/bear), ベァア
+    - 他動詞: 不幸などに耐える・我慢する、重さやものを支える
+  - [discontentment](https://ejje.weblio.jp/content/discontentment), ディス・(カ|コ)ン・テント・メント
+    - 名詞: 不平、不満
+    - [contentment](https://ejje.weblio.jp/content/contentment), (カ|コ)ン・テント・メント
+      - 名詞: 満足すること
+  - [destiny](https://ejje.weblio.jp/content/destiny), デェステニィ
+    - 名詞: 運命、宿命
+  - ChatGPT訳: 「彼らは自分たちの運命に大いなる不満を抱いている。」
+- Withers: For a mere pittance of coin, I might summon the worthiest among them to lend aid to thy undertaking.
+  - [mere](https://ejje.weblio.jp/content/mere), ミィアァ
+    - 形容詞: ほんの、単なる
+  - [pittance](https://ejje.weblio.jp/content/pittance), ピッ・ン・ス
+    - 名詞: わずかな手当・収入・金
+  - [aid](https://ejje.weblio.jp/content/aid), エェイド
+    - 名詞: 助力、手伝い
+  - [undertaking](https://ejje.weblio.jp/content/undertaking), アン(ダ|デュ)ア・テイキング
+    - 名詞: 引き受けた仕事、約束
+  - ChatGPT訳: 「ほんの少しの金貨であれば、彼らの中で最も価値ある者を召喚し、君の企てに協力させることができるかもしれない。」
+- Tav: Will these hirelings be joining me willingly?
+  - [hireling](https://ejje.weblio.jp/content/hireling), ハ↑イヤリン
+    - 名詞: 雇い人、金のために働く人
+  - [willingly](https://ejje.weblio.jp/content/willingly), ウィリングリィ
+    - 副詞: 喜んで、快く、進んで
+    - [willing](https://ejje.weblio.jp/content/willing), ウィリング
+      - 形容詞: 本当はやりたくないことを求められても進んでして、いとわないで
+        - 「求められると進んでする」「自発的な」と言う意味もある
+- Withers: Most willingly, forsooth. Their passions doth run deep for what hath been wrought upon them.
+  - [forsooth](https://ejje.weblio.jp/content/forsooth), フォオスワーフ
+    - 副詞: 真実に(=truthfully)、本当に(=really)、確かに(=indeed)
+      - 皮肉を込めて逆の意味で使われることの方が現代だと多い
+  - [passion](https://ejje.weblio.jp/content/passion), パァツション
+    - 名詞: 激情、熱情、情熱
+      - 本文の文意からだと「激しい怒り」くらいが合ってそう
+  - [run](https://ejje.weblio.jp/content/run), ゥランヌ
+    - 自動詞: 液体などが流れる
+  - [deep](https://ejje.weblio.jp/content/deep), ディープ
+    - 形容詞: 感情などを深く感じる、痛切な、心からの
+  - [hath](https://ejje.weblio.jp/content/hath), ハァス
+    - = has
+  - [wrought](https://ejje.weblio.jp/content/wrought), ウロゥ
+    - work - worked | wrought - worked | wrought
+  - ChatGPT訳: 「まことに喜んでです。彼らの情熱は、彼らに対して行われたことに対して深く走っています。」
+- Tav: I would like to talk about hirelings.
+- Withers: Very well.
+- Tav: _Leave._
+  - 仲間が雇えそう
+
+### 20, Eliasis - 0:20 - Withers, Tav
+
+再び話しかけた
+
+- Withers: Fate spins along as it should. Have you need of my services?
+  - [fate](https://ejje.weblio.jp/content/fate), フェイト
+    - 名詞: 運命、宿命
+  - Fate spins
+    - spin には特に運命を意味した意味はなく、これは比喩表現
+  - ChatGPT訳: 「運命はそのままに進むもの。私の力が必要か？」
+- Tav: What kind of services can a skeleton offer?
+  - [offer](https://ejje.weblio.jp/content/offer), (ア|オ)・ファー
+    - 他動詞: ものや援助を提供する
+  - 今回は What の節は目的語が前に出た形だけど、そうじゃないこともあるよね？
+    - 疑問代名詞の what
+      - What is your current job?
+        - 肯定文と語順は変わらない
+    - 疑問形容詞の what
+      - What product is selling?
+        - 肯定文と語順は変わらない
+    - 疑問副詞の what
+      - What kind of services can a skeleton offer?
+        - 目的語が前に出て、主語と述語が疑問文の順序になる
+    - Ref: https://english-club.jp/blog/english-grammar-interrogative/#2_9
+- Withers: A mending of the threads between life and death.
+  - ChatGPT訳: 「生と死の糸を繋ぎ直すこと。」
+- Withers: Should thou or any of thy compatriots perish, I will cleave soul to body once more.
+  - [compatriot](https://ejje.weblio.jp/content/compatriot), コンペイトリオット
+    - 名詞: 同胞、同国人
+  - [perish](https://ejje.weblio.jp/content/perish), ペェ↑リッシュ
+    - 自動詞: 突然または非業な死に方で死ぬ
+  - [cleave](https://ejje.weblio.jp/content/cleave), クリィブ
+    - 他動詞: くっつける、結びつける
+      - 古い英語でのみ使う意味、現在も「くっつく」と言う意味はあるが自動詞のみのよう、標準的にはは逆の「切り裂く」「分ける」の意味
+- Tav: You mentioned a cost - what is it?
+  - ChatGPT訳: 「費用について言及しましたが、それは何ですか？」
+    - 話の流れがややおかしい、ゲームの流れ上のもののような気がするけど忘れた
+- Withers: A matter of coin. {ここにgpの値が入るが不具合で読めない}
+- Tav: _Leave._
+  - 死んだ時の復活もできそう
