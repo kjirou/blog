@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-15
-lastUpdatedAt: "2024-02-10 14:15:49+0000"
+lastUpdatedAt: "2024-02-18 08:07:19+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 15冊目
@@ -100,7 +100,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
   - ChatGPT訳: 「それを頼むのは大それたことだが... あなたの戦い方を見てきた。あなたならその任務にふさわしい。」
 - Tav: That depends - can you pay me?
   - ChatGPT訳: 「それはあなたが私に支払うことができるかによります。」
-- Zevlor: I suppose so. We don't have much But we'll scrape together whatever we can.
+- Zevlor: I suppose so. We don't have much. But we'll scrape together whatever we can.
   - [suppose](https://ejje.weblio.jp/content/suppose), サ・ポーズ
     - 他動詞: 判断の根拠が比較的薄い形で思う・考える
   - I suppose so
@@ -126,6 +126,8 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
 - Zevlor: We'll be ready to leave as soon as you give word.
   - [word](https://ejje.weblio.jp/content/word), ウォード
     - 名詞: 指図、命令、言葉による合図
+  - ChatGPT訳: 「あなたが合図をすれば、すぐに出発準備が整います。」
+    - 合図をしたらすぐ出れる様に事前に整えておく、のかと思ったけど、直訳だと違うよな
 
 ### 20, Eliasis - 13:22 - Zevlor, Tav
 
@@ -339,7 +341,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 他動詞: 〜を捕まえるために素早く追う、追跡する、追撃する、狩る
   - [end up](https://en.wiktionary.org/wiki/end_up#Verb)
     - 自動詞,繋辞: 〜の最終的な場所・条件・状況になる、予期・予想せず〜になる、〜ということになる
-      - 繋辞（または判定詞） = [copularverb](https://en.wiktionary.org/wiki/copular_verb)
+      - 繋辞（または判定詞） = [copular verb](https://en.wiktionary.org/wiki/copular_verb)
         - be動詞みたいなもので、主語と補語を繋げる役割の動詞
         - Ref: https://www.nihongo-appliedlinguistics.net/wp/archives/9777
 - Wyll: Karlach's fires raged in Baldur's Gate before she escaped to Avernus, as my source told it - and she was planning to return.
@@ -347,8 +349,6 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 自動詞: 嵐・戦争・病気・熱情などが荒れ狂う・猛威を振るう
   - [source](https://ejje.weblio.jp/content/source), ソォス
     - 名詞: 情報源
-  - as my source told it
-    - そこに至るまでの文を修飾している
   - [plan](https://ejje.weblio.jp/content/plan), プラ↑ァン
     - 自動詞: 計画を立てる、〜をしようと思う、〜するつもりである
   - ChatGPT訳: 「私の情報源が言うには、彼女がアヴェルヌスへ逃れる前に、カーラックの火はバルダーズ・ゲートで激しく燃えた、そして彼女が戻るつもりでいたそうです。」
@@ -374,6 +374,10 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 副詞: 船に乗って
   - [screech](https://en.wiktionary.org/wiki/screech#Verb), スクリィ↑チィ
     - 自動詞: ブレーキがないかのように非常に早く進む、キーッと鳴る、金切り声を上げる
+  - [follow](https://ejje.weblio.jp/content/follow), フォ・ロゥ
+    - 自動詞: 後から追っていく
+  - [pursuit](https://ejje.weblio.jp/content/pursuit), パァスゥト
+    - 名詞: 追跡、追撃
   - as it screeched through the Hells
     - even climbed aboard the mind flayer ship を修飾しており、「すごい速度で進む、飛び乗るには危険な船に」という文意
   - ChatGPT訳: 「彼女は私の手の届かないところへ逃げていった - 地獄を突き進むマインドフレイヤーの船にまで飛び乗った。私は密接に追跡した。」
@@ -475,7 +479,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 丁寧に書くなら、 When morning comes や By the time morning arrives
   - ChatGPT訳: 「ついに幸運が訪れた。朝になれば、私たちが何をすべきかが分かる。」
     - Finally, some good fortune. に対して「訪れた」を付与しているのは、推測して補完しているとのこと。動詞が省略されているということではなさそう。
-  - 「朝になると何をすればいいのかわかる」という発言は、予知や暗示ではなくて、イベントの進行状況に対する説明っぽい
+  - 「朝になると何をすればいいのかわかる」という発言は、予知や暗示ではなくて、イベントの進行状況に対する説明なのかな？
 - Shadowheart: The sooner we find the druid Halsin, the better. I can't wait to get rid of this thing in my head.
   - The sooner ~, the better
     - the 比較級A, the 比較級B の「Aするほど、Bである」の構文
@@ -554,12 +558,12 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
 
 - Astarion: You know, I've been thinking.
   - ChatGPT訳: 「ねえ、考えていたんだ。」
-- Astarion: Reflectiong on what tomorrow might bring, when we find the druid.
+- Astarion: Reflecting on what tomorrow might bring, when we find the druid.
   - [reflect on](https://en.wiktionary.org/wiki/reflect_on#Verb)
     - 他動詞: 何かについて注意深く考えて十分に検討する
     - [reflect](https://ejje.weblio.jp/content/reflect), リフ・レクト
       - 他動詞: 反射する、映す、反映する、表す
-  - Reflectiong on (what tomorrow might bring (what))
+  - Reflecting on (what tomorrow might bring (what))
     - 今回はこうなるんだが、一方で bring (on what) が前に出ていると言う様にも見える。これは形式的に判別がつくのだろうか？
   - ChatGPT訳: 「明日、ドルイドを見つけた時に何が起こるか、それについて反省していたよ。」
 - Astarion: Will he know how to bring the worm under control? Will this little adventure of ours be over?
@@ -678,7 +682,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 少なくとも、両方とも代名詞ではあるよう
     - いわゆる「主語と同格」の用法とは異なりそう
     - 議論のあるところらしい、慣用句として認識してしまうのが良さそう
-      Ref: https://oshiete.goo.ne.jp/qa/1814054.html#google_vignette
+      - Ref: https://oshiete.goo.ne.jp/qa/1814054.html#google_vignette
 - Wyll: 'Surprising' is just the word, isn't it?
 - Wyll: Before the illithids' unscheduled surgery, I'd felled hundreds of beasts and a fair few friends.
   - [unscheduled](https://ejje.weblio.jp/content/unscheduled), アン・スケジュールド
@@ -741,7 +745,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
       - 副詞: むしろ〜だ
         - but rather だと、前言を否定してむしろ〜だ、になる。なお or rather だと、前言を言い換える意味合い。
     - so much が弱めの強度を表していて、 as が「〜として」で他の弱くない強度の何かを提示して、だからこっちの方が大事でしょ？というイメージかもしれない
-  - ChatGPT訳: 「一晩中推測しても仕方ない。多分、「なぜ」よりも「次に何をするか」が重要だ。」
+  - ChatGPT訳: 「一晩中推測することもできるでしょう。たぶん、「なぜ」よりも「次は何をするか」の方が重要ですね。」
 - Wyll: And that answer is plain as the horns on a wardevil's head: we get these things out.
   - [plain](https://ejje.weblio.jp/content/plain), プレイン
     - 形容詞: 明白な、わかりやすい、明瞭な
@@ -754,7 +758,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
 
 ### 20, Eliasis - 23:53 - Withers, Tav
 
-以前に遺跡の奥で会ったLichらしき謎の人物が居たので話しかけた。
+以前に遺跡の奥で会ったLichらしき謎の人物が居たので話しかけた。  
 Long Rest時に会える、機能を提供するためのNPCだったよう。
 
 - Withers: We meet again, as predicted.
@@ -845,6 +849,7 @@ Long Rest時に会える、機能を提供するためのNPCだったよう。
   - [cult](https://ejje.weblio.jp/content/cult), カゥト
     - 名詞: 礼賛者のグループ、にせ宗教のものたち、にせ宗教、新興宗教
   - ChatGPT訳: 「この世の領域を超えたところに、あなた自身のような精神の集合体が存在します。それは、絶対者の邪悪な教団によって捕らえられ、その名の下に倒されました。」
+  - akin to thine own というのはどういうことなんだろう？システム上の何かなのかな？
 - Withers: They bear great discontentment with their destiny.
   - [bear](https://ejje.weblio.jp/content/bear), ベァア
     - 他動詞: 不幸などに耐える・我慢する、重さやものを支える
