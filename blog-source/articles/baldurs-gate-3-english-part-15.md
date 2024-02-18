@@ -794,6 +794,74 @@ Long Rest時に会える、機能を提供するためのNPCだったよう。
 
 再び話しかけた
 
+- Withers: ...Not this one. Nor this one. And this one, less worthy still...
+  - [nor](https://ejje.weblio.jp/content/nor), ノーァ
+    - 接続詞: これもまた〜ではない
+      - 2つ以上の否定が並ぶときに後に付け足す形で使う
+  - [worthy](https://ejje.weblio.jp/content/worthy), ウォアズィ
+    - 形容詞: 価値のある
+  - [still](https://ejje.weblio.jp/content/still), スティ(ル|ウ)
+    - 副詞: なおいっそう、さらに
+      - 標準的な、比較級を強める用法
+        - コアイメージは「静止」なのに、なぜこれが比較級だと強める意味になるんだろう？逆に弱まるならわかるが...
+        - 調べても出てこなかった、謎
+  - ChatGPT訳: 「...これも違う。これも違う。そして、これはなおさら価値がない...」
+- Tav: 'Less worthy still'? More riddles from my resident jester.
+  - [resident](https://ejje.weblio.jp/content/resident), ゥレジデント
+    - 形容詞: 居住する、在住の、駐在する
+  - [jester](https://ejje.weblio.jp/content/jester), ジ↑ェスタァ
+    - 名詞: 中世王侯や貴族に雇われた道化師、冗談を言う人
+    - Assoc: npmのjestって、そういやアイコンとして道化師の顔や靴が描いてあった
+  - ChatGPT訳: 「「なおさら価値がない」？私の住む道化師からのまた謎か。」
+- Withers: I riddle thee not. I speak only what requires telling.
+  - [thee](https://ejje.weblio.jp/content/thee), ズィー
+    - 代名詞: thou の目的格、なんじを
+  - I riddle thee not
+    - I don't riddle you を古風にした言い方
+  - [require](https://ejje.weblio.jp/content/require), ゥリクァイア
+    - 他動詞: 〜すること・であることを必要とする
+      - require Verb-ing または require to Verb の形で
+  - ChatGPT訳: 「私は謎をかけてはおらぬ。伝えるべきことのみを話している。」
+- Withers: Beyond mortal realms, there doth exist an amalgamation of spirits akin to thine own, ensnared by the treacherous cult of the Absolute, felled in its name.
+  - [mortal](https://ejje.weblio.jp/content/mortal), モー(タ|ト)ル
+    - 形容詞: 生者の、死ぬべき人間の、死ぬべき運命の
+  - [doth](https://ejje.weblio.jp/content/doth), (ド|ダ)ース
+    - = does
+  - [amalgamation](https://ejje.weblio.jp/content/amalgamation), アマーガメイシャン
+    - 名詞: 融合、合金・合成物・混合物にすること
+    - Assoc: フルメタの「アマルガム」
+  - [akin](https://ejje.weblio.jp/content/akin), ア・キィン
+    - 形容詞: 同族で、血族で、同種で、類似で
+  - [thine](https://ejje.weblio.jp/content/thine), ザァイン
+    - 代名詞: なんじのもの
+      - thou の所有代名詞
+  - there doth exist an amalgamation of spirits
+    - there exists an amalgamation of spirits を古風にした言い方
+      - there does exist = there exists なのはまた別のルールがありそうだが、未調査
+  - [ensnare](https://ejje.weblio.jp/content/ensnare), (イ|エ)ン・スネア
+    - 他動詞: 人や動物をわなにかける・誘惑する
+  - [treacherous](https://ejje.weblio.jp/content/treacherous), (テュ|ツ)レチャレス
+    - 形容詞: 危険な、油断できない
+  - [cult](https://ejje.weblio.jp/content/cult), カゥト
+    - 名詞: 礼賛者のグループ、にせ宗教のものたち、にせ宗教、新興宗教
+  - ChatGPT訳: 「この世の領域を超えたところに、あなた自身のような精神の集合体が存在します。それは、絶対者の邪悪な教団によって捕らえられ、その名の下に倒されました。」
+- Withers: They bear great discontentment with their destiny.
+  - [bear](https://ejje.weblio.jp/content/bear), ベァア
+    - 他動詞: 不幸などに耐える・我慢する、重さやものを支える
+  - [discontentment](https://ejje.weblio.jp/content/discontentment), ディス・(カ|コ)ン・テント・メント
+    - 名詞: 不平、不満
+    - [contentment](https://ejje.weblio.jp/content/contentment), (カ|コ)ン・テント・メント
+      - 名詞: 満足すること
+  - [destiny](https://ejje.weblio.jp/content/destiny), デェステニィ
+    - 名詞: 運命、宿命
+  - ChatGPT訳: 「彼らは自分たちの運命に大いなる不満を抱いている。」
+- Withers: For a mere pittance of coin, I might summon the worthiest among them to lend aid to thy undertaking.
+- Tav:
+- Withers:
+- Tav:
+- Withers:
+- Tav:
+
 ### 20, Eliasis - 0:20 - Withers, Tav
 
 再び話しかけた
