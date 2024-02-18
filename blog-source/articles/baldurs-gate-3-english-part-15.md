@@ -751,3 +751,49 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
   - some rest
     - 「いくらかの」「少しの」と言う意味はなく、これで「休息を取る」となる言い回し
   - 「あのBlade of Frontiersの一員が！」みたいに言われてたけど主人公たちと同じ低いレベルだったのは、Mind Flayerの手術で弱体化したからなのか
+
+### 20, Eliasis - 23:53 - Withers, Tav
+
+以前に遺跡の奥で会ったLichらしき謎の人物が居たので話しかけた。
+Long Rest時に会える、機能を提供するためのNPCだったよう。
+
+- Withers: We meet again, as predicted.
+  - [as](https://ejje.weblio.jp/content/as)
+    - 接続詞: 〜のように
+  - [predict](https://ejje.weblio.jp/content/predict), プディクト
+    - 他動詞: 予言する、予報する
+  - as (it is) predicted
+- Withers: I shall be here in thy camp, for whenever thou hast need of my services.
+  - [shall](https://ejje.weblio.jp/content/shall), シャァゥ
+    - 助動詞: おおよそwillと同様
+      - shall の方がより必然・運命的な意味を含む
+        - Ref: https://www.otonanoeigoyobikou.com/blog_list/2822/
+          - will=人の意思、shall=神の意思という定義をしている
+    - 古風な言い回しでもあり、現代ではあまり使われない
+  - [thy](https://ejje.weblio.jp/content/thy), ザァイ
+    - 形容詞: なんじの、そなたの
+      - thou の所有格
+  - [hast](https://ejje.weblio.jp/content/hast), ハ↑スト
+    - = have
+- Tav: Not to be rude, but what _are_ you?
+  - [rude](https://ejje.weblio.jp/content/rude), ルゥード
+    - 形容詞: 失礼な、無礼な、不作法な
+  - Not to be rude
+    - 「失礼ながら」「失礼かもしれないが」という意味、少なくとも自分の言うことが失礼になる可能性があることは認識している上での前置き
+    - 直訳だと「失礼ではない」なので、なぜこの意味になるのかはわからない。何かが省略されている？
+    - I don't mean to be rude, but ~ のようにも使われる
+  - what are you
+    - who are you ではないのは、相手が人間かもわからない未知の超常的な存在に見えているため
+  - ChatGPT訳: 「失礼だとは思うけど、あなたは何者？」
+- Withers: There are many answers to that question. None are important.
+  - None are important
+    - none は no one または not one を由来とする単語で、元々は単数扱いだったが、現在では not any 的に複数扱いもするよう
+- Tav: _Leave._
+
+### 20, Eliasis - 0:02 - Withers, Tav
+
+再び話しかけた
+
+### 20, Eliasis - 0:20 - Withers, Tav
+
+再び話しかけた
