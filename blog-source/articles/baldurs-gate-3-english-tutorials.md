@@ -21,6 +21,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 主には「療養する」という動詞の用法
   - [reflection](https://ejje.weblio.jp/content/reflection), ゥリフレクション
     - 名詞: 内省、反省、熟考
+  - [companion](https://ejje.weblio.jp/content/companion), コン・パ↑ーニオン
+    - 名詞: ある行動を共にし親密な関係の仲間、友、連れ、道連れ
   - [future](https://ejje.weblio.jp/content/future), フューチャー
     - 形容詞,限定用法: 未来の、将来の
   - [escapade](https://ejje.weblio.jp/content/escapade), エ↑スカペィ
@@ -47,8 +49,33 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - [supply](https://ejje.weblio.jp/content/supply), サ・プラァイ
       - 名詞: 軍隊や探検隊などの糧食・生活用品
         - 複数形で使う、1式ということのよう
+  - [deplete](https://ejje.weblio.jp/content/deplete), ディ・プリート
+    - 他動詞: 資源や勢力などを使い尽くす・枯渇させる
   - ChatGPT訳: 「冒険の日を終えてキャンプに向かうことができます。  
     十分なキャンプ用品を持っている場合、キャンプでキャンプファイヤーや寝袋と交流することでロングレストを取ることができ、すべてのヒットポイントとリソースが回復します。そのため、もし健康が低下していてリソースが枯渇しているなら、休息を取る時かもしれません！」
 - Visiting camp at night also allows you to talk with any companions or followers you've gathered and reflect on your relationships and adventures.
+  - [follower](https://ejje.weblio.jp/content/follower), ファ↑ーロゥワー
+    - 名詞: 従者、家来、随員、手下
+  - [gather](https://ejje.weblio.jp/content/gather), ギャー(ダ|ド)ァ
+    - 他動詞: 散らばっているものや人をひとつへ集める・かき集める
+  - [relationship](https://ejje.weblio.jp/content/relationship), ゥリ・レ↑イションシィップ
+    - 名詞: 人と人との関係、ものとものとの結びつき
 - Open Rest Menu
 - Initiate Long Rest
+  - [initiate](https://ejje.weblio.jp/content/initiate), イ↑ニシエイト
+    - 他動詞: 〜を始める、〜の口火を切る、〜を創始する
+
+### Camp Supplies
+
+- Food and drink are needed to successfully complete a Long Rest at your camp and are automatically added to your Camp Supply Sack when picked up.
+  More nutritious food and drink will have higher value when used for Long Resting.
+  - Camp Supply Sack
+    - ゲーム用語,名詞: Camp Supplies だけを格納するサブインベントリ
+    - Camp Supplies Sack ではないんだな？
+    - [sack](https://ejje.weblio.jp/content/sack), サァック
+      - 名詞: 通常長方形の穀物などを入れる大袋
+  - [nutritious](https://ejje.weblio.jp/content/nutritious), ニュートリシャス
+    - 形容詞: 栄養になる
+  - ChatGPT訳: 「食べ物と飲み物は、キャンプでのロングレストを成功させるために必要であり、拾った際に自動的にキャンプ用品の袋に追加されます。
+    より栄養価の高い食べ物と飲み物は、ロングレスティングに使用した際の価値が高くなります。」
+  - そういえば、バフ効果付きの Camp Supplies もあるんだけど、これってどうやって使う時点を制御できるんだろう？
