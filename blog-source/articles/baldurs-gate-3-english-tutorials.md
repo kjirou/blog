@@ -216,14 +216,15 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - Your proficiency bonus is added to **Ability Checks** and **Saving Throws** against **Skill** you are proficient in, making them more likely to succeed.  
      It is also added to **Attack Rolls** when attacking with weapons you are proficient with, increasing your chance to hit.
     - [proficiency](https://ejje.weblio.jp/content/proficiency), プロ・フィシェンシィ
-      - 名詞: 知識や技量の熟達・熟練、技量
+      - 名詞: 知識や技量の熟達・熟練・習熟、技量
+        - ゲームのパラメータ的なものであることを考慮すると、熟達度・熟練度・習熟度かもしれない
     - [likely](https://ejje.weblio.jp/content/likely), ライクリィ
       - 形容詞: 可能性の高い、ありそうな、起こりそうな
       - 副詞だと、「たぶん」「おそらく」になる
     - [proficient](https://ejje.weblio.jp/content/proficient), プロフィシェント
       - 形容詞: 熟達した
     - against Skill you are proficient in
-      -in の目的語の Skill が前に出てる形に見えるんだけど、ChatGPTに聞いたら in a skill or skills の省略という見解だった
+      - in の目的語の Skill が前に出てる形に見えるんだけど、ChatGPTに聞いたら in a skill or skills の省略という見解だった
     - ChatGPT訳: 「熟練ボーナスは、熟練しているスキルに対する能力チェックやセービングスローに加算され、成功の可能性を高めます。
       また、熟練している武器で攻撃する際の攻撃ロールにも加算され、命中率を上げます。」
 
@@ -257,3 +258,17 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - {上向き矢印の入った緑の六角形のマーク} Indicates you have Advantage
 
 ### Proficiency (Weapons and Armour)
+
+- Proficiency with equipment reflects how much your character knows about using it.
+  - ChatGPT訳: 「装備に対する習熟度は、あなたのキャラクターがそれを使いこなすことについてどれだけ知っているかを反映しています。」
+- If you are proficient with a weapon, you can add your proficiency modifier to attack rolls and can use its weapon actions.
+  - ChatGPT訳: 「武器を使いこなしている場合、攻撃ロールに習熟モディファイアを加えることができ、その武器のアクションを使用することができます。」
+- If you use armour or a shield you aren't proficient with, you can still gain the additional **Armour Class**, but you'll have **Disadvantage** on Strength and Dexterity Checks and won't be able to cast spells.
+  - [armour](https://ejje.weblio.jp/content/armour), アァマァ
+    - = armor
+    - [armor](https://ejje.weblio.jp/content/armor), ア↑ーマァ
+      - 名詞: 鎧兜、甲冑、防護服
+        - 複数の部品の集合という意味合いなので、不可算名詞として使われることが多い
+  - won't = will not
+    - would not だと思ってたけどそっちは wouldn't だった
+  - ChatGPT訳: 「習熟していない鎧や盾を使用しても、追加のアーマークラスを得ることはできますが、力と敏捷性のチェックに不利を受け、呪文を唱えることができません。」
