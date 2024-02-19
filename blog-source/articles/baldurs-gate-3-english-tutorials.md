@@ -172,9 +172,10 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 他動詞: ゲームなどでサイコロなどの出目が〜の結果を出す
       - roll O(=結果)
       - 一般的な用法ではない、一般的には roll O(=転がす対象) である
-  - Ability の用語を開くと Ability Modifier を表示する
+  - Ability を選択すると Ability Modifier の用語を表示する
   - Skill or Ability scores とは？
-    - scores はゲーム用語ではなく、各種+-を集計したことを表現していそう
+    - Ability Score で Strength などそれぞれの数値を指す意味もある
+    - しかしここでは、scores はその意味はなく、各種+-を集計したことを表現していそう
   - [increase](https://ejje.weblio.jp/content/increase), インクリィス
     - 他動詞: 〜を程度や数量の面で増す・増加する
   - [become](https://ejje.weblio.jp/content/become), ビ・カァム
@@ -182,7 +183,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - C を伴う
   - your Skills can be increased by becoming Proficient or an Expert in them
     - in them = your Skills
-  - Proficient の用語を開くと Proficiency Bonus を表示する
+  - Proficient を選択すると Proficiency Bonus の用語を表示する
   - ChatGPT訳: 「ある行動を決定するためには、結果を決めるためにサイコロを振る必要があります。これを能力チェックやスキルチェックと言います。
     あなたの振った数値が特定の数値、難易度クラスよりも高ければ成功します。
     1を振ると自動的にチェックに失敗し、20を振ると自動的に成功します。
@@ -272,3 +273,59 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - won't = will not
     - would not だと思ってたけどそっちは wouldn't だった
   - ChatGPT訳: 「習熟していない鎧や盾を使用しても、追加のアーマークラスを得ることはできますが、力と敏捷性のチェックに不利を受け、呪文を唱えることができません。」
+
+## Class
+
+### Level Up
+
+- When you gain enough experience, you can increase your character's level up to a maximum of twelve.  
+  Levelling up increases your **hit points**, **Proficiency Bonus**, and class features.  
+  At certain levels - four, eight, and twelve for most classes - you can choose a Feat or increase your **Ability Scores**.
+  - [up to](https://en.wiktionary.org/wiki/up_to)
+    - = until
+    - [until](https://ejje.weblio.jp/content/until), アン・ティウ
+      - 前置詞: 〜に至るまでずっと、〜まで
+      - コアイメージ: 状態や動作の継続の期限を表す
+  - [certain](https://ejje.weblio.jp/content/certain), (ス|サ)ーテン
+    - 形容詞,限定用法: ある一定の
+  - Ability Scores を選択すると Abilities の用語を表示する
+    - "Ability scores" という単語の並びが前に出てきたので、それとは違うというのを確認するため
+  - ChatGPT訳: 「経験値が十分に溜まると、キャラクターのレベルを最大12まで上げることができます。
+    レベルアップすると、ヒットポイント、習熟ボーナス、およびクラス機能が向上します。
+    ほとんどのクラスでは、レベル4、8、12の特定のレベルで、フィートを選択するか能力スコアを上げることができます。」
+- {上向きの光った矢印} Click arrow by portrait to Level Up
+  - [portrait](https://ejje.weblio.jp/content/portrait), ポォートレット
+    - 名詞: 肖像画、肖像写真
+
+#### 用語
+
+- Abilities
+  - Your phisical and mental attributes.  
+    They affect most of your rolls.
+    - [affect](https://ejje.weblio.jp/content/affect), ア・フェクト
+      - 他動詞: 〜に影響を及ぼす・作用する
+    - [most](https://ejje.weblio.jp/content/most), モ↑ウスト
+      - 代名詞: 大半、大部分
+  - There are 6 Abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
+
+### Prepare Spells
+
+- Some spellcasters (Wizards, Druids, Clerics and Paladins) are incredibly versatile magic users, and can prepare different spells when not in combat.  
+  The list of available spells for these classes grows when levelling up, and Wizards can also learn new spells from Spell Scrolls.
+  - [incredibly](https://ejje.weblio.jp/content/incredibly), イン・クレ(ディ|リ)ブリィ
+    - 副詞: 信じられないほど、非常に
+    - [incredible](https://ejje.weblio.jp/content/incredible), イン・クレ(ディ|リ)ボゥ
+      - 形容詞: 驚くべき、非常な、信じられない、信用できない
+  - [versatile](https://ejje.weblio.jp/content/versatile), ヴァーサティ(ル|ウ)
+    - 形容詞: 多目的の、多芸の、多才な
+    - Assoc: 「多目的トイレ」は日本の呼び方で、欧米だと？ wheelchair access bathroom と言うらしい
+      - Ref: https://eikaiwa.dmm.com/uknow/questions/111162/
+  - ChatGPT訳: 「一部の呪文使い（ウィザード、ドルイド、クレリック、パラディン）は非常に多才な魔法使いであり、戦闘時以外に異なる呪文を準備することができます。
+    これらのクラスの利用可能な呪文のリストはレベルアップすると増え、ウィザードは呪文の巻物から新しい呪文を学ぶこともできます。」
+- K Open Spellbook
+
+### Learning Spells
+
+### Spellcasting
+
+### Sneak Attack
