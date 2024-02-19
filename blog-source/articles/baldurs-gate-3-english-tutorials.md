@@ -8,7 +8,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - この記事ではTutorialsの項目を訳す
 - 方針・規約
-  - 強調されている単語をマウスホバーすると表示できる補足説明については、必要があれば追加で原文を記述する
+  - 全体的に、本編より雑に読む
+  - 強調されている単語をマウスホバーすると表示できる用語説明については、必要があれば追記する
 
 ## Camp
 
@@ -62,8 +63,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 他動詞: 散らばっているものや人をひとつへ集める・かき集める
   - [relationship](https://ejje.weblio.jp/content/relationship), ゥリ・レ↑イションシィップ
     - 名詞: 人と人との関係、ものとものとの結びつき
-- Open Rest Menu
-- Initiate Long Rest
+- {月とZのマーク} Open Rest Menu
+- {月とZのマーク} Initiate Long Rest
   - [initiate](https://ejje.weblio.jp/content/initiate), イ↑ニシエイト
     - 他動詞: 〜を始める、〜の口火を切る、〜を創始する
 
@@ -130,8 +131,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [inspect](https://ejje.weblio.jp/content/inspect), イン・スペクト
     - 他動詞: 詳しく調査する
   - ChatGPT訳: 「一部のクラスはショートレストでリソースを回復します。リソースがいつ回復されるかを知るには、そのリソースのツールチップを確認してください。」
-- Open Rest Menu
-- Initiate Short Rest
+- {月とZのマーク} Open Rest Menu
+- {閉じた目のマーク} Initiate Short Rest
 
 ### Inspiration
 
@@ -148,7 +149,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - often より高い頻度
   - ChatGPT訳: 「バックグラウンドゴールを完了することでインスピレーションポイントを獲得します。
     これらを頻繁に使うようにしてください、あなたのパーティは一度に4つまでしか蓄積できません - それ以上のインスピレーションは経験値に変換されます。」
-- P Open Inspiration Menu
+- {発光のマーク} P Open Inspiration Menu
 
 ### Skill Checks
 
@@ -227,5 +228,32 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       また、熟練している武器で攻撃する際の攻撃ロールにも加算され、命中率を上げます。」
 
 ### Advantage and Disadvantage
+
+- Advantage lets you roll two dice for an **Ability Check**, **Saving Throw** or **Attack Roll** and take the higher result before adding your modifiers - making you more likely to succeed a roll.
+  Likewise, Disadvantage makes you less likely to succeed by taking the lower result of the two rolls.
+  - to succeed a roll
+    - 一般的に succeed は「〜を成功する」と言う意味の他動詞にならないので、不自然であるとのこと
+    - 単に何らかの前置詞を省略した結果か、D&D用語として succeed が他動詞としても使われる事があるのか、詳細は不明
+  - [likewise](https://ejje.weblio.jp/content/likewise), ライク・ワーイズ
+    - 副詞: 同様に
+  - ChatGPT訳: 「アドバンテージは、アビリティーチェック、セービングスロー、またはアタックロールで2つのダイスを振り、修正値を加える前に高い方の結果を取ることができます - これにより、ロールに成功する可能性が高くなります。
+    同様に、ディスアドバンテージは、2つのロールの低い方の結果を取ることで、成功する可能性を低くします。」
+- Advantage or Disadvantage can come from many different sources - enemies being **Prone**, characters having positive or negative attitudes towards you, and spells that help or hinder you being only a few examples - so keep an eye out for ways to better your chances!
+  - [attitude](https://ejje.weblio.jp/content/attitude), アーテテゥード
+    - 名詞: 態度、気持ち
+  - [towards](https://ejje.weblio.jp/content/towards), ト・ワァッズ
+    - = toward
+    - US は toward で UK は towards
+  - [hinder](https://ejje.weblio.jp/content/hinder), (ハ|ヒ)ンダァ
+    - 他動詞: 邪魔をする、妨げる
+      - hinder O(=人): O の邪魔をする
+      - hinder O(=ものや事): O を妨げる
+  - many different sources - (enemies ...) being only a few examples
+    - enemies からの部分は例を列挙している
+  - [keep an eye out](https://en.wiktionary.org/wiki/keep_an_eye_out#Verb)
+    - 自動詞: 注意を払う、監視する
+    - 直訳だと「目を開いておく」「目をむき出しにしておく」
+  - ChatGPT訳: 「有利または不利は多くの異なる源から生じることがあります - 敵が伏せていること、キャラクターがあなたに対して肯定的または否定的な態度を持っていること、そしてあなたを助けたり妨げたりする呪文などが例に挙げられます - これらはいくつかの例に過ぎませんので、自分のチャンスをより良くする方法を探し続けてください！」
+- {上向き矢印の入った緑の六角形のマーク} Indicates you have Advantage
 
 ### Proficiency (Weapons and Armour)
