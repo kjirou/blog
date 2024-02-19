@@ -171,7 +171,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 他動詞: ゲームなどでサイコロなどの出目が〜の結果を出す
       - roll O(=結果)
       - 一般的な用法ではない、一般的には roll O(=転がす対象) である
-  - Ability の補足説明を開くと Ability Modifier を表示する
+  - Ability の用語を開くと Ability Modifier を表示する
   - Skill or Ability scores とは？
     - scores はゲーム用語ではなく、各種+-を集計したことを表現していそう
   - [increase](https://ejje.weblio.jp/content/increase), インクリィス
@@ -181,22 +181,50 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - C を伴う
   - your Skills can be increased by becoming Proficient or an Expert in them
     - in them = your Skills
-  - Proficient の補足説明を開くと Proficiency Bonus を表示する
+  - Proficient の用語を開くと Proficiency Bonus を表示する
   - ChatGPT訳: 「ある行動を決定するためには、結果を決めるためにサイコロを振る必要があります。これを能力チェックやスキルチェックと言います。
     あなたの振った数値が特定の数値、難易度クラスよりも高ければ成功します。
     1を振ると自動的にチェックに失敗し、20を振ると自動的に成功します。
     これらのロールはスキルや能力スコアによって修正されることがあります - 数値が高ければ高いほど、あなたのロールも高くなります。
     能力スコアはレベルアップしたり特別なアイテムを手に入れることで上がりますし、あなたのスキルは熟練や専門家になることで向上します。」
+- Some checks will happen Passively in the world, and others will be Active checks performed by you during dialogues, lockpicking and trap disarmament.  
+  Active Checks let you cast spells to enhance your roll; and **Inspiration** can be used to reroll if you fail a check.
+  - [passively](https://ejje.weblio.jp/content/passively), パァッシブリィ
+    - 副詞: 受身に、消極的に
+  - others will be Active checks
+    - Active checks は複合名詞、なぜ Active が固有名詞っぽくなっているのかはあまりわからない、前文の Passively と対比している？
+  - [perform](https://ejje.weblio.jp/content/perform), (パ|プ)ァ・フォーム
+    - 他動詞: 任務や仕事などをする・行う
+  - [during](https://ejje.weblio.jp/content/during), ドゥーリング
+    - 前置詞: 特定の期間の間中ずっと、〜の間中
+  - [dialogue](https://ejje.weblio.jp/content/dialogue), ダ↑イアラァグ
+    - 名詞: UIのダイアログ、対話、話し合い
+  - [disarmament](https://ejje.weblio.jp/content/disarmament), ディスアーマメント
+    - 名詞: 武装解除、軍備縮小
+  - lockpicking and trap disarmament
+    - ChatGPTに確認したところ、例としての列挙であるとのこと。ただ、下記の訳には反映されていないが。
+    - for example や such as などを伴わなくても、文脈上例を示すことはあるとのこと
+  - ChatGPT訳: 「世界で起こるいくつかのチェックは受動的に行われ、他のチェックは対話中や錠前開け、罠の解除の際にあなたが行う能動的なチェックです。
+    能動的なチェックでは、ロールを強化するために呪文を使用することができます。また、チェックに失敗した場合はインスピレーションを使用して再ロールすることができます。」
 
-#### 補足説明
+#### 用語
 
 - Ability Modifier
   - A bonus or penalty based on an Ability.
 - Proficiency Bonus
-  - Your proficiency bonus is added to Ability Checks and Saving Throws against Skill you are proficient in, making them more likely to succeed.  
-    It is also added to Attack Rolls when attacking with weapons you are proficient with, increasing your chance to hit.
-    - [proficiency](https://ejje.weblio.jp/content/proficiency), プロ・フィシエンシィ
+  - Your proficiency bonus is added to **Ability Checks** and **Saving Throws** against **Skill** you are proficient in, making them more likely to succeed.  
+     It is also added to **Attack Rolls** when attacking with weapons you are proficient with, increasing your chance to hit.
+    - [proficiency](https://ejje.weblio.jp/content/proficiency), プロ・フィシェンシィ
       - 名詞: 知識や技量の熟達・熟練、技量
+    - [likely](https://ejje.weblio.jp/content/likely), ライクリィ
+      - 形容詞: 可能性の高い、ありそうな、起こりそうな
+      - 副詞だと、「たぶん」「おそらく」になる
+    - [proficient](https://ejje.weblio.jp/content/proficient), プロフィシェント
+      - 形容詞: 熟達した
+    - against Skill you are proficient in
+      -in の目的語の Skill が前に出てる形に見えるんだけど、ChatGPTに聞いたら in a skill or skills の省略という見解だった
+    - ChatGPT訳: 「熟練ボーナスは、熟練しているスキルに対する能力チェックやセービングスローに加算され、成功の可能性を高めます。
+      また、熟練している武器で攻撃する際の攻撃ロールにも加算され、命中率を上げます。」
 
 ### Advantage and Disadvantage
 
