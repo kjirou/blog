@@ -171,10 +171,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 他動詞: ゲームなどでサイコロなどの出目が〜の結果を出す
       - roll O(=結果)
       - 一般的な用法ではない、一般的には roll O(=転がす対象) である
+  - Ability の補足説明を開くと Ability Modifier を表示する
   - Skill or Ability scores とは？
-    - Ability をマウスオーバーすると以下の文章を表示する
-      - Ability Modifier
-        - A bonus or penalty based on an Ability.
     - scores はゲーム用語ではなく、各種+-を集計したことを表現していそう
   - [increase](https://ejje.weblio.jp/content/increase), インクリィス
     - 他動詞: 〜を程度や数量の面で増す・増加する
@@ -183,11 +181,22 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - C を伴う
   - your Skills can be increased by becoming Proficient or an Expert in them
     - in them = your Skills
+  - Proficient の補足説明を開くと Proficiency Bonus を表示する
   - ChatGPT訳: 「ある行動を決定するためには、結果を決めるためにサイコロを振る必要があります。これを能力チェックやスキルチェックと言います。
     あなたの振った数値が特定の数値、難易度クラスよりも高ければ成功します。
     1を振ると自動的にチェックに失敗し、20を振ると自動的に成功します。
     これらのロールはスキルや能力スコアによって修正されることがあります - 数値が高ければ高いほど、あなたのロールも高くなります。
     能力スコアはレベルアップしたり特別なアイテムを手に入れることで上がりますし、あなたのスキルは熟練や専門家になることで向上します。」
+
+#### 補足説明
+
+- Ability Modifier
+  - A bonus or penalty based on an Ability.
+- Proficiency Bonus
+  - Your proficiency bonus is added to Ability Checks and Saving Throws against Skill you are proficient in, making them more likely to succeed.  
+    It is also added to Attack Rolls when attacking with weapons you are proficient with, increasing your chance to hit.
+    - [proficiency](https://ejje.weblio.jp/content/proficiency), プロ・フィシエンシィ
+      - 名詞: 知識や技量の熟達・熟練、技量
 
 ### Advantage and Disadvantage
 
