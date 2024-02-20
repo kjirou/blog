@@ -9,7 +9,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - この記事ではTutorialsの項目を訳す
 - 方針・規約
   - 全体的に、本編より雑に読む
-  - 強調されている単語をマウスホバーすると表示できる用語説明については、必要があれば追記する
+  - 強調されている単語をマウスホバーすると表示できる用語説明については、必要があれば最下部へ記述する
+    - いずれ別記事にするかもしれない
 
 ## Camp
 
@@ -149,7 +150,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - often より高い頻度
   - ChatGPT訳: 「バックグラウンドゴールを完了することでインスピレーションポイントを獲得します。
     これらを頻繁に使うようにしてください、あなたのパーティは一度に4つまでしか蓄積できません - それ以上のインスピレーションは経験値に変換されます。」
-- {発光のマーク} P Open Inspiration Menu
+- {発光のマーク} **P** Open Inspiration Menu
 
 ### Skill Checks
 
@@ -208,26 +209,6 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - for example や such as などを伴わなくても、文脈上例を示すことはあるとのこと
   - ChatGPT訳: 「世界で起こるいくつかのチェックは受動的に行われ、他のチェックは対話中や錠前開け、罠の解除の際にあなたが行う能動的なチェックです。
     能動的なチェックでは、ロールを強化するために呪文を使用することができます。また、チェックに失敗した場合はインスピレーションを使用して再ロールすることができます。」
-
-#### 用語
-
-- Ability Modifier
-  - A bonus or penalty based on an Ability.
-- Proficiency Bonus
-  - Your proficiency bonus is added to **Ability Checks** and **Saving Throws** against **Skill** you are proficient in, making them more likely to succeed.  
-     It is also added to **Attack Rolls** when attacking with weapons you are proficient with, increasing your chance to hit.
-    - [proficiency](https://ejje.weblio.jp/content/proficiency), プロ・フィシェンシィ
-      - 名詞: 知識や技量の熟達・熟練・習熟、技量
-        - ゲームのパラメータ的なものであることを考慮すると、熟達度・熟練度・習熟度かもしれない
-    - [likely](https://ejje.weblio.jp/content/likely), ライクリィ
-      - 形容詞: 可能性の高い、ありそうな、起こりそうな
-      - 副詞だと、「たぶん」「おそらく」になる
-    - [proficient](https://ejje.weblio.jp/content/proficient), プロフィシェント
-      - 形容詞: 熟達した
-    - against Skill you are proficient in
-      - in の目的語の Skill が前に出てる形に見えるんだけど、ChatGPTに聞いたら in a skill or skills の省略という見解だった
-    - ChatGPT訳: 「熟練ボーナスは、熟練しているスキルに対する能力チェックやセービングスローに加算され、成功の可能性を高めます。
-      また、熟練している武器で攻撃する際の攻撃ロールにも加算され、命中率を上げます。」
 
 ### Advantage and Disadvantage
 
@@ -297,17 +278,6 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [portrait](https://ejje.weblio.jp/content/portrait), ポォートレット
     - 名詞: 肖像画、肖像写真
 
-#### 用語
-
-- Abilities
-  - Your phisical and mental attributes.  
-    They affect most of your rolls.
-    - [affect](https://ejje.weblio.jp/content/affect), ア・フェクト
-      - 他動詞: 〜に影響を及ぼす・作用する
-    - [most](https://ejje.weblio.jp/content/most), モ↑ウスト
-      - 代名詞: 大半、大部分
-  - There are 6 Abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
-
 ### Prepare Spells
 
 - Some spellcasters (Wizards, Druids, Clerics and Paladins) are incredibly versatile magic users, and can prepare different spells when not in combat.  
@@ -322,10 +292,51 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - Ref: https://eikaiwa.dmm.com/uknow/questions/111162/
   - ChatGPT訳: 「一部の呪文使い（ウィザード、ドルイド、クレリック、パラディン）は非常に多才な魔法使いであり、戦闘時以外に異なる呪文を準備することができます。
     これらのクラスの利用可能な呪文のリストはレベルアップすると増え、ウィザードは呪文の巻物から新しい呪文を学ぶこともできます。」
-- K Open Spellbook
+- **K** Open Spellbook
 
 ### Learning Spells
+
+- Wizards can learn some spells from scrolls they find in the world using the scroll's Context Menu or the Spellbook.  
+  Copying these spells into a Wizard's spellbook requires expensive materials, represented by a gold cost.  
+  A Wizard cannot learn a spell that is a higher level than the highest level spell they can cast.
+  - [expensive](https://ejje.weblio.jp/content/expensive), (エ|イ)クスペンシブ
+    - 形容詞: 高価な
+  - [represent](https://ejje.weblio.jp/content/represent), ゥィプリゼン
+    - 他動詞: 〜を表す・象徴する・意味する
+  - ChatGPT訳: 「魔法使いは、世界中で見つかる巻物から、その巻物のコンテキストメニューや魔法書を使っていくつかの呪文を学ぶことができます。
+    これらの呪文を魔法使いの魔法書にコピーするには、金額で表される高価な材料が必要です。
+    魔法使いは、自分が唱えることのできる最高レベルの呪文よりも高いレベルの呪文を学ぶことはできません。」
+- **Right Mouse Button** Use a scroll's Context Menu to learn a spell
+- **K** Open Spellbook
 
 ### Spellcasting
 
 ### Sneak Attack
+
+## 用語
+
+- Abilities
+  - Your phisical and mental attributes.  
+    They affect most of your rolls.
+    - [affect](https://ejje.weblio.jp/content/affect), ア・フェクト
+      - 他動詞: 〜に影響を及ぼす・作用する
+    - [most](https://ejje.weblio.jp/content/most), モ↑ウスト
+      - 代名詞: 大半、大部分
+  - There are 6 Abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
+- Ability Modifier
+  - A bonus or penalty based on an Ability.
+- Proficiency Bonus
+  - Your proficiency bonus is added to **Ability Checks** and **Saving Throws** against **Skill** you are proficient in, making them more likely to succeed.  
+     It is also added to **Attack Rolls** when attacking with weapons you are proficient with, increasing your chance to hit.
+    - [proficiency](https://ejje.weblio.jp/content/proficiency), プロ・フィシェンシィ
+      - 名詞: 知識や技量の熟達・熟練・習熟、技量
+        - ゲームのパラメータ的なものであることを考慮すると、熟達度・熟練度・習熟度かもしれない
+    - [likely](https://ejje.weblio.jp/content/likely), ライクリィ
+      - 形容詞: 可能性の高い、ありそうな、起こりそうな
+      - 副詞だと、「たぶん」「おそらく」になる
+    - [proficient](https://ejje.weblio.jp/content/proficient), プロフィシェント
+      - 形容詞: 熟達した
+    - against Skill you are proficient in
+      - in の目的語の Skill が前に出てる形に見えるんだけど、ChatGPTに聞いたら in a skill or skills の省略という見解だった
+    - ChatGPT訳: 「熟練ボーナスは、熟練しているスキルに対する能力チェックやセービングスローに加算され、成功の可能性を高めます。
+      また、熟練している武器で攻撃する際の攻撃ロールにも加算され、命中率を上げます。」
