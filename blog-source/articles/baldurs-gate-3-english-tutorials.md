@@ -340,6 +340,39 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 ### Sneak Attack
 
+- Rogues can do enormous damage against enemies with their **Sneak Attack**, whether they loose a deadly arrow from afar or sink a blade into the unsuspecting target.  
+  However, a **Sneak Attack** requires that the Rogue _eigher_ has **Advantage** on the attack _or_ an ally within melee distance of an enemy.  
+  Rogues can make a **Stealth** check as a bonus action to try and gain Advantage on an attack roll.
+  - [enormous](https://ejje.weblio.jp/content/enormous), イノァマス
+    - 形容詞: 巨大な、莫大な、ずば抜けた
+  - [loose](https://ejje.weblio.jp/content/loose), ルゥズ
+    - 他動詞: 矢や鉄砲により〜を放つ・撃つ
+      - コアイメージの「硬く縛ったものを緩める」から転じている
+  - [afar](https://ejje.weblio.jp/content/afar), ア・ファァ
+    - 副詞: 遠くに、遠く離れて
+  - from afar
+    - Wiktionaryでは慣用句として登録されていないが、慣用句だと思って良さそう
+    - 前置詞と副詞の組み合わせの前置詞句は、 from behind や from above のように一般的にままある
+  - [sink](https://ejje.weblio.jp/content/sink), スィンク
+    - 他動詞: 短剣などの〜を突き刺す
+      - sink O(=短剣など) into {対象}
+      - 「沈める」から転じたものだと思う
+  - [unsuspecting](https://ejje.weblio.jp/content/unsuspecting), アン・サスペクティング
+    - 形容詞: 疑わない、怪しまない
+  - [melee](https://ejje.weblio.jp/content/melee), (メ|ミ)ェリィ
+    - ゲーム用語,名詞: 近接
+      - 一般的には「乱戦」「混戦」
+    - 一般的には、形容詞の意味はない
+  - melee distance
+    - 「近接距離」と言う意味の、おそらくは複合名詞
+    - もしかしたら、ゲーム用語としては melee が形容詞として使われるのかもしれない
+  - ChatGPT訳: 「ローグは、遠くから致命的な矢を放つか、警戒していない対象に刃を突き刺すことで、敵に莫大なダメージを与えることができます。
+    しかし、スニークアタックを行うには、ローグが攻撃にアドバンテージを持っているか、または敵の近接距離内に味方がいる必要があります。
+    ローグは、攻撃ロールにアドバンテージを得ようとして、ボーナスアクションとしてステルスチェックを行うことができます。」
+  - Sneak Attack の条件は、Hiding状態であることではなくて、攻撃にAdvantageがある状況だったのか
+- You cannot Sneak Attack if you have Disadvantage on the attack roll.
+- {ナイフを逆手に持った手のマーク}{ナイフを逆手に持った手のマーク} Sneak Attack
+
 ## 用語
 
 - Abilities
