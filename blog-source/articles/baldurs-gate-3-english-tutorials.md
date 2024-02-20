@@ -311,6 +311,33 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 ### Spellcasting
 
+- Most characters that can cast spells do so by spending a magical resource called a Spell Slot.  
+  These vary in power - for example, you need a first level spell slot to cast a less powerful first level spell.
+  - [vary](https://ejje.weblio.jp/content/vary), ベァリィ
+    - 自動詞: 色々に変わる、変化する
+  - [in](https://ejje.weblio.jp/content/in), イィン
+    - 前置詞: 〜の程度・尺度において
+      - コアイメージの「ある空間内に」からわからなくもない
+  - [less](https://ejje.weblio.jp/content/less), レス
+    - 副詞: より少ない
+  - [powerful](https://ejje.weblio.jp/content/powerful), パゥアフォゥ
+    - 形容詞: 強い、強力な、効きめのある
+  - a less powerful first level spell
+    - powerful が less なので「強力さが少量」、つまり「あまり強くない」になる
+  - ChatGPT訳: 「多くのキャラクターが呪文を唱える際には、スペルスロットと呼ばれる魔法のリソースを消費します。
+    これらは力の程度に応じて異なります - 例えば、あまり強力ではない1レベルの呪文を唱えるためには、1レベルのスペルスロットが必要です。」
+- Higher level spells require higher level spell slots.  
+  Some low level spells can also be cast using a higher level spell slot to achieve more powerful effects.
+  - [achieve](https://ejje.weblio.jp/content/achieve), ア・チィブ
+    - 他動詞: 仕事や目的などを達成する・成し遂げる
+  - ChatGPT訳: 「高レベルの呪文を唱えるには、高レベルの呪文スロットが必要です。
+    いくつかの低レベルの呪文は、より強力な効果を得るために高レベルの呪文スロットを使用して唱えることもできます。」
+- Minor magical effects can be achieved with cantrips - which can be cast at any time without spell slots and increase in potency as you level up.
+  - [potency](https://ejje.weblio.jp/content/potency), ポォテンスィ
+    - 名詞: 効能、有効性、力
+  - ChatGPT訳: 「カントリップを使用することで、小さな魔法効果をいつでもスペルスロットを消費することなく実現でき、レベルアップするとその効力が増します。」
+- Most classes restore their spell slots on a **Long Rest**.
+
 ### Sneak Attack
 
 ## 用語
