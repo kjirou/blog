@@ -373,6 +373,34 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - You cannot Sneak Attack if you have Disadvantage on the attack roll.
 - {ナイフを逆手に持った手のマーク}{ナイフを逆手に持った手のマーク} Sneak Attack
 
+## Combat
+
+### Hidden (Attack Advantage)
+
+- Attacking enemies while Hiding gives you **Advantage** on the **attack** - which can be essential for a Rogue's **Sneak Attack**.  
+  You don't need to be behind the target, just Hiddden from their view.
+  - [essential](https://ejje.weblio.jp/content/essential), イッセンシャル
+    - 形容詞: 欠くことのできない、必須の、本質的な
+  - can be essential
+    - can は可能性を示す、つまり「常に必要ではないが非常に重要なこともある」という意味
+  - ChatGPT訳: 「隠れている間に敵を攻撃すると、攻撃に有利を得られます - これはローグのスニークアタックにとって非常に重要になります。
+    ターゲットの背後にいる必要はありません、ただ彼らの視界から隠れているだけで良いのです。」
+- {しゃがんでいる人のマーク} **C** Toggle Hide
+
+### Combat
+
+### Shared Initiative
+
+### Surprised
+
+### High Ground Rules
+
+### Disengage
+
+### Combat Log
+
+### Examine
+
 ## 用語
 
 - Abilities
