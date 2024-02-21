@@ -389,6 +389,15 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 ### Combat
 
+- Combat is turn-based, with characters rolling an Initiative (Dexterity) **Check** to determine who acts first.  
+  All combatants are shown at the top of the screen in order of their Initiative roll, and are highlighted based on attitude to your party: allies in greeen, enemies in red, and neutral characters in yellow.
+  - [combatant](https://ejje.weblio.jp/content/combatant), (カ|コ)ンバ↑ータント
+    - 名詞: 戦闘員、闘志
+- During a turn, characters can take an **action**, bonus action, and **movement**.  
+  You can end a turn by pressing the End Turn icon.
+- {緑の丸のマーク} Show actions
+- {オレンジ色の上向き三角のマーク} Show bonus actions
+
 ### Shared Initiative
 
 ### Surprised
