@@ -40,3 +40,4 @@ lastUpdatedAt: "2023-12-15 00:20:54+0000"
 ### その他
 
 - [Tutorials編](./baldurs-gate-3-english-tutorials.html)
+- [用語編](./baldurs-gate-3-english-terms.html)

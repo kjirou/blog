@@ -9,8 +9,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - この記事ではTutorialsの項目を訳す
 - 方針・規約
   - 全体的に、本編より雑に読む
-  - 強調されている単語をマウスホバーすると表示できる用語説明については、必要があれば最下部へ記述する
-    - いずれ別記事にするかもしれない
+  - [用語](./baldurs-gate-3-english-terms.html)へのリンクは詳細にやるとめんどいので、つけ忘れを許容する
 
 ## Camp
 
@@ -157,8 +156,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - Some actions require a dice roll to determine the outcome - called an Ability or Skill **check**.  
   If your roll is higher than a particular number, the **Difficulty Class**, you will succeed.  
   Rolling a 1 will automatically fail a check, and rolling a 20 will automatically succeed.  
-  These rolls can be modified by **Skill** or **Ability** scores - the higher the number, the higher your roll will be.  
-  Ability scores can be increased by levelling up or by acquiring special items, and your Skills can be increased by becoming **Proficient** or an **Expert** in them.
+  These rolls can be modified by **Skill** or **[Ability](./baldurs-gate-3-english-terms.html#ability-modifier)** scores - the higher the number, the higher your roll will be.  
+  Ability scores can be increased by levelling up or by acquiring special items, and your Skills can be increased by becoming **[Proficient](./baldurs-gate-3-english-terms.html#proficiency-bonus)** or an **Expert** in them.
   - [outcome](https://ejje.weblio.jp/content/outcome), アウト・カンム
     - 名詞: 結果、成果
   - higher than は「以上」なのか「超える」なのか？
@@ -173,7 +172,6 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 他動詞: ゲームなどでサイコロなどの出目が〜の結果を出す
       - roll O(=結果)
       - 一般的な用法ではない、一般的には roll O(=転がす対象) である
-  - Ability を選択すると Ability Modifier の用語を表示する
   - Skill or Ability scores とは？
     - Ability Score で Strength などそれぞれの数値を指す意味もある
     - しかしここでは、scores はその意味はなく、各種+-を集計したことを表現していそう
@@ -184,7 +182,6 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - C を伴う
   - your Skills can be increased by becoming Proficient or an Expert in them
     - in them = your Skills
-  - Proficient を選択すると Proficiency Bonus の用語を表示する
   - ChatGPT訳: 「ある行動を決定するためには、結果を決めるためにサイコロを振る必要があります。これを能力チェックやスキルチェックと言います。
     あなたの振った数値が特定の数値、難易度クラスよりも高ければ成功します。
     1を振ると自動的にチェックに失敗し、20を振ると自動的に成功します。
@@ -260,8 +257,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 ### Level Up
 
 - When you gain enough experience, you can increase your character's level up to a maximum of twelve.  
-  Levelling up increases your **hit points**, **Proficiency Bonus**, and class features.  
-  At certain levels - four, eight, and twelve for most classes - you can choose a Feat or increase your **Ability Scores**.
+  Levelling up increases your **hit points**, **[Proficiency Bonus](./baldurs-gate-3-english-terms.html#proficiency-bonus)**, and class features.  
+  At certain levels - four, eight, and twelve for most classes - you can choose a Feat or increase your **[Ability Scores](./baldurs-gate-3-english-terms.html#abilities)**.
   - [up to](https://en.wiktionary.org/wiki/up_to)
     - = until
     - [until](https://ejje.weblio.jp/content/until), アン・ティウ
@@ -269,8 +266,6 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - コアイメージ: 状態や動作の継続の期限を表す
   - [certain](https://ejje.weblio.jp/content/certain), (ス|サ)ーテン
     - 形容詞,限定用法: ある一定の
-  - Ability Scores を選択すると Abilities の用語を表示する
-    - "Ability scores" という単語の並びが前に出てきたので、それとは違うというのを確認するため
   - ChatGPT訳: 「経験値が十分に溜まると、キャラクターのレベルを最大12まで上げることができます。
     レベルアップすると、ヒットポイント、習熟ボーナス、およびクラス機能が向上します。
     ほとんどのクラスでは、レベル4、8、12の特定のレベルで、フィートを選択するか能力スコアを上げることができます。」
@@ -472,31 +467,3 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - ChatGPT訳: 「何かを調べることで、その統計情報、特徴、能力スコア、耐性、弱点、免疫について知ることができます。」
 - **T** Examine something in the world.
 - **Right Mouse Button** Use the Context Menu to Examine something in your inventory.
-
-## 用語
-
-- Abilities
-  - Your phisical and mental attributes.  
-    They affect most of your rolls.
-    - [affect](https://ejje.weblio.jp/content/affect), ア・フェクト
-      - 他動詞: 〜に影響を及ぼす・作用する
-    - [most](https://ejje.weblio.jp/content/most), モ↑ウスト
-      - 代名詞: 大半、大部分
-  - There are 6 Abilities: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
-- Ability Modifier
-  - A bonus or penalty based on an Ability.
-- Proficiency Bonus
-  - Your proficiency bonus is added to **Ability Checks** and **Saving Throws** against **Skill** you are proficient in, making them more likely to succeed.  
-     It is also added to **Attack Rolls** when attacking with weapons you are proficient with, increasing your chance to hit.
-    - [proficiency](https://ejje.weblio.jp/content/proficiency), プロ・フィシェンシィ
-      - 名詞: 知識や技量の熟達・熟練・習熟、技量
-        - ゲームのパラメータ的なものであることを考慮すると、熟達度・熟練度・習熟度かもしれない
-    - [likely](https://ejje.weblio.jp/content/likely), ライクリィ
-      - 形容詞: 可能性の高い、ありそうな、起こりそうな
-      - 副詞だと、「たぶん」「おそらく」になる
-    - [proficient](https://ejje.weblio.jp/content/proficient), プロフィシェント
-      - 形容詞: 熟達した
-    - against Skill you are proficient in
-      - in の目的語の Skill が前に出てる形に見えるんだけど、ChatGPTに聞いたら in a skill or skills の省略という見解だった
-    - ChatGPT訳: 「熟練ボーナスは、熟練しているスキルに対する能力チェックやセービングスローに加算され、成功の可能性を高めます。
-      また、熟練している武器で攻撃する際の攻撃ロールにも加算され、命中率を上げます。」
