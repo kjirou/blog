@@ -393,22 +393,85 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   All combatants are shown at the top of the screen in order of their Initiative roll, and are highlighted based on attitude to your party: allies in greeen, enemies in red, and neutral characters in yellow.
   - [combatant](https://ejje.weblio.jp/content/combatant), (カ|コ)ンバ↑ータント
     - 名詞: 戦闘員、闘志
+  - [order](https://ejje.weblio.jp/content/order), オォダァ
+    - 名詞: 順序
+  - [roll](https://en.wiktionary.org/wiki/roll#Noun), ゥロォ
+    - 名詞: 1つ以上のサイコロを振る行為またはその合計の結果
+  - [attitude](https://ejje.weblio.jp/content/attitude), アァ(ティ|リ)トゥード
+    - 名詞: 態度、考え方、姿勢
+    - ゲームにおいて、結果的に敵味方かを判別するためのグルーピングを faction と言ったりするけど、こう言う表現もあるんだ
+  - ChatGPT訳: 「戦闘はターン制で、キャラクターは誰が先に行動するかを決めるためにイニシアチブ（敏捷性）チェックを行います。
+    すべての戦闘参加者は、彼らのイニシアチブロールの順番に応じて画面の上部に表示され、パーティーに対する態度に基づいてハイライトされます：味方は緑、敵は赤、中立のキャラクターは黄色で表示されます。」
 - During a turn, characters can take an **action**, bonus action, and **movement**.  
   You can end a turn by pressing the End Turn icon.
+  - ChatGPT訳: 「ターン中に、キャラクターはアクション、ボーナスアクション、そして移動を行うことができます。
+    ターン終了アイコンを押すことで、ターンを終了することができます。」
 - {緑の丸のマーク} Show actions
 - {オレンジ色の上向き三角のマーク} Show bonus actions
 
 ### Shared Initiative
 
+- When rolling an Initiative (Dexterity) **Check** at the start of combat to determine turn order, party members may end up acting directly before or after each other.  
+  In this case, the characters' **actions**, bonus actions, and movement may be taken in any order you wish.  
+  This is also true for mutiplayer characters.
+  - party members may end up acting directly before or after each other
+    - end up は、前節の When ~ の結果、偶然結果的にパーティのメンバーの順番が並ぶことを意味している
+    - その時は、互いに自由な順序で行動できるから便利だよ、と言う文意
+  - ChatGPT訳: 「戦闘開始時にターン順を決定するためのイニシアチブ（敏捷性）チェックを行う際、パーティメンバーは直接前後に行動することがあります。
+    この場合、キャラクターのアクション、ボーナスアクション、および移動は、あなたが望むどのような順序でも取ることができます。
+    これは、複数プレイヤーキャラクターについても同様です。」
+
 ### Surprised
+
+- Characters will be **Surprised** when attacked from stealth.  
+  Surprised characters cannot move or take actions or reactions in the first round of combat.
+  - [reaction](https://ejje.weblio.jp/content/reaction), ゥリア↑ークション
+    - 名詞: 反応
+    - 一般的な意味というよりはゲームのシステム用語だと思うんだが、解説がない
+  - ChatGPT訳: 「キャラクターはステルスから攻撃された時に驚かされます。
+    驚かされたキャラクターは戦闘の最初のラウンドでは移動したり、行動や反応を取ることができません。」
 
 ### High Ground Rules
 
+- Taking the high ground benefits ranged attackers.  
+  Ranged attacks from above gain a bonus to the **roll**, whereas ranged attacks from below get a penalty.
+  - [benefit](https://ejje.weblio.jp/content/benefit), ベネフィッ
+    - 他動詞: 〜へ利益をもたらす
+  - [whereas](https://ejje.weblio.jp/content/whereas), ウィァレーズ
+    - 形容詞: 〜だが〜、〜であるのに〜
+      - 主節と反対や対照の意味の節を導く
+  - ChatGPT訳: 「高所を取ることは遠距離攻撃者に利益をもたらします。
+    上からの遠距離攻撃はロールにボーナスを得ますが、下からの遠距離攻撃はペナルティを受けます。」
+
 ### Disengage
+
+- Taking the Disengatge action lets you leave an enemy's melee range without taking Opportunity Attacks.
+  - ChatGPT訳: 「「Disengageアクション」を取ることで、敵の近接範囲を離れる際に機会攻撃を受けずに済みます。」
+- {右上斜めと左下斜めの矢印群のマーク} Disengage
 
 ### Combat Log
 
+- The Combat Log keeps track of your encounters - particularly the details of attack and damage rolls from battles.  
+  You can also find the record of the conversations you've had so far in your adventure there.
+  - ChatGPT訳: 「コンバットログは、特に戦闘での攻撃やダメージロールの詳細を含む、あなたの遭遇を記録しています。
+    また、これまでの冒険での会話の記録もそこにあります。」
+  - デフォルトで閉じていて、吹き出しボタンを押すと右下に出てくるログのウィンドウのこと
+    - Combat というよりは、後に残らないログ全般を表示するところだと思ってた
+
 ### Examine
+
+- You can examine creatures, objects, items, and the environment you come across during your adventures to learn more about them.
+  - [come across](https://en.wiktionary.org/wiki/come_across#Verb)
+    - 自動詞: 偶然に見つける
+  - ChatGPT訳: 「冒険中に出会う生き物、物体、アイテム、環境を調べることで、それらについての詳細を知ることができます。」
+- Examining something tells you its statistics, features, ability scores, **Resistances**, **Vulunerabilities**, and **Immunities**.
+  - [statistic](https://ejje.weblio.jp/content/statistic), (タ|テ)スティック
+    - 名詞: 統計値
+  - [immunity](https://ejje.weblio.jp/content/immunity), イミューニティ
+    - 名詞: 免疫、免疫性
+  - ChatGPT訳: 「何かを調べることで、その統計情報、特徴、能力スコア、耐性、弱点、免疫について知ることができます。」
+- **T** Examine something in the world.
+- **Right Mouse Button** Use the Context Menu to Examine something in your inventory.
 
 ## 用語
 
