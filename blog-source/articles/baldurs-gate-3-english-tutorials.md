@@ -467,3 +467,56 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - ChatGPT訳: 「何かを調べることで、その統計情報、特徴、能力スコア、耐性、弱点、免疫について知ることができます。」
 - **T** Examine something in the world.
 - **Right Mouse Button** Use the Context Menu to Examine something in your inventory.
+
+## Exploration
+
+### Enemy Sightlines
+
+- Sightlines mark the areas that other creatures in the world can see.
+  - [sightline](https://ejje.weblio.jp/content/sightline), サイトラーイン
+    - 名詞: 視線
+  - [mark](https://ejje.weblio.jp/content/mark), マァ(ク|ケ)
+    - 他動詞: 符号などで意味を示す
+  - ChatGPT訳: 「視界線は、世界の他の生物が見ることができる領域を示します。」
+- You can see sightlines by toggling their visibility or sneaking.  
+  If you move through faintly highlighted red areas you will roll a **Stealth** check to see if the creature notices you - and will be discovered if you fail.  
+  Moving into heavily highlighted red areas will immediately reveal your position.  
+  If you are trying to be stealthy, these areas are worth avoiding.
+  - [faintly](https://ejje.weblio.jp/content/faintly), フェイントリィ
+    - 副詞: かすかに、ほのかに
+    - [faint](https://ejje.weblio.jp/content/faint), フェイント
+      - 形容詞: かすかな、ほのかな
+  - [see](https://ejje.weblio.jp/content/see), シィィ
+    - 自動詞: 確かめる、調べる
+  - (you will roll a Stealth check to see) (if the creature notices you)
+    - if の節は副詞節として、主節を修飾している。条件ではなく、結果の仮定や可能性の意味。
+  - [heavily](https://ejje.weblio.jp/content/heavily), ヘ(ブ|ビ)リィ
+    - 副詞: ひどく、激しく、大いに
+  - [stealthy](https://ejje.weblio.jp/content/stealthy), ステルスィ
+    - 形容詞: 人目を忍んだ
+      - ここでは Stealth というゲーム用語を形容詞形にしているだけっぽい
+  - [worth](https://ejje.weblio.jp/content/worth), (ワ|ウ)ォス
+    - 形容詞: 〜する価値がある
+      - worth Verb-ing の形
+  - ChatGPT訳: 「視界は、その可視性を切り替えるか、こっそりと移動することで確認できます。
+    薄く赤くハイライトされたエリアを通過する場合、その生物に気づかれるかどうかのステルスチェックが行われ、失敗すると発見されます。
+    濃く赤くハイライトされたエリアに移動すると、即座に位置が露呈します。
+    もし潜伏を試みているのであれば、これらのエリアは避ける価値があります。」
+- **Left Shift** Show enemy sightlines
+- {フードを被った頭が逆三角形型に3つ並んでいるマーク} Sneak
+
+### Highlight Items
+
+### Toughness
+
+### Jump
+
+### Remaining Obscured
+
+### Surfaces
+
+### Darakness
+
+### Turn-Based Mode
+
+### Disarming Traps
