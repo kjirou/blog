@@ -602,3 +602,23 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - {砂時計の} End turn
 
 ### Disarming Traps
+
+- No dungeon would be complete without a retinue of traps - some obvious, some hidden to all but the most perceptive.  
+  You can use a Trap Disarm Kit to make a Sleight Of Hand check to neutralise these traps when they are revealed in the world.  
+  Be careful, as a failed check will break your kit an trigger the trap.
+  - [complete](https://ejje.weblio.jp/content/complete), (カ|コ)ンプリィト
+    - 形容詞: 全て揃っている、完全に行われた、全ての、完璧な、完全な
+  - [retinue](https://ejje.weblio.jp/content/retinue), ゥレッテニュウ
+    - 名詞: 王侯や高官などの随伴員・従者
+      - 本文では「ダンジョンに伴うもの」という比喩的な意味で使われているよう
+  - [obvious](https://ejje.weblio.jp/content/obvious), (オ|ア)ービアス
+    - 形容詞: 疑いがないほど明白な
+  - [perceptive](https://ejje.weblio.jp/content/perceptive), (プ|パ)ァ・セプティブ
+    - 形容詞: 知覚の鋭い、知覚の
+  - some hidden to all but the most perceptive
+    - all は「すべての人々」と言う意味
+    - 直訳すると、「いくつか（の traps）は最も洞察力に優れた人を除いたすべての人へ隠されている」
+  - ChatGPT訳: 「どのダンジョンも、明白な罠や、最も洞察力のある者にしか見えない隠された罠なしには完全ではありません。
+    罠が世界で明らかにされたとき、それらを無効にするためには、罠解除キットを使用して巧妙さの手順チェックを行うことができます。
+    注意してください、チェックに失敗すると、キットが壊れて罠が作動します。」
+- **Right Mouse Button** Open Context Menu to disarm traps
