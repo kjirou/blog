@@ -680,7 +680,48 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - なぜ、 fine が「罰金」なのか？
         - 元々 "fin" がフランス語由来の「終わり」で転じて「完成された」になり、「質において完成した」→「素晴らしい」、「争いの決着を金で完成させた」→「罰金」
           - Ref: https://languagevillage.co.jp/english_and_japanese/fine/
+  - jail time
+    - 直訳だと「投獄されている期間」、転じて、一般的に jail 単体と同じ「投獄」そのものを指すようにもなった
+    - なお、 jail と prison は、前者は比較的刑が軽いものへ使い後者は重いものへ使う
   - ChatGPT訳: 「覚えておいてください：あなたの行動には確実に結果が伴います！  
     赤くハイライトされたアイテムを取ることは犯罪とみなされますし、暴力行為も同様です。  
     もし問題を起こしている場合、キャラクターはそれに関連する警備員を呼ぶことがあります - それにより罰金、投獄、あるいはもっと悪いことが起こる可能性があります。」
   - 見つからないときはどうなるのかを書いて欲しかった
+
+## Gameplay
+
+### Basic Movement
+
+- Click to move your character somewhere in the world, or hold **Left Mouse Button** to dynamically move characters towards the cursor.  
+  Grouped party members will always move together.
+  - [somewhere](https://ejje.weblio.jp/content/somewhere), サム・ウェアァ
+    - 副詞: どこかに
+  - [dynamically](https://ejje.weblio.jp/content/dynamically), ダイナー・ミカリィ
+    - 副詞: 動的に
+    - [dynamic](https://ejje.weblio.jp/content/dynamic), ダイナ↑ーミック
+      - 形容詞: 動的な
+    - 「動的」という言葉自体が難しいので他の単語で表現したいが、思いつかなかった
+  - ChatGPT訳: 「世界のどこかにキャラクターを移動させるにはクリックしてください、またはカーソルの方向にキャラクターを動的に移動させるために左マウスボタンを長押ししてください。  
+    グループ化されたパーティメンバーは常に一緒に移動します。」
+
+### Camera Controls
+
+- You can rotate and move your camera to get a better view of your surroundings and use Tactival View to see the world from a top-down perspective.  
+  If things get busy on screen, or you move the camera too far, you can refocus the camera on your current character at any time.
+  - [surrounding](https://ejje.weblio.jp/content/surrounding), サ・ラウンディング
+    - 名詞: 人を取り巻く環境・周囲
+      - 通常複数形で用いる
+  - [perspective](https://ejje.weblio.jp/content/perspective), (プ|パ)ゥスペクティブ
+    - 名詞: 3Dゲームにおける視点・見方、遠近画法
+      - 遠近画法とは、3次元を2次元で表現する画法
+  - ChatGPT訳: 「周囲をより良く見るためにカメラを回転させたり動かしたりすることができ、タクティカルビューを使って上から見下ろすように世界を見ることができます。  
+    画面上で物事が忙しくなったり、カメラを遠くに動かしすぎたりした場合でも、いつでも現在のキャラクターにカメラをフォーカスし直すことができます。」
+- **Middle Mouse Button Q E** Rotate Camera
+- **W A S D** Move Camera
+- **O** ENter Tactical View
+- **Home** Centre Camera
+  - [centre](https://ejje.weblio.jp/content/centre), セ↑ンタ
+    - = center
+      - centre が UK、center が US
+    - [center](https://ejje.weblio.jp/content/center), センタァ
+      - 他動詞: ものを場所の中心へ置く・移す
