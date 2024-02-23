@@ -529,6 +529,15 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 ### Jump
 
+- You can use your jump to cross chasms, traps, and other obstacles.
+  - [chasm](https://ejje.weblio.jp/content/chasm), キャズ(ム|ン)
+    - 名詞: 広く深い割れ目
+    - Assoc: キャズム
+- Stronger characters will be able to jump further.
+  - [further](https://ejje.weblio.jp/content/further), ファー(ダ|ザ)ー
+    - 副詞: 距離や空間や時間がさらに遠く、程度がさらに進んで
+- {ジャンプしている人のマーク} **Z** Jump
+
 ### Remaining Obscured
 
 ### Surfaces
