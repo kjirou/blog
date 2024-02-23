@@ -507,7 +507,25 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 ### Highlight Items
 
+- You can highlight items near you in the world to more easily spot new loot.
+  - [loot](https://ejje.weblio.jp/content/loot), ルゥト
+    - 名詞: 戦利品、略奪品、盗品、略奪行為
+- **Left Alt** Highlight nearby containers and items
+  - [nearby](https://ejje.weblio.jp/content/nearby)
+    - 形容詞: 近くの
+    - near と nearby の用法比較
+      - near: 副詞、前置詞、形容詞、動詞もある
+      - nearby: 形容詞、副詞
+
 ### Toughness
+
+- Some objects in the world are unusually tough and need to be hit with enough damage at once to actually be affected.  
+  You can always examine a tough object or enemy to see if they have any weaknesses.
+  - [unusually](https://ejje.weblio.jp/content/unusually), アン・ユ↑ージュアリィ
+    - 副詞: 異常に、めったにないほど
+  - ChatGPT訳: 「世界には非常に頑丈な物体が存在し、実際に影響を与えるためには一度に十分なダメージを与える必要があります。
+    頑丈な物体や敵を調べることで、常に弱点があるかどうかを確認することができます。」
+- **Right Mouse Button** Examine weaknesses
 
 ### Jump
 
