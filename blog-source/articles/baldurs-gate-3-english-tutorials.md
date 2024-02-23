@@ -63,8 +63,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 他動詞: 散らばっているものや人をひとつへ集める・かき集める
   - [relationship](https://ejje.weblio.jp/content/relationship), ゥリ・レ↑イションシィップ
     - 名詞: 人と人との関係、ものとものとの結びつき
-- {月とZのマーク} Open Rest Menu
-- {月とZのマーク} Initiate Long Rest
+- {月とZのアイコン} Open Rest Menu
+- {月とZのアイコン} Initiate Long Rest
   - [initiate](https://ejje.weblio.jp/content/initiate), イ↑ニシエイト
     - 他動詞: 〜を始める、〜の口火を切る、〜を創始する
 
@@ -131,8 +131,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [inspect](https://ejje.weblio.jp/content/inspect), イン・スペクト
     - 他動詞: 詳しく調査する
   - ChatGPT訳: 「一部のクラスはショートレストでリソースを回復します。リソースがいつ回復されるかを知るには、そのリソースのツールチップを確認してください。」
-- {月とZのマーク} Open Rest Menu
-- {閉じた目のマーク} Initiate Short Rest
+- {月とZのアイコン} Open Rest Menu
+- {閉じた目のアイコン} Initiate Short Rest
 
 ### Inspiration
 
@@ -149,7 +149,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - often より高い頻度
   - ChatGPT訳: 「バックグラウンドゴールを完了することでインスピレーションポイントを獲得します。
     これらを頻繁に使うようにしてください、あなたのパーティは一度に4つまでしか蓄積できません - それ以上のインスピレーションは経験値に変換されます。」
-- {発光のマーク} **P** Open Inspiration Menu
+- {発光のアイコン} **P** Open Inspiration Menu
 
 ### Skill Checks
 
@@ -234,7 +234,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 自動詞: 注意を払う、監視する
     - 直訳だと「目を開いておく」「目をむき出しにしておく」
   - ChatGPT訳: 「有利または不利は多くの異なる源から生じることがあります - 敵が伏せていること、キャラクターがあなたに対して肯定的または否定的な態度を持っていること、そしてあなたを助けたり妨げたりする呪文などが例に挙げられます - これらはいくつかの例に過ぎませんので、自分のチャンスをより良くする方法を探し続けてください！」
-- {上向き矢印の入った緑の六角形のマーク} Indicates you have Advantage
+- {上向き矢印の入った緑の六角形のアイコン} Indicates you have Advantage
 
 ### Proficiency (Weapons and Armour)
 
@@ -366,7 +366,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     ローグは、攻撃ロールにアドバンテージを得ようとして、ボーナスアクションとしてステルスチェックを行うことができます。」
   - Sneak Attack の条件は、Hiding状態であることではなくて、攻撃にAdvantageがある状況だったのか
 - You cannot Sneak Attack if you have Disadvantage on the attack roll.
-- {ナイフを逆手に持った手のマーク}{ナイフを逆手に持った手のマーク} Sneak Attack
+- {ナイフを逆手に持った手のアイコン}{ナイフを逆手に持った手のアイコン} Sneak Attack
 
 ## Combat
 
@@ -380,7 +380,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - can は可能性を示す、つまり「常に必要ではないが非常に重要なこともある」という意味
   - ChatGPT訳: 「隠れている間に敵を攻撃すると、攻撃に有利を得られます - これはローグのスニークアタックにとって非常に重要になります。
     ターゲットの背後にいる必要はありません、ただ彼らの視界から隠れているだけで良いのです。」
-- {しゃがんでいる人のマーク} **C** Toggle Hide
+- {しゃがんでいる人のアイコン} **C** Toggle Hide
 
 ### Combat
 
@@ -401,8 +401,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   You can end a turn by pressing the End Turn icon.
   - ChatGPT訳: 「ターン中に、キャラクターはアクション、ボーナスアクション、そして移動を行うことができます。
     ターン終了アイコンを押すことで、ターンを終了することができます。」
-- {緑の丸のマーク} Show actions
-- {オレンジ色の上向き三角のマーク} Show bonus actions
+- {緑の丸のアイコン} Show actions
+- {オレンジ色の上向き三角のアイコン} Show bonus actions
 
 ### Shared Initiative
 
@@ -442,7 +442,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 - Taking the Disengatge action lets you leave an enemy's melee range without taking Opportunity Attacks.
   - ChatGPT訳: 「「Disengageアクション」を取ることで、敵の近接範囲を離れる際に機会攻撃を受けずに済みます。」
-- {右上斜めと左下斜めの矢印群のマーク} Disengage
+- {右上斜めと左下斜めの矢印群のアイコン} Disengage
 
 ### Combat Log
 
@@ -538,7 +538,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [further](https://ejje.weblio.jp/content/further), ファー(ダ|ザ)ー
     - 副詞: 距離や空間や時間がさらに遠く、程度がさらに進んで
   - ChatGPT訳: 「力の強いキャラクターは、より遠くまで跳ぶことができます。」
-- {ジャンプしている人のマーク} **Z** Jump
+- {ジャンプしている人のアイコン} **Z** Jump
 
 ### Remaining Obscured
 
@@ -557,9 +557,9 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     影に潜むことはステルスを格段に容易にします - だから、近くの光源を消してより良い隠れ場所を作ることを忘れないでください。
     隠れている間、マウスカーソルは特定のエリアでキャラクターがどれだけ影になるかを示します。」
   - Hiding だけではなく Left Shift を押している最中でも、マウスカーソルに太陽マークを出せる
-- {太陽のマーク} Fully Visible
-- {半円暗闇の太陽のマーク} Lightly Obscured
-- {円部分が全て暗闇の太陽のマーク} Heavily Obscured
+- {太陽のアイコン} Fully Visible
+- {半円暗闇の太陽のアイコン} Lightly Obscured
+- {円部分が全て暗闇の太陽のアイコン} Heavily Obscured
 
 ### Surfaces
 
@@ -583,9 +583,22 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - Wiktionaryにはこの意味がなかった
   - ChatGPT訳: 「視界が悪い場所は探索が困難であり、暗闇で戦うとあなたの攻撃は不利（Disadvantage）を受けます。ただし、暗視能力（Darkvision）を持っている場合はこの限りではありません。
     松明を灯すか、光を発生させる呪文を唱えることで、エリアを移動しやすくすることができます。」
-  - {松明アイコン} Use torch
-  - {呪文アイコン} Use Light spell
+  - {松明のアイコン} Use torch
+  - {呪文のアイコン} Use Light spell
 
 ### Turn-Based Mode
+
+- Turn-Based Mode pauses the world around you, breaking down time into rounds of 6 seconds each - helpful for avoiding traps or sneaking past enemies.  
+  In Turn-Based Mode, your characters all act and move on the same turn, after which everything else in the world acts (including traps, surfaces, and other creatures).  
+  You can toggle in and out of Turn-Based Mode at any time.
+  - [break down](https://en.wiktionary.org/wiki/break_down#Verb)
+    - 他動詞: 物理的または構造的に崩壊させる、分割する、分解する
+      - Wiktionaryにはこの意味の用法は自動詞としてしか記載されていない
+  - ChatGPT訳: 「ターン制モードでは、周囲の世界が一時停止し、時間が6秒間隔のラウンドに分割されます。これは、罠を避けたり、敵をこっそりと通り過ぎたりするのに役立ちます。
+    ターン制モードでは、あなたのキャラクターは全員が同じターンに行動し、移動します。その後、世界の他のもの全てが行動します（罠、地面の効果、その他の生物を含む）。
+    ターン制モードは、いつでもオン・オフを切り替えることができます。」
+  - 戦闘中にターン制になることと、Turn-Based Modeは別のシステムなんだ
+- **Shift + Space** Toggle Turn-Based Mode
+- {砂時計の} End turn
 
 ### Disarming Traps
