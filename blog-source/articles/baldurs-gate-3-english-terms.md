@@ -27,6 +27,11 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 - A bonus or penalty based on an Ability.
 
+### Difficulty Class (DC)
+
+- A number that must be matched or exceeded to succeed.  
+  Rolling a 1 always fails: rolling a 20 always succeeds.
+
 ### Proficiency Bonus
 
 - Your proficiency bonus is added to **Ability Checks** and **Saving Throws** against **Skill** you are proficient in, making them more likely to succeed.  

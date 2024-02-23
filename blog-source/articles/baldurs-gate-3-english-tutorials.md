@@ -79,7 +79,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - 名詞: 通常長方形の穀物などを入れる大袋
   - [nutritious](https://ejje.weblio.jp/content/nutritious), ニュートリシャス
     - 形容詞: 栄養になる
-  - ChatGPT訳: 「食べ物と飲み物は、キャンプでのロングレストを成功させるために必要であり、拾った際に自動的にキャンプ用品の袋に追加されます。
+  - ChatGPT訳: 「食べ物と飲み物は、キャンプでのロングレストを成功させるために必要であり、拾った際に自動的にキャンプ用品の袋に追加されます。  
     より栄養価の高い食べ物と飲み物は、ロングレスティングに使用した際の価値が高くなります。」
   - そういえば、バフ効果付きの Camp Supplies もあるんだけど、これってどうやって使う時点を制御できるんだろう？
 
@@ -93,7 +93,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
         - 慣用句ではないよう、別の意味の weigh down はあるが
   - an item's Context Menu
     - アイテムの右クリックから開けるドロップダウンメニューのこと
-  - ChatGPT訳: 「キャンプマップにあなたの個人的なトラベラーズチェストがマークされており、それを開けることができるのはあなただけです。
+  - ChatGPT訳: 「キャンプマップにあなたの個人的なトラベラーズチェストがマークされており、それを開けることができるのはあなただけです。  
     探索中に重荷となるアイテムを保管したい場合は、アイテムのコンテキストメニューを通じて素早く行うことができます。」
 - **Right Mouse Button** Send item to your Traveller's Chest
 
@@ -182,10 +182,10 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - C を伴う
   - your Skills can be increased by becoming Proficient or an Expert in them
     - in them = your Skills
-  - ChatGPT訳: 「ある行動を決定するためには、結果を決めるためにサイコロを振る必要があります。これを能力チェックやスキルチェックと言います。
-    あなたの振った数値が特定の数値、難易度クラスよりも高ければ成功します。
-    1を振ると自動的にチェックに失敗し、20を振ると自動的に成功します。
-    これらのロールはスキルや能力スコアによって修正されることがあります - 数値が高ければ高いほど、あなたのロールも高くなります。
+  - ChatGPT訳: 「ある行動を決定するためには、結果を決めるためにサイコロを振る必要があります。これを能力チェックやスキルチェックと言います。  
+    あなたの振った数値が特定の数値、難易度クラスよりも高ければ成功します。  
+    1を振ると自動的にチェックに失敗し、20を振ると自動的に成功します。  
+    これらのロールはスキルや能力スコアによって修正されることがあります - 数値が高ければ高いほど、あなたのロールも高くなります。  
     能力スコアはレベルアップしたり特別なアイテムを手に入れることで上がりますし、あなたのスキルは熟練や専門家になることで向上します。」
 - Some checks will happen Passively in the world, and others will be Active checks performed by you during dialogues, lockpicking and trap disarmament.  
   Active Checks let you cast spells to enhance your roll; and **Inspiration** can be used to reroll if you fail a check.
@@ -266,8 +266,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - コアイメージ: 状態や動作の継続の期限を表す
   - [certain](https://ejje.weblio.jp/content/certain), (ス|サ)ーテン
     - 形容詞,限定用法: ある一定の
-  - ChatGPT訳: 「経験値が十分に溜まると、キャラクターのレベルを最大12まで上げることができます。
-    レベルアップすると、ヒットポイント、習熟ボーナス、およびクラス機能が向上します。
+  - ChatGPT訳: 「経験値が十分に溜まると、キャラクターのレベルを最大12まで上げることができます。  
+    レベルアップすると、ヒットポイント、習熟ボーナス、およびクラス機能が向上します。  
     ほとんどのクラスでは、レベル4、8、12の特定のレベルで、フィートを選択するか能力スコアを上げることができます。」
 - {上向きの光った矢印} Click arrow by portrait to Level Up
   - [portrait](https://ejje.weblio.jp/content/portrait), ポォートレット
@@ -298,8 +298,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 形容詞: 高価な
   - [represent](https://ejje.weblio.jp/content/represent), ゥィプリゼン
     - 他動詞: 〜を表す・象徴する・意味する
-  - ChatGPT訳: 「魔法使いは、世界中で見つかる巻物から、その巻物のコンテキストメニューや魔法書を使っていくつかの呪文を学ぶことができます。
-    これらの呪文を魔法使いの魔法書にコピーするには、金額で表される高価な材料が必要です。
+  - ChatGPT訳: 「魔法使いは、世界中で見つかる巻物から、その巻物のコンテキストメニューや魔法書を使っていくつかの呪文を学ぶことができます。  
+    これらの呪文を魔法使いの魔法書にコピーするには、金額で表される高価な材料が必要です。  
     魔法使いは、自分が唱えることのできる最高レベルの呪文よりも高いレベルの呪文を学ぶことはできません。」
 - **Right Mouse Button** Use a scroll's Context Menu to learn a spell
 - **K** Open Spellbook
@@ -319,13 +319,13 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 形容詞: 強い、強力な、効きめのある
   - a less powerful first level spell
     - powerful が less なので「強力さが少量」、つまり「あまり強くない」になる
-  - ChatGPT訳: 「多くのキャラクターが呪文を唱える際には、スペルスロットと呼ばれる魔法のリソースを消費します。
+  - ChatGPT訳: 「多くのキャラクターが呪文を唱える際には、スペルスロットと呼ばれる魔法のリソースを消費します。  
     これらは力の程度に応じて異なります - 例えば、あまり強力ではない1レベルの呪文を唱えるためには、1レベルのスペルスロットが必要です。」
 - Higher level spells require higher level spell slots.  
   Some low level spells can also be cast using a higher level spell slot to achieve more powerful effects.
   - [achieve](https://ejje.weblio.jp/content/achieve), ア・チィブ
     - 他動詞: 仕事や目的などを達成する・成し遂げる
-  - ChatGPT訳: 「高レベルの呪文を唱えるには、高レベルの呪文スロットが必要です。
+  - ChatGPT訳: 「高レベルの呪文を唱えるには、高レベルの呪文スロットが必要です。  
     いくつかの低レベルの呪文は、より強力な効果を得るために高レベルの呪文スロットを使用して唱えることもできます。」
 - Minor magical effects can be achieved with cantrips - which can be cast at any time without spell slots and increase in potency as you level up.
   - [potency](https://ejje.weblio.jp/content/potency), ポォテンスィ
@@ -361,8 +361,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - melee distance
     - 「近接距離」と言う意味の、おそらくは複合名詞
     - もしかしたら、ゲーム用語としては melee が形容詞として使われるのかもしれない
-  - ChatGPT訳: 「ローグは、遠くから致命的な矢を放つか、警戒していない対象に刃を突き刺すことで、敵に莫大なダメージを与えることができます。
-    しかし、スニークアタックを行うには、ローグが攻撃にアドバンテージを持っているか、または敵の近接距離内に味方がいる必要があります。
+  - ChatGPT訳: 「ローグは、遠くから致命的な矢を放つか、警戒していない対象に刃を突き刺すことで、敵に莫大なダメージを与えることができます。  
+    しかし、スニークアタックを行うには、ローグが攻撃にアドバンテージを持っているか、または敵の近接距離内に味方がいる必要があります。  
     ローグは、攻撃ロールにアドバンテージを得ようとして、ボーナスアクションとしてステルスチェックを行うことができます。」
   - Sneak Attack の条件は、Hiding状態であることではなくて、攻撃にAdvantageがある状況だったのか
 - You cannot Sneak Attack if you have Disadvantage on the attack roll.
@@ -378,7 +378,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 形容詞: 欠くことのできない、必須の、本質的な
   - can be essential
     - can は可能性を示す、つまり「常に必要ではないが非常に重要なこともある」という意味
-  - ChatGPT訳: 「隠れている間に敵を攻撃すると、攻撃に有利を得られます - これはローグのスニークアタックにとって非常に重要になります。
+  - ChatGPT訳: 「隠れている間に敵を攻撃すると、攻撃に有利を得られます - これはローグのスニークアタックにとって非常に重要になります。  
     ターゲットの背後にいる必要はありません、ただ彼らの視界から隠れているだけで良いのです。」
 - {しゃがんでいる人のアイコン} **C** Toggle Hide
 
@@ -395,11 +395,11 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [attitude](https://ejje.weblio.jp/content/attitude), アァ(ティ|リ)トゥード
     - 名詞: 態度、考え方、姿勢
     - ゲームにおいて、結果的に敵味方かを判別するためのグルーピングを faction と言ったりするけど、こう言う表現もあるんだ
-  - ChatGPT訳: 「戦闘はターン制で、キャラクターは誰が先に行動するかを決めるためにイニシアチブ（敏捷性）チェックを行います。
+  - ChatGPT訳: 「戦闘はターン制で、キャラクターは誰が先に行動するかを決めるためにイニシアチブ（敏捷性）チェックを行います。  
     すべての戦闘参加者は、彼らのイニシアチブロールの順番に応じて画面の上部に表示され、パーティーに対する態度に基づいてハイライトされます：味方は緑、敵は赤、中立のキャラクターは黄色で表示されます。」
 - During a turn, characters can take an **action**, bonus action, and **movement**.  
   You can end a turn by pressing the End Turn icon.
-  - ChatGPT訳: 「ターン中に、キャラクターはアクション、ボーナスアクション、そして移動を行うことができます。
+  - ChatGPT訳: 「ターン中に、キャラクターはアクション、ボーナスアクション、そして移動を行うことができます。  
     ターン終了アイコンを押すことで、ターンを終了することができます。」
 - {緑の丸のアイコン} Show actions
 - {オレンジ色の上向き三角のアイコン} Show bonus actions
@@ -412,8 +412,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - party members may end up acting directly before or after each other
     - end up は、前節の When ~ の結果、偶然結果的にパーティのメンバーの順番が並ぶことを意味している
     - その時は、互いに自由な順序で行動できるから便利だよ、と言う文意
-  - ChatGPT訳: 「戦闘開始時にターン順を決定するためのイニシアチブ（敏捷性）チェックを行う際、パーティメンバーは直接前後に行動することがあります。
-    この場合、キャラクターのアクション、ボーナスアクション、および移動は、あなたが望むどのような順序でも取ることができます。
+  - ChatGPT訳: 「戦闘開始時にターン順を決定するためのイニシアチブ（敏捷性）チェックを行う際、パーティメンバーは直接前後に行動することがあります。  
+    この場合、キャラクターのアクション、ボーナスアクション、および移動は、あなたが望むどのような順序でも取ることができます。  
     これは、複数プレイヤーキャラクターについても同様です。」
 
 ### Surprised
@@ -435,7 +435,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [whereas](https://ejje.weblio.jp/content/whereas), ウィァレーズ
     - 形容詞: 〜だが〜、〜であるのに〜
       - 主節と反対や対照の意味の節を導く
-  - ChatGPT訳: 「高所を取ることは遠距離攻撃者に利益をもたらします。
+  - ChatGPT訳: 「高所を取ることは遠距離攻撃者に利益をもたらします。  
     上からの遠距離攻撃はロールにボーナスを得ますが、下からの遠距離攻撃はペナルティを受けます。」
 
 ### Disengage
@@ -498,9 +498,9 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [worth](https://ejje.weblio.jp/content/worth), (ワ|ウ)ォス
     - 形容詞: 〜する価値がある
       - worth Verb-ing の形
-  - ChatGPT訳: 「視界は、その可視性を切り替えるか、こっそりと移動することで確認できます。
-    薄く赤くハイライトされたエリアを通過する場合、その生物に気づかれるかどうかのステルスチェックが行われ、失敗すると発見されます。
-    濃く赤くハイライトされたエリアに移動すると、即座に位置が露呈します。
+  - ChatGPT訳: 「視界は、その可視性を切り替えるか、こっそりと移動することで確認できます。  
+    薄く赤くハイライトされたエリアを通過する場合、その生物に気づかれるかどうかのステルスチェックが行われ、失敗すると発見されます。  
+    濃く赤くハイライトされたエリアに移動すると、即座に位置が露呈します。  
     もし潜伏を試みているのであれば、これらのエリアは避ける価値があります。」
 - **Left Shift** Show enemy sightlines
 - {フードを被った頭が逆三角形型に3つ並んでいるマーク} Sneak
@@ -553,8 +553,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - 主な意味は「水中に入る」「水をかける」
   - [shadow](https://ejje.weblio.jp/content/shadow), シャ↑ドゥ
     - 他動詞: 陰にする、陰で覆う、暗くする
-  - ChatGPT訳: 「生き物の視界を通過する隠れているキャラクターは、隠れたままでいるためにステルスチェックを受けなければなりません - 失敗すると、彼らは発見されます。
-    影に潜むことはステルスを格段に容易にします - だから、近くの光源を消してより良い隠れ場所を作ることを忘れないでください。
+  - ChatGPT訳: 「生き物の視界を通過する隠れているキャラクターは、隠れたままでいるためにステルスチェックを受けなければなりません - 失敗すると、彼らは発見されます。  
+    影に潜むことはステルスを格段に容易にします - だから、近くの光源を消してより良い隠れ場所を作ることを忘れないでください。  
     隠れている間、マウスカーソルは特定のエリアでキャラクターがどれだけ影になるかを示します。」
   - Hiding だけではなく Left Shift を押している最中でも、マウスカーソルに太陽マークを出せる
 - {太陽のアイコン} Fully Visible
@@ -581,7 +581,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [navigate](https://ejje.weblio.jp/content/navigate)
     - 他動詞: 人が雑踏などの比較的困難な道を通り抜ける
       - Wiktionaryにはこの意味がなかった
-  - ChatGPT訳: 「視界が悪い場所は探索が困難であり、暗闇で戦うとあなたの攻撃は不利（Disadvantage）を受けます。ただし、暗視能力（Darkvision）を持っている場合はこの限りではありません。
+  - ChatGPT訳: 「視界が悪い場所は探索が困難であり、暗闇で戦うとあなたの攻撃は不利（Disadvantage）を受けます。ただし、暗視能力（Darkvision）を持っている場合はこの限りではありません。  
     松明を灯すか、光を発生させる呪文を唱えることで、エリアを移動しやすくすることができます。」
   - {松明のアイコン} Use torch
   - {呪文のアイコン} Use Light spell
@@ -594,8 +594,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [break down](https://en.wiktionary.org/wiki/break_down#Verb)
     - 他動詞: 物理的または構造的に崩壊させる、分割する、分解する
       - Wiktionaryにはこの意味の用法は自動詞としてしか記載されていない
-  - ChatGPT訳: 「ターン制モードでは、周囲の世界が一時停止し、時間が6秒間隔のラウンドに分割されます。これは、罠を避けたり、敵をこっそりと通り過ぎたりするのに役立ちます。
-    ターン制モードでは、あなたのキャラクターは全員が同じターンに行動し、移動します。その後、世界の他のもの全てが行動します（罠、地面の効果、その他の生物を含む）。
+  - ChatGPT訳: 「ターン制モードでは、周囲の世界が一時停止し、時間が6秒間隔のラウンドに分割されます。これは、罠を避けたり、敵をこっそりと通り過ぎたりするのに役立ちます。  
+    ターン制モードでは、あなたのキャラクターは全員が同じターンに行動し、移動します。その後、世界の他のもの全てが行動します（罠、地面の効果、その他の生物を含む）。  
     ターン制モードは、いつでもオン・オフを切り替えることができます。」
   - 戦闘中にターン制になることと、Turn-Based Modeは別のシステムなんだ
 - **Shift + Space** Toggle Turn-Based Mode
@@ -615,10 +615,35 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 形容詞: 疑いがないほど明白な
   - [perceptive](https://ejje.weblio.jp/content/perceptive), (プ|パ)ァ・セプティブ
     - 形容詞: 知覚の鋭い、知覚の
+  - [neutralise](https://ejje.weblio.jp/content/neutralise)
+    - = neutralize
+    - [neutralize](https://ejje.weblio.jp/content/neutralize), ニュウトララァイズ
+      - 他動詞: 〜を無効にする、〜を中和する
   - some hidden to all but the most perceptive
     - all は「すべての人々」と言う意味
     - 直訳すると、「いくつか（の traps）は最も洞察力に優れた人を除いたすべての人へ隠されている」
-  - ChatGPT訳: 「どのダンジョンも、明白な罠や、最も洞察力のある者にしか見えない隠された罠なしには完全ではありません。
-    罠が世界で明らかにされたとき、それらを無効にするためには、罠解除キットを使用して巧妙さの手順チェックを行うことができます。
+  - ChatGPT訳: 「どのダンジョンも、明白な罠や、最も洞察力のある者にしか見えない隠された罠なしには完全ではありません。  
+    罠が世界で明らかにされたとき、それらを無効にするためには、罠解除キットを使用して巧妙さの手順チェックを行うことができます。  
     注意してください、チェックに失敗すると、キットが壊れて罠が作動します。」
 - **Right Mouse Button** Open Context Menu to disarm traps
+
+## Crime
+
+### Pickpocketing
+
+- You can pickpocket items from characters while hiding.  
+  While next to but hidden from a character, you can use the Context Menu to pickpocket, and then select which items you want to steal.  
+  You will have to succeed a **Sleight of Hand** check to successfully steal the items - more valuable items will make the check more [**difficult**](./baldurs-gate-3-english-terms.html#difficulty-class-dc).  
+  Failing the check will mean you are noticed, and branded a criminal.
+  - [next to](https://en.wiktionary.org/wiki/next_to#Preposition)
+    - 前置詞: 隣接して・隣に(=adjacent)、近くに(=near)
+  - While (next to) but (hidden from) a character
+    - next to と hidden from は形容詞句同士を等位の関係で結んだもの
+  - ChatGPT訳: 「隠れながらキャラクターからアイテムを盗むことができます。  
+    隠れている状態でキャラクターの隣にいるとき、コンテキストメニューを使用してピックポケットを選び、盗みたいアイテムを選択できます。  
+    アイテムを成功裏に盗むためには、スリの技術チェックに成功する必要があります - より価値のあるアイテムはチェックを難しくします。  
+    チェックに失敗すると、あなたは気付かれ、犯罪者とみなされます。」
+- {しゃがんでいる人のアイコン} Hide
+- **Right Mouse Button** Begin pickpocketing
+
+### Crimes
