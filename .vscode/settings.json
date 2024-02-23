@@ -17,7 +17,8 @@
   },
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "trailing"
   },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
