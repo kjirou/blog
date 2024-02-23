@@ -662,3 +662,25 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - **Right Mouse Button** Begin pickpocketing
 
 ### Crimes
+
+- Remember: your actions most definitely have consequences!  
+  Taking items highlighted red will count as a crime, as will acts of violence.  
+  If you're causing trouble, characters may call their associated guards on you - leading to fines, jail time, or possibly worse.
+  - [definitely](https://ejje.weblio.jp/content/definitely), デ↑フィニトリィ
+    - 副詞: 確実に、明確に、確かに
+  - [consequence](https://ejje.weblio.jp/content/consequence), コンシィクエンス
+    - 名詞: 続いて起こる・必然的に伴う結果、成り行き
+  - as will acts of violence
+    - as acts of violence will (count as a crime) の省略であり、かつ will が強調のために前に出た形
+  - [lead](https://ejje.weblio.jp/content/lead), リィード
+    - 自動詞: 結果としてなる
+      - lead to C(=なる状態)
+  - [fine](https://ejje.weblio.jp/content/fine), ファーイン
+    - 名詞: 罰金、科料
+      - なぜ、 fine が「罰金」なのか？
+        - 元々 "fin" がフランス語由来の「終わり」で転じて「完成された」になり、「質において完成した」→「素晴らしい」、「争いの決着を金で完成させた」→「罰金」
+          - Ref: https://languagevillage.co.jp/english_and_japanese/fine/
+  - ChatGPT訳: 「覚えておいてください：あなたの行動には確実に結果が伴います！  
+    赤くハイライトされたアイテムを取ることは犯罪とみなされますし、暴力行為も同様です。  
+    もし問題を起こしている場合、キャラクターはそれに関連する警備員を呼ぶことがあります - それにより罰金、投獄、あるいはもっと悪いことが起こる可能性があります。」
+  - 見つからないときはどうなるのかを書いて欲しかった
