@@ -533,12 +533,33 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [chasm](https://ejje.weblio.jp/content/chasm), キャズ(ム|ン)
     - 名詞: 広く深い割れ目
     - Assoc: キャズム
+  - ChatGPT訳: 「飛び跳ねて、峡谷、罠、その他の障害物を越えることができます。」
 - Stronger characters will be able to jump further.
   - [further](https://ejje.weblio.jp/content/further), ファー(ダ|ザ)ー
     - 副詞: 距離や空間や時間がさらに遠く、程度がさらに進んで
+  - ChatGPT訳: 「力の強いキャラクターは、より遠くまで跳ぶことができます。」
 - {ジャンプしている人のマーク} **Z** Jump
 
 ### Remaining Obscured
+
+- Hiding characters that pass a creature's line of sight must pass a Stealth check to stay hidden - on a failure, they are revealed.  
+  Sticking to the shadows makes stealth much easier - so be sure to douse nearby light sources to create better hiding spaces.  
+  While hiding, your mouse cursor will show you how shadowed a character would be in a particular area.
+  - [obscure](https://ejje.weblio.jp/content/obscure), オブスキュアァ
+    - 他動詞: 覆い隠す、暗くする、曇らせる
+    - 形容詞で「はっきりしない」「ぼんやりとした」の意味もある
+  - [douse](https://ejje.weblio.jp/content/douse), ダァス
+    - 他動詞: 灯火を消す
+      - 主な意味は「水中に入る」「水をかける」
+  - [shadow](https://ejje.weblio.jp/content/shadow), シャ↑ドゥ
+    - 他動詞: 陰にする、陰で覆う、暗くする
+  - ChatGPT訳: 「生き物の視界を通過する隠れているキャラクターは、隠れたままでいるためにステルスチェックを受けなければなりません - 失敗すると、彼らは発見されます。
+    影に潜むことはステルスを格段に容易にします - だから、近くの光源を消してより良い隠れ場所を作ることを忘れないでください。
+    隠れている間、マウスカーソルは特定のエリアでキャラクターがどれだけ影になるかを示します。」
+  - Hiding だけではなく Left Shift を押している最中でも、マウスカーソルに太陽マークを出せる
+- {太陽のマーク} Fully Visible
+- {半円暗闇の太陽のマーク} Lightly Obscured
+- {円部分が全て暗闇の太陽のマーク} Heavily Obscured
 
 ### Surfaces
 
