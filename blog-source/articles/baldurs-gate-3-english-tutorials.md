@@ -814,4 +814,30 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 ### Partyline
 
+- Your party is shown on the left side of your screen as character portraits showing their helth, any statuses affecting them, and if they are ready to level up.  
+  Grouped party members will move together in the world if they aren't hiding - you can ungroup party members by dragging linked portraits apart and vice versa.  
+  Characters who are far apart in the world cannnot be grouped together.
+  - [apart](https://ejje.weblio.jp/content/apart), ア・パ↑ァト
+    - 副詞: 時間的や空間的に離れて
+  - [vice versa](https://en.wiktionary.org/wiki/vice_versa#Adverb)
+    - 形容詞: 逆も同様な、逆もまた然り
+    - ラテン語由来。 vice が「代わりに」「逆に」、 versa が「転じる」「変わる」。
+  - [apart](https://ejje.weblio.jp/content/apart), ア・パ↑ァト
+    - 形容詞,叙述的用法: 離れて
+  - ChatGPT訳: 「あなたのパーティは、彼らの健康、影響を受けている状態、そしてレベルアップの準備ができているかどうかを示すキャラクターポートレートとして画面の左側に表示されます。  
+    パーティーメンバーはグループ化され、隠れていない限り世界で一緒に移動します - リンクされたポートレートを引き離すことでパーティーメンバーのグループを解除し、その逆も同様にできます。  
+    世界で離れた場所にいるキャラクターは一緒にグループ化することができません。」
+  - Hiding 状態でも一緒に動いているように見えている？
+- If you want to make room in your party for new allies, you can ask a companion to wait at camp at any time by speaking to them.
+  - ChatGPT訳: 「新しい仲間をパーティーに加えたい場合、いつでも仲間に話しかけてキャンプで待ってもらうことができます。」
+
 ### Full Party
+
+- You can only have four companions in your party at once.  
+  If your party is full, new recruits can be sent to camp or can immediately replace a current party member.
+  - [recruit](https://ejje.weblio.jp/content/recruit), ゥリクルゥト
+    - 名詞: 新会員、新兵
+  - ChatGPT訳: 「パーティーには一度に4人の仲間しか加えることができません。
+    パーティーが満員の場合、新しい仲間はキャンプに送ることができますし、すぐに現在のパーティーメンバーと交換することもできます。」
+- Replaced companions can be added back to your party at any time by talking to them at camp.
+  - ChatGPT訳: 「交換された仲間は、キャンプで話しかけることでいつでもパーティーに戻すことができます。」
