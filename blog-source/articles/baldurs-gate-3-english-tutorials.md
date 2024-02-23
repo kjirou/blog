@@ -563,7 +563,28 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 ### Surfaces
 
-### Darakness
+- Surfaces can be created by spells, potions, and items - and some already exist in the world.
+  Many of them can change when interacting with elements like heat or sparks, and can be washed away by water.
+  - [surface](https://ejje.weblio.jp/content/surface), (ス|サ)ーフェス
+    - 名詞: 表面、外面
+      - ゲーム的に、ダメージ床の類のギミックを指すのが surface みたいだが、日本語にするときに適切な訳が思いつかない
+        - 「特殊な地面または床」と言う表現になりそう？
+  - ChatGPT訳: 「表面は、呪文、薬品、アイテムによって作られることがあり、世界にはすでに存在するものもあります。
+    多くのものは、熱や火花などの要素との相互作用によって変化し、水によって洗い流されることがあります。」
+
+### Darkkness
+
+- Obscured areas are hard to explore, and fighting in the dark will give your attacks **Disadvantage** unless you have **Darkvision**.  
+  Light a torch or cast spells generating light to make areas easier to navigate.
+  - [light](https://ejje.weblio.jp/content/light)
+    - 他動詞: ろうそく・マッチ・たばこなどへ点火する
+  - [navigate](https://ejje.weblio.jp/content/navigate)
+    - 他動詞: 人が雑踏などの比較的困難な道を通り抜ける
+      - Wiktionaryにはこの意味がなかった
+  - ChatGPT訳: 「視界が悪い場所は探索が困難であり、暗闇で戦うとあなたの攻撃は不利（Disadvantage）を受けます。ただし、暗視能力（Darkvision）を持っている場合はこの限りではありません。
+    松明を灯すか、光を発生させる呪文を唱えることで、エリアを移動しやすくすることができます。」
+  - {松明アイコン} Use torch
+  - {呪文アイコン} Use Light spell
 
 ### Turn-Based Mode
 
