@@ -725,3 +725,34 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - centre が UK、center が US
     - [center](https://ejje.weblio.jp/content/center), センタァ
       - 他動詞: ものを場所の中心へ置く・移す
+
+## Inventry
+
+### Item Context Menu
+
+- The Context Menu allows you to use items, tag them as wares, or send them to other party members.  
+  Some items or objects in the world have special interactions such as lockpicking or climbing that can be found in the Context Menu.
+  - [ware](https://ejje.weblio.jp/content/ware), ウェアァ
+    - 名詞: 売品、商品
+  - [interaction](https://ejje.weblio.jp/content/interaction), インター・アークション
+    - 名詞: 相互作用
+  - ChatGPT訳: 「コンテキストメニューを使用すると、アイテムを使用したり、商品としてタグ付けしたり、他のパーティーメンバーに送ったりすることができます。
+    一部のアイテムやオブジェクトには、コンテキストメニューで見つけることができる錠前破りや登攀などの特別なインタラクションがあります。」
+- **Right Mouse Button** Open Context Menu
+
+### Party View
+
+- The Party View allows you to manage character inventries, spells, and reactions.  
+  Equipment can also be managed here, letting you handle encumbrance, split stacks of items, search for specific items, and mark wares.  
+  The Party View also lets you compare the character sheets of party members and examine class features.
+  - [handle](https://ejje.weblio.jp/content/handle), ヘェンドォ
+    - 他動詞: 処理する、扱う、制御する
+  - [encumbrance](https://ejje.weblio.jp/content/encumbrance), イン・カンスメンツ
+    - 名詞: 背負わなければならない重荷、負担
+      - 重量制限のあるゲームでその重量を示す意味でよく使われるよう
+  - ChatGPT訳: 「パーティービューでは、キャラクターの持ち物、呪文、そして反応を管理することができます。  
+    装備もここで管理でき、重量、アイテムのスタックを分割、特定のアイテムを検索、および商品をマークすることができます。  
+    パーティービューでは、さらにパーティーメンバーのキャラクターシートを比較し、クラスの特徴を調べることもできます。」
+  - reactions って何だろう？まだ未開放のシステムとかマルチプレイ用の機能とか？
+- **Tab** {兜のアイコン} Open Party View
+- **Left Ctrl** and click to select multiple items.
