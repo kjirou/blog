@@ -639,6 +639,21 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 前置詞: 隣接して・隣に(=adjacent)、近くに(=near)
   - While (next to) but (hidden from) a character
     - next to と hidden from は形容詞句同士を等位の関係で結んだもの
+  - and then select which items you want to steal
+    - which の文法がわからない
+      - 関係代名詞だとすると、 直後に items が置けないのと、先行詞が明確に指定されていないのがおかしい
+      - 間接疑問文でも、 items が入らないはず
+      - 疑問形容詞なのは、主語として文頭に配置されるときにのよう
+      - 関係形容詞というのもあり、語順的には最も合致するが、以下の説明と合わなかった
+        - Ref: https://manabitimes.jp/english/2290
+      - 単に which items で「いずれかのアイテム」という意味の名詞句になるかは、ChatGPTに否定された
+  - [brand](https://ejje.weblio.jp/content/brand), ブレァンド
+    - 他動詞: 人を何かだと決めつける
+      - brand O C または brand O as句 の形
+      - 「人へ烙印を押す」「家畜へ焼印を押す」と言う意味もある
+    - Assoc: ブランド、商標
+  - [criminal](https://ejje.weblio.jp/content/criminal), クィミナル
+    - 名詞: 犯罪者、犯人
   - ChatGPT訳: 「隠れながらキャラクターからアイテムを盗むことができます。  
     隠れている状態でキャラクターの隣にいるとき、コンテキストメニューを使用してピックポケットを選び、盗みたいアイテムを選択できます。  
     アイテムを成功裏に盗むためには、スリの技術チェックに成功する必要があります - より価値のあるアイテムはチェックを難しくします。  
