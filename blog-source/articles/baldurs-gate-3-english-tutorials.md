@@ -756,3 +756,62 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - reactions って何だろう？まだ未開放のシステムとかマルチプレイ用の機能とか？
 - **Tab** {兜のアイコン} Open Party View
 - **Left Ctrl** and click to select multiple items.
+
+## Companions
+
+### Followers
+
+- Some characters will join your party as a temporary ally.  
+  They will follow a companion or avater, denoted by whose portrait they appear next to.  
+  Selecting this follower allows you to take direct control of its movement and actions.
+  - [avator](https://ejje.weblio.jp/content/avator), ア・バ↑ータァ
+    - = avatar
+    - [avatar](https://ejje.weblio.jp/content/avatar), アバ(タ|ト)ァ
+      - 名詞: 化身
+        - 主人公を指す
+  - [denote](https://ejje.weblio.jp/content/denote), デ・ノゥト
+    - 他動詞: 〜を示す、〜を表示する
+  - (a companion or avater is) denoted by whose portrait they appear next to (whose portrait)
+  - ChatGPT訳: 「一部のキャラクターは一時的な仲間としてパーティーに加わります。  
+    彼らは、どのポートレートの隣に表示されるかによって、同伴者またはアバターに従います。  
+    このフォロワーを選択することで、その動きや行動を直接制御することができます。」
+- Followers cannot pick up items or interact in dialogues for you.
+
+### Companions
+
+- Some allies will stick by your side through thick and thin.
+  - [thick and thin](https://en.wiktionary.org/wiki/thick_and_thin#Noun)
+    - 名詞: 良い時も悪い時も
+  - ChatGPT訳: 「一部の仲間は、良い時も悪い時もあなたのそばにいてくれます。」
+- Companions can join you on your adventures as part of your party, or wait in camp until you call upon them.  
+  All companions gain experience at the same time, regardless of if they fought by your side or stayed in camp.  
+  When companions are in your active party, you can control their movements and actions as if they were an avatar.
+  - [call upon](https://en.wiktionary.org/wiki/call_upon)
+    - call on の一部の意味と同じで、より古風で固い言い方
+    - [call on](https://en.wiktionary.org/wiki/call_on#Verb)
+      - 他動詞: 頼る、要求する、尋ねる
+  - [regardless of](https://en.wiktionary.org/wiki/regardless_of#Preposition)
+    - 前置詞: 〜に関わらず(=despite)、〜へ注意を払わず
+    - [regardless](https://ejje.weblio.jp/content/regardless), ゥリ・ガードレス
+      - 形容詞: 不注意な、無頓着な
+  - ChatGPT訳: 「仲間はパーティーの一員としてあなたの冒険に加わることができるし、呼び出すまでキャンプで待機することもできます。  
+    仲間はあなたのそばで戦ったかキャンプで待機したかに関わらず、同時に経験値を得ます。  
+    仲間があなたのアクティブパーティーにいるときは、アバターであったかのように彼らの動きや行動を制御することができます。」
+- Remember - these are thinking and feeling people, with their own opinions and goals.  
+  If their attitude towards you drops low enough, they will leave - but if it is high enough, you may form a close bond with them.
+  - [opinion](https://ejje.weblio.jp/content/opinion), オ・ピ↑ニオン
+    - 名詞: 意見、見解、持論
+  - [drop](https://ejje.weblio.jp/content/drop), ヂュロ↑ップ
+    - 自動詞: 価値・程度・強さ・音調などが落ちる
+  - [form](https://ejje.weblio.jp/content/form), フォァム
+    - 他動詞: ものや概念を形成する・形作る
+  - [close](https://ejje.weblio.jp/content/close), (カ|ク)ロゥズ
+    - 形容詞: 親しい
+  - [bond](https://ejje.weblio.jp/content/bond), (バ|ボ)ァンド
+    - 名詞: 結束、絆
+  - ChatGPT訳: 「覚えておいてください - これらは考え、感じる人々であり、自分自身の意見や目標を持っています。  
+    彼らのあなたに対する態度が十分に低くなると、彼らは去るでしょう - しかし、十分に高ければ、あなたたちは密接な絆を形成するかもしれません。」
+
+### Partyline
+
+### Full Party
