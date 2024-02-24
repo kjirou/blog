@@ -910,3 +910,11 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 ## Journal
 
 ### Your Journal
+
+- The Journal records your adventure so far - who you've helped, where you've been, and where you might need to go next.  
+  If a goal points you to a specific location, it will appear as a marker on your map.  
+  You can also view every conversation you've had so far in the Dialogue History tab.
+  - ChatGPT訳: 「これまでのあなたの冒険を記録したジャーナルです。誰を助け、どこに行き、次にどこへ行く必要があるかが記されています。  
+    目的が特定の場所を指し示している場合、それはあなたの地図上にマーカーとして表示されます。  
+    また、これまでに行ったすべての会話は、ダイアログ履歴タブで閲覧することができます。」
+- **J** Open Jouranal
