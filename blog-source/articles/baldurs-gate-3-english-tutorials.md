@@ -863,3 +863,25 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - **M** Open Map
 
 ### Map
+
+- The Map shows the areas you've explored along your adventure.  
+  As you travel further afield, more of the world will be shown on the Map.  
+  You can use it to view quest locations, custom markers, and instantly travel between Waypoints that have been discovered in the world.
+  - [explore](https://ejje.weblio.jp/content/explore), エクスプロアァ
+    - 自動詞: 探検する、調査する
+  - [afield](https://ejje.weblio.jp/content/afield), ア・フィールゥ
+    - 副詞: 遠く離れて
+  - [instantly](https://ejje.weblio.jp/content/instantly), イ↑ンステントリィ
+    - 副詞: 直ちに、即座に
+  - ChatGPT訳: 「マップは、あなたの冒険に沿って探索したエリアを示します。
+    さらに遠くへ旅をするにつれて、マップ上にはより多くの世界が表示されます。
+    クエストの場所、カスタムマーカーを見るために使用したり、世界で発見されたウェイポイント間を即座に旅するために使用できます。」
+- Characters in the world also appear on the map as coloured circles: green allies, red enemies, and yellow neutral parties.  
+  Small arrows near these circles indicate if the character is below or above you.
+  - ChatGPT訳: 「世界にいるキャラクターもマップ上に色付きの円として表示されます：緑は味方、赤は敵、黄色は中立勢力です。  
+    これらの円の近くにある小さな矢印は、そのキャラクターがあなたの下にいるか上にいるかを示しています。」
+- While travelling, minimap will be shown in the the corner of the screen - you can change how the minimap works in the options menu.
+  - in the the corner of the screen
+    - 原文で the が2続いている、おそらくは誤り
+  - ChatGPT訳: 「旅行中、画面の隅にミニマップが表示されます - オプションメニューでミニマップの動作を変更することができます。」
+- **M** Open Map
