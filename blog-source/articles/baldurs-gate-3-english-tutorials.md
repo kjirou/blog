@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-tutorials
-lastUpdatedAt: "2024-02-18 08:07:19+0000"
+lastUpdatedAt: "2024-02-24 13:22:20+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する Tutorials編
@@ -31,12 +31,14 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [escapade](https://ejje.weblio.jp/content/escapade), エ↑スカペィ
     - 名詞: 常軌を逸した行動、脱出、日常からの脱出
   - ChatGPT訳: 「キャンプは休息、回復、そして反省の場所です。これまでの冒険について仲間と話をしたり、これからの冒険に誰を連れて行くか選ぶことができます。」
-- You can also store items and take long rests here. Visitors may come and go from your camp throughout your adventure - be they friends or foes.
+- You can also store items and take long rests here.  
+  Visitors may come and go from your camp throughout your adventure - be they friends or foes.
   - [throughout](https://ejje.weblio.jp/content/throughout), スゥルー・アーウト
     - 前置詞: 時間を表してその間ずっと、終始
   - be they friends or foes
     - ChatGPTによると、 if they are friends or foes の古風な表現らしい、詳細不明
-  - ChatGPT訳: 「また、ここでアイテムを保管したり、長い休息を取ることもできます。訪問者は冒険を通じてキャンプに出入りすることがあります - 友人であれ敵であれ。」
+  - ChatGPT訳: 「また、ここでアイテムを保管したり、長い休息を取ることもできます。  
+    訪問者は冒険を通じてキャンプに出入りすることがあります - 友人であれ敵であれ。」
 
 ### End the Day
 
@@ -63,14 +65,15 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 他動詞: 散らばっているものや人をひとつへ集める・かき集める
   - [relationship](https://ejje.weblio.jp/content/relationship), ゥリ・レ↑イションシィップ
     - 名詞: 人と人との関係、ものとものとの結びつき
-- {月とZのアイコン} Open Rest Menu
-- {月とZのアイコン} Initiate Long Rest
+  - ChatGPT訳: 「夜にキャンプを訪れることで、集めた仲間やフォロワーと話をしたり、あなたの関係や冒険について振り返ることができます。」
+- {アイコン} Open Rest Menu
+- {アイコン} Initiate Long Rest
   - [initiate](https://ejje.weblio.jp/content/initiate), イ↑ニシエイト
     - 他動詞: 〜を始める、〜の口火を切る、〜を創始する
 
 ### Camp Supplies
 
-- Food and drink are needed to successfully complete a **Long Rest** at your camp and are automatically added to your Camp Supply Sack when picked up.
+- Food and drink are needed to successfully complete a **Long Rest** at your camp and are automatically added to your Camp Supply Sack when picked up.  
   More nutritious food and drink will have higher value when used for Long Resting.
   - Camp Supply Sack
     - ゲーム用語,名詞: Camp Supplies だけを格納するサブインベントリ
@@ -114,7 +117,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [price](https://ejje.weblio.jp/content/price), プラ↑イス
     - 名詞: 代償、代価、犠牲
       - 単数形で使う
-  - ChatGPT訳: 「ウィザースは多くの力を司る奇妙な亡霊です：彼はあなたに味方を蘇らせること、助けを雇うこと、そしてあなたのクラスを変更することを許します。
+  - ChatGPT訳: 「ウィザースは多くの力を司る奇妙な亡霊です：彼はあなたに味方を蘇らせること、助けを雇うこと、そしてあなたのクラスを変更することを許します。  
     もちろん、代償は必要です。」
 
 ## Core Rules
@@ -131,8 +134,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [inspect](https://ejje.weblio.jp/content/inspect), イン・スペクト
     - 他動詞: 詳しく調査する
   - ChatGPT訳: 「一部のクラスはショートレストでリソースを回復します。リソースがいつ回復されるかを知るには、そのリソースのツールチップを確認してください。」
-- {月とZのアイコン} Open Rest Menu
-- {閉じた目のアイコン} Initiate Short Rest
+- {アイコン} Open Rest Menu
+- {アイコン} Initiate Short Rest
 
 ### Inspiration
 
@@ -140,24 +143,24 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   You gain Inspiration points for completing **Background Goals**.
   - [inspiration](https://ejje.weblio.jp/content/inspiration), インス(ピ|ペ)レ↑イション
     - 名詞: 霊感、上手い思いつき
-  - ChatGPT訳: 「インスピレーションは失敗した能力チェックやセービングスローを再ロールするために使用できます。」
+  - ChatGPT訳: 「インスピレーションは失敗した能力チェックやセービングスローを再ロールするために使用できます。  
+    バックグラウンドゴールを完了することでインスピレーションポイントを獲得します。」
 - Make sure to spend these frequently, your party can only store four at a time to spend - any additional Inspiration will be converted into Experience Points.
   - [make sure](https://en.wiktionary.org/wiki/make_sure)
     - 自動詞: 何かを確信すること・納得すること
   - [frequently](https://ejje.weblio.jp/content/frequently), フリィ・クエント・リィ
     - 副詞: 頻繁に、しばしば
       - often より高い頻度
-  - ChatGPT訳: 「バックグラウンドゴールを完了することでインスピレーションポイントを獲得します。
-    これらを頻繁に使うようにしてください、あなたのパーティは一度に4つまでしか蓄積できません - それ以上のインスピレーションは経験値に変換されます。」
-- {発光のアイコン} **P** Open Inspiration Menu
+  - ChatGPT訳: 「これらを頻繁に使うようにしてください、あなたのパーティは一度に4つまでしか蓄積できません - それ以上のインスピレーションは経験値に変換されます。」
+- {アイコン} **P** Open Inspiration Menu
 
 ### Skill Checks
 
 - Some actions require a dice roll to determine the outcome - called an Ability or Skill **check**.  
-  If your roll is higher than a particular number, the **Difficulty Class**, you will succeed.  
+  If your roll is higher than a particular number, the [**Difficulty Class**](./baldurs-gate-3-english-terms.html#difficulty-class-dc), you will succeed.  
   Rolling a 1 will automatically fail a check, and rolling a 20 will automatically succeed.  
-  These rolls can be modified by **Skill** or **[Ability](./baldurs-gate-3-english-terms.html#ability-modifier)** scores - the higher the number, the higher your roll will be.  
-  Ability scores can be increased by levelling up or by acquiring special items, and your Skills can be increased by becoming **[Proficient](./baldurs-gate-3-english-terms.html#proficiency-bonus)** or an **Expert** in them.
+  These rolls can be modified by **Skill** or [**Ability**](./baldurs-gate-3-english-terms.html#ability-modifier) scores - the higher the number, the higher your roll will be.  
+  Ability scores can be increased by levelling up or by acquiring special items, and your Skills can be increased by becoming [**Proficient**](./baldurs-gate-3-english-terms.html#proficiency-bonus) or an [**Expert**](./baldurs-gate-3-english-terms.html#expert) in them.
   - [outcome](https://ejje.weblio.jp/content/outcome), アウト・カンム
     - 名詞: 結果、成果
   - higher than は「以上」なのか「超える」なのか？
@@ -204,19 +207,19 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - lockpicking and trap disarmament
     - ChatGPTに確認したところ、例としての列挙であるとのこと。ただ、下記の訳には反映されていないが。
     - for example や such as などを伴わなくても、文脈上例を示すことはあるとのこと
-  - ChatGPT訳: 「世界で起こるいくつかのチェックは受動的に行われ、他のチェックは対話中や錠前開け、罠の解除の際にあなたが行う能動的なチェックです。
+  - ChatGPT訳: 「世界で起こるいくつかのチェックは受動的に行われ、他のチェックは対話中や錠前開け、罠の解除の際にあなたが行う能動的なチェックです。  
     能動的なチェックでは、ロールを強化するために呪文を使用することができます。また、チェックに失敗した場合はインスピレーションを使用して再ロールすることができます。」
 
 ### Advantage and Disadvantage
 
-- Advantage lets you roll two dice for an **Ability Check**, **Saving Throw** or **Attack Roll** and take the higher result before adding your modifiers - making you more likely to succeed a roll.
+- Advantage lets you roll two dice for an **Ability Check**, **Saving Throw** or **Attack Roll** and take the higher result before adding your modifiers - making you more likely to succeed a roll.  
   Likewise, Disadvantage makes you less likely to succeed by taking the lower result of the two rolls.
   - to succeed a roll
     - 一般的に succeed は「〜を成功する」と言う意味の他動詞にならないので、不自然であるとのこと
     - 単に何らかの前置詞を省略した結果か、D&D用語として succeed が他動詞としても使われる事があるのか、詳細は不明
   - [likewise](https://ejje.weblio.jp/content/likewise), ライク・ワーイズ
     - 副詞: 同様に
-  - ChatGPT訳: 「アドバンテージは、アビリティーチェック、セービングスロー、またはアタックロールで2つのダイスを振り、修正値を加える前に高い方の結果を取ることができます - これにより、ロールに成功する可能性が高くなります。
+  - ChatGPT訳: 「アドバンテージは、アビリティーチェック、セービングスロー、またはアタックロールで2つのダイスを振り、修正値を加える前に高い方の結果を取ることができます - これにより、ロールに成功する可能性が高くなります。  
     同様に、ディスアドバンテージは、2つのロールの低い方の結果を取ることで、成功する可能性を低くします。」
 - Advantage or Disadvantage can come from many different sources - enemies being **Prone**, characters having positive or negative attitudes towards you, and spells that help or hinder you being only a few examples - so keep an eye out for ways to better your chances!
   - [attitude](https://ejje.weblio.jp/content/attitude), アーテテゥード
@@ -234,7 +237,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 自動詞: 注意を払う、監視する
     - 直訳だと「目を開いておく」「目をむき出しにしておく」
   - ChatGPT訳: 「有利または不利は多くの異なる源から生じることがあります - 敵が伏せていること、キャラクターがあなたに対して肯定的または否定的な態度を持っていること、そしてあなたを助けたり妨げたりする呪文などが例に挙げられます - これらはいくつかの例に過ぎませんので、自分のチャンスをより良くする方法を探し続けてください！」
-- {上向き矢印の入った緑の六角形のアイコン} Indicates you have Advantage
+- {アイコン} Indicates you have Advantage
 
 ### Proficiency (Weapons and Armour)
 
@@ -285,7 +288,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 形容詞: 多目的の、多芸の、多才な
     - Assoc: 「多目的トイレ」は日本の呼び方で、欧米だと？ wheelchair access bathroom と言うらしい
       - Ref: https://eikaiwa.dmm.com/uknow/questions/111162/
-  - ChatGPT訳: 「一部の呪文使い（ウィザード、ドルイド、クレリック、パラディン）は非常に多才な魔法使いであり、戦闘時以外に異なる呪文を準備することができます。
+  - ChatGPT訳: 「一部の呪文使い（ウィザード、ドルイド、クレリック、パラディン）は非常に多才な魔法使いであり、戦闘時以外に異なる呪文を準備することができます。  
     これらのクラスの利用可能な呪文のリストはレベルアップすると増え、ウィザードは呪文の巻物から新しい呪文を学ぶこともできます。」
 - **K** Open Spellbook
 
@@ -366,7 +369,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     ローグは、攻撃ロールにアドバンテージを得ようとして、ボーナスアクションとしてステルスチェックを行うことができます。」
   - Sneak Attack の条件は、Hiding状態であることではなくて、攻撃にAdvantageがある状況だったのか
 - You cannot Sneak Attack if you have Disadvantage on the attack roll.
-- {ナイフを逆手に持った手のアイコン}{ナイフを逆手に持った手のアイコン} Sneak Attack
+- {アイコン}{アイコン} Sneak Attack
 
 ## Combat
 
@@ -380,14 +383,14 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - can は可能性を示す、つまり「常に必要ではないが非常に重要なこともある」という意味
   - ChatGPT訳: 「隠れている間に敵を攻撃すると、攻撃に有利を得られます - これはローグのスニークアタックにとって非常に重要になります。  
     ターゲットの背後にいる必要はありません、ただ彼らの視界から隠れているだけで良いのです。」
-- {しゃがんでいる人のアイコン} **C** Toggle Hide
+- {アイコン} **C** Toggle Hide
 
 ### Combat
 
 - Combat is turn-based, with characters rolling an Initiative (Dexterity) **Check** to determine who acts first.  
   All combatants are shown at the top of the screen in order of their Initiative roll, and are highlighted based on attitude to your party: allies in greeen, enemies in red, and neutral characters in yellow.
   - [combatant](https://ejje.weblio.jp/content/combatant), (カ|コ)ンバ↑ータント
-    - 名詞: 戦闘員、闘志
+    - 名詞: 戦闘員、闘士
   - [order](https://ejje.weblio.jp/content/order), オォダァ
     - 名詞: 順序
   - [roll](https://en.wiktionary.org/wiki/roll#Noun), ゥロォ
@@ -401,8 +404,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   You can end a turn by pressing the End Turn icon.
   - ChatGPT訳: 「ターン中に、キャラクターはアクション、ボーナスアクション、そして移動を行うことができます。  
     ターン終了アイコンを押すことで、ターンを終了することができます。」
-- {緑の丸のアイコン} Show actions
-- {オレンジ色の上向き三角のアイコン} Show bonus actions
+- {アイコン} Show actions
+- {アイコン} Show bonus actions
 
 ### Shared Initiative
 
@@ -423,7 +426,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [reaction](https://ejje.weblio.jp/content/reaction), ゥリア↑ークション
     - 名詞: 反応
     - 一般的な意味というよりはゲームのシステム用語だと思うんだが、解説がない
-  - ChatGPT訳: 「キャラクターはステルスから攻撃された時に驚かされます。
+  - ChatGPT訳: 「キャラクターはステルスから攻撃された時に驚かされます。  
     驚かされたキャラクターは戦闘の最初のラウンドでは移動したり、行動や反応を取ることができません。」
 
 ### High Ground Rules
@@ -433,7 +436,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [benefit](https://ejje.weblio.jp/content/benefit), ベネフィッ
     - 他動詞: 〜へ利益をもたらす
   - [whereas](https://ejje.weblio.jp/content/whereas), ウィァレーズ
-    - 形容詞: 〜だが〜、〜であるのに〜
+    - 接続詞: 〜だが〜、〜であるのに〜
       - 主節と反対や対照の意味の節を導く
   - ChatGPT訳: 「高所を取ることは遠距離攻撃者に利益をもたらします。  
     上からの遠距離攻撃はロールにボーナスを得ますが、下からの遠距離攻撃はペナルティを受けます。」
@@ -442,13 +445,13 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 
 - Taking the Disengatge action lets you leave an enemy's melee range without taking Opportunity Attacks.
   - ChatGPT訳: 「「Disengageアクション」を取ることで、敵の近接範囲を離れる際に機会攻撃を受けずに済みます。」
-- {右上斜めと左下斜めの矢印群のアイコン} Disengage
+- {アイコン} Disengage
 
 ### Combat Log
 
 - The Combat Log keeps track of your encounters - particularly the details of attack and damage rolls from battles.  
   You can also find the record of the conversations you've had so far in your adventure there.
-  - ChatGPT訳: 「コンバットログは、特に戦闘での攻撃やダメージロールの詳細を含む、あなたの遭遇を記録しています。
+  - ChatGPT訳: 「コンバットログは、特に戦闘での攻撃やダメージロールの詳細を含む、あなたの遭遇を記録しています。  
     また、これまでの冒険での会話の記録もそこにあります。」
   - デフォルトで閉じていて、吹き出しボタンを押すと右下に出てくるログのウィンドウのこと
     - Combat というよりは、後に残らないログ全般を表示するところだと思ってた
@@ -503,13 +506,16 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     濃く赤くハイライトされたエリアに移動すると、即座に位置が露呈します。  
     もし潜伏を試みているのであれば、これらのエリアは避ける価値があります。」
 - **Left Shift** Show enemy sightlines
-- {フードを被った頭が逆三角形型に3つ並んでいるマーク} Sneak
+- {アイコン} Sneak
 
 ### Highlight Items
 
 - You can highlight items near you in the world to more easily spot new loot.
+  - [spot](https://ejje.weblio.jp/content/spot), ス(ポ|パ)ット
+    - 他動詞: 見つける、見分ける
   - [loot](https://ejje.weblio.jp/content/loot), ルゥト
     - 名詞: 戦利品、略奪品、盗品、略奪行為
+  - ChatGPT訳: 「あなたの周りにあるアイテムをハイライト表示して、新しい戦利品をより簡単に見つけることができます。」
 - **Left Alt** Highlight nearby containers and items
   - [nearby](https://ejje.weblio.jp/content/nearby)
     - 形容詞: 近くの
@@ -523,7 +529,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   You can always examine a tough object or enemy to see if they have any weaknesses.
   - [unusually](https://ejje.weblio.jp/content/unusually), アン・ユ↑ージュアリィ
     - 副詞: 異常に、めったにないほど
-  - ChatGPT訳: 「世界には非常に頑丈な物体が存在し、実際に影響を与えるためには一度に十分なダメージを与える必要があります。
+  - ChatGPT訳: 「世界には非常に頑丈な物体が存在し、実際に影響を与えるためには一度に十分なダメージを与える必要があります。  
     頑丈な物体や敵を調べることで、常に弱点があるかどうかを確認することができます。」
 - **Right Mouse Button** Examine weaknesses
 
@@ -538,7 +544,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [further](https://ejje.weblio.jp/content/further), ファー(ダ|ザ)ー
     - 副詞: 距離や空間や時間がさらに遠く、程度がさらに進んで
   - ChatGPT訳: 「力の強いキャラクターは、より遠くまで跳ぶことができます。」
-- {ジャンプしている人のアイコン} **Z** Jump
+- {アイコン} **Z** Jump
 
 ### Remaining Obscured
 
@@ -557,22 +563,22 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     影に潜むことはステルスを格段に容易にします - だから、近くの光源を消してより良い隠れ場所を作ることを忘れないでください。  
     隠れている間、マウスカーソルは特定のエリアでキャラクターがどれだけ影になるかを示します。」
   - Hiding だけではなく Left Shift を押している最中でも、マウスカーソルに太陽マークを出せる
-- {太陽のアイコン} Fully Visible
-- {半円暗闇の太陽のアイコン} Lightly Obscured
-- {円部分が全て暗闇の太陽のアイコン} Heavily Obscured
+- {アイコン} Fully Visible
+- {アイコン} Lightly Obscured
+- {アイコン} Heavily Obscured
 
 ### Surfaces
 
-- Surfaces can be created by spells, potions, and items - and some already exist in the world.
+- Surfaces can be created by spells, potions, and items - and some already exist in the world.  
   Many of them can change when interacting with elements like heat or sparks, and can be washed away by water.
   - [surface](https://ejje.weblio.jp/content/surface), (ス|サ)ーフェス
     - 名詞: 表面、外面
       - ゲーム的に、ダメージ床の類のギミックを指すのが surface みたいだが、日本語にするときに適切な訳が思いつかない
         - 「特殊な地面または床」と言う表現になりそう？
-  - ChatGPT訳: 「表面は、呪文、薬品、アイテムによって作られることがあり、世界にはすでに存在するものもあります。
+  - ChatGPT訳: 「表面は、呪文、薬品、アイテムによって作られることがあり、世界にはすでに存在するものもあります。  
     多くのものは、熱や火花などの要素との相互作用によって変化し、水によって洗い流されることがあります。」
 
-### Darkkness
+### Darkness
 
 - Obscured areas are hard to explore, and fighting in the dark will give your attacks **Disadvantage** unless you have **Darkvision**.  
   Light a torch or cast spells generating light to make areas easier to navigate.
@@ -583,8 +589,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - Wiktionaryにはこの意味がなかった
   - ChatGPT訳: 「視界が悪い場所は探索が困難であり、暗闇で戦うとあなたの攻撃は不利（Disadvantage）を受けます。ただし、暗視能力（Darkvision）を持っている場合はこの限りではありません。  
     松明を灯すか、光を発生させる呪文を唱えることで、エリアを移動しやすくすることができます。」
-  - {松明のアイコン} Use torch
-  - {呪文のアイコン} Use Light spell
+  - {アイコン} Use torch
+  - {アイコン} Use Light spell
 
 ### Turn-Based Mode
 
@@ -594,18 +600,20 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [break down](https://en.wiktionary.org/wiki/break_down#Verb)
     - 他動詞: 物理的または構造的に崩壊させる、分割する、分解する
       - Wiktionaryにはこの意味の用法は自動詞としてしか記載されていない
+  - after which everything else in the world acts (including traps, surfaces, and other creatures)
+    - ChatGPTによると、 which には (including traps, surfaces, and other creatures) が入るとのこと、文法がわからない
   - ChatGPT訳: 「ターン制モードでは、周囲の世界が一時停止し、時間が6秒間隔のラウンドに分割されます。これは、罠を避けたり、敵をこっそりと通り過ぎたりするのに役立ちます。  
     ターン制モードでは、あなたのキャラクターは全員が同じターンに行動し、移動します。その後、世界の他のもの全てが行動します（罠、地面の効果、その他の生物を含む）。  
     ターン制モードは、いつでもオン・オフを切り替えることができます。」
   - 戦闘中にターン制になることと、Turn-Based Modeは別のシステムなんだ
 - **Shift + Space** Toggle Turn-Based Mode
-- {砂時計の} End turn
+- {アイコン} End turn
 
 ### Disarming Traps
 
 - No dungeon would be complete without a retinue of traps - some obvious, some hidden to all but the most perceptive.  
   You can use a Trap Disarm Kit to make a Sleight Of Hand check to neutralise these traps when they are revealed in the world.  
-  Be careful, as a failed check will break your kit an trigger the trap.
+  Be careful, as a failed check will break your kit and trigger the trap.
   - [complete](https://ejje.weblio.jp/content/complete), (カ|コ)ンプリィト
     - 形容詞: 全て揃っている、完全に行われた、全ての、完璧な、完全な
   - [retinue](https://ejje.weblio.jp/content/retinue), ゥレッテニュウ
@@ -658,7 +666,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     隠れている状態でキャラクターの隣にいるとき、コンテキストメニューを使用してピックポケットを選び、盗みたいアイテムを選択できます。  
     アイテムを成功裏に盗むためには、スリの技術チェックに成功する必要があります - より価値のあるアイテムはチェックを難しくします。  
     チェックに失敗すると、あなたは気付かれ、犯罪者とみなされます。」
-- {しゃがんでいる人のアイコン} Hide
+- {アイコン} Hide
 - **Right Mouse Button** Begin pickpocketing
 
 ### Crimes
@@ -736,7 +744,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 名詞: 売品、商品
   - [interaction](https://ejje.weblio.jp/content/interaction), インター・アークション
     - 名詞: 相互作用
-  - ChatGPT訳: 「コンテキストメニューを使用すると、アイテムを使用したり、商品としてタグ付けしたり、他のパーティーメンバーに送ったりすることができます。
+  - ChatGPT訳: 「コンテキストメニューを使用すると、アイテムを使用したり、商品としてタグ付けしたり、他のパーティーメンバーに送ったりすることができます。  
     一部のアイテムやオブジェクトには、コンテキストメニューで見つけることができる錠前破りや登攀などの特別なインタラクションがあります。」
 - **Right Mouse Button** Open Context Menu
 
@@ -754,7 +762,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     装備もここで管理でき、重量、アイテムのスタックを分割、特定のアイテムを検索、および商品をマークすることができます。  
     パーティービューでは、さらにパーティーメンバーのキャラクターシートを比較し、クラスの特徴を調べることもできます。」
   - reactions って何だろう？まだ未開放のシステムとかマルチプレイ用の機能とか？
-- **Tab** {兜のアイコン} Open Party View
+- **Tab** {アイコン} Open Party View
 - **Left Ctrl** and click to select multiple items.
 
 ## Companions
@@ -827,7 +835,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - ChatGPT訳: 「あなたのパーティは、彼らの健康、影響を受けている状態、そしてレベルアップの準備ができているかどうかを示すキャラクターポートレートとして画面の左側に表示されます。  
     パーティーメンバーはグループ化され、隠れていない限り世界で一緒に移動します - リンクされたポートレートを引き離すことでパーティーメンバーのグループを解除し、その逆も同様にできます。  
     世界で離れた場所にいるキャラクターは一緒にグループ化することができません。」
-  - Hiding 状態でも一緒に動いているように見えている？
+  - Hiding 状態でも一緒に動いているような？
 - If you want to make room in your party for new allies, you can ask a companion to wait at camp at any time by speaking to them.
   - ChatGPT訳: 「新しい仲間をパーティーに加えたい場合、いつでも仲間に話しかけてキャンプで待ってもらうことができます。」
 
@@ -837,7 +845,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   If your party is full, new recruits can be sent to camp or can immediately replace a current party member.
   - [recruit](https://ejje.weblio.jp/content/recruit), ゥリクルゥト
     - 名詞: 新会員、新兵
-  - ChatGPT訳: 「パーティーには一度に4人の仲間しか加えることができません。
+  - ChatGPT訳: 「パーティーには一度に4人の仲間しか加えることができません。  
     パーティーが満員の場合、新しい仲間はキャンプに送ることができますし、すぐに現在のパーティーメンバーと交換することもできます。」
 - Replaced companions can be added back to your party at any time by talking to them at camp.
   - ChatGPT訳: 「交換された仲間は、キャンプで話しかけることでいつでもパーティーに戻すことができます。」
@@ -858,7 +866,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [before](https://ejje.weblio.jp/content/before), ビィ・フォ(オ|ア)
     - 副詞: 以前に、かつて、既に
   - they've been to (locations) before
-  - ChatGPT訳: 「フェイルーン全土の特定の場所には、輝く輸送の印章、すなわち「ウェイポイント」があります。
+  - ChatGPT訳: 「フェイルーン全土の特定の場所には、輝く輸送の印章、すなわち「ウェイポイント」があります。  
     抜け目のない冒険者は、これらのウェイポイントを使って、以前に訪れた場所へ即座に移動することができます。」
 - **M** Open Map
 
@@ -873,8 +881,8 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 副詞: 遠く離れて
   - [instantly](https://ejje.weblio.jp/content/instantly), イ↑ンステントリィ
     - 副詞: 直ちに、即座に
-  - ChatGPT訳: 「マップは、あなたの冒険に沿って探索したエリアを示します。
-    さらに遠くへ旅をするにつれて、マップ上にはより多くの世界が表示されます。
+  - ChatGPT訳: 「マップは、あなたの冒険に沿って探索したエリアを示します。  
+    さらに遠くへ旅をするにつれて、マップ上にはより多くの世界が表示されます。  
     クエストの場所、カスタムマーカーを見るために使用したり、世界で発見されたウェイポイント間を即座に旅するために使用できます。」
 - Characters in the world also appear on the map as coloured circles: green allies, red enemies, and yellow neutral parties.  
   Small arrows near these circles indicate if the character is below or above you.

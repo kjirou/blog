@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-index
-lastUpdatedAt: "2023-12-15 00:20:54+0000"
+lastUpdatedAt: "2024-02-24 13:22:19+0000"
 ---
 
 # Baldur's Gate 3の英語を復習するシリーズ
