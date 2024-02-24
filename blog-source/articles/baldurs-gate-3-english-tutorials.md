@@ -885,3 +885,28 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 原文で the が2続いている、おそらくは誤り
   - ChatGPT訳: 「旅行中、画面の隅にミニマップが表示されます - オプションメニューでミニマップの動作を変更することができます。」
 - **M** Open Map
+
+## Trading
+
+### Trading and Bartering
+
+- Many people are willing to trade with you - but how good a deal you get depends on how well-liked you are.
+  - [will](https://ejje.weblio.jp/content/will), ウィルゥ
+    - 自動詞: 望む、欲する
+  - how good (a deal)=S (you get) (depends)=V on (how well-liked you are)
+  - ChatGPT訳: 「多くの人があなたと取引をすることには前向きですが、どれだけ良い取引ができるかは、あなたがどれだけ好かれているかによります。」
+- You can trade to quickly buy and sell items, or haggle to get a better value - haggling in a trader's favor will make them like you more and get you better prices in future.
+  - [haggle](https://ejje.weblio.jp/content/haggle), ハーゴォ
+    - 自動詞: しつこくねぎる、値段などで押し問答する・言い争う
+  - [get](https://ejje.weblio.jp/content/get), ゲット
+    - 他動詞: 〜へ〜をもたらす
+      - get IO(=人) DO(=もたらすものやこと)
+  - haggling in a trader's favor will (make them like you more) and (get you better prices in future)
+  - better prices
+    - better prices は文脈上「良い値段で取引できること」と解釈するが、 price 自体に「取引すること」という意味はない
+  - ChatGPT訳: 「アイテムを素早く購入・販売するために取引ができますし、より良い価値を得るために値切ることもできます - トレーダーの好意を得るために値切ると、彼らはあなたをより好むようになり、将来的にはより良い価格を提供してくれます。」
+  - 程良く値切ると評価も上がるんだ
+
+## Journal
+
+### Your Journal
