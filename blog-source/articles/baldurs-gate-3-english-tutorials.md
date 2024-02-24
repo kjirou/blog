@@ -841,3 +841,25 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     パーティーが満員の場合、新しい仲間はキャンプに送ることができますし、すぐに現在のパーティーメンバーと交換することもできます。」
 - Replaced companions can be added back to your party at any time by talking to them at camp.
   - ChatGPT訳: 「交換された仲間は、キャンプで話しかけることでいつでもパーティーに戻すことができます。」
+
+## Map
+
+### Waypoints
+
+- Specific locations across Faerûn are marked with glowing transportation sigils - Waypoints.  
+  Canny adventures can use these Waypoints to immediately travel to locations they've been to before.
+  - [across](https://en.wiktionary.org/wiki/across#Preposition), ア・クロォス
+    - 前置詞: 〜の全体にわたって・〜の至る所に(=throughout)
+    - コアイメージ: 平面を横切って、原義は「十字に」
+  - [transportation](https://ejje.weblio.jp/content/transportation), トランス・ポーティ↑ション
+    - 名詞: 輸送
+  - [canny](https://ejje.weblio.jp/content/canny), キャーニィ
+    - 形容詞: 利口な、慎重な、先の読める
+  - [before](https://ejje.weblio.jp/content/before), ビィ・フォ(オ|ア)
+    - 副詞: 以前に、かつて、既に
+  - they've been to (locations) before
+  - ChatGPT訳: 「フェイルーン全土の特定の場所には、輝く輸送の印章、すなわち「ウェイポイント」があります。
+    抜け目のない冒険者は、これらのウェイポイントを使って、以前に訪れた場所へ即座に移動することができます。」
+- **M** Open Map
+
+### Map
