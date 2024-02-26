@@ -110,11 +110,35 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [chew](https://ejje.weblio.jp/content/chew), チュウ
     - 他動詞: 食べ物をよく噛む
   - ChatGPT訳: お前を息子に食べさせる前に噛む必要さえないな、柔らかい食べ物よ。
-- Tav:
-- Owlbear:
-- Tav:
+- Tav: You're injured - there's still half a _spear_ lodged in your head.
+  - [injured](https://ejje.weblio.jp/content/injured), インジュァード
+    - 形容詞: 負傷した、怪我をした
+  - [lodge](https://ejje.weblio.jp/content/lodge), ローッジ
+    - 自動詞: 矢などが突き刺さる、弾丸が体内に止まる、骨が喉に刺さる
+      - 「宿泊する」という意味もある
+  - ChatGPT訳: あなたは怪我をしています - あなたの頭には槍の半分がまだ刺さっています。
+- Owlbear: It's a splinter. I've gutted bigger threats than you with worse.
+  - [splinter](https://ejje.weblio.jp/content/splinter), スプリンタァ
+    - 名詞: 木や骨や砲弾などの長いギザギザの破片・細片
+  - [gut](https://ejje.weblio.jp/content/gut), ガァット
+    - 他動詞: 鳥や魚の内臓を抜き取る
+      - 本文のような「倒す」「仕留める」という意味は直接はない
+  - ChatGPT訳: それは刺さりものだ。私はあなたより大きな脅威を、もっとひどい状態で仕留めたことがある。
+- Tav: Just allow me to leave. I'm no threat to you or your cub.
+  - [cub](https://ejje.weblio.jp/content/cub), カッブ
+    - 名詞: 熊・ライオン・狐などの肉食動物の子・幼獣
+    - Assoc: Super Cub
+  - ChatGPT訳: 私を去らせてください。私はあなたやあなたの子供にとって脅威ではありません。
+  - 取り除こうと思って選んだ選択肢だったが、 to leave を to remove に見間違えていた
+    - 結果、頭に刺さってる槍を抜いてあげることができず、イベント失敗したっぽい
+    - 後でさらによく見たら、Scroll of Detect ThoughtsがPotion of Animal Speakingの近くに置いてあって、これも併用しないといけなかったのかも
 - Charisma (Persuasion) Successful: Tav
-- Owlbear:
-- Owlbear:
-  - 頭に刺さってる槍を抜いてあげることができず、イベント失敗したっぽい
-    - 後でさらによく見たら、Scroll of Detect ThoughtsがPotion of Animal Speakingの近くに置いてあって、これも併用するのが正解だったよう
+- Owlbear: You're small. _Weak._ Killing you would be a waste of time.
+  - ChatGPT訳: お前は小さい。弱い。お前を殺すのは時間の無駄だ。
+- Owlbear: You can go. But you make one wrong step, and I'll rip you to shreds.
+  - [rip](https://ejje.weblio.jp/content/rip), ゥリップ
+    - 他動詞: 〜をぴりっと引き裂く・切り裂く、〜を剥ぎ取る
+  - [shred](https://ejje.weblio.jp/content/shred), シュレッド
+    - 名詞: 細長い一片・断片
+    - Assoc: シュレッダー
+  - ChatGPT訳: 行ってもいい。だが、一歩間違えたら、バラバラにしてやる
