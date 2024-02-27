@@ -171,3 +171,81 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 他動詞: 〜から液体を吐き出させる
       - drain O(=吐き出させる対象) of {water などの液体の種類}
   - ChatGPT訳: よく見ると、その顔の周りの皮膚が乾燥している。血液が完全に抜かれている。
+
+### 21, Eliasis - 7:57 - Goblin Booyang, Gale
+
+ゴブリンに占領されたBlighted Villageという村に入り、見張りをしているゴブリンへ話しかけた。
+
+Galeで話しかけているのは、Illithidの力にはLong Rest当たりの使用回数が決まってそうだから、主人公の回数を消費しないため。  
+ただ、この翻訳作業中に混乱するので今後は基本的には止めた方が良さそう。  
+また、ここではないが、会話がバグっぽい終わり方をすることがあった。
+
+- Goblin Booyahg: Git over there. Surround 'em, like.
+  - Booyahg, ブーヤッグ
+    - ゲーム用語,名詞: D&D世界におけるGoblinの社会で、「魔法」もしくは「魔法使い」を指す単語
+      - Ref: https://www.dandwiki.com/wiki/Booyahg_Acolyte_(5e_Background)
+  - [git](https://en.wiktionary.org/wiki/git#Verb), ギィット
+    - 自動詞: 立ち去る(=begone)
+      - 本文では「移動する」「行く」という意味で使われているよう。ChatGPT曰く、スラングらしい。
+  - [surround](https://ejje.weblio.jp/content/surround), ス・ラァウンド
+    - 他動詞: 〜を囲む・包囲する
+  - like
+    - 間投詞または filler word であるよう
+    - どの辞書にもその用法がなく、ぼんやりとした意味もわからなかった
+  - ChatGPT訳: そっちに行け。周りを囲むんだ。
+- Gale: I know you're there. Show yourselves.
+  - ChatGPT訳: お前たちがいるのはわかっている。姿を見せろ。
+- Goblin Booyahg: You spotted us. Good. 'S like they say...
+  - 'S like they say がわからない
+    - 'S は、 it's のさらなる縮約形、または、もしかしたら S という固有の人物のことかもしれない
+    - it is like they say なら、 they が「一般的な人々」を指して、訳になりうる。文法は若干おかしいかもしれない。
+    - S なら、まず ' が何を省略しているのかがわからない
+  - ChatGPT訳: 見つけられたか。いいぞ。まさに言われている通りだ...
+- Goblin Booyahg: No fun in skewerin' a pig what doesn't know he's cooked.
+  - [skewer](https://ejje.weblio.jp/content/skewer), スキワァ
+    - 他動詞: 串刺しにする、肉などを串に刺す
+  - ChatGPT訳: 知らずに串刺しにされる豚には、楽しみがないんだよ。
+    - 獲物がびびってくれないと楽しくない、という文意。You spotted us が Good なのはこのため。
+- Gale: There'll be no skewering happening here. Now let me pass.
+  - ChatGPT訳: ここで串刺しにはならないよ。さあ、通してくれ。
+- Goblin Booyahg: We got you surrounded.
+  - ChatGPT訳: お前を取り囲んでいる。
+- Goblin Booyahg: Here's how this goes: you take one step further an' we'll fill your front with arrows.
+  - [here](https://en.wiktionary.org/wiki/here#Noun), ヒヤ
+    - 名詞: ここ、この場所
+      - ChatGPTには名詞の用法は否定された
+  - [front](https://ejje.weblio.jp/content/front), フロント
+    - 名詞: 前面、正面
+  - Here's how this goes
+    - Here's = Here is
+    - here is や here is how を慣用句として認識する説もある
+  - ChatGPT訳: こうなるんだ：もう一歩進んだら、お前の前面を矢で埋め尽くす。
+- Goblin Booyahg: Or you turn around, an' your backside gets the same treatment.
+  - [backside](https://ejje.weblio.jp/content/backside), バァック・サァイ
+    - 名詞: 後部、裏面、尻
+  - [treatment](https://ejje.weblio.jp/content/treatment), トゥリ↑ートメント
+    - 名詞: 人の待遇・扱い
+  - ChatGPT訳: それとも、引き返せば、お尻が同じ目に遭う。
+- \*A strange symbol glows, markded on their flesh, and something within you stirs in response.\*
+  - [flesh](https://ejje.weblio.jp/content/flesh), フレッシュ
+    - 名詞: 人間や動物の肉・肉付き
+  - [stir](https://ejje.weblio.jp/content/stir), スタァ
+    - 自動詞: 動く、動き出す
+  - ChatGPT訳: 奇妙なシンボルが彼らの肌に光り輝き、あなたの内側に何かが反応します。
+- Gale: Stand down. Now.
+  - [stand down](https://en.wiktionary.org/wiki/stand_down)
+    - 自動詞: 準備を整えた状態から力を抜く、戦うのをやめる
+  - ChatGPT訳: 今すぐに手を下ろせ。
+- Wisdom Successful: Gale
+- Goblin Booyahg: You're a True Soul... M-my mistake, sir.
+  - ChatGPT訳: あなたは真の魂... 私の間違いでした、閣下。
+- \*A shiver runs across your mind... You feel sated.\*
+  - You feel sated は良い意味なのか悪い意味なのか？
+    - sated は形容詞で、基本的には「大変満足する」「食欲や渇きが満たされる」という良い意味っぽい
+      - ChatGPTとWiktionaryがこの意味
+    - 一方で「飽きるほどうんざいりした」という悪い意味もあり、イベントシーンの時の表情やWeblio辞書によるとこちらになる
+    - ここでは悪い意味が正しそうである
+  - ChatGPT訳: 心に震えが走ります... あなたは満足感を感じます。
+- Goblin Booyahg: You'll get no more trouble from us, promise.
+  - ChatGPT訳: これ以上の問題は起こしません、約束します。
+  - この後も、Goblin達の attitude の表記は赤く、敵のままだった
