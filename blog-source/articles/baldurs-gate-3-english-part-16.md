@@ -133,7 +133,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 結果、頭に刺さってる槍を抜いてあげることができず、イベント失敗したっぽい
     - 後でさらによく見たら、Scroll of Detect ThoughtsがPotion of Animal Speakingの近くに置いてあって、これも併用しないといけなかったのかも
 - Charisma (Persuasion) Successful: Tav
-- Owlbear: You're small. _Weak._ Killing you would be a waste of time.
+- Owlbear: You're small. _Weak_. Killing you would be a waste of time.
   - ChatGPT訳: お前は小さい。弱い。お前を殺すのは時間の無駄だ。
 - Owlbear: You can go. But you make one wrong step, and I'll rip you to shreds.
   - [rip](https://ejje.weblio.jp/content/rip), ゥリップ
@@ -142,3 +142,32 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 名詞: 細長い一片・断片
     - Assoc: シュレッダー
   - ChatGPT訳: 行ってもいい。だが、一歩間違えたら、バラバラにしてやる
+
+### 21, Eliasis - 6:20 - Tav
+
+道端に綺麗な状態のイノシシの死体が落ちており、調べた
+
+- \*A dead boar, but it doesn't look like it's been touched by scavengers.\*
+  - [scavenger](https://ejje.weblio.jp/content/scavenger), スキャーベンジャァ
+    - 名詞: ゴミ漁り、廃品回収者
+  - ChatGPT訳: スカベンジャーに触れられた形跡がない、死んだイノシシ。
+- Tav: _Examine it_.
+- \*The carcass seems to be fresh - only a few hours dead. You notice two small puncture wounds in its neck.\*
+  - [carcass](https://ejje.weblio.jp/content/carcass), カ↑ァキャス
+    - 名詞: 獣や人の死体、内臓を除去した食用獣の胴体
+  - seems to be fresh
+    - seems fresh と同じ意味、 to be 補語 の to be は省略可能なこともある
+  - only a few hours dead
+    - only=副詞 (a few hours)=副詞句 dead=形容詞
+    - 直訳だと「たった数時間だけ死んだ状態だ」
+  - [puncture](https://ejje.weblio.jp/content/puncture), パ↑ンチャァ
+    - 名詞: 尖ったもので空いたと思われる小さな穴
+    - 他動詞で「尖ったもので穴をあける」という意味もある
+  - ChatGPT訳: 死体は新鮮で、数時間前に死んだばかりのようだ。首には小さな穿刺傷が2つある。
+- \*Looking closer, you can see the skin around its face is desiccated. It's been completely drained of blood.\*
+  - [desiccate](https://ejje.weblio.jp/content/desiccate), デシケイト
+    - 他動詞: 〜を乾燥させる
+  - [drain](https://ejje.weblio.jp/content/drain), (ド|ジョ)レイン
+    - 他動詞: 〜から液体を吐き出させる
+      - drain O(=吐き出させる対象) of {water などの液体の種類}
+  - ChatGPT訳: よく見ると、その顔の周りの皮膚が乾燥している。血液が完全に抜かれている。
