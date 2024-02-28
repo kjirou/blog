@@ -655,6 +655,11 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
       - 関係形容詞というのもあり、語順的には最も合致するが、以下の説明と合わなかった
         - Ref: https://manabitimes.jp/english/2290
       - 単に which items で「いずれかのアイテム」という意味の名詞句になるかは、ChatGPTに否定された
+    - もしかしたら、単に先行詞と which が逆順になってるだけかもしれない
+      - 全然別のドキュメントを読んでいるときに類似のケースがあった
+        - Ref: https://help.figma.com/hc/en-us/articles/5665728006423-Get-updates-from-main-files
+          - > It's not possible to choose which changes from the main file you want to apply.
+            - ただこの文章だと、 from the main file の位置上、逆順にする理由があるように見える
   - [brand](https://ejje.weblio.jp/content/brand), ブレァンド
     - 他動詞: 人を何かだと決めつける
       - brand O C または brand O as句 の形
