@@ -249,3 +249,38 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 - Goblin Booyahg: You'll get no more trouble from us, promise.
   - ChatGPT訳: これ以上の問題は起こしません、約束します。
   - この後も、Goblin達の attitude の表記は赤く、敵のままだった
+
+### 21, Eliasis - 7:57 - Goblin Booyang, Gale
+
+イベント会話が発生していたので、Galeへ話しかけた。
+
+イベント会話アイコンは全員へ出ていたが、Galeに話しかけただけで、他のまだ話していないメンバーのアイコンも消えてしまった。  
+先のイベントをGaleで進めたからかもしれない？
+
+- Gale: It appears the parasite has bestowed on us the ability to influence others.
+  - [bestow](https://ejje.weblio.jp/content/bestow), (ビ|リ)ストゥ
+    - 他動詞: 授ける、贈る
+      - bestow O(=贈るもの) on|upon 代名詞(=贈られる人)
+  - bestowed on us the ability
+    - 標準的な語順は bestowed the ability on us だが、本文は on us が強調のために前に出ている
+  - ChatGPT訳: どうやら寄生虫が私たちに他人に影響を与える能力を与えてくれたようだ。
+- Gale: An interesting power. One that warrants further investigation.
+  - [warrant](https://ejje.weblio.jp/content/warrant), ウォレント
+    - 他動詞: 〜を正当とする・是認する
+  - One that warrants further investigation.
+    - 直訳だと、「さきほどのあれ（興味深い力を指す）はさらなる調査を正当化する」
+  - ChatGPT訳: 興味深い力だ。さらなる調査が必要だろう。
+- Tav: These are strange times, and even stranger powers. We should seek to understand them before we make any rash decisions.
+  - These are strange times
+    - times が何を指すかが不明
+    - time 単体の意味は、「時間」「期間」「回数」という一般的な意味しかないため、意訳や比喩の解釈になりそう
+    - ChatGPTは、意訳の候補として、「状況や事態」「体験や経験」「困難や挑戦」「変化の時期」を挙げた
+      - 「体験や経験」が最も合致しそう
+  - [rash](https://ejje.weblio.jp/content/rash), ゥラーッシュ
+    - 形容詞: 気の早い、無謀な、無分別な
+    - 名詞で「発疹」という意味もある
+  - ChatGPT訳: これは奇妙な時代であり、さらに奇妙な力があります。軽率な決定を下す前に、私たちはそれらを理解するべきです。
+- Gale: An astute approach. I'm glad we're of one mind.
+  - [astute](https://ejje.weblio.jp/content/astute), ア・ストゥト
+    - 形容詞: 機敏な、抜け目のない
+  - ChatGPT訳: 賢明なアプローチです。私たちが同じ考えであることを嬉しく思います。
