@@ -172,7 +172,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
       - drain O(=吐き出させる対象) of {water などの液体の種類}
   - ChatGPT訳: よく見ると、その顔の周りの皮膚が乾燥している。血液が完全に抜かれている。
 
-### 21, Eliasis - 7:57 - Goblin Booyang, Gale
+### 21, Eliasis - 7:57 - Goblin Booyahg, Gale
 
 ゴブリンに占領されたBlighted Villageという村に入り、見張りをしているゴブリンへ話しかけた。
 
@@ -250,7 +250,7 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
   - ChatGPT訳: これ以上の問題は起こしません、約束します。
   - この後も、Goblin達の attitude の表記は赤く、敵のままだった
 
-### 21, Eliasis - 7:57 - Goblin Booyang, Gale
+### 21, Eliasis - 8:25 - Gale, Tav
 
 イベント会話が発生していたので、Galeへ話しかけた。
 
@@ -284,3 +284,63 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
   - [astute](https://ejje.weblio.jp/content/astute), ア・ストゥト
     - 形容詞: 機敏な、抜け目のない
   - ChatGPT訳: 賢明なアプローチです。私たちが同じ考えであることを嬉しく思います。
+
+### 21, Eliasis - 8:48 - Goblin Booyahg
+
+見張りをしているGoblinのひとりへ話しかけた
+
+- Goblin Booyahg: You see anythin' shiny, it's ours.
+  - [see](https://ejje.weblio.jp/content/see), スィィ
+    - 他動詞: 目に入る、見る
+  - [shiny](https://ejje.weblio.jp/content/shiny), シャイニィ
+    - 形容詞: 光る、輝く、ぴかぴかの
+  - ChatGPT訳: キラキラ光るものを見つけたら、それは俺たちのものだ。
+
+### 21, Eliasis - 11:18 - Goblin Brawler
+
+見張りをしているGoblinのひとりへ話しかけた
+
+- Goblin Brawler: If you wanna keep your insides on the inside, don't cause any trouble.
+  - [brawl](https://ejje.weblio.jp/content/brawl), ブロォ
+    - 名詞: 街中での殴り合いの喧嘩
+  - ChatGPT訳: 体の中身を体の内側に保ちたいなら、何も問題を起こさないでください。
+    - your insides は、一般的に直接は内臓のことを意味して「傷つける」ということを暗に言っているのか、the tadpole を意味しているのか
+
+### 21, Eliasis - 11:51 - Tav
+
+古い井戸を調べた
+
+- \*Apart from an overgrowth of moss, the well looks unremarkable.\*
+  - [apart from](https://en.wiktionary.org/wiki/apart_from#Preposition)
+    - 前置詞: 〜を除いて(=expect for)、〜の他に(=besides)
+  - [overgrowth](https://ejje.weblio.jp/content/overgrowth), オーヴァグロゥス
+    - 名詞: 育ちすぎ、繁茂
+  - [moss](https://ejje.weblio.jp/content/moss), (モ|マ)↑ス
+    - 名詞: コケ
+  - [well](https://ejje.weblio.jp/content/well), ウェルゥ
+    - 名詞: 井戸
+  - [unremarkable](https://ejje.weblio.jp/content/unremarkable), アン・リ・マーカボォ
+    - 形容詞: 注意を引かない、目立たない
+  - ChatGPT訳: コケの過剰な生育を除けば、井戸は何の変哲もないように見える。
+- Tav: _Peer into the well_.
+- Intelligence (Investigation) Successful: Tav
+- \*Dry stones line the wall. At the bottom, something gleams in the dappled light.\*
+  - [line](https://ejje.weblio.jp/content/line), ラァイン
+    - 他動詞: 〜を内張りする、〜を一列に並べる
+  - [gleam](https://ejje.weblio.jp/content/gleam), グリィンム
+    - 自動詞: かすかに光る、きらりと光る
+  - [dappled](https://ejje.weblio.jp/content/dappled), ヂャッポゥト
+    - 形容詞: まだらの
+    - [dapple](https://ejje.weblio.jp/content/dapple), ダ↑ァッポォ
+      - 名詞: まだら、ぶち、ぶちの動物
+  - ChatGPT訳: 乾いた石が壁を覆っている。底の方で、何かが斑点状の光の中で輝いている。
+    - 「斑点状（またはまだら状）の光」って何だろう？
+- Tav: _Throw a coin into the well_.
+- \*The coin disappears into the darkness, landing with a soft _clink_.\*
+  - [land](https://ejje.weblio.jp/content/land), ゥラーァンド
+    - 自動詞: 地面に着く・落ちる、跳んで降りる、下船する
+  - ChatGPT訳: 硬貨は暗闇の中に消え、柔らかな「カチン」という音で着地する。
+  - [clink](https://ejje.weblio.jp/content/clink), クリンク
+    - 名詞: 薄い金属片やガラスなどの触れ合う鋭いカチン・チリンという音
+- Tav: _Climb down the bucket rope_.
+  - そこそこ広そうなダンジョンだったので、この後引き返した
