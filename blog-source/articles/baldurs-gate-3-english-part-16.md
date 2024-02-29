@@ -366,3 +366,27 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
   - [cut off](https://en.wiktionary.org/wiki/cut_off)
     - 他動詞: 切断によって除去する
   - ChatGPT訳: 自分の手を出さないでくれれば、切り落としたりしないよ。
+
+### 21, Eliasis - 19:08 - Ornate Mirror, Tav
+
+この村に居たあるHealerが隠した貴重品を漁るために、地下の貯蔵庫へ入った。
+
+その進んだ先で、次の部屋への道を封鎖していると思われる、大きな魔法の鏡に出会った。
+
+- Ornate Mirror: Spea-k your name.
+  - [ornate](https://ejje.weblio.jp/content/ornate), オォネ↑ィト
+    - 形容詞: 飾り立てた、華麗な
+- Tav: _Tell it your name_.
+- Ornate Mirror: I do no-t know this name.
+- Ornate Mirror: If you are known to my mas-ter, step forward and de-clare yourself an ally.
+  - you are known to my mas-ter は by ではないの？
+    - ChatGPTによると、 by の方が正確そうではあった。雑に know の後に2つのものを繋げるときに to を使うのかな？
+  - [declare](https://ejje.weblio.jp/content/declare), デクレアァ
+    - 他動詞: 〜が〜だと宣言する
+      - declare O(=対象) (to be) C
+  - ChatGPT訳: もしあなたが私の主人に知られているなら、前に進み、自分を味方だと宣言してください。
+- Tav: _Step back and say nothing_.
+- Ornate Mirror: Wise.
+  - wise には間投詞として独立した意味はなく、そのままの意味
+
+### 21, Eliasis - 19:34 - Ornate Mirror, Tav
