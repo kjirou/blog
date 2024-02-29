@@ -344,3 +344,25 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
     - 名詞: 薄い金属片やガラスなどの触れ合う鋭いカチン・チリンという音
 - Tav: _Climb down the bucket rope_.
   - そこそこ広そうなダンジョンだったので、この後引き返した
+
+### 21, Eliasis - 13:12 - Goblin Booyahg
+
+見張りをしているGoblinのひとりへ話しかけた
+
+- Goblin Booyahg: More of our crowd inside, but we'll send word you're all right.
+  - [crowd](https://ejje.weblio.jp/content/crowd), クラァーウド
+    - 名詞: 仲間、秩序のない雑然とした群衆
+  - ChatGPT訳: 仲間のもっと多くが中にいますが、あなたが問題を起こさないことを伝えます。
+
+### 21, Eliasis - 13:31 - Tracker Slice
+
+見張りをしているGoblinのひとりへ話しかけた
+
+- Tracker Slice: Keep your paws to yourself, and I won't cut 'em off.
+  - Tracker Slice
+    - ゲーム用語,名詞: Goblin TrackerのユニークNPCらしい、ネタバレになりそうなのであまり調べていない
+  - [paw](https://ejje.weblio.jp/content/paw), (パ|ポ)ァウ
+    - 名詞: 人の手
+  - [cut off](https://en.wiktionary.org/wiki/cut_off)
+    - 他動詞: 切断によって除去する
+  - ChatGPT訳: 自分の手を出さないでくれれば、切り落としたりしないよ。
