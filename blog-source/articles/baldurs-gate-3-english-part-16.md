@@ -418,7 +418,7 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 - Tav: Szass Tam is a foul, wretched creature.
   - [foul](https://ejje.weblio.jp/content/foul), ファウル
     - 形容詞: 不快な、不潔な、悪臭のある、むかつくような
-      - 本文では名詞として使われているが、標準的には名詞にこのような意味はない
+      - 名詞としては「反則」などの意味で、形容詞的な意味はない
     - Assoc: 野球のファウル
   - [wretched](https://ejje.weblio.jp/content/wretched), ゥレッチィド
     - 形容詞: 卑劣な、悪辣な、見下げた、浅ましい、実に不快な
