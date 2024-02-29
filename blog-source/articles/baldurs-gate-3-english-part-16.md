@@ -88,7 +88,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [footstep](https://ejje.weblio.jp/content/footstep), フッ↑・ステップ
     - 名詞: 足音、歩み
   - Owlbear
-    - ゲーム用語,名詞: フクロウと熊の掛け合わせのような獰猛な肉食生物、顔はかわいい
+    - D&D用語,名詞: フクロウと熊の掛け合わせのような獰猛な肉食生物、顔はかわいい
       - Ref: https://forgottenrealms.fandom.com/wiki/Owlbear
       - Ref: https://www.dndbeyond.com/monsters/16975-owlbear
     - 大ジャンプしてくるので、後列が直接攻撃される
@@ -182,7 +182,7 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 
 - Goblin Booyahg: Git over there. Surround 'em, like.
   - Booyahg, ブーヤッグ
-    - ゲーム用語,名詞: D&D世界におけるGoblinの社会で、「魔法」もしくは「魔法使い」を指す単語
+    - D&D用語,名詞: Goblinの社会で「魔法」もしくは「魔法使い」を指す単語
       - Ref: https://www.dandwiki.com/wiki/Booyahg_Acolyte_(5e_Background)
   - [git](https://en.wiktionary.org/wiki/git#Verb), ギィット
     - 自動詞: 立ち去る(=begone)
@@ -360,7 +360,7 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 
 - Tracker Slice: Keep your paws to yourself, and I won't cut 'em off.
   - Tracker Slice
-    - ゲーム用語,名詞: Goblin TrackerのユニークNPCらしい、ネタバレになりそうなのであまり調べていない
+    - BG用語,名詞: Goblin TrackerのユニークNPCらしい、ネタバレになりそうなのであまり調べていない
   - [paw](https://ejje.weblio.jp/content/paw), (パ|ポ)ァウ
     - 名詞: 人の手
   - [cut off](https://en.wiktionary.org/wiki/cut_off)
@@ -390,3 +390,52 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
   - wise には間投詞として独立した意味はなく、そのままの意味
 
 ### 21, Eliasis - 19:34 - Ornate Mirror, Tav
+
+再び鏡を調べた
+
+- Ornate Mirror: You are not my mast-er.
+- Ornate Mirror: If you are his ally, ste-p forward and declare it.
+- Tav: I don't have time for games. Let me pass.
+- Ornate Mirror: Only a t-run ally of Ilyn Toth may pass.
+  - Ilyn Toth, イリン・トス
+    - BG用語,名詞: Baldur's Gate 3のNPC、Red Wizards of Thayの元メンバーで魔法使い。ある女性を復活させるために、治療師を装って村で密かに悪い実験を行っていた。
+      - Ref: https://forgottenrealms.fandom.com/wiki/Ilyn_Toth
+  - ChatGPT訳: イリン・トスの真の味方だけが通ることを許される。
+- Ornate Mirror: What th-ink you of the zulkir known as Szass Tam?
+  - What th-ink you
+    - 古い英語の文法で、現代英語へ変換すると What do you th-ink に相当する
+    - 動詞の後に主語が来るという文法らしい
+  - Zulkir, ズルキール
+    - D&D用語,名詞: Red Wizards of Thayの中での権力の称号、8席しかないCouncil of Zulkirsの構成員
+      - Ref: https://forgottenrealms.fandom.com/wiki/Zulkir
+  - Szass Tam, ザス・タム
+    - D&D用語,名詞: 強力なLich、Council of Zulkirsの1席であり国の摂政、いろいろなシナリオに登場している
+      - Ref: https://forgottenrealms.fandom.com/wiki/Szass_Tam
+    - D&Dの映画で、ソフィーナへ民衆をアンデット化する指示をしたのはこの人のよう
+      - Ref: https://note.com/mslabo102/n/nec00057f73e4
+  - ChatGPT訳: ズルキルとして知られるサス・タムについて、何を思う？
+- Intelligence (History) Save Failed: Tav
+- Tav: Szass Tam is a foul, wretched creature.
+  - [foul](https://ejje.weblio.jp/content/foul), ファウル
+    - 形容詞: 不快な、不潔な、悪臭のある、むかつくような
+      - 本文では名詞として使われているが、標準的には名詞にこのような意味はない
+    - Assoc: 野球のファウル
+  - [wretched](https://ejje.weblio.jp/content/wretched), ゥレッチィド
+    - 形容詞: 卑劣な、悪辣な、見下げた、浅ましい、実に不快な
+  - ChatGPT訳: サス・タムは不快で、悪辣な生き物だ。
+    - この時は上記のD&D知識はなくて、てきとうに選択肢を選んでいた
+- Ornate Mirror: You are no zulkir. B-ut are you wise?
+- Ornate Mirror:
+  - ChatGPT訳:
+- Tav:
+  - ChatGPT訳:
+- Ornate Mirror:
+  - ChatGPT訳:
+- Ornate Mirror:
+  - ChatGPT訳:
+- Tav:
+  - ChatGPT訳:
+- Ornate Mirror:
+  - ChatGPT訳:
+- Ornate Mirror:
+  - ChatGPT訳:
