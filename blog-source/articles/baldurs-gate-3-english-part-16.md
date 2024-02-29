@@ -425,17 +425,33 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
   - ChatGPT訳: サス・タムは不快で、悪辣な生き物だ。
     - この時は上記のD&D知識はなくて、てきとうに選択肢を選んでいた
 - Ornate Mirror: You are no zulkir. B-ut are you wise?
-- Ornate Mirror:
-  - ChatGPT訳:
-- Tav:
-  - ChatGPT訳:
-- Ornate Mirror:
-  - ChatGPT訳:
-- Ornate Mirror:
-  - ChatGPT訳:
-- Tav:
-  - ChatGPT訳:
-- Ornate Mirror:
-  - ChatGPT訳:
-- Ornate Mirror:
-  - ChatGPT訳:
+- Ornate Mirror: T-tell me, why might one use balsam ointment?
+  - [balsam](https://ejje.weblio.jp/content/balsam), バウサム
+    - 名詞: バルサム樹脂、含油樹脂
+  - [ointment](https://ejje.weblio.jp/content/ointment), オイントメント
+    - 名詞: 軟膏
+  - balsam ointment
+    - ここでは複合名詞として使われているが、一般的には独立した似ている単語の意味のよう
+      - Ref: https://redkiwiapp.com/ja/english-guide/synonyms/balsam-ointment
+  - ChatGPT訳: なぜ誰かがバルサム軟膏を使うか教えてくれ。
+- Tav: I read a doctor's journal - he used balsam to clean a wound.
+  - 賢さを測るってクイズに正解しろってことなの
+- Ornate Mirror: Acceptable. F-inally...
+  - [acceptable](https://ejje.weblio.jp/content/acceptable), アクセクタボゥ
+    - 形容詞: 受諾できる、満足な、喜ばれる
+- Ornate Mirror: ...if you could see an-yhing in me, what w-ould it be?
+  - ChatGPT訳: ...もし私の中で何かを見ることができるなら、それは何でしょうか？
+- Tav: I'd look for whatever spell will rid me of this worm in my head.
+  - [whatever](https://ejje.weblio.jp/content/whatever), ワトエヴァー
+    - 形容詞,限定用法: どんな〜でも
+      - 同じ用法の what の強調形
+  - ChatGPT訳: 私の頭の中のこの虫を取り除く魔法を探します。
+- Ornate Mirror: You seek to sur-vive. You seek power.
+  - [seek](https://ejje.weblio.jp/content/seek), スィーク
+    - 自動詞: 懸命に捜し求める
+    - 他動詞: 人や物などを捜し求める
+      - look for の方が口語的
+- Ornate Mirror: Be wel-come.
+  - ChatGPT訳: ようこそ。
+    - Welcome. より古風で丁寧
+  - 何故開けてくれたのかがわからない
