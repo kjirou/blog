@@ -455,3 +455,46 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
   - ChatGPT訳: ようこそ。
     - Welcome. より古風で丁寧
   - 何故開けてくれたのかがわからない
+
+### 21, Eliasis - 21:59 - Shadowheart, Wyll, Tav
+
+- \*The book is locked tight, with no visible keyhole - only an oval recess in the cover's mouth.\*
+  - [oval](https://ejje.weblio.jp/content/oval), オ↑ゥボォ
+    - 形容詞: 卵形の、楕円形の
+    - Example: an old Japanese oval gold coin
+  - [recess](https://ejje.weblio.jp/content/recess), ゥリ・セェス
+    - 名詞: 壁の凹んだ箇所、入り込み、海岸線や山脈の引っ込んだところ
+    - 他に名詞で「休憩」という意味もある
+  - ChatGPT訳: その本はしっかりと閉じられており、見える鍵穴はなく、表紙の口部分には卵形のくぼみのみがあります。
+- \*You try to examine the book, but the longer you stare, the more those piercing, amethyst eyes draw you in.\*
+  - [piercing](https://ejje.weblio.jp/content/piercing), ピュシング
+    - 形容詞: 突き刺すような、つんざくような
+  - [amethyst](https://ejje.weblio.jp/content/amethyst), ア↑メ・シスト
+    - 名詞: 紫水晶、アメシスト・アメジスト、紫色
+  - those (piercing, amethyst) eyes
+    - 等位の関係
+  - [draw in](https://en.wiktionary.org/wiki/draw_in#Verb)
+    - 他動詞: 引く・引きつける(=attract)
+  - ChatGPT訳: 本を調べようとしますが、見つめるほどに、その突き刺すようなアメジスト色の瞳に引き込まれていきます。
+- Shadowheart: Curious. Why don't you take a closer look... I'll observe from back here.
+  - observe from back here
+    - 文意はわかってるつもりだが、文法がわからない
+    - back が「後ろ」という名詞だとして、 from back(=名詞) here(=副詞) の前置詞句だとすると、 the back になりそう
+    - back が「後ろに」という副詞だとして、 from back(=副詞) here(=副詞) だとすると、 from の目的語がない
+      - observe from は句動詞ではなく、自動詞として完結もしない
+  - ChatGPT訳: 不思議だね。もっと近くでよく見てみないか... 私はこっちから見てるよ。
+    - この意味通りだと、人に嫌なことを押し付けてることになる。あからさまにそういうことを言わなさそうな気はしてるんだけど...
+- Wyll: We surely shouldn't just leave such a threat out, where anyone could stumble across it.
+  - [leave](https://ejje.weblio.jp/content/leave)
+    - 他動詞: ものや人を置いて行く・置き去りにする・置き忘れる
+      - leave O
+  - [out](https://ejje.weblio.jp/content/out), ア↑ウト
+    - 副詞: 離れて、出て
+  - [stumble across](https://en.wiktionary.org/wiki/stumble_across#Verb)
+    - 他動詞: 偶然に〜を発見する
+    - [stumble](https://ejje.weblio.jp/content/stumble), スタンボゥ
+      - 自動詞: 偶然出会う、ふと気づく、つまづく
+  - ChatGPT訳: 確かに、誰かが偶然見つけるかもしれないような脅威を放っておくべきではないね。
+- Tav: _Tuck the book into your pack_.
+  - [tuck](https://ejje.weblio.jp/content/tuck), タァック
+    - 他動詞: 詰め込む、狭い場所へ押し込む
