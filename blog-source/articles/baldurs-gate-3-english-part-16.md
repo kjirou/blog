@@ -458,6 +458,8 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 
 ### 21, Eliasis - 21:59 - Shadowheart, Wyll, Tav
 
+Ilyn Tothが厳重に隠していた不気味な本を手に取った
+
 - \*The book is locked tight, with no visible keyhole - only an oval recess in the cover's mouth.\*
   - [oval](https://ejje.weblio.jp/content/oval), オ↑ゥボォ
     - 形容詞: 卵形の、楕円形の
@@ -498,3 +500,85 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 - Tav: _Tuck the book into your pack_.
   - [tuck](https://ejje.weblio.jp/content/tuck), タァック
     - 他動詞: 詰め込む、狭い場所へ押し込む
+
+### 21, Eliasis - 22:53 - Fezzerk, Barcus Wroot, Tav
+
+広場でBarcus WrootというGnomeをいじめている、大勢のGoblinやその他の亜人たちへ話しかけた。
+
+Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回転と共に移動している。  
+文中で fly という単語が出てくるのはこれを指している。
+
+- Fezzerk: Look what we got here - another little birdie wantin' to fly!
+  - [birdie](https://ejje.weblio.jp/content/birdie), (バ|ブ)ーディ
+    - 名詞: 小鳥さん、鳥さん
+  - another little birdie wantin' to fly
+    - 動詞がない、 wantin' to fly で形容詞句なのだろうか
+    - [wanting](https://en.wiktionary.org/wiki/wanting#Verb) という動詞もあるが、それなら三人称にならないといけないので違う
+    - Goblin言葉だから、あまり気にしないで良さそう
+  - ChatGPT訳: ほら、ここに何があるか見てごらん - また別の小さな鳥が飛びたいと思っている！
+- Barcus Wroot: Stop this thiiiing!
+  - ChatGPT訳: これを止めてくれぇ！
+- Fezzerk: Yehehueh! Flap those wings some more, an' I'll feed you a worm!
+  - [flap](https://ejje.weblio.jp/content/flap), フラップ
+    - 他動詞: 鳥が翼を羽ばたく、〜をぱたぱた・ばたばた動かす
+      - flap the winds と O に翼を入れる
+      - 自動詞で「羽ばたく」にもなる
+  - [some](https://ejje.weblio.jp/content/some),
+    - 副詞: 多少、少しは、少しばかり、ある程度、いくぶん
+  - some more
+    - more の「追加的に多く」を some の「多少は」が修飾しているから、「もう少し」になる
+  - ChatGPT訳: イェヘヘ！もっと羽をばたつかせなさい、そうしたら虫をやるぞ！
+- Fezzerk: An' you - hope you got a stomach fer heights!
+  - [stomach](https://ejje.weblio.jp/content/stomach), ストマック
+    - 名詞: 胃、胃袋
+  - [fer](https://en.wiktionary.org/wiki/fer#Preposition), ファー
+    - = for
+    - 方言または非標準の綴り
+  - [height](https://ejje.weblio.jp/content/height), ハイト
+    - 名詞: 高いこと
+      - 通常、高いことだけを示すなら不可算名詞で使う
+  - heights
+    - 通常は「高いこと」を示すだけなら不可算名詞なので、「あらゆる高い状況で」を意味していそう
+    - 推測だが、Barcus Wrootは今高速で回転しているので、それを引き合いにした「加圧への耐性」みたいな意味も含むのかもしれない
+  - ChatGPT訳: そしてお前 - 高いところが平気な胃袋を持っていることを願うぞ！
+- Tav: What the hells are you doing?
+  - [what the hell](https://en.wiktionary.org/wiki/what_the_hell#Phrase)
+    - 慣用句: what の強調
+      - 標準的な疑問文の解釈に当てはめて、「どんな地獄」にしてもいいのかもしれない
+    - 本文では hell が複数形なので、さらに強調しているらしい
+  - ChatGPT訳: 一体全体何をしてるんだ？
+- Fezzerk: What's it bloody look like? We're teaching this 'ere pipsqueak to fly!
+  - What's it bloody look like
+    - 正しくは What does it bloody look like だが、口語では What's と言うために What is の形をとり、その影響で does を消す、という風になることもあるとのこと
+    - bloody は副詞で強調や感情の昂りを表現している
+  - 'ere = here
+  - [pipsqueak](https://ejje.weblio.jp/content/pipsqueak), ヒッ・スカバボォ
+    - = pip-squeak
+    - [pip-squeak](https://ejje.weblio.jp/content/pip-squeak), ヒッ・スカバボォ
+      - 名詞: くだらないやつ、取るに足らぬ人
+  - this 'ere pipsqueak
+    - pipsqueak を this 'ere が修飾している
+  - ChatGPT訳: 何に見える？こいつに飛ぶ方法を教えてるんだよ！
+- Tav: Let me rephrase that - _why_ are you doing this?
+  - ChatGPT訳:
+- Fezzerk: 'Cause it makes me laugh! _Heh_!
+  - ChatGPT訳:
+- Tav:
+  - ChatGPT訳:
+- Fezzerk:
+  - ChatGPT訳:
+- Fezzerk:
+  - ChatGPT訳:
+- Fezzerk:
+  - ChatGPT訳:
+- \*\*:
+  - ChatGPT訳:
+- Tav:
+  - ChatGPT訳:
+- Wisdom Successful: Tav
+- Fezzerk:
+  - ChatGPT訳:
+- \*\*:
+  - ChatGPT訳:
+- Fezzerk:
+  - ChatGPT訳:
