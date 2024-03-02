@@ -638,3 +638,38 @@ Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回�
   - ChatGPT訳: えっと、私たちはあなたをそのままにしておきます。
 
 ### 21, Eliasis - 23:03 - Shadowheart, Tav
+
+道端にあった、壊れた神像を見た時に、Shadowheartの手が紫色に輝いた。  
+それについて、主人公が話しかけた。
+
+- \*Shadowheart's attention is fixed on a damaged old statue.\*
+  - 名詞: 注意、注目
+  - [attention](https://ejje.weblio.jp/content/attention), ア・テンション
+  - ChatGPT訳: シャドウハートは、損傷を受けた古い像に注目しています。
+- Shadowheart: We... we should keep moving.
+  - ChatGPT訳: 私たち... 私たちは動き続けるべきです。
+- Tav: What just happened?
+  - ChatGPT訳: 今、何が起こったんですか？
+- Shadowheart: Nothing. A trick of the light.
+  - [trick](https://ejje.weblio.jp/content/trick), トリック
+    - 名詞: 錯覚、幻覚、迷い
+  - ChatGPT訳: 何も。光のトリックです。
+- Tav: Trick of the light? Don't take me for a fool.
+  - [take for](https://en.wiktionary.org/wiki/take_for#Verb)
+    - 他動詞: 〜を〜だとみなす(=regard as)
+      - take O(=対象) for {内容}
+  - ChatGPT訳: 光のトリック？私を馬鹿にするな。
+- Shadowheart: I'll take you as I find you. Now let the matter rest.
+  - [rest](https://ejje.weblio.jp/content/rest), ゥレェスト
+    - 自動詞: 休止する、静止する
+  - ChatGPT訳: 私はあなたを見つけたままのあなたとして受け取ります。もうその件についてはやめておきましょう。
+    - 前半の意味はわからなかった
+- Shadowheart: Let's just move along. Time's a rare currency for both of us.
+  - [along](https://ejje.weblio.jp/content/along), ア・ローング
+    - 副詞: 前方へ、先へ
+  - move along
+    - とにかく前に進むという意味が強い
+    - 転じて、慣用句として「強く続ける」という意味もある
+  - [currency](https://ejje.weblio.jp/content/currency), (カ|ク)レンスィ
+    - 名詞: 通貨
+  - ChatGPT訳: 移動しましょう。私たち両方にとって、時間は貴重な通貨です。
