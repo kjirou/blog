@@ -673,3 +673,25 @@ Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回�
   - [currency](https://ejje.weblio.jp/content/currency), (カ|ク)レンスィ
     - 名詞: 通貨
   - ChatGPT訳: 移動しましょう。私たち両方にとって、時間は貴重な通貨です。
+
+### 21, Eliasis - 23:20 - Barcus Wroot, Tav
+
+回転する風車を止めた後、羽へ括り付けられているGnomeへ話しかけた
+
+- Barcus Wroot: Cut me loose!
+  - [cut](https://ejje.weblio.jp/content/cut)
+    - 他動詞: 〜を切り離す
+  - [loose](https://ejje.weblio.jp/content/loose)
+    - 形容詞,叙述用法: 解放されて、解き放たれて
+      - 副詞だと「ゆるく」しかなく、この意味はない
+  - Cut me loose
+    - loose は形容詞の意味が副詞として使われていそう
+  - ChatGPT訳: 俺を解放してくれ！
+- Tav: What's in it for me?
+  - What's in it
+    - it=彼を解放すること の中に何があるのか、というイメージのよう
+  - ChatGPT訳: 私にとって何かメリットはあるの？
+- Barcus Wroot: Free me and find out.
+  - ChatGPT訳: 解放してみれば分かるよ。
+- Tav: _Leave him_.
+  - 要求が通りやすくなるかと思ったので、一旦離れてみた
