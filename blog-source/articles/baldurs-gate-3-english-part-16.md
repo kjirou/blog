@@ -560,25 +560,79 @@ Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回�
     - pipsqueak を this 'ere が修飾している
   - ChatGPT訳: 何に見える？こいつに飛ぶ方法を教えてるんだよ！
 - Tav: Let me rephrase that - _why_ are you doing this?
-  - ChatGPT訳:
+  - [rephrase](https://ejje.weblio.jp/content/rephrase), リ・フレィズ
+    - 他動詞: 〜を言い換える・言い直す
+  - ChatGPT訳: 言い換えると、なぜこれをしているの？
 - Fezzerk: 'Cause it makes me laugh! _Heh_!
-  - ChatGPT訳:
-- Tav:
-  - ChatGPT訳:
-- Fezzerk:
-  - ChatGPT訳:
-- Fezzerk:
-  - ChatGPT訳:
-- Fezzerk:
-  - ChatGPT訳:
-- \*\*:
-  - ChatGPT訳:
-- Tav:
-  - ChatGPT訳:
+  - 'Cause = Because
+  - ChatGPT訳: 笑えるからさ！へっ！
+- Tav: It does look funny, I'll admit. Mind if I stay and watch a while?
+  - It does look funny
+    - It looks funny の強調
+  - [admit](https://ejje.weblio.jp/content/admit), (ア|エ)ドミット
+    - 他動詞: 〜だと認める
+  - [mind](https://ejje.weblio.jp/content/mind), マァインド
+    - 他動詞: 〜であることを気にする・気にかける
+      - 通常は疑問文や否定文で使う
+      - 本文の Mind if ~ ? は、この意味で使う時の最も一般的な形
+  - [a while](https://ejje.weblio.jp/content/a+while)
+    - 副詞: しばらくの間
+      - for a while でもほぼ同じ意味、若干期間が強調されるらしい
+    - Wiktionaryには a while も for a while も載っていなかった
+  - ChatGPT訳: 確かに面白そうだね。少し見ていてもいいかい？
+- Fezzerk: We ain't lookin' fer _company_, maggot - not unless you wanna join 'im up there...
+  - [maggot](https://ejje.weblio.jp/content/maggot), マァガット
+    - 名詞: 蛆虫
+  - not unless
+    - 否定の意味で、「〜しない限りは」
+    - = only if
+  - ChatGPT訳: お前みたいな奴は仲間にはいらない、虫けら - あいつと一緒に上に行きたくなければな...
+    - 後半は直訳的にすると「あいつと一緒に上に行かない限りはダメだ」という訳
+- Fezzerk: Heh... How 'bout this: you pay a toll, an' go on as you like... or else you _fly_!
+  - [how about](https://en.wiktionary.org/wiki/how_about)
+    - = what about
+    - [what about](https://en.wiktionary.org/wiki/what_about#Adverb)
+      - 副詞: 〜という提案はどうですか？、〜と言う点についてどうお考えですか？
+        - 提案や検討の依頼に使う
+  - [toll](https://ejje.weblio.jp/content/toll), トーゥ
+    - 名詞: 料金、使用料、通行料、地代、場代
+  - [or else](https://en.wiktionary.org/wiki/or_else#Conjunction)
+    - 接続詞: それ以外の場合は、さもなくば、代替として、その代わり
+  - ChatGPT訳: ほら、どうだ：通行料を払って、好きにやるがいい...さもなければ飛ぶことになるぞ！
+- Fezzerk: Cough it up! {不具合で読めないが確か 1000gp と書いてあった}
+  - [cough up](https://en.wiktionary.org/wiki/cough_up#Verb)
+    - 他動詞: しぶしぶ不本意ながら何かを与える・支払うこと
+      - 元の意味は「咳により肺や喉から排出する」
+    - [cough](https://ejje.weblio.jp/content/cough), カフ
+      - 自動詞: 咳をする、咳払いをする
+- \*As the symbol glows, power courses through you. _Authority_.\*
+  - [glow](https://ejje.weblio.jp/content/glow), グロォウ
+    - 自動詞: ランプや蛍が光を放つ・光る、白熱する、炎を上げずに真っ赤に燃える
+  - [course](https://ejje.weblio.jp/content/course), コォス
+    - 他動詞: 〜を突っ切って走る
+  - ChatGPT訳: シンボルが光ると、力があなたを通り抜けます。権威。
+  - そういえば、Mind Flayerの船の中で奴隷の身分なのにShadowheartのポッドを開けれたのが不思議だったけど、特殊な強力な寄生体の被験者だったのかもしれない
+- Tav: I'm going to pay nothing, and you and your cronies are going to leave.
+  - [crony](https://ejje.weblio.jp/content/crony), クロォニィ
+    - 名詞: 仲間、親友、旧友
+  - ChatGPT訳: 私は何も払わないし、あなたとあなたの仲間たちは去ることになる。
 - Wisdom Successful: Tav
-- Fezzerk:
-  - ChatGPT訳:
-- \*\*:
-  - ChatGPT訳:
-- Fezzerk:
-  - ChatGPT訳:
+- Fezzerk: Y-you're a True Soul... I didn't know. Wouldn't dare question you, never!
+  - [dare](https://ejje.weblio.jp/content/dare), デェア
+    - 助動詞: あえて〜する、思い切って〜する
+    - 動詞として、似たような意味もある
+  - [question](https://ejje.weblio.jp/content/question), クェスチョン
+    - 他動詞: 〜を疑う・疑問に思う
+  - ChatGPT訳: あなたが真の魂…だとは知りませんでした。決して疑問に思うことはないでしょう、絶対に！
+- \*Something stirs deep within you, hungry and alert... it's taking something you'll never get back.\*
+  - [alert](https://ejje.weblio.jp/content/alert), アラァト
+    - 形容詞: 油断なく、警戒して、注意を払っている
+  - ChatGPT訳: あなたの内深くで何かが動き、飢えていて警戒しています…それはあなたが二度と取り戻すことのできないものを奪っています。
+  - もしかして、Illithidの力を会話イベントの度に使っているとやばいのかな...
+- Fezzerk: We'll, erm, we'll leave you to it.
+  - [erm](https://ejje.weblio.jp/content/erm), (ア|エ)ーンム
+    - 間投詞: えーと、うーん、躊躇った話し出し
+  - leave you to it
+    - leave に leave 人 to 代名詞 という用法はなさそう
+    - そして、 to it には特に意味はなさそう
+  - ChatGPT訳: えっと、私たちはあなたをそのままにしておきます。
