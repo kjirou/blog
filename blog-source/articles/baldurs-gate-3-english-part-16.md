@@ -636,3 +636,5 @@ Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回�
     - leave に leave 人 to 代名詞 という用法はなさそう
     - そして、 to it には特に意味はなさそう
   - ChatGPT訳: えっと、私たちはあなたをそのままにしておきます。
+
+### 21, Eliasis - 23:03 - Shadowheart, Tav
