@@ -694,4 +694,117 @@ Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回�
 - Barcus Wroot: Free me and find out.
   - ChatGPT訳: 解放してみれば分かるよ。
 - Tav: _Leave him_.
-  - 要求が通りやすくなるかと思ったので、一旦離れてみた
+  - 何かもらえるかなと思って、一旦離れてみた
+
+### 21, Eliasis - 23:22 - Barcus Wroot, Tav
+
+- Barcus Wroot: Come on! What are you waiting for?!
+  - ChatGPT訳: さあ！何を待っているんだ？！
+- Tav: _Free him_.
+- Barcus Wroot: Urrrgh... _magga cammara_ - those pustulent thugs!
+  - magga cammara
+    - おそらくはGnome語で、意味はわからない
+  - [pustulent](https://ejje.weblio.jp/content/pustulent)
+    - = pustule + -ent
+    - [pustule](https://ejje.weblio.jp/content/pustule), パッソオ
+      - 名詞: 膿疱、膿
+  - [thug](https://ejje.weblio.jp/content/thug), ツァ↑
+    - 名詞: ちんぴら、暴漢、凶漢
+  - ChatGPT訳: うううっ…マッガ・カマラ - その膿みたった暴漢たち！
+    - 「穢れた」と言う意味かな？
+- Barcus Wroot: Well - get on with it.
+  - [get on with](https://en.wiktionary.org/wiki/get_on_with)
+    - 他動詞: 〜を続行する
+      - 特に一度中断した物事を指す
+  - ChatGPT訳: さあ - 早くしろ。
+- Tav: Get on with what?
+  - ChatGPT訳: 何を進めろっていうんだ？
+- Barcus Wroot: You saved me. Now you'll extort me. That's how this works, yes?
+  - [extort](https://ejje.weblio.jp/content/extort), エクストォト
+    - 他動詞: 強要する、力ずくや脅迫などで奪い取る
+      - extort O(=人などの対象)
+        - 本文ではこちらで使われているが、WiktionaryやWeblioには載ってなかった
+      - extort O(=強要する内容)
+  - how this works
+    - 直訳だと「こんな具合に機能する」になり、 You saved me だから extort me という具合に機能するだろう？ということを言っている
+  - ChatGPT訳: お前たちが私を助けた。今度は私から何かを強要するんだろう。そういうことだろう？
+- Tav: I'd rather know how you got caught.
+  - [caught](https://ejje.weblio.jp/content/caught), コー
+    - catch - caught - caught
+    - [catch](https://ejje.weblio.jp/content/catch), キャァッチ
+      - 他動詞: 追いかけて捕まえる
+  - ChatGPT訳: どうやって捕まったのか知りたいな。
+- Barcus Wroot: My own fault, really. I should have dropped my pack and outrun those bastards. Alas.
+  - [fault](https://ejje.weblio.jp/content/fault), フォルト
+    - 名詞: 過失、失策、落ち度
+  - ChatGPT訳: 実は自分のせいだよ。荷物を捨ててあいつらを逃げ切ればよかった。ああ、残念だ。
+    - really は、自身の落ち度であることを強調している「本当に」の方が適切そう
+- Barcus Wroot: Take my pack if you can find it. The only reason those goblins caught me was its weight. I'll travel lightly from now on.
+  - [outrun](https://ejje.weblio.jp/content/outrun), アウ・ゥラン
+    - 他動詞: 走って〜から逃れる、〜を走って負かす
+    - Assoc: SEGAのアウトラン
+  - [from now on](https://en.wiktionary.org/wiki/from_now_on#Adverb)
+    - 副詞: 今すぐ初めてずっと続けて
+  - ChatGPT訳: 荷物が見つかれば、それを持っていってくれ。ゴブリンに捕まった唯一の理由は、その重さだったからな。これからは軽装で行くよ。
+  - その荷物って、この街近くの橋に人やゴブリンの死体と共に残っていた、壊れた馬車かな？
+- Tav: You're a little far from home for a deep gnome.
+  - [home](https://ejje.weblio.jp/content/home), ホ↑ォウム
+    - 名詞: 生まれ故郷、郷里、本国
+  - Deep Gnome
+    - D&D用語,名詞: Gnomeの亜種で、Underdarkと呼ばれる広大な地下世界に住む。陽気な地上のGnomeと比べて、真面目で悲観的。
+      - Ref: https://forgottenrealms.fandom.com/wiki/Deep_gnome
+  - ChatGPT訳: お前、ディープノームにしては遠く離れた土地にいるな。
+- Barcus Wroot: Ignorance is alive and well, it seems! Deep gnomes aren't restricted to the Underdark, you know - I've lived in Baldur's Gate for years.
+  - [ignorance](https://ejje.weblio.jp/content/ignorance), イ↑・グノレンス
+    - 名詞: 無知、無学
+  - [well](https://ejje.weblio.jp/content/well), ウェルゥ
+    - 形容詞: 元気で、健康で、丈夫で
+  - Ignorance is alive and well
+    - 直訳だと「無知は生きていて元気」で、訳のような皮肉を意味するイディオム
+  - [restrict](https://ejje.weblio.jp/content/restrict), ゥリストリクト
+    - 他動詞: 〜の人や行動を限定する・限る、
+      - restrict O(=制限を受ける人や行動) to 名詞(=人や行動の範囲)
+      - restrict O(=制限内容) で「〜の自由な活動などを制限する」と言う用法もある
+  - ChatGPT訳: 無知は健在のようだな！ディープノームがアンダーダークに限定されているわけじゃない。俺は何年も前からバルダーズ・ゲートに住んでいるんだ。
+- Barcus Wroot: I'm in search of a friend. I fear he's in trouble. See this? I gave it to him years ago before I left home.
+  - [trouble](https://ejje.weblio.jp/content/trouble), トラボゥ
+    - 名詞: 面倒ごと、困った点、心配ごと
+  - See this?
+    - 覚えてないけど、何か手に取った物を見せているということ
+    - 次の文章から、首にかけるものらしい
+  - years ago
+    - 時点を表現する一般的な句の用法で、これには前置詞はつかないらしい
+  - ChatGPT訳: 友人を探しています。彼がトラブルに巻き込まれているのではないかと心配しています。これを見てください。家を離れる前に彼に渡したものです。
+- Barcus Wroot: I found it around the neck of a thug in the Lower City. It was speckled with blood, my friend nowhere to be found.
+  - [speckled](https://ejje.weblio.jp/content/speckled), スペッコォド
+    - 形容詞: 小さな斑点のついた
+  - [nowhere](https://ejje.weblio.jp/content/nowhere), ノゥ・ウェアー
+    - 副詞: どこにも〜することができない、どこにも〜ない
+  - ChatGPT訳: このペンダントを、ロウアーシティでの暴漢の首から見つけました。血で斑点がついていて、友人の姿はどこにもありませんでした。
+- Barcus Wroot: But I still have hope. I have reason to believe he's in the Underdark. Hopefully I'll pick up his trail from there.
+  - [hopefully](https://ejje.weblio.jp/content/hopefully), ホウプ・フ・リィ
+    - 副詞: 上手くいけば、希望を抱いて
+  - [trail](https://ejje.weblio.jp/content/trail), トレイ(ル|オ)
+    - 名詞: 通った跡、引きずった跡、痕跡
+  - ChatGPT訳: しかし、まだ希望があります。彼がアンダーダークにいると信じる理由があります。そこから彼の足取りを追い始めることを願っています。
+  - 根拠は何なんだっけ？
+- Barcus Wroot: I _always_ help my friends.
+  - ChatGPT訳: 私はいつも友人を助けます。
+- Barcus Wroot: On that note, I bid thee farewell. If we should meet again... well, we will have met again.
+  - [on that note](https://en.wiktionary.org/wiki/on_that_note)
+    - 前置詞句: そんなわけで、先ほどの話題について
+      - 前述の内容を締めくくる
+  - [bid](https://ejje.weblio.jp/content/bid), ビィド
+    - bid - bade | bid | bidded - bitten | bid | bidded
+    - 他動詞: 〜へ挨拶や別れなどを告げる・述べる
+      - bid DO(=告げる対象) IO(=内容)
+  - [thee](https://ejje.weblio.jp/content/thee), ズィ
+    - 代名詞: 汝を
+      - thou の目的格
+  - [farewell](https://ejje.weblio.jp/content/farewell), フェア・ウェ(ル|ウ)
+    - 名詞: 別れの挨拶、いとまごい、告別、別れ
+  - If we should meet again
+    - should の有無で意味の違いはあまり無い
+    - ChatGPTによると、should が含まれる方は、より古風な言い方で、運命や偶然によってもたらせされる点を微妙に強調しているとのこと
+  - ChatGPT訳: そのことを言いましたし、さようならを告げます。もし再び会うことがあれば...まあ、また会ったことになりますね。
+  - この人もWithersと同じように、Long Restの時に出現するのかな？
