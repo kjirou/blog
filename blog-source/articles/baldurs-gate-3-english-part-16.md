@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-16
-lastUpdatedAt: "2024-02-18 08:07:19+0000"
+lastUpdatedAt: "2024-03-03 09:08:20+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 16冊目
@@ -15,7 +15,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 道に人の死体があり、調べた。
 
 この死体は、前日にLong Restする前には瀕死状態で、かつ仲間が周りに居て会話ができた。  
-周りの仲間と話すにあたり、主人公のillithidの力が空だったので、話す前の状態へ戻してLong Restしたんだが、そうしたら死んでしまっていた。
+周りの仲間と話すにあたり、主人公のIllithidの力が空だったので、話す前の状態へ戻してLong Restしたんだが、そうしたら死んでしまっていた。
 
 日付に対してイベントの状態が変わるのだろうか？  
 なお、日付はLong Restの回数によってのみ進みそう。時刻は存在するが、24時間経過しても日付は進まない。
@@ -36,10 +36,10 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 名詞: 意見や意思や行動の合意または一致、調和、和音
   - [crave](https://ejje.weblio.jp/content/crave), クレ↑ィブ
     - 自動詞: 渇望・切望する、しきりに欲しがる
-  - [waste](https://ejje.weblio.jp/content/waste), ウェイスト
-    - 名詞: 浪費、無駄遣い
   - ChatGPT訳: あなたの手足は勝手に動きます - ここには価値があります。あなたの心が渇望する何かが。
 - \*Why let its host's memories go to waste? The tadpole has absorbed it all. Its experience could nourish you, _strengthen_ you.\*
+  - [waste](https://ejje.weblio.jp/content/waste), ウェイスト
+    - 名詞: 浪費、無駄遣い
   - [nourish](https://ejje.weblio.jp/content/nourish), ノォリッシュ
     - 他動詞: 〜を養う
   - [strengthen](https://ejje.weblio.jp/content/strengthen), ストレングゼン
@@ -63,7 +63,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
 - \*Your muscles loosen. The tadpole breaks free of its deceased host. Your mind is your own again. For now.\*
   - [loosen](https://ejje.weblio.jp/content/loosen), ルゥゼン
     - 自動詞: ゆるむ、たるむ、ほぐれる
-    - なお、他動詞としても loose と同じような意味も持つが、その時は loosen のようがより自然のよう
+    - なお、他動詞として loose と被る「ゆるめる」という意味も持つが、その時は loosen のようがより自然のよう
   - [break free](https://en.wiktionary.org/wiki/break_free#Verb)
     - 自動詞: 自分自身を解放する、誰かや何かから自由になる
   - [deceased](https://ejje.weblio.jp/content/deceased), ディ・スィースド
@@ -74,13 +74,14 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
   - [host](https://ejje.weblio.jp/content/host), ホゥスト
     - 名詞: 寄生生物の宿主
   - ChatGPT訳: 筋肉が緩む。オタマジャクシがその死んだ宿主から解放される。あなたの心は再びあなた自身のものだ。今のところは。
+  - 先ほど主人公へ呼びかけていたのは、死体に存在したと思われる寄生体からなのかな？
 
 ### 21, Eliasis - 3:20 - Owlbear, Tav
 
-洞窟の中に居たOwlbearへ、Speak with Animalsを付与して、話しかけた。
+主人公が、洞窟の中に居たOwlbearへ、Speak with Animalsを付与してから、話しかけた。
 
-これ以前に戦って倒していたけど、なんか可哀想な感じだったのでやり直した。  
-また、よく見たら近くにPotion of Animal Speakingが置いてあり、それを飲んで会話してくれという意図だった。
+この前のセーブで戦って倒していたけど、なんか最後に可哀想な感じだったのでやり直した。  
+また、よく見たら近くにPotion of Animal Speakingが置いてあり、それを飲んで会話してくれという意図のようだった。
 
 - \*You feel the quake of its heavy footsteps before you see it: an owlbear, its beaked face looming out of the darkness.\*
   - [quake](https://ejje.weblio.jp/content/quake), クウェイク
@@ -129,7 +130,7 @@ lastUpdatedAt: "2024-02-18 08:07:19+0000"
     - 名詞: 熊・ライオン・狐などの肉食動物の子・幼獣
     - Assoc: Super Cub
   - ChatGPT訳: 私を去らせてください。私はあなたやあなたの子供にとって脅威ではありません。
-  - 取り除こうと思って選んだ選択肢だったが、 to leave を to remove に見間違えていた
+  - 槍の破片を取り除こうと思って選んだ選択肢だったが、 to leave を to remove に見間違えていた
     - 結果、頭に刺さってる槍を抜いてあげることができず、イベント失敗したっぽい
     - 後でさらによく見たら、Scroll of Detect ThoughtsがPotion of Animal Speakingの近くに置いてあって、これも併用しないといけなかったのかも
 - Charisma (Persuasion) Successful: Tav
@@ -226,7 +227,7 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
   - [treatment](https://ejje.weblio.jp/content/treatment), トゥリ↑ートメント
     - 名詞: 人の待遇・扱い
   - ChatGPT訳: それとも、引き返せば、お尻が同じ目に遭う。
-- \*A strange symbol glows, markded on their flesh, and something within you stirs in response.\*
+- \*A strange symbol glows, marked on their flesh, and something within you stirs in response.\*
   - [flesh](https://ejje.weblio.jp/content/flesh), フレッシュ
     - 名詞: 人間や動物の肉・肉付き
   - [stir](https://ejje.weblio.jp/content/stir), スタァ
@@ -267,6 +268,8 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 - Gale: An interesting power. One that warrants further investigation.
   - [warrant](https://ejje.weblio.jp/content/warrant), ウォレント
     - 他動詞: 〜を正当とする・是認する
+    - 名詞では、「行為や権利などを保証する証明書」などの意味
+    - Assoc: ワラント債(warrant bond)
   - One that warrants further investigation.
     - 直訳だと、「さきほどのあれ（興味深い力を指す）はさらなる調査を正当化する」
   - ChatGPT訳: 興味深い力だ。さらなる調査が必要だろう。
@@ -304,7 +307,7 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
   - [brawl](https://ejje.weblio.jp/content/brawl), ブロォ
     - 名詞: 街中での殴り合いの喧嘩
   - ChatGPT訳: 体の中身を体の内側に保ちたいなら、何も問題を起こさないでください。
-    - your insides は、一般的に直接は内臓のことを意味して「傷つける」ということを暗に言っているのか、the tadpole を意味しているのか
+    - your insides は、一般的に直接は内臓のことを意味している。それを比喩として「傷つける」ということを言っているのか、または the tadpole を暗に指しているのか。
 
 ### 21, Eliasis - 11:51 - Tav
 
@@ -339,9 +342,9 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 - \*The coin disappears into the darkness, landing with a soft _clink_.\*
   - [land](https://ejje.weblio.jp/content/land), ゥラーァンド
     - 自動詞: 地面に着く・落ちる、跳んで降りる、下船する
-  - ChatGPT訳: 硬貨は暗闇の中に消え、柔らかな「カチン」という音で着地する。
   - [clink](https://ejje.weblio.jp/content/clink), クリンク
     - 名詞: 薄い金属片やガラスなどの触れ合う鋭いカチン・チリンという音
+  - ChatGPT訳: 硬貨は暗闇の中に消え、柔らかな「カチン」という音で着地する。
 - Tav: _Climb down the bucket rope_.
   - そこそこ広そうなダンジョンだったので、この後引き返した
 
@@ -396,7 +399,7 @@ Galeで話しかけているのは、Illithidの力にはLong Rest当たりの�
 - Ornate Mirror: You are not my mast-er.
 - Ornate Mirror: If you are his ally, ste-p forward and declare it.
 - Tav: I don't have time for games. Let me pass.
-- Ornate Mirror: Only a t-run ally of Ilyn Toth may pass.
+- Ornate Mirror: Only a t-rue ally of Ilyn Toth may pass.
   - Ilyn Toth, イリン・トス
     - BG用語,名詞: Baldur's Gate 3のNPC、Red Wizards of Thayの元メンバーで魔法使い。ある女性を復活させるために、治療師を装って村で密かに悪い実験を行っていた。
       - Ref: https://forgottenrealms.fandom.com/wiki/Ilyn_Toth
@@ -523,7 +526,7 @@ Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回�
     - 他動詞: 鳥が翼を羽ばたく、〜をぱたぱた・ばたばた動かす
       - flap the winds と O に翼を入れる
       - 自動詞で「羽ばたく」にもなる
-  - [some](https://ejje.weblio.jp/content/some),
+  - [some](https://ejje.weblio.jp/content/some), サンム
     - 副詞: 多少、少しは、少しばかり、ある程度、いくぶん
   - some more
     - more の「追加的に多く」を some の「多少は」が修飾しているから、「もう少し」になる
@@ -619,8 +622,10 @@ Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回�
 - Wisdom Successful: Tav
 - Fezzerk: Y-you're a True Soul... I didn't know. Wouldn't dare question you, never!
   - [dare](https://ejje.weblio.jp/content/dare), デェア
-    - 助動詞: あえて〜する、思い切って〜する
-    - 動詞として、似たような意味もある
+    - 他動詞: あえて〜する、思い切って・生意気にも〜する
+      - dare (to) Verb
+        - 否定文のときは to が省略される
+    - 助動詞として、「あえて〜する」「思い切って〜する」という意味もある
   - [question](https://ejje.weblio.jp/content/question), クェスチョン
     - 他動詞: 〜を疑う・疑問に思う
   - ChatGPT訳: あなたが真の魂…だとは知りませんでした。決して疑問に思うことはないでしょう、絶対に！
