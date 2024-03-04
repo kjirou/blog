@@ -270,7 +270,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
     - 副詞: 不適当で、具合悪く、場違いで
   - 「簡単な「ありがとう」があっても、悪くはないんじゃないのか」
 - Lae'zel: You may as well suggest a wyvern bow to worms.
-  - You may as well は、ChatGTPによると、「あなたが〜するのと同じ（くらい無意味）だ」という皮肉を含んだ成句であるとのこと
+  - You may as well は、ChatGPTによると、「あなたが〜するのと同じ（くらい無意味）だ」という皮肉を含んだ成句であるとのこと
     - [may](https://ejje.weblio.jp/content/may)
       - コアイメージ:
         - > ある行為・認識に対して，「それを妨げるものがない」ということを示す  
