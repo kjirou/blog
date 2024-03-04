@@ -828,7 +828,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
       - なお、ChatGPTはこの意味をどうしても出してくれない、「理由」「原因」としか答えない
   - Because you should all be changing
     - you と all は同格の関係、 S 助動詞 同格のall V の構文
-      - Ref: Part 5
+      - Ref: [Part 5 で調べた同格のこと](https://kjirou.github.io/blog/articles/baldurs-gate-3-english-part-5.html#20-eliasis---321---tav-shadowheart)
   - out there
     - 今更調べたが、イディオムではなく、 out:前置詞, there:副詞 の副詞句
       - 「ちょっと離れたひと区画の場所のあそこに」「外に」という意味が主、本文だと文脈上「そこいら中に」になる

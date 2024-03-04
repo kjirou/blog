@@ -195,7 +195,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - イディオム: 目的を達成するのに十分である、働く、効く、成功する、問題を解決する
     - [trick](https://ejje.weblio.jp/content/trick), (ト|チョ)リック
       - 名詞: 妙技、効果的・賢明・迅速な方法
-      - Ref: ハットトリック
+      - Assoc: ハットトリック
   - Now は副詞
   - should は予測や期待を示す用法、could と似ているが、それより確信度が高い
   - a quick little pull
