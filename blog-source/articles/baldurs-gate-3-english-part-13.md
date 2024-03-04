@@ -60,7 +60,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
   - Distinguishing qualities?
     - distinguish の動詞由来の形容詞だが、「qualities を区別している」なのか「qualities を区別するための」なのかがわからなかった
     - 概ね、自動詞由来の-ing形容詞は「〜する、〜している」、他動詞由来の-ing形容詞は「〜させる」、とのこと
-      - Ref. https://toiguru.jp/participle-adjectives
+      - Ref: https://toiguru.jp/participle-adjectives
         - どちらも目的語を主語的に解釈させるとイメージに合いそう？
           - 自動詞-ing: an aging society: society が aging している
           - 他動詞-ing: my amazing story; story が amazing させる
@@ -153,7 +153,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - まとめると、 in this very camp の語順は英語的に自然なもののようだが、その理由は不明
   - Maglubiyet, マグルビエント
     - ゲーム用語,名詞: Goblinたちの主神、武闘派
-      - Ref. https://forgottenrealms.fandom.com/wiki/Maglubiyet
+      - Ref: https://forgottenrealms.fandom.com/wiki/Maglubiyet
   - favour(UK) = favor(US)
   - [in favor of](https://ejje.weblio.jp/content/in+favor+of)
     - イディオム: 〜に味方して
@@ -227,7 +227,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
   - [pardon](https://ejje.weblio.jp/content/pardon), パードン
     - 他動詞: 許す
   - excuse me との違い
-    - Ref. https://jp.blog.voicetube.com/phrases/apology/
+    - Ref: https://jp.blog.voicetube.com/phrases/apology/
     - excuse me は「すみません」に近い、pardon me はもう少し謝っている
 - Tav: Where are you heading?
   - 現在進行形なのは、今まさに旅の準備をしているから
@@ -240,9 +240,9 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - ChatGPT訳: 「彼らの動向を大変注意深く追っています。」
     - 現在完了進行形の意味がいまいちイメージできないので、端々の知識だけ集めておく
       - 状態動詞の時は現在進行形、動作動詞の時は現在完了進行形、らしい
-        - Ref. https://kou.benesse.co.jp/nigate/english/a13e3901.html
+        - Ref: https://kou.benesse.co.jp/nigate/english/a13e3901.html
       - これからも動作を続ける、という意味も含まれる
-        - Ref. https://hoshino-english.com/present-perfect-continuous/
+        - Ref: https://hoshino-english.com/present-perfect-continuous/
 - Volo: Whoever this 'Absolute' they're worshipping might be, I'll be the first to write about it.
   - [whoever](https://ejje.weblio.jp/content/whoever), フーエバー
     - 代名詞: 誰でも、どんな人でも
@@ -295,7 +295,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - より正確に書くなら It is not you whom I fear
       - ただし、現代の英語では whom は省略するのが一般的であるとのこと
     - 通常は I do not fear you と書くが、これは you を強調したい強調構文である
-      - Ref. https://nativecamp.net/blog/20230205-syntax_highlighting
+      - Ref: https://nativecamp.net/blog/20230205-syntax_highlighting
   - [brethren](https://ejje.weblio.jp/content/brethren), ブゥレスレン
     - 名詞: 同胞、仲間
     - brothers の古風な言い方

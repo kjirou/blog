@@ -67,7 +67,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
       - 自動詞: ずきずき痛む
     - The longer ~, the more ~ は、比較級 + 文, 比較級 + 文 の構文。「〜するほど、〜する」
       - the more ~, the more もありうるし、the longer ~, the longer もありうる、比較級同士が並んでれば良い
-      - Ref. https://eitopi.com/the-hikakukyu-reibun
+      - Ref: https://eitopi.com/the-hikakukyu-reibun
   - 後半
     - There is no (meaning to be found) here.
 
@@ -90,7 +90,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
 - Withers: What a curious way to awaken.
   - What a curious way to awaken (it is). という感嘆文
     - it is の部分は、一般的に省略可能
-      - Ref. https://www.progrit.co.jp/media/pm289/
+      - Ref: https://www.progrit.co.jp/media/pm289/
   - 「なんと奇妙な目覚め方だろう」だと思う
     - Withers は見た目 rich みたいなやつで石棺に入ってたのを主人公が起こしたんだけど、その状況に対する目覚め方としては普通ではない...?
       - he も絡めて、なんか背景がありそう。あとで再登場するらしいし。
@@ -109,7 +109,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
   - [ask away](https://ejje.weblio.jp/content/ask+away)
     - 聞いてくれ
     - このときの副詞の [away](https://ejje.weblio.jp/content/away) は、「絶えず、せっせと」という意味
-      - Ref. https://note.com/hana_english/n/nb3909ce885de
+      - Ref: https://note.com/hana_english/n/nb3909ce885de
         - > 副詞の away には continuously ( with a lot of effort または in a busy way) という意味があるのです!!
         - > to work away = せっせと働く、懸命に働く
         - > to chat away = おしゃべりする
@@ -191,14 +191,14 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
 - Damays: North-west. Look for Nettie. Whatever your wound, she can mend it.
   - Nettie
     - ゲーム用語,人名: ドワーフのドルイド
-      - Ref. https://bg3.wiki/wiki/Nettie
+      - Ref: https://bg3.wiki/wiki/Nettie
   - [mend](https://ejje.weblio.jp/content/mend), メ↑ンデュ
     - 他動詞: 直す
     - 類似の単語がいっぱいある、辞書や外部サイトを読んでのまとめ
       - cure
         - 病気や精神を治す・癒す
         - 特に病気や精神を治すという意味合いが強い
-          - Ref. https://redkiwiapp.com/ja/english-guide/questions/pRBRkhir8m2ufkCVTCKU
+          - Ref: https://redkiwiapp.com/ja/english-guide/questions/pRBRkhir8m2ufkCVTCKU
       - fix
         - 直す
         - 広い範囲へ使える単語
@@ -246,10 +246,10 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
     - 名詞: 治療法
   - créche
     - ゲーム用語: Githyankiの言語でそう表記する、共通語？だとStardock。宇宙にある基地か街かそういうものらしい。
-      - Ref. https://forgottenrealms.fandom.com/wiki/Stardock
+      - Ref: https://forgottenrealms.fandom.com/wiki/Stardock
         - 流し読みだとどういうものかあまりわからなかった。ポータルでいけるらしいけど、そんなに簡単にいけるのかな...?
   - ; (セミコロン)
-    - Ref. https://www.qqeng.com/blog2/study/difference-comma-colon-semicolon.html
+    - Ref: https://www.qqeng.com/blog2/study/difference-comma-colon-semicolon.html
       - > セミコロンはピリオドとカンマの中間的存在です。具体的には、ピリオドより完全に文を終わらせたくはないけど、カンマよりは文章の流れを強く区切りたい時に使われます。
 - Shadowheart: Careful - she obviously sees your kindness as weakness. Don't let her take advantage.
   - [obviously](https://ejje.weblio.jp/content/obviously), (ア|オ)↑ービアスリィ
@@ -263,7 +263,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
   - [protocol](https://ejje.weblio.jp/content/protocol), プロトカ(ァ|ォ)
     - 名詞: 協定、手順
   - ghaik = Githyanki用語でMind Flayer, ghustil = healer
-    - Ref. https://forgottenrealms.fandom.com/wiki/Gith_dictionary
+    - Ref: https://forgottenrealms.fandom.com/wiki/Gith_dictionary
   - ずっとMind Flayerに奴隷として使役されてきた種族だから、対Mind Flayer戦略ができているのか
 - 主人公: A simple 'thank you' wouldn't go amiss.
   - [amiss](https://ejje.weblio.jp/content/amiss), ア・ミ↑ス
@@ -275,7 +275,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
       - コアイメージ:
         - > ある行為・認識に対して，「それを妨げるものがない」ということを示す  
           > 行為の場合は「…してもよい」，認識の場合は「…かもしれない」の意になる
-        - Ref. https://www.english-speaking.jp/difference-between-may-as-well-and-might-as-well/
+        - Ref: https://www.english-speaking.jp/difference-between-may-as-well-and-might-as-well/
           - このサイトの見解によると、「上から下への許容」
         - 「妨げるものがない」のがわかるのは上から目線を含むので、両者に矛盾はなさそう
     - suggest a wyvern bow to worms は、「ワイバーンの弓をワームに勧めること」という訳になるが、由来がわからない
@@ -291,7 +291,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
 - 主人公: Leave.
   - ちゃんと会話を読んでみると、Lae'zelはシンプルな考え方をしてそうでわりと好みだったんだけど、脳筋プレイを強いられそうなので仲間にするのは止めた
   - しかしなんでShadowheartはいちいち突っかかるのかと思ったら、ルーツに対立する点があるらしい。ネタバレになりそうだからあんまり調べないでおこう。
-    - Ref. https://borichan.com/baldurs-gate3-githyanki/
+    - Ref: https://borichan.com/baldurs-gate3-githyanki/
 
 ### 20, Eliasis - 8:24 - Aradin, Kanon, Zevlor, Wyll
 
@@ -310,7 +310,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
 - Zevlor: By the Nine Hells. Open the gate!
   - Nine Hells
     - ゲーム用語,地名: 正確には The Nine Hells of Baator という、9層からなる地獄の世界のこと
-      - Ref. https://forgottenrealms.fandom.com/wiki/Nine_Hells
+      - Ref: https://forgottenrealms.fandom.com/wiki/Nine_Hells
     - 今主人公たちは、この第1層のAvernusに居る
       - しかし、そこに書いてある文章より、だいぶのどかに見えるんだけども。盗賊も居たし、人の世界と行き来できるのかな？
   - By the {神様的なすごいもの} で、「{神様的なすごいもの}の名にかけて」みたいな意味なんだろうか...

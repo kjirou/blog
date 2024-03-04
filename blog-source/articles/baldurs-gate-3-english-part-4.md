@@ -16,7 +16,7 @@ lastUpdatedAt: "2024-01-27 13:04:25+0000"
 - Shadowheart: I thought that damn thing was going to be my coffin. Thank you -
   - I thought
     - I think は自分の考えを述べることになるが、I thought は「だと思ってたけど、勘違いだった」という意味
-      - Ref. https://www.pdc.co.jp/an_instant_reply/2017/03/21/thought/
+      - Ref: https://www.pdc.co.jp/an_instant_reply/2017/03/21/thought/
   - [damn thing](https://dictionary.goo.ne.jp/word/en/a+damn+thing/)
     - 名詞: ろくでもないもの、ろくでもないこと
   - [coffin](https://ejje.weblio.jp/content/coffin), (コ|カ)↑ーフィン
@@ -33,7 +33,7 @@ lastUpdatedAt: "2024-01-27 13:04:25+0000"
       - 形容詞: 用心深い、油断のない
   - because you have a gith with you.
     - with you は「あなたのまさに手元に」の意味
-      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1391292623
+      - Ref: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1391292623
 - Shadowheart: You keep dangerous company.
   - [company](https://ejje.weblio.jp/content/company), (カ|コ)↑ンパニィ
     - 名詞: 仲間、連れ
@@ -44,7 +44,7 @@ lastUpdatedAt: "2024-01-27 13:04:25+0000"
 - Shadowheart: Fair point. Looks like there's plenty of fighting ahead.
   - fair point
     - イディオム: その通り、君の言う通り
-      - Ref. https://ja.hinative.com/questions/1350473
+      - Ref: https://ja.hinative.com/questions/1350473
   - [look like](https://ejje.weblio.jp/content/look+like)
     - 他動詞: 〜になりそうだ、〜のように見える
   - plenty of fighting が plenty of fight ではないのはなぜ？をChatGPTに聞いたことのまとめ
@@ -136,12 +136,12 @@ lastUpdatedAt: "2024-01-27 13:04:25+0000"
       - 前置詞: 〜のそばに
         - コアイメージは「〜の横に」で、こちらはわかる
     - beside と besides の違い
-      - Ref. https://eitopi.com/beside-besides-tigai
+      - Ref: https://eitopi.com/beside-besides-tigai
         - beside: あるものの近くに存在するイメージ
         - besides: あるものに追加するイメージ、転じて今ないものとして「それ以外」になる
   - besides the obvious
     - イディオム: 当たり前にわかる・見てわかるそのこと以外は
-      - Ref. https://sayreally.hatenablog.com/entry/2017/02/13/000000
+      - Ref: https://sayreally.hatenablog.com/entry/2017/02/13/000000
     - the obvious
       - 名詞: 当たり前のこと
       - [obvious](https://ejje.weblio.jp/content/obvious), オ↑・ビァス

@@ -53,7 +53,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 自動詞: 挨拶・服従・礼拝などのために腰をかがめる
   - You should be (whipped) - (made to bow ...) のこれらの部分が等位の関係、両方ともに受動態である
   - make O Verb原形 が make O to不定詞 になっているのは、受動態の使役動詞のときにはto不定詞を使うルールがあるため
-    - Ref. https://kou.benesse.co.jp/nigate/english/a13e1103.html
+    - Ref: https://kou.benesse.co.jp/nigate/english/a13e1103.html
   - ChatGPT訳: 「あなたは鞭打たれるべきです - この生き物の前で恥を感じながら頭を垂れるべきです。」
 - \*It's possessing your mind, forcing you to... love it.\*
   - [possess](https://ejje.weblio.jp/content/possess), (ポ|パ)ゼェス
@@ -210,7 +210,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - = ouch
   - Waterdeep
     - ゲーム用語,名詞: 都市の名前
-      - Ref. https://forgottenrealms.fandom.com/wiki/Waterdeep
+      - Ref: https://forgottenrealms.fandom.com/wiki/Waterdeep
 - Tav: No need to apologise. Are you all right?
 - Gale: A bit shocked, but friend, it's a relief and a pleasure to make your acquaintance.
   - [a bit](https://en.wiktionary.org/wiki/a_bit#Adverb)
@@ -236,7 +236,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [in a manner of speaking](https://en.wiktionary.org/wiki/in_a_manner_of_speaking)
     - 前置詞: ある意味では、いわば、比喩的に言えば
     - [manner](https://ejje.weblio.jp/content/manner) に「方法、態度」という意味があり、a manner of speaking は「言い回し」になる
-      - Ref. https://www.ihcway.com/1day/20160811214601.html
+      - Ref: https://www.ihcway.com/1day/20160811214601.html
   - [as well](https://ejje.weblio.jp/content/as+well)
     - 副詞: 〜もまた、同様に
       - 通常この意味のは文末においた時
@@ -254,7 +254,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - very, pretty, quite, fairly などと同じように程度を表す意味
       - 本来は、好ましい選択や好みを指定するような陽の意味のはずだが、これだと悪い方に使われている
         - ググった例文でも悪い意味で使う方が多そうで、その趣旨の言及をしているブログ記事も見つけた
-          - Ref. https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
+          - Ref: https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
   - [unwelcome](https://ejje.weblio.jp/content/unwelcome), アン・ウェルカム
     - 形容詞: 歓迎しない、うれしくない
   - [ocular](https://ejje.weblio.jp/content/ocular), ア↑ーキュラァ
@@ -280,7 +280,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
 - Gale: It's a process known as ceremorphosis, and let me assure you: it is to be avoided.
   - ceremorphosis
     - ゲーム用語,名詞: Mind Flayerの寄生体により変身させられること
-      - Ref. https://forgottenrealms.fandom.com/wiki/Ceremorphosis
+      - Ref: https://forgottenrealms.fandom.com/wiki/Ceremorphosis
         - 寄生された人が助かるには、初期段階（脳みそが食べられかけている最中）までに頭を完全に破壊して復活の呪文をかけることらしい
     - -sis の接尾語は「すること」「した結果」
   - [assure](https://ejje.weblio.jp/content/assure), ア↑・シュァ

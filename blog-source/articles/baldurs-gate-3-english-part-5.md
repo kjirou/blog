@@ -69,7 +69,7 @@ Mind Flayerの戦艦から転移してAvernusのどこかの海岸へ落ちた
   - [given](https://ejje.weblio.jp/content/given), ギブン
     - 前置詞: 考慮して
       - considering や taking into account と同じような意味で頻繁に使われる
-        - Ref. https://ukaru-eigo.com/given/
+        - Ref: https://ukaru-eigo.com/given/
           - > 本来 given は本来分詞構文から派生した表現なのですが、現在 given はどの辞書にも独立した項目として「前置詞的・接続詞的」と記載されています。
   - [be through](https://ejje.weblio.jp/content/be+through)
     - 自動詞: 終わっている、済んでいる
@@ -146,7 +146,7 @@ Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
       - 名詞: 賭け、利害関係
   - we both
     - 代名詞が二つ並んでいるのは、「同格のboth」という構文。他 all など。
-      - Ref. https://10upenglish.com/all-of-us-and-we-all-both/
+      - Ref: https://10upenglish.com/all-of-us-and-we-all-both/
         - 自然な all/both の位置は動詞や助動詞により変わるとのこと
           - S all/both V
           - S be動詞 all/both

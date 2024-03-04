@@ -44,7 +44,7 @@ GimblebockはHalflingまたはGnomeらしく、TamanはHalf ElfまたはElfの�
   - [in that case](https://en.wiktionary.org/wiki/in_that_case)
     - 副詞: もしそうなら
       - 未来のことに使う。すでに発生しているなら in this case を使うよう。
-        - Ref. https://ameblo.jp/peachpatent/entry-12648549325.html
+        - Ref: https://ameblo.jp/peachpatent/entry-12648549325.html
     - [in case](https://en.wiktionary.org/wiki/in_case)
       - 接続詞: その可能性を考慮して
 - Gimblebock: C'mon, you lot, no point in gettin' killed. Second worm gets the cheese, an' all...

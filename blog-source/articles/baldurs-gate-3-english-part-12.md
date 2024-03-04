@@ -22,7 +22,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
     - Be quiet! や Don't be a hero. のように、補語として形容詞や名詞が入る。
       - ただし、名詞が入る時は人の性質を表現する内容が多そうには見える
     - Not be じゃないの？という疑問は一般的にあるよう
-      - Ref. https://www.kufs.ac.jp/English/mebius/MebiusStrip/no029.htm
+      - Ref: https://www.kufs.ac.jp/English/mebius/MebiusStrip/no029.htm
   - of more の more は代名詞で、of がその性質を抽出して形容詞的な修飾をしている形
 
 ### 20, Eliasis - 16:12 - Cal
@@ -68,7 +68,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
     - 名詞: 徒弟期間、年季奉公
   - Lorroakan
     - ゲーム用語,固有名詞: D&D世界からののネームドキャラクター、そこそこすごい魔術師
-      - Ref. https://forgottenrealms.fandom.com/wiki/Lorroakan
+      - Ref: https://forgottenrealms.fandom.com/wiki/Lorroakan
   - [shortly](https://ejje.weblio.jp/content/shortly), ショォトリィ
     - 副詞: まもなく、じきに
       - 「短く」という意味もある
@@ -76,17 +76,17 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
 - Gale: I've heard that name before. A young man, yes? Lives in Ramazith's Tower in the Upper City?
   - Ramazith's Tower
     - ゲーム用語,固有名詞: Baldur's Gate内ある魔術師用の塔の名称
-      - Ref. https://forgottenrealms.fandom.com/wiki/Ramazith%27s_tower
+      - Ref: https://forgottenrealms.fandom.com/wiki/Ramazith%27s_tower
   - Upper City
     - ゲーム用語,固有名詞: Baldur's Gate内の裕福ないち地域の名称
-      - Ref. https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate/Upper_City
+      - Ref: https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate/Upper_City
 - Rolan: The very same!
 - Gale: Word in Waterdeep has it he's a bit of a cad. But you say he's an accomplished wizard?
   - [word](https://ejje.weblio.jp/content/word), (ワ|ウォ)ード
     - 名詞: 噂、情報
   - Waterdeep
     - ゲーム用語,固有名詞: 都市の名前
-      - Ref. https://forgottenrealms.fandom.com/wiki/Waterdeep
+      - Ref: https://forgottenrealms.fandom.com/wiki/Waterdeep
   - [cad](https://ejje.weblio.jp/content/cad), キャー
     - 名詞: 下劣な男、卑劣漢
   - [accomplished](https://ejje.weblio.jp/content/accomplished), ア・カンプリーシュト
@@ -97,7 +97,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
 - Rolan: Of course he is! The greatest spellcaster along the Sword Coast. As if I'd settle for a lesser mentor.
   - Sword Coast
     - ゲーム用語,固有名詞: Faerûn西部の海に面した地域名、その中の最大の都市としてBaldur's Gateがある
-      - Ref. https://forgottenrealms.fandom.com/wiki/Sword_Coast
+      - Ref: https://forgottenrealms.fandom.com/wiki/Sword_Coast
     - こういう地域の時は、in ではなく along でもいいのか
   - [as if](https://ejje.weblio.jp/content/as+if)
     - 接続詞: 〜という仮定であるわけがない
@@ -156,7 +156,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
   - in either matic or talent
     - either A or B で「どちらか一方」だが、この文では「どちらも」という意味になっている
     - そもそも either A or B という英文が英語圏で排他的論理和を示すかというと、厳密にはそうであるようだがそうでないこともあるらしい
-      - Ref. https://english.stackexchange.com/questions/13889/does-either-a-or-b-preclude-both-a-and-b
+      - Ref: https://english.stackexchange.com/questions/13889/does-either-a-or-b-preclude-both-a-and-b
     - in がそれに転じているのか、文脈上一方だけを選ぶ必要がない状況だからか、など理由は不明
 - Rolan: The names 'Rolan' and 'Lorroakan' will be known far and wide. You'll see.
   - 君には幸せになって欲しい
@@ -175,7 +175,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
     - slit - slit - slit | slitten
     - 他動詞: 主に縦方向に切り開く・切り裂く
   - my throat slit のように、名詞を後ろから修飾することを、修飾する側の品詞を問わずに「後置修飾」というよう
-    - Ref. https://kimini.online/blog/archives/39729
+    - Ref: https://kimini.online/blog/archives/39729
       - 修飾できるのは主には、形容詞・受動態の形で過去分詞・現在分詞だが、限定的に副詞もできるよう。全部じゃねーか。
   - [pleasant](https://ejje.weblio.jp/content/pleasant), プレ(ゼ|ザ)ント
     - 形容詞: 快適な
@@ -213,7 +213,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
       - 命令形で用いる
   - [ain't](https://en.wiktionary.org/wiki/ain%27t), エイント
     - 大体は、be動詞＋否定語（ am not、 are not、 is not）の略、または、助動詞 have＋否定語（has not、 have not）の略
-      - Ref. https://eikaiwa.weblio.jp/column/phrases/natural_english/aint-slung
+      - Ref: https://eikaiwa.weblio.jp/column/phrases/natural_english/aint-slung
   - ここでは ain't = is not
   - it is not much:「大して役に立たない」、謙遜の意味を含む
     - [much](https://ejje.weblio.jp/content/much) には代名詞で「重要なこと」という意味はあるが他の品詞にはなかった
@@ -221,7 +221,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
   - all the difference
     - [all](https://ejje.weblio.jp/content/all) は形容詞の「全ての」
     - the all difference にならないのは、all of the difference の of が省略された形だからとのこと
-      - Ref. https://nekoeigo.net/nekohigh/article-5
+      - Ref: https://nekoeigo.net/nekohigh/article-5
       - 他にも、both, double, half, twice などが同様の扱い
 - Okta: The only way we'll make it to Baldur's Gate is to run, and run hard.
   - ChatGPT訳:「バルダーズ・ゲートにたどり着く唯一の方法は、走り、懸命に走ることだ。」
@@ -231,7 +231,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
 - Okta: If a gnoll catches your scent, you'll need every bit of strength. Trust me.
   - gnoll
     - ゲーム用語,名詞: D&Dの種族の名称、ハイエナのヒューマノイド、野蛮で好戦的
-      - Ref. https://forgottenrealms.fandom.com/wiki/Gnoll
+      - Ref: https://forgottenrealms.fandom.com/wiki/Gnoll
   - [scent](https://ejje.weblio.jp/content/scent), セント
     - 名詞: におい、臭いの跡
   - [bit](https://ejje.weblio.jp/content/bit), (ベ|ビ)ット
@@ -256,7 +256,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
     - 〜で良かった、〜でありがとう
     - thank you は対象を指定しているが、こちらは心からの感謝や安堵を誰ともなく伝える時に使う
     - 元々は thank god だったらしい
-      - Ref. https://sendai-eigo.com/nagamachi-eikaiwa/thank-goodness/
+      - Ref: https://sendai-eigo.com/nagamachi-eikaiwa/thank-goodness/
     - [goodness](https://ejje.weblio.jp/content/goodness), グ↑ッドネス
       - 名詞: 徳、善性、優しさ
   - [come along](https://ejje.weblio.jp/content/come+along)
@@ -273,7 +273,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
   - [petal](https://ejje.weblio.jp/content/petal), ペ↑トゥ
     - 名詞: 花弁、花びら
     - ここでは dear と同じような親愛の情を含む人の代名詞
-      - Ref. https://goetheweb.jp/lifestyle/more/20211213-eigoryoku_zero_lesson123
+      - Ref: https://goetheweb.jp/lifestyle/more/20211213-eigoryoku_zero_lesson123
         - 略して pet になることもあるらしい
   - [feverish](https://ejje.weblio.jp/content/feverish), フィーバリッシュ
     - 形容詞: 熱っぽい、熱がある
@@ -356,7 +356,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
       - ここでは「交際する」「異性に溺れる」の意味のよう
   - Dryad
     - ゲーム用語,名詞: D&Dの種族名、綺麗な顔立ちの森の妖精、一本の木に縛られている
-      - Ref. https://forgottenrealms.fandom.com/wiki/Dryad
+      - Ref: https://forgottenrealms.fandom.com/wiki/Dryad
     - 好みの男にちょっかいをかける性質があるらしい
 - Auntie Ethel: The wife was none too pleased and introduced him to a pot of boiling oil.
   - The wife ((was none too pleased) and (introduced him to a pot of boiling oil)).
@@ -406,7 +406,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
       - while: 接続詞
       - when: 接続詞, 副詞
     - 意味の違い
-      - Ref. https://aitem-english.jp/difference-when-while-as
+      - Ref: https://aitem-english.jp/difference-when-while-as
         - as: 変化のイメージ、as 対象の変化に伴って何かが変わるか、as 対象が何かの変化に伴って変わるか
           - どちらが先の行動、つまり変化の起点になるかは、文中で先に書かれた方になるよう
             - 節1 as 節2 なら、節1の変化に伴い節2が発生したことになるし、As 節1, 節2 なら、その逆
@@ -424,7 +424,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
     - おそらくは、You, poor pet. という区切り
   - my heart goes out to you
     - イディオム: あなたに同情します、お悔やみ申し上げます
-      - Ref. https://dictionary.goo.ne.jp/word/en/My+heart+goes+out+to+you./
+      - Ref: https://dictionary.goo.ne.jp/word/en/My+heart+goes+out+to+you./
   - [truly](https://ejje.weblio.jp/content/truly), トゥーリィ
     - 副詞: 真実に、偽りなく
 - Auntie Ethel: I see no sign of a tentacle yet, but that could change in an instant. You need help, _serious_ help.
@@ -520,7 +520,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
     - 他動詞: 〜を守る、〜を擁護する
   - (All you did)=S (was)=V (stand up for your crew)=C
     - stand up for your crew が動詞の原形なのは、be動詞の補語には原形不定詞を使うこともあるからのよう
-      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13173510478
+      - Ref: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q13173510478
         - 主語が do で終わる文じゃないといけないとのこと
       - なお、使役動詞や知覚動詞も原形不定詞の応用だった
 - Aradin: Half my crew are full of holes.
@@ -543,7 +543,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
       - 前置詞: 周囲に
       - コアイメージは、「〜の周囲に」「〜に取り囲まれて」「〜周りを回って」、イマイチわからん
     - around と about って何が違うんだ？
-      - Ref. https://www.rarejob.com/englishlab/column/20230602/
+      - Ref: https://www.rarejob.com/englishlab/column/20230602/
         - > イギリス英語では空間を指す時は「about」を、アメリカ英語では「around」を使い、アメリカで「この辺りの場所」という意味では「about」は一般的に使われないことがあげられます。
       - around には about のふわふわもやもやした感じがなさそう？
   - [part](https://ejje.weblio.jp/content/part), パ↑ァト
@@ -604,7 +604,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
       - 「かゆい」の意味が元
   - Kelemvor, ケレムヴォー
     - ゲーム用語,固有名詞: 死者の神
-      - Ref. https://forgottenrealms.fandom.com/wiki/Kelemvor
+      - Ref: https://forgottenrealms.fandom.com/wiki/Kelemvor
     - つまり、死んでもいいならいいけど、という意味
 - Aradin: It's called the Nightsong. Supposed to be hidden under the temple where the goblins jumped us.
   - It は the relic のこと
@@ -687,7 +687,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
   - [anyhow](https://ejje.weblio.jp/content/anyhow), エニィハァウ
     - 副詞: とにかく、いずれにせよ
       - 「話題を変える」という説明がされてることが多いけど、それよりは日本語の「とにかく」が合ってそう
-        - Ref. https://dictionary.goo.ne.jp/word/%E3%81%A8%E3%81%AB%E3%81%8B%E3%81%8F/
+        - Ref: https://dictionary.goo.ne.jp/word/%E3%81%A8%E3%81%AB%E3%81%8B%E3%81%8F/
           - > 他の事柄は別問題としてという気持ちを表す。
 - Bex: What about you? Big plans for when you get to the city?
   - for when は関係詞の構文ではなくて、前置詞と接続詞
@@ -721,7 +721,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 - Danis: I suppose we'll start in the Outer City, get a little business going...
   - Outer City
     - ゲーム用語,固有名詞: バルダーズ・ゲートの一地域、貧しく治安が悪い地域
-      - Ref. https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate/Outer_City
+      - Ref: https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate/Outer_City
 - Bex: Your spiced tea is _life-changing_. And I can bake up almond cakes twenty at a time!
   - [almond](https://ejje.weblio.jp/content/almond), ア(ー|ル)モンド
     - 名詞: アーモンド
@@ -746,7 +746,7 @@ Tieflingの鍛冶屋へ話しかけた
   - I had to leave:「残して去る必要があった」
   - Elturel, エルチュレル
     - ゲーム用語,固有名詞: 都市国家の名前、ある時に都市全体がAvernus内へ転移した
-      - Ref. https://forgottenrealms.fandom.com/wiki/Elturel
+      - Ref: https://forgottenrealms.fandom.com/wiki/Elturel
 - Tav: That forge is holding on by a thread. Are you a smith?
   - [hold on](https://ejje.weblio.jp/content/hold+on)
     - 自動詞: 持続する、続けていく、持ち堪える、踏みとどまる
