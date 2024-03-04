@@ -273,7 +273,7 @@ Tieflingの一人へ話しかけた状況
   - As for those の As は、話題を変えることを意味している。As がなかったあら、より For those が強調され、Arronが真に避難民のことを心配している風になる。
     - つまり、As for those だと、当事者感が下がっている
   - Silvanus
-    - ゲーム用語,神の名: 森の父シルバヌス、自然やドルイド等の神
+    - D&D用語,神の名: 森の父シルバヌス、自然やドルイド等の神
       - Ref: https://www.dandwiki.com/wiki/Silvanus_(5e_Deity)
 - 主人公: You just said the region's overrun by monsters. They won't survive by themselves.
   - [overrun](https://ejje.weblio.jp/content/overrun)
@@ -370,7 +370,7 @@ Tieflingの一人へ話しかけた状況
   - this は「避難民を見捨てて去ること」を意味しているのだろうか、だとするとちょっと前の話なので that になりそう、わからん
 - Rolan: Zurgan. Fine. I'll stay too. Lest you both end up with your throats slit by a goblin blade.
   - Zurgan
-    - ゲーム用語,感嘆詞: おそらく「ちくしょうめ」のような呪いの言葉
+    - D&D用語,感嘆詞: おそらく「ちくしょうめ」のような呪いの言葉
       - Ref: https://www.reddit.com/r/BaldursGate3/comments/181bgfp/whowhat_is_zurgan/
   - Fine
     - I'm fine は現世だと「（悪いことが起こったけど）私は大丈夫、心配しないで」という意味らしいので、「嫌だけどわかったよ」みたいな意味なんだろうか

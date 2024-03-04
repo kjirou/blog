@@ -355,7 +355,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - and 以降は「そして情報源は〜とも言っていました」というような意味だと思う
 - Wyll: One of the archdevil Zariel's own - chaos incarnate, a devil with pure fire for a heart. I made my way to Avernus to stop her.
   - Zariel, (ザ|ゼ)リエル
-    - ゲーム用語,名詞: Avernusの女太公の大悪魔
+    - D&D用語,名詞: Avernusの女太公の大悪魔
       - Ref: https://forgottenrealms.fandom.com/wiki/Zariel
     - ということは、Karlachは元々Avernusに由来のある悪魔なのか
   - [make one's way](https://en.wiktionary.org/wiki/make_one%27s_way)

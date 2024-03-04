@@ -67,7 +67,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
   - [apprenticeship](https://ejje.weblio.jp/content/apprenticeship), ア・プレンティシップ
     - 名詞: 徒弟期間、年季奉公
   - Lorroakan
-    - ゲーム用語,固有名詞: D&D世界からののネームドキャラクター、そこそこすごい魔術師
+    - D&D用語,固有名詞: D&D世界からののネームドキャラクター、そこそこすごい魔術師
       - Ref: https://forgottenrealms.fandom.com/wiki/Lorroakan
   - [shortly](https://ejje.weblio.jp/content/shortly), ショォトリィ
     - 副詞: まもなく、じきに
@@ -75,17 +75,17 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
 - Rolan: Yes - that Lorroakan. The greatest wizard in Baldur's Gate.
 - Gale: I've heard that name before. A young man, yes? Lives in Ramazith's Tower in the Upper City?
   - Ramazith's Tower
-    - ゲーム用語,固有名詞: Baldur's Gate内ある魔術師用の塔の名称
+    - D&D用語,固有名詞: Baldur's Gate内ある魔術師用の塔の名称
       - Ref: https://forgottenrealms.fandom.com/wiki/Ramazith%27s_tower
   - Upper City
-    - ゲーム用語,固有名詞: Baldur's Gate内の裕福ないち地域の名称
+    - D&D用語,固有名詞: Baldur's Gate内の裕福ないち地域の名称
       - Ref: https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate/Upper_City
 - Rolan: The very same!
 - Gale: Word in Waterdeep has it he's a bit of a cad. But you say he's an accomplished wizard?
   - [word](https://ejje.weblio.jp/content/word), (ワ|ウォ)ード
     - 名詞: 噂、情報
   - Waterdeep
-    - ゲーム用語,固有名詞: 都市の名前
+    - D&D用語,固有名詞: 都市の名前
       - Ref: https://forgottenrealms.fandom.com/wiki/Waterdeep
   - [cad](https://ejje.weblio.jp/content/cad), キャー
     - 名詞: 下劣な男、卑劣漢
@@ -96,7 +96,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
     - 理由はおそらく文法に起因するものではなく、 [word has it that](https://eow.alc.co.jp/search?q=word+has+it+that):「噂によると」が慣用句だから
 - Rolan: Of course he is! The greatest spellcaster along the Sword Coast. As if I'd settle for a lesser mentor.
   - Sword Coast
-    - ゲーム用語,固有名詞: Faerûn西部の海に面した地域名、その中の最大の都市としてBaldur's Gateがある
+    - D&D用語,固有名詞: Faerûn西部の海に面した地域名、その中の最大の都市としてBaldur's Gateがある
       - Ref: https://forgottenrealms.fandom.com/wiki/Sword_Coast
     - こういう地域の時は、in ではなく along でもいいのか
   - [as if](https://ejje.weblio.jp/content/as+if)
@@ -230,7 +230,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
     - カンマでタメを入れられるので、run hard がより強調されるのではないかとのこと
 - Okta: If a gnoll catches your scent, you'll need every bit of strength. Trust me.
   - gnoll
-    - ゲーム用語,名詞: D&Dの種族の名称、ハイエナのヒューマノイド、野蛮で好戦的
+    - D&D用語,名詞: D&Dの種族の名称、ハイエナのヒューマノイド、野蛮で好戦的
       - Ref: https://forgottenrealms.fandom.com/wiki/Gnoll
   - [scent](https://ejje.weblio.jp/content/scent), セント
     - 名詞: におい、臭いの跡
@@ -355,7 +355,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
     - 自動詞: 道楽半分に手を出す
       - ここでは「交際する」「異性に溺れる」の意味のよう
   - Dryad
-    - ゲーム用語,名詞: D&Dの種族名、綺麗な顔立ちの森の妖精、一本の木に縛られている
+    - D&D用語,名詞: D&Dの種族名、綺麗な顔立ちの森の妖精、一本の木に縛られている
       - Ref: https://forgottenrealms.fandom.com/wiki/Dryad
     - 好みの男にちょっかいをかける性質があるらしい
 - Auntie Ethel: The wife was none too pleased and introduced him to a pot of boiling oil.
@@ -603,7 +603,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
       - for 名詞 や to V を伴う
       - 「かゆい」の意味が元
   - Kelemvor, ケレムヴォー
-    - ゲーム用語,固有名詞: 死者の神
+    - D&D用語,固有名詞: 死者の神
       - Ref: https://forgottenrealms.fandom.com/wiki/Kelemvor
     - つまり、死んでもいいならいいけど、という意味
 - Aradin: It's called the Nightsong. Supposed to be hidden under the temple where the goblins jumped us.
@@ -720,7 +720,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
 
 - Danis: I suppose we'll start in the Outer City, get a little business going...
   - Outer City
-    - ゲーム用語,固有名詞: バルダーズ・ゲートの一地域、貧しく治安が悪い地域
+    - D&D用語,固有名詞: バルダーズ・ゲートの一地域、貧しく治安が悪い地域
       - Ref: https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate/Outer_City
 - Bex: Your spiced tea is _life-changing_. And I can bake up almond cakes twenty at a time!
   - [almond](https://ejje.weblio.jp/content/almond), ア(ー|ル)モンド
@@ -745,7 +745,7 @@ Tieflingの鍛冶屋へ話しかけた
       - ChatGPTは「品揃えは限られている」と表現してて、こっちの方が良さそう
   - I had to leave:「残して去る必要があった」
   - Elturel, エルチュレル
-    - ゲーム用語,固有名詞: 都市国家の名前、ある時に都市全体がAvernus内へ転移した
+    - D&D用語,固有名詞: 都市国家の名前、ある時に都市全体がAvernus内へ転移した
       - Ref: https://forgottenrealms.fandom.com/wiki/Elturel
 - Tav: That forge is holding on by a thread. Are you a smith?
   - [hold on](https://ejje.weblio.jp/content/hold+on)

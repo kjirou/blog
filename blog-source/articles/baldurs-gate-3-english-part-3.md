@@ -65,7 +65,7 @@ Shadowheartとは別の人が捕えられているポッドを調べた
   - [daze](https://ejje.weblio.jp/content/daze), デェィズ
     - 他動詞: ぼーっとさせる、ぼう然とさせる、人の目をくらます
     - Dazed
-      - ゲーム用語: 状態効果(Status Effect)のひとつ
+      - BG3用語: 状態効果(Status Effect)のひとつ
       - ゲーム内テキスト: Has Disadvantage on Wisdom Saving Throws, can't take reactions, and loses the Dexterity bonus to their Armour Class.
         - Disadvantage は Roll 2 dice and use the lower value. のやつ
       - D&D 5e には [Daze](<https://dnd-wiki.org/wiki/Daze_(5e_Spell)>) という呪文はあるようだが、Dazed という状態効果はなさそう

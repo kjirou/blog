@@ -423,9 +423,9 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [dead](https://ejje.weblio.jp/content/dead), デ↑ェッド
     - 名詞: 死者
   - Nightsinger
-    - ゲーム用語,名詞: Sharの化身の一つ
+    - D&D用語,名詞: Sharの化身の一つ
     - Shar, シャー
-      - ゲーム用語: 闇と喪失の女神。闇、夜、喪失、死、策略、秘密などを司る。月の女神Selûneの姉。
+      - D&D用語: 闇と喪失の女神。闇、夜、喪失、死、策略、秘密などを司る。月の女神Selûneの姉。
         - Ref: https://forgottenrealms.fandom.com/wiki/Shar
         - Ref: https://gamecows.com/ja/%E3%82%B7%E3%83%A3%E3%83%BC5e/
   - [embrace](https://ejje.weblio.jp/content/embrace), エン・ブレイス
@@ -440,7 +440,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [sister](https://ejje.weblio.jp/content/sister), (スィ|シ)スタァ
     - 名詞: 妹、姉、姉妹
   - Selûne, セルーン
-    - ゲーム用語,名詞: 月の女神。月、星、航海、探検、善なる獣人などを司る。夜の女神Sharの妹。
+    - D&D用語,名詞: 月の女神。月、星、航海、探検、善なる獣人などを司る。夜の女神Sharの妹。
       - Ref: https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne
   - ChatGPT訳: 「Moonrise」は、シャーの神聖な姉妹、セルーネを指しているに違いない。
 
@@ -540,7 +540,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
     - コアイメージ: 「我慢して支え持つ」。動きを伴うと「背負って運ぶ」、止まっていると「帯びる」「抱く」、事業なら「頑張って利益を生む」、重さに対しては「支える」。
 - Kagha: The Rite of Thorns. It is the Treefather's gift, that none come to harm. When we speak the final prayer, the Great Vine will sprout forth.
   - Treefather
-    - ゲーム用語,名詞: Silvanusの呼び名の一つ
+    - D&D用語,名詞: Silvanusの呼び名の一つ
   - [that](https://ejje.weblio.jp/content/that), (ザ|ダ)ット
     - 接続詞: 前述の文を前提として後述の文を続ける、〜ということ
   - [none](https://ejje.weblio.jp/content/none), ナン
@@ -714,7 +714,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
 - Nettie: Tadpole crawled out of his head soon after.
 - Tav: The drow and I have the same kind of parasite?
   - Drow, ドラウ
-    - ゲーム用語,名詞: 暗めの肌や髪の色を持つElf族。 dark elves, deep elves, night elves, under-elves とも呼ばれる。邪悪な傾向にあるが、必ずしもそうとは限らない。
+    - D&D用語,名詞: 暗めの肌や髪の色を持つElf族。 dark elves, deep elves, night elves, under-elves とも呼ばれる。邪悪な傾向にあるが、必ずしもそうとは限らない。
       - Ref: https://forgottenrealms.fandom.com/wiki/Drow
       - Ref: https://wikiwiki.jp/classicdnd/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/%E3%80%90%E3%83%89%E3%83%A9%E3%82%A6%E3%80%91
 - Nettie: Seems so. Gave Master Halsin a right start.
@@ -789,8 +789,8 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
 - Nettie: This is a vial of wyvern poison. Swear to me you'll swallow it if you feel _any_ symptoms.
   - [vial](https://ejje.weblio.jp/content/vial), ヴァイアウ
     - 名詞: ガラス瓶、水晶瓶
-  - [Wyvern](https://forgottenrealms.fandom.com/wiki/Wyvern), ワイ・ヴァーン
-    - ゲーム用語,名詞: 大きい翼、有毒な刺す尾、鋭い歯を持つ飛行するトカゲ。ドラゴンの親戚。
+  - Wyvern, ワイ・ヴァーン
+    - D&D用語,名詞: 大きい翼、有毒な刺す尾、鋭い歯を持つ飛行するトカゲ。ドラゴンの親戚。
       - Ref: https://forgottenrealms.fandom.com/wiki/Wyvern
   - [swallow](https://ejje.weblio.jp/content/swallow), スワロゥ
     - 他動詞: ぐっと飲む、飲み込む

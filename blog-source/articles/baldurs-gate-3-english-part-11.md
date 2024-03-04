@@ -418,7 +418,7 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
     - 自動詞: 脱ぐ、落とす
       - > 〈動・植物が〉葉[角，皮，毛，羽など]を(自然に)落とす，脱ぎかえる.
   - [illithid](https://ejje.weblio.jp/content/illithid), イリシッド
-    - ゲーム用語,名詞: Mind Flayerのこと
+    - D&D用語,名詞: Mind Flayerのこと
   - 〜 or so the stories go:「（または）〜と言われている、（または）〜と伝わっている」
     - ひとつの言い回しだが、慣用句とまでは言えなさそう
     - [so](https://ejje.weblio.jp/content/so) は副詞の「そのように、そのとおりに」で、前の文を参照している
@@ -446,7 +446,7 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
   - [infernal](https://ejje.weblio.jp/content/infernal), イン・ファーナゥ
     - 形容詞: 地獄の、悪魔のような
   - wardevil
-    - ゲーム用語,名詞: ウォー・デビル、D&Dの種族名
+    - D&D用語,名詞: ウォー・デビル、D&Dの種族名
       - Ref: https://forgottenrealms.fandom.com/wiki/War_devil
     - 強い、狡猾、被支配階級、みたいな感じ
   - [threat](https://ejje.weblio.jp/content/threat), スレッ(ド|)
@@ -644,7 +644,7 @@ Sazzaという捕虜のゴブリンに対して、Arkaというティーフリ�
   - Those words could be your last.:「それらの言葉が最後の言葉になり得る。」
 - Sazza: I'm not afraid. Chosen by the Absolute, I am. I'm blessed.
   - the Absolute
-    - ゲーム用語,名詞: ゴブリンの神的なもの？
+    - BG用語,名詞: ゴブリンの神的なもの？
     - Ref: https://forgottenrealms.fandom.com/wiki/The_Absolute
       - 翻訳して読んでもよくわからなかった
 - Arka: Oh, I'll bless you all right.
@@ -791,7 +791,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
   - [get on](https://ejje.weblio.jp/content/get+on)
     - 句動詞: 衣服を身につける、ものを取り付ける
   - Weave
-    - ゲーム用語,名詞: 呪文や魔法と関係ある手法もしくはエネルギー的なものの概念、よくわからん
+    - D&D用語,名詞: 呪文や魔法と関係ある手法もしくはエネルギー的なものの概念、よくわからん
       - Refs
         - https://trpg-japan.com/dnd/d-and-d-class/wizard-role-playing-method-recommended-for-d-and-d-beginners/
           - > D＆Dのウィザードは世界に満ち溢れる「織（ウィーヴ）」を手繰り寄せ、編み、操ることに長けているクラスであり、常に魔法を研究し続けています。呪文は「織」を成すためのもので、その力は強大であり破壊的なエネルギーを持っています。
@@ -869,7 +869,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
     - ただ、Weblio辞書にはその用法は書いてない
   - very far は物理的な距離のことを意味している
   - Faerûn
-    - ゲーム用語,名詞: 地域または地方名。おそらく国程度の大きさ。
+    - D&D用語,名詞: 地域または地方名。おそらく国程度の大きさ。
       - Ref: https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn
     - でもここはthe Nine HellsのAvernusじゃなかったっけ...?
   - [overflow](https://ejje.weblio.jp/content/overflow), オーヴァフロウ

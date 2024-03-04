@@ -49,7 +49,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [interact](https://ejje.weblio.jp/content/interact), インチュア・アークト
     - 自動詞: 相互に作用する、互いに影響し合う、ふれあう、対話する
   - camp supplies
-    - ゲーム用語,名詞: キャンプ用糧食
+    - BG用語,名詞: キャンプ用糧食
       - 食品それぞれが Camp Supplies という属性値を持っている、1のときも "1 Camp Supplies" と表記する
     - [supply](https://ejje.weblio.jp/content/supply), サ・プラァイ
       - 名詞: 軍隊や探検隊などの糧食・生活用品
@@ -76,7 +76,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 - Food and drink are needed to successfully complete a **Long Rest** at your camp and are automatically added to your Camp Supply Sack when picked up.  
   More nutritious food and drink will have higher value when used for Long Resting.
   - Camp Supply Sack
-    - ゲーム用語,名詞: Camp Supplies だけを格納するサブインベントリ
+    - BG用語,名詞: Camp Supplies だけを格納するサブインベントリ
     - Camp Supplies Sack ではないんだな？
     - [sack](https://ejje.weblio.jp/content/sack), サァック
       - 名詞: 通常長方形の穀物などを入れる大袋
@@ -105,7 +105,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 - Withers is a strange wraith that commands many powers: he allows you to resurrect allies, hire help, and change your class.  
   For a price, of course.
   - Wraith
-    - ゲーム用語,名詞: レイス、悪と闇から生まれた悪霊
+    - BG用語,名詞: レイス、悪と闇から生まれた悪霊
       - Ref: https://forgottenrealms.fandom.com/wiki/Wraith
       - Ref: https://www.dndbeyond.com/monsters/17064-wraith
     - [wraith](https://ejje.weblio.jp/content/wraith), ゥレ↑イス
@@ -358,8 +358,8 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [unsuspecting](https://ejje.weblio.jp/content/unsuspecting), アン・サスペクティング
     - 形容詞: 疑わない、怪しまない
   - [melee](https://ejje.weblio.jp/content/melee), (メ|ミ)ェリィ
-    - ゲーム用語,名詞: 近接
-      - 一般的には「乱戦」「混戦」
+    - 名詞: 近接
+      - ゲーム用語としての意味、一般的には「乱戦」「混戦」
     - 一般的には、形容詞の意味はない
   - melee distance
     - 「近接距離」と言う意味の、おそらくは複合名詞

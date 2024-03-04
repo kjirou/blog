@@ -128,9 +128,9 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
 
 - Damays: Zorru was right. Yellow as a toad, and twice as ugly.
   - Zorru
-    - ゲーム用語,人名: Tiefling種族の、おそらくDamaysやNymessaの仲間かリーダー
+    - BG用語,人名: Tiefling種族の、おそらくDamaysやNymessaの仲間かリーダー
     - Tiefling
-      - ゲーム用語: 種族名。Daemon のような風貌。
+      - D&D用語: 種族名。Daemon のような風貌。
       - Refs
         - https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%BC%E3%83%95%E3%83%AA%E3%83%B3%E3%82%B0
         - https://forgottenrealms.fandom.com/wiki/Tiefling
@@ -190,7 +190,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
     - in dire need of ~ で「深刻に|とても|緊急に〜を必要としている」という慣用句もあるよう
 - Damays: North-west. Look for Nettie. Whatever your wound, she can mend it.
   - Nettie
-    - ゲーム用語,人名: ドワーフのドルイド
+    - BG用語,人名: ドワーフのドルイド
       - Ref: https://bg3.wiki/wiki/Nettie
   - [mend](https://ejje.weblio.jp/content/mend), メ↑ンデュ
     - 他動詞: 直す
@@ -245,7 +245,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
   - [cure](https://ejje.weblio.jp/content/cure)
     - 名詞: 治療法
   - créche
-    - ゲーム用語: Githyankiの言語でそう表記する、共通語？だとStardock。宇宙にある基地か街かそういうものらしい。
+    - D&D用語: Githyankiの言語でそう表記する、共通語？だとStardock。宇宙にある基地か街かそういうものらしい。
       - Ref: https://forgottenrealms.fandom.com/wiki/Stardock
         - 流し読みだとどういうものかあまりわからなかった。ポータルでいけるらしいけど、そんなに簡単にいけるのかな...?
   - ; (セミコロン)
@@ -309,7 +309,7 @@ lastUpdatedAt: "2024-01-07 07:32:39+0000"
 - Aradin: Please! There's no time!
 - Zevlor: By the Nine Hells. Open the gate!
   - Nine Hells
-    - ゲーム用語,地名: 正確には The Nine Hells of Baator という、9層からなる地獄の世界のこと
+    - D&D用語,地名: 正確には The Nine Hells of Baator という、9層からなる地獄の世界のこと
       - Ref: https://forgottenrealms.fandom.com/wiki/Nine_Hells
     - 今主人公たちは、この第1層のAvernusに居る
       - しかし、そこに書いてある文章より、だいぶのどかに見えるんだけども。盗賊も居たし、人の世界と行き来できるのかな？

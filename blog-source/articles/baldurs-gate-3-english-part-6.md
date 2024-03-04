@@ -165,7 +165,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
       - 名詞: 血縁、親族
 - Astarion: My name's Astarion. I was in Baldur's Gate when those beasts snatched me.
   - Buldur's Gate
-    - ゲーム用語,名詞: バルダーズ・ゲートという都市の名前、この都市自体はD&Dの設定に存在する
+    - D&D用語,名詞: バルダーズ・ゲートという都市の名前、この都市自体はD&Dの設定に存在する
       - Ref: https://www.4gamer.net/games/688/G068867/20231112001/
         - > タイトルにもなっているバルダーズ・ゲートは，そんなフォーゴトン・レルムの――つまり惑星トリルのフェイルーン大陸南西部，沿岸地域ソード・コーストにある街の名前であり，多様な種族や職業，宗教関係者が集まる，フェイルーンでも有数の港湾商業都市のことだ。
       - Ref: https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate
@@ -174,7 +174,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - SNATCHER
 - Tav: _Introduce yourself - you're a Baldurian too._
   - Baldurian
-    - ゲーム用語,名詞: Buldur's Gateの住人
+    - D&D用語,名詞: Buldur's Gateの住人
     - なお、字面が似てる[Balduran](https://baldursgate.fandom.com/wiki/Balduran)（バルダラン）は、Buldur's Gateにまつわる過去の偉人の名前
 - Astarion: Is that so? We clearly move in different circles.
   - [Is that so?](https://ejje.weblio.jp/content/is+that+so)

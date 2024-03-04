@@ -209,7 +209,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - 間投詞: 痛みで息を吐く様
       - = ouch
   - Waterdeep
-    - ゲーム用語,名詞: 都市の名前
+    - D&D用語,名詞: 都市の名前
       - Ref: https://forgottenrealms.fandom.com/wiki/Waterdeep
 - Tav: No need to apologise. Are you all right?
 - Gale: A bit shocked, but friend, it's a relief and a pleasure to make your acquaintance.
@@ -279,7 +279,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - SVO と SVOC どちらも可、 turn 自体がそう
 - Gale: It's a process known as ceremorphosis, and let me assure you: it is to be avoided.
   - ceremorphosis
-    - ゲーム用語,名詞: Mind Flayerの寄生体により変身させられること
+    - D&D用語,名詞: Mind Flayerの寄生体により変身させられること
       - Ref: https://forgottenrealms.fandom.com/wiki/Ceremorphosis
         - 寄生された人が助かるには、初期段階（脳みそが食べられかけている最中）までに頭を完全に破壊して復活の呪文をかけることらしい
     - -sis の接尾語は「すること」「した結果」

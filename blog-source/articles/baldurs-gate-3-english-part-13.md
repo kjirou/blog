@@ -152,7 +152,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
       - しかし、この回答に辿り着くまでのかなりの間、 in this very camp と in very this camp を間違えて矛盾した回答をしていたので信憑性は薄い
     - まとめると、 in this very camp の語順は英語的に自然なもののようだが、その理由は不明
   - Maglubiyet, マグルビエント
-    - ゲーム用語,名詞: Goblinたちの主神、武闘派
+    - D&D用語,名詞: Goblinたちの主神、武闘派
       - Ref: https://forgottenrealms.fandom.com/wiki/Maglubiyet
   - favour(UK) = favor(US)
   - [in favor of](https://ejje.weblio.jp/content/in+favor+of)
