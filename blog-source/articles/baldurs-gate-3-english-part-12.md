@@ -38,7 +38,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
   - [stab](https://ejje.weblio.jp/content/stab), スタァブ
     - 他動詞: 良心などを鋭く傷つける
     - backstab
-  - ChatGPT訳:「リアとロランは決して認めないだろうけど、互いのために矢を受けるだろう。また、お互いを刺すこともあるかもしれない。どちらが先かはわからないけど。」
+  - ChatGPT訳: リアとロランは決して認めないだろうけど、互いのために矢を受けるだろう。また、お互いを刺すこともあるかもしれない。どちらが先かはわからないけど。
 - Cal: Thanks for cutting in - there might have been more than words if you hadn't.
   - [cut in](https://ejje.weblio.jp/content/cut+in)
     - 他動詞: 急に言葉を差し挟む
@@ -179,7 +179,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
       - 修飾できるのは主には、形容詞・受動態の形で過去分詞・現在分詞だが、限定的に副詞もできるよう。全部じゃねーか。
   - [pleasant](https://ejje.weblio.jp/content/pleasant), プレ(ゼ|ザ)ント
     - 形容詞: 快適な
-  - ChatGPT訳:「私は喉を切られて目覚める夢を見続けています。あなたの睡眠がより快適であることを願います。」
+  - ChatGPT訳: 私は喉を切られて目覚める夢を見続けています。あなたの睡眠がより快適であることを願います。
     - I'll wake up が未来形である理由がわからない
       - I keep dreaming が「夢をこれからも見続ける」と未来を含み、それに対して目覚める時点は未来だからなのだろうか
   - お前の始めた物語だろ！？
@@ -224,7 +224,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
       - Ref: https://nekoeigo.net/nekohigh/article-5
       - 他にも、both, double, half, twice などが同様の扱い
 - Okta: The only way we'll make it to Baldur's Gate is to run, and run hard.
-  - ChatGPT訳:「バルダーズ・ゲートにたどり着く唯一の方法は、走り、懸命に走ることだ。」
+  - ChatGPT訳: バルダーズ・ゲートにたどり着く唯一の方法は、走り、懸命に走ることだ。
     - 「走る」ではなくて「逃げる」の方が合ってそう？
   - to run, and run hard の部分に、カンマと and が並んでいるのは、意味上のものではなく会話の抑揚の制御だとのこと by ChatGPT
     - カンマでタメを入れられるので、run hard がより強調されるのではないかとのこと
@@ -339,7 +339,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
 - Tav: I've been better. It's... difficult to explain.
   - I've been better.:直訳で「より良い状態だった時もある」
 - Auntie Ethel: Oh, I've seen it all!
-  - ChatGPT訳:「あら、私は色々と見てきたわよ！」
+  - ChatGPT訳: あら、私は色々と見てきたわよ！
   - I've seen it all!
     - とりあえずは、言い回しとして「私は色々なものを見てきた、私は全てを見てきた」、または転じて「もう見たいものはない」という意味がある
       - 盲目になりつつあるダンサーの心情をつづった[I've Seen it All](https://www.youtube.com/watch?v=C9xPxBYRrRc)という曲もある
@@ -391,7 +391,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
   - [demented](https://ejje.weblio.jp/content/demented), デメンテッド
     - 形容詞: 発狂した
     - DEMENTO はラテン語で「狂気」
-  - ChatGPT訳:「彼女はまるで狂っているみたいだね。」
+  - ChatGPT訳: 彼女はまるで狂っているみたいだね。
   - 一般的には demented は好意的な意味は持たないとのこと by ChatGPT
 - Astarion: I love it! Let's tell her everything.
   - I love it! の it は、この状況全体を指している。
@@ -528,7 +528,7 @@ Aradinの仲間の一人へ話しかけた。先の戦闘の参加者かどう�
     - 名詞: 全乗組員、全乗務員
       - この意味の時は単数で使用する
   - Half (of) my crew
-  - ChatGPT訳:「俺の乗組員の半分は穴だらけだ。」
+  - ChatGPT訳: 俺の乗組員の半分は穴だらけだ。
 - Aradin: Now I'm gonna take the blame for leading the goblins here, _and_ losing track of the bloody druid.
   - [lose track of](https://ejje.weblio.jp/content/lose+track+of)
     - 他動詞: 〜の跡を見失う
@@ -773,7 +773,7 @@ Tieflingの鍛冶屋へ話しかけた
   - [machinery](https://ejje.weblio.jp/content/machinery), マシーナリィ
     - 名詞: 機械、機械類
   - but between you and me, there's nothing in all the realms like the utter power of infernal machinery
-    - ChatGPT訳:「君と私だけの話、すべての領域において、地獄の機械の絶対的な力に匹敵するものはないんだ」
+    - ChatGPT訳: 君と私だけの話、すべての領域において、地獄の機械の絶対的な力に匹敵するものはないんだ
     - 直訳してみると「君と私の間は、地獄の機械による完全な力のような領域が全てがない」
     - わからん、「我々は無力だ」という感じ？
 - Dammon: Alas - my offerings are far more humble these days.

@@ -118,7 +118,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
   - [rally](https://ejje.weblio.jp/content/rally), ゥラーリィ
     - 自動詞: 何かの周りに集まる・馳せ参ずる・結集する
   - Did the attackers rally to 'the Absolute' when they fell upon the gates?
-    - ChatGPT訳:「攻撃者たちは門に襲いかかったとき、「絶対者」に忠誠を誓っていましたか？」
+    - ChatGPT訳: 攻撃者たちは門に襲いかかったとき、「絶対者」に忠誠を誓っていましたか？
       - rally と言う単語に「忠誠を誓う」というまでの意味はなく、「the Absoluteのために集結していた」の意訳
   - [fall upon](https://en.wiktionary.org/wiki/fall_upon)
     - 他動詞: 突然攻撃する
@@ -237,7 +237,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
   - [trace](https://ejje.weblio.jp/content/trace), トレイス
     - 他動詞: 追跡する
   - I've been tracing their doings with great care.
-    - ChatGPT訳: 「彼らの動向を大変注意深く追っています。」
+    - ChatGPT訳: 彼らの動向を大変注意深く追っています。
     - 現在完了進行形の意味がいまいちイメージできないので、端々の知識だけ集めておく
       - 状態動詞の時は現在進行形、動作動詞の時は現在完了進行形、らしい
         - Ref: https://kou.benesse.co.jp/nigate/english/a13e3901.html
@@ -259,7 +259,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - is に助動詞がついている形である
     - is との差は、より不確実で確信を持ってない意味の付与
     - 意訳なら「どんな人か」「どんな人かもしれないが」になるのかな
-  - ChatGPT訳: 「彼らが崇拝しているこの「絶対者」が何者か、私が最初に書くことになるでしょう。」
+  - ChatGPT訳: 彼らが崇拝しているこの「絶対者」が何者か、私が最初に書くことになるでしょう。
 - Tav: _Leave._
 
 ### 20, Eliasis - 5:07 - Apikusis, Tav
@@ -272,7 +272,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
 - Apikusis: The bird knows. She needs to know. You do not.
   - [need](https://en.wiktionary.org/wiki/need#Verb), ニ↑ィド
     - 自動詞: 必須である、必要である
-  - ChatGPT訳: 「鳥は知っている。彼女は知る必要がある。あなたには知る必要はない。」
+  - ChatGPT訳: 鳥は知っている。彼女は知る必要がある。あなたには知る必要はない。
 - Tav: I helped defend this grove - I'm not your enemy.
   - [defend](https://ejje.weblio.jp/content/defend), デ・フェーンド
     - 他動詞: 〜を守る
@@ -314,7 +314,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - 他動詞: 敵対する、反抗する
       - turn A against B で「A が B に敵対する」
   - We can do nothing without turning the others against us.
-    - ChatGPT訳:「他の者たちに反感を買わずに私たちができることは何もない。」
+    - ChatGPT訳: 他の者たちに反感を買わずに私たちができることは何もない。
 - Apikusis: Only Master Halsin can stop this. I pray my bird returns with news of him.
 - Apikusis: If not, I fear for my people.
   - [fear](https://ejje.weblio.jp/content/fear), フィアー

@@ -31,7 +31,7 @@ lastUpdatedAt: "2024-01-20 13:23:59+0000"
 - Tav: Why was I forced onto this ship?
   - [force](https://ejje.weblio.jp/content/force), フォァス
     - 他動詞: 強制する、強いる
-  - ChatGPT訳:「なぜ私はこの船に強制的に乗せられたのか？」
+  - ChatGPT訳: なぜ私はこの船に強制的に乗せられたのか？
     - force に「強制的に乗せる」という意味はないが、文脈から的確であるとのこと
 - Us: _To know you. To love you. To give you our gift._
 - Tav: Something was put in my eye. What was it?

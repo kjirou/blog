@@ -19,7 +19,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - 形容詞: 追い詰められた
     - [corner](https://ejje.weblio.jp/content/corner), コォナァ
       - 他動詞: 追い詰める
-  - ChatGPT訳:「急いで、あの脳みそみたいなものを追い詰めたんだ。」
+  - ChatGPT訳: 急いで、あの脳みそみたいなものを追い詰めたんだ。
   - この文と次の文は言っていることが支離滅裂だが、ブツブツ何か言ってた図だったので、深く考えないで良い
 - Astarion: There, in the grass. You can kill it, can't you? Like you killed the others.
   - [grass](https://ejje.weblio.jp/content/grass), グラァス
@@ -119,12 +119,12 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
   - [prowl](https://ejje.weblio.jp/content/prowl), プ↑ラォゥ
     - 他動詞: 獲物を求めてまたは盗みの機会を狙ってこそこそと〜をうろつく
     - 自動詞でも使える
-  - ChatGPT訳:「あなたの心はねじれる。見慣れない目から、暗くて賑やかな通りをうろつきながら見ています。」
+  - ChatGPT訳: あなたの心はねじれる。見慣れない目から、暗くて賑やかな通りをうろつきながら見ています。
   - You're looking out of unfamiliar eyes は、Astarionの目から外を見ているということを言ってそう
 - \*You try to hold the memory, but it fades to the worm. The light. The fear.\*
   - [worm](https://ejje.weblio.jp/content/worm), ワ(ァ|ォ)ーム
     - 名詞: 細長く足のない虫、蛆虫、ワーム
-  - ChatGPT訳:「記憶を保とうとしますが、それは虫へと消えていきます。光へ。恐怖へ。」
+  - ChatGPT訳: 記憶を保とうとしますが、それは虫へと消えていきます。光へ。恐怖へ。
 - Astarion: What was that? What's going on?
   - [go on](https://ejje.weblio.jp/content/go+on)
     - 自動詞: 事が起こる、行事などが行なわれる
@@ -144,7 +144,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - 名詞: 内臓
   - [apology](https://ejje.weblio.jp/content/apology), ア・パァロズィ
     - 名詞: 謝罪、わび、謝罪すること
-  - ChatGPT訳:「そして、あなたの内臓で地面を飾ろうと思っていたのに。謝罪します。」
+  - ChatGPT訳: そして、あなたの内臓で地面を飾ろうと思っていたのに。謝罪します。
     - 前後のつながりが少しおかしい
       - 「...と思っていたことを。謝罪します。」の方がまだ適切？
     - 何か微妙な意味があるのか、文が不適切なのか、わからない
@@ -233,7 +233,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - 他、 many, half, all the, both the などが同様に形容詞なのに冠詞の前に来る
       - Ref: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
 - Astarion: And you seem like a useful person to know.
-  - ChatGPT訳:「あなたは知り合う価値のある人のようです。」
+  - ChatGPT訳: あなたは知り合う価値のある人のようです。
 - Astarion: All right, I accept. Lead on.
   - いち会話がくっそ長かった。流石にパケ絵の中心にいるAstarionさんだ。
   - いいキャラしているけど、主人公もローグ同士だから役割被りで連れまわしにくそう

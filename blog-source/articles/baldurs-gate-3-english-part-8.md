@@ -19,7 +19,7 @@ GimblebockはHalflingまたはGnomeらしく、TamanはHalf ElfまたはElfの�
   - both は、Gimblebockから見て他の二人ということ
   - [backbone](https://en.wiktionary.org/wiki/backbone#Noun), (バ|ベ)ック・ボーン
     - 名詞: 勇気または不屈の精神や強さの比喩
-  - ChatGPT訳: 「...あんたたち、俺の2倍の大きさをしているくせに、勇気は半分もない！」
+  - ChatGPT訳: ...あんたたち、俺の2倍の大きさをしているくせに、勇気は半分もない！
 - Taman: But we don't know what that _thing_ even is! And what about the crypt?
   - that thing は、墜落したMind Flayerの戦艦(= the nautiloid)を指す
   - [crypt](https://ejje.weblio.jp/content/crypt), クリ・プツ

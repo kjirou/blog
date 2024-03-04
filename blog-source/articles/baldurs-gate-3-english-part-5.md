@@ -105,7 +105,7 @@ Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
 - Shadowheart: No... I don't recognise this place. But anything's an improvement on where we just came from.
   - recognise = recognize
   - anything's an improvement on where we just came from
-    - ChatGPT訳:「さっきいたところよりはましね」
+    - ChatGPT訳: さっきいたところよりはましね
     - on (where (we just came from (where))) で、where はMind Flayerの戦艦内を指す
     - [on](https://ejje.weblio.jp/content/on)
       - 前置詞: 比較の基準や焦点・原因・理由・条件を指す
