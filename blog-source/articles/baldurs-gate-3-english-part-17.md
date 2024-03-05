@@ -46,3 +46,14 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
     - 自動詞: すべるように動く・飛ぶ、滑走する、すべる
   - ChatGPT訳: 鋭い観察力のおかげで、ナイフは不思議な肉からスムーズに抜け出ました。
   - どんな罠だったのだろうか...
+
+### 21, Eliasis - 15:44 - Narrator
+
+再び焼かれている肉を調べた
+
+- \*Mistery meat, tough as boar hide. Only the sharpest teeth could pierce it.\*
+  - [hide](https://ejje.weblio.jp/content/hide), ハァィド
+    - 名詞: 革にされる大きい獣の獣皮
+  - [teeth](https://ejje.weblio.jp/content/teeth), ティ↑ース
+    - tooth - teeth
+  - ChatGPT訳: 謎の肉、猪の皮のように堅い。それを突き破れるのは最も鋭い歯だけ。
