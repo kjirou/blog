@@ -57,3 +57,32 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
   - [teeth](https://ejje.weblio.jp/content/teeth), ティ↑ース
     - tooth - teeth
   - ChatGPT訳: 謎の肉、猪の皮のように堅い。それを突き破れるのは最も鋭い歯だけ。
+
+### 21, Eliasis - 15:57 - Tav, Grukkoh
+
+- \*As you approach, a guttural scream and a succession of quick bangs rattle the door.\*
+  - [approach](https://ejje.weblio.jp/content/approach), アプロォチ
+    - 自動詞: 近づく、接近する
+  - [guttural](https://ejje.weblio.jp/content/guttural), ガチャラ(ル|ウ)
+    - 形容詞: 喉から出る、喉の
+    - gut に「喉」という意味はない
+  - [scream](https://ejje.weblio.jp/content/scream), スクリーン
+    - 名詞: 恐怖や苦痛の叫び声、怒りや苛立ちの金切り声
+  - [succession](https://ejje.weblio.jp/content/succession), (サ|セ)クセション
+    - 名詞: 連続すること、連続するもの
+  - [bang](https://ejje.weblio.jp/content/bang), (ベ|バ)ァング
+    - 名詞: 強い衝撃音、銃声、刺激、興奮、衝撃、性交
+  - [rattle](https://ejje.weblio.jp/content/rattle), ゥラ↑ァトォ
+    - 他動詞: ガタガタと鳴らす・動かす
+  - ChatGPT訳: 近づくと、喉から出るような叫び声と連続する速い音がドアを揺らしました。
+- \*Then a low moan. Someone - or _something_ - is having a bit of fun.\*
+  - [moan](https://ejje.weblio.jp/content/moan), モーン
+    - 名詞: 苦痛や悲しみのうめき声、風などのうなり声
+  - ChatGPT訳: それから低いうめき声。誰か - または何か - が楽しんでいるようです。
+    - a bit に「少し」という意味はあるが、訳からは省略されている
+- Tav: Hello? Anybody in there?
+  - [anybody](https://ejje.weblio.jp/content/anybody), エニバディ
+    - 代名詞: 誰か、誰でも
+    - anyone よりくだけた言い方
+- Grukkoh: Go away.
+- Tav: _Leave_.

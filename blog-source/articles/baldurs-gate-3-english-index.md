@@ -54,6 +54,8 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
     - 単語・句・文などの意味の定義に使うもの
       - 名詞
         - Wiktionaryで Noun へ分類されているもの
+      - 代名詞
+        - Wiktionaryで Pronoun へ分類されているもの
       - 自動詞
         - Wiktionaryで Verb へ分類されていて、本文で自動詞として使われているもの
       - 他動詞
