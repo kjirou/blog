@@ -169,8 +169,7 @@ lastUpdatedAt: "2024-01-26 13:36:07+0000"
 - Lia: I keep dreaming I'll wake up with my throat slit. May your sleep be more pleasant.
   - [keep](https://ejje.weblio.jp/content/keep), キィプ
     - 自動詞: C し続ける
-      - keep 現在進行形のV でイディオム
-      - この C は動名詞
+      - keep Verb-ing(=動名詞)
   - [slit](https://ejje.weblio.jp/content/slit), スリット
     - slit - slit - slit | slitten
     - 他動詞: 主に縦方向に切り開く・切り裂く
@@ -799,10 +798,8 @@ Tieflingの鍛冶屋へ話しかけた
 捕虜のゴブリンとのイベントがあった時にArkaと居たもう一人へ話しかけた
 
 - Memnos: Please, leave us be. This isn't a good time -
-  - leave us be
-    - イディオム: 放っておく、そのままにする
-    - [leave](https://ejje.weblio.jp/content/leave) O V原形 という用法はあるけど、V原形が be 以外は非標準らしい
-    - leave O C に似てる
+  - [leave be](https://en.wiktionary.org/wiki/leave_be)
+    - = let be
 - Arka: It's fine, Memnos.
 - Arka: I've had some time to think since we last talked. Can't say I'm enjoying it much.
 

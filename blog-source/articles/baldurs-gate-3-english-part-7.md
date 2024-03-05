@@ -167,7 +167,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 副詞: 適切に、ほどよく、礼儀正しく
   - we'll get properly introduced
     - お互いにきちんと自己紹介しましょう
-    - properly introduced がイディオムではなさそうだが、よく使われる組み合わせのよう
+    - properly introduced が若干イディオム気味
 - Tav: _With a keen, but calculated twist, you attempt to sabotage the sigil._
   - [keen](https://ejje.weblio.jp/content/keen), キ↑ィン
     - 形容詞: 鋭い、頭の切れる、熱心な、集中した、洞察力のある
@@ -191,8 +191,8 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 名詞: 奇跡、驚くべきこと
   - working wonders
     - work wonders または working wonders として、イディオムとしても認知されていそう
-  - [do the trick](https://en.wiktionary.org/wiki/do_the_trick)
-    - イディオム: 目的を達成するのに十分である、働く、効く、成功する、問題を解決する
+  - [do the trick](https://en.wiktionary.org/wiki/do_the_trick#Verb)
+    - 自動詞: 目的を達成するのに十分・適切である、働く、効く、成功する、問題を解決する
     - [trick](https://ejje.weblio.jp/content/trick), (ト|チョ)リック
       - 名詞: 妙技、効果的・賢明・迅速な方法
       - Assoc: ハットトリック
@@ -349,7 +349,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - ChatGPT: 「間違いなくヒーラーが必要になるだろうし、それもすぐにね。もう一度手を組んで一緒にヒーラーを探すのはどう？」
 - Tav: Sounds like a plan. You're welcome to join me.
   - [sounds like a plan](https://en.wiktionary.org/wiki/sounds_like_a_plan)
-    - イディオム: 提案への同意を示す
+    - 慣用句: 提案への同意を示す
     - 「計画か否かわからない提案に対して計画だと認める」というロジックで肯定の意味を含むよう
   - ChatGPT訳: いいね。一緒に行くことにするよ。
 - Gale: Most excellent. A parasite shared is a parasite halved. Or something to that effect.
@@ -368,8 +368,9 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - 前置詞: そのような意味の
   - ChatGPT訳: 最高です。共有された寄生虫は、寄生虫を半分にする。または、そのような効果です。
 - Gale: Oh! but before you think you're about to embark on a journey with most illmannered a man: thank you for pulling me out of that stone.
-  - [be about to do](https://ejje.weblio.jp/content/be+about+to+do)
-    - イディオム: まさに〜しようとしている
+  - [about to](https://en.wiktionary.org/wiki/about_to#Phrase)
+    - 慣用句: まさに〜しようとしている
+      - about to Verb(=自動詞)
     - この about の品詞は何か不明。ChatGPTは副詞と言い、Weblio辞書の [about](https://ejje.weblio.jp/content/about) は叙述的用法の形容詞と言っている。
   - [embark](https://ejje.weblio.jp/content/embark), エンヴ↑ァーク
     - 自動詞: 新しいことや難事業などに乗り出す・従事する

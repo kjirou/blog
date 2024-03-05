@@ -673,7 +673,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
 
 - Nettie: I see you. Just give me a moment.
   - [I see you](https://en.wiktionary.org/wiki/I_see_you)
-    - イディオム: 聞き手が話し手の存在を認識していることを表現する
+    - 慣用句: 聞き手が話し手の存在を認識していることを表現する
 - Tav: _Wait patiently_.
   - [patiently](https://ejje.weblio.jp/content/patiently), ペ↑イシェントリィ
     - 副詞: 根気よく、気長に
@@ -906,8 +906,8 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - 「元の状態へ戻ることを成功しなかった」
 - Tav: What do you want me to do?
 - Nettie: The thing is, I've sent birds to find him, but the place is rotten with goblins. None of us can even get close.
-  - [the thing is](https://en.wiktionary.org/wiki/the_thing_is)
-    - イディオム: 重要な点を伝えるときの導入で使う、実は、要は、問題は
+  - [the thing is](https://en.wiktionary.org/wiki/the_thing_is#Phrase)
+    - 慣用句: 重要な点を伝えるときの導入で使う、実は、要は、問題は
   - [rotten](https://ejje.weblio.jp/content/rotten), ラ↑ットン
     - 形容詞: 腐った、腐敗した
     - ChatGPT訳のような「溢れている」のような意味はない。「腐敗した」が転じた「非常に悪い状態」を起点にしての意訳。
@@ -916,8 +916,8 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
   - [technically](https://ejje.weblio.jp/content/technically), (テ|チェ)↑クニカリ
     - 副詞: 厳密に、法律的に、専門的に
       - 「厳密に」は、 technically speaking としてイディオム的に使うときだけかも
-  - [I mean](https://en.wiktionary.org/wiki/I_mean)
-    - イディオム: 言い間違いを訂正するのに用いる、私は意図するのは、つまり
+  - [I mean](https://en.wiktionary.org/wiki/I_mean#Particle)
+    - 助詞: 言い間違いを訂正するのに用いる、私は意図するのは、つまり
   - You're one of them - technically speaking, I mean.
     - You're one of them という言い方には「あなたは私たちとは違う」という意味を暗に含むこともあり、おそらくNettieは言った後に気まずい思いをしている
     - そのため、直後に technically speaking, I mean. という補足を入れているのだと思う

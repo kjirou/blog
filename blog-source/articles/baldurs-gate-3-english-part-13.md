@@ -155,8 +155,8 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - D&D用語,名詞: Goblinたちの主神、武闘派
       - Ref: https://forgottenrealms.fandom.com/wiki/Maglubiyet
   - favour(UK) = favor(US)
-  - [in favor of](https://ejje.weblio.jp/content/in+favor+of)
-    - イディオム: 〜に味方して
+  - [in favor of](https://en.wiktionary.org/wiki/in_favor_of#Preposition)
+    - 前置詞: 〜に味方して
 - Volo: The scandal!
   - [scandal](https://en.wiktionary.org/wiki/scandal), スキャァンダゥ
     - 名詞: 宗教的な不道徳
@@ -186,8 +186,8 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
       - to Verb または on/upon Noun が後に続く事が多い
   - [for one](https://en.wiktionary.org/wiki/for_one)
     - 副詞: 同じ意見を持たないかもしれない人々の中の一人として、少なくとも私は
-  - [get to the bottom of](https://en.wiktionary.org/wiki/get_to_the_bottom_of)
-    - イディオム: 〜を見極める・真実を知る
+  - [get to the bottom of](https://en.wiktionary.org/wiki/get_to_the_bottom_of#Verb)
+    - 他動詞: 〜を見極める・真実を知る
 - Volo: I'm just preparing to head to their camp as we speak. In fact... if you'll excuse me, I ought not to dawdle.
   - [excuse](https://ejje.weblio.jp/content/excuse), エクスキューズ
     - 他動詞: 容赦する、許す
@@ -253,8 +253,6 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - また、文脈によっては付きそうだけど、今考えても仕方ないのでやめとく
   - [worship](https://ejje.weblio.jp/content/worship), ウォ・シップ
     - 他動詞: 〜を崇拝する
-  - [might be](https://ejje.weblio.jp/content/might+be)
-    - イディオム: 〜かもしれない
   - might be
     - is に助動詞がついている形である
     - is との差は、より不確実で確信を持ってない意味の付与

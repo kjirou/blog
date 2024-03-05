@@ -27,8 +27,8 @@ GimblebockはHalflingまたはGnomeらしく、TamanはHalf ElfまたはElfの�
 - Gimblebock: I'm telling you - it's a ship.
   - [I'm telling you](https://en.wiktionary.org/wiki/I%27m_telling_you)
     - = I can tell you
-    - [I can tell you](https://en.wiktionary.org/wiki/I_can_tell_you)
-      - イディオム: 発言の真実性の強調、信じてくれよ、本当なんだよ
+    - [I can tell you](https://en.wiktionary.org/wiki/I_can_tell_you#Phrase)
+      - 慣用句: 発言の真実性の強調、信じてくれよ、本当なんだよ
 - Gimblebock: And the crypt can wait! Mari and Barton have been trying to break in for days. Now we - _Stop!_
   - [break in](https://en.wiktionary.org/wiki/break_in)
     - 自動詞: 力ずくまたは違法な手段によってその場所に入る、押し入る

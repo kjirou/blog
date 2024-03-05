@@ -97,8 +97,8 @@ lastUpdatedAt: "2024-01-27 13:04:25+0000"
     - 名詞: 数秒から数分程度の短い間隔
 - Tav: What's that?
 - Shadowheart: It's nothing. Trust me.
-  - [It's nothing](https://ejje.weblio.jp/content/it%27s+nothing)
-    - イディオム: なんでもありません
+  - [It's nothing](https://en.wiktionary.org/wiki/it%27s_nothing)
+    - 慣用句: 感謝や心配をされた後の丁寧な返答、なんでもありません
   - 何のシーンだったか忘れた、大事に謎のアーティファクトを持ってるので、それをチラ見せしてたんだっけ？
 - Lae'zel: Enough of this chatter. We need to get to the helm - now.
   - [enough of](https://ejje.weblio.jp/content/enough+of)

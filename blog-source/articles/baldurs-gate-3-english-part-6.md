@@ -67,7 +67,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
       - 自動詞: なる、起こる、発生する
 - Astarion: Promises, promises. But I have other business, I'm afraid.
   - [promises, promises](https://en.wiktionary.org/wiki/promises,_promises)
-    - イディオム: 口先ばかり
+    - 慣用句: 口先ばかり
       - 約束が守られることを疑っている、脅しが空虚なものであると思っている、ような時に使う
     - promise の複数形がふたつでそう言う意味になるのは、約束がたくさんあるなら個々は信頼度が低くなるというイメージから
   - [I'm afraid](https://ejje.weblio.jp/content/I%27m+afraid)
@@ -177,8 +177,8 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - D&D用語,名詞: Buldur's Gateの住人
     - なお、字面が似てる[Balduran](https://baldursgate.fandom.com/wiki/Balduran)（バルダラン）は、Buldur's Gateにまつわる過去の偉人の名前
 - Astarion: Is that so? We clearly move in different circles.
-  - [Is that so?](https://ejje.weblio.jp/content/is+that+so)
-    - イディオム: 本当に？、そうなの？
+  - [Is that so?](https://en.wiktionary.org/wiki/is_that_so)
+    - 慣用句: 本当に？、そうなの？
   - [move](https://ejje.weblio.jp/content/move), ムゥーブ
     - 自動詞: 社交界やサークルに出入りする
   - [circle](https://ejje.weblio.jp/content/circle), (サ|セ)ーコォ

@@ -116,10 +116,10 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
       - 代名詞: 文を伴って〜をするものはなんでも・どんなことでも
   - ChatGPT訳: そうですね。多くはありませんが、何とかかき集めます。
 - Tav: Make sure it's enough.
-  - [make sure](https://en.wiktionary.org/wiki/make_sure)
-    - イディオム: 何かの発生や完了を確認する
-      - 句動詞は標準的には動詞と前置詞または副詞の組み合わせなので、これを句動詞とはあまり言えなさそう
-      - S V(=make) C(=sure) の文型で、その後に that による副詞節や of による副詞句を伴う形と考えた方が良さそう
+  - [make sure](https://en.wiktionary.org/wiki/make_sure#Verb)
+    - 自動詞: 何かの発生や完了を確認する
+      - 句動詞は標準的には動詞と前置詞または副詞の組み合わせなので、これは句動詞として特殊
+      - S V(=make) C(=sure) の文型で、その後に that による副詞節や of による副詞句を伴う形で使う
   - ChatGPT訳: 十分なものを用意してください。
 - Zevlor: Of course. Everything we have. Anything we can give you, we will.
   - ChatGPT訳: もちろんです。私たちが持っている全てです。あなたに提供できるものなら何でもします。
@@ -429,7 +429,7 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
 
 - Kaldani: Aradin's back with his tail between his legs. I'm glad for your help, but I'd hoped you were Halsin.
   - [tail between one's legs](https://en.wiktionary.org/wiki/tail_between_one%27s_legs#Phrase)
-    - イディオム: 惨めまたは卑怯に敗北した、尻尾を巻いて戻ってきた
+    - 慣用句: 惨めまたは卑怯に敗北した、尻尾を巻いて戻ってきた
   - I'd hoped = I had hoped
   - ChatGPT訳: アラディンがしっぽを巻いて戻ってきた。君の助けは嬉しいが、君がハルシンだったらと期待していたんだ。
     - こんなしょーもないことを言わんだろと思って、それで訳がわからなくなっていたパターンだった
