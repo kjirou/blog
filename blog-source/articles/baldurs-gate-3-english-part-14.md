@@ -93,7 +93,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - 本文では、 take to O1 O2 で「O1 へ O2 を伝える」という意味だが、これは古風な非標準的な用法
   - [grace](https://ejje.weblio.jp/content/grace), グゥレイス
     - 名詞: 恩寵、親切
-  - ChatGPT訳: 「誠実な言葉です。子よ、私の恩寵の言葉を他の人々に伝えなさい。シシフィスヴ - ティーラ、私のもとへ。」
+  - ChatGPT訳: 誠実な言葉です。子よ、私の恩寵の言葉を他の人々に伝えなさい。シシフィスヴ - ティーラ、私のもとへ。
 - Shadowheart: _Ngh_... it hurts...
   - 直後にShadowheartとの会話が発生し、そこでたまに痛くなる的なことを打ち明けられるが、これにどう関係しているのかまではまだ不明
 - Rath: Thank you, Kagha. Master Halsin would...
@@ -121,7 +121,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - more は比較級の形容詞、 than は前置詞
   - a snake in its fang
     - 「牙の中にある蛇」という関係に読めていて、文法上どういう構造なのかわからなかった
-  - ChatGPT訳: 「その女性の心には蛇の牙にあるよりも多くの毒がありますが、少なくとも子供は安全です。」
+  - ChatGPT訳: その女性の心には蛇の牙にあるよりも多くの毒がありますが、少なくとも子供は安全です。
 - Gale: What is youth if not a time to be forgiven for one's transgressions?
   - [youth](https://ejje.weblio.jp/content/youth), ユゥス
     - 名詞: 若さ
@@ -135,7 +135,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - a time を to be forgiven for one's transgressions が形容詞的に修飾している
     - to be forgiven はto不定詞の受動態だが、 forgive は自動詞の「許す」の意味のよう。つまり、 to be forgiven は「（特に目的語はなく）許される」。
     - それに for one's transgressions が続く。これは forgive O for の用法とは無関係そう。
-  - ChatGPT訳: 「何が若さであろうか、それは自分の過ちを許される時ではないか？」
+  - ChatGPT訳: 何が若さであろうか、それは自分の過ちを許される時ではないか？
 - Tav: Sounds like you have something to confess.
   - [confess](https://ejje.weblio.jp/content/confess), (カ|コ)ン・フェス
     - 自動詞: 白状する、罪を認める
@@ -152,7 +152,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [judgement](https://ejje.weblio.jp/content/judgement), ジャ↑ッジメント
     - 名詞: 判断
   - without ((vice) or (sin) or (the occasional lapse in judgement))
-  - ChatGPT訳: 「はは！君にだって何かあるでしょう？完全に無欠、罪も瑕も、たまには判断を誤ることもないわけ？」
+  - ChatGPT訳: はは！君にだって何かあるでしょう？完全に無欠、罪も瑕も、たまには判断を誤ることもないわけ？
 - Gale: No - you don't strike me as quite that boring.
   - [strike as](https://ejje.weblio.jp/content/strike+as)
     - 他動詞: 〜へ印象づける、〜へ感じさせる
@@ -161,7 +161,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
         - strike O as 印象の内容
   - [boring](https://en.wiktionary.org/wiki/boring#Adjective), ボオリング
     - 形容詞: 退屈や焦りでうんざりする・いらいらする
-  - ChatGPT訳: 「いや - 君がそんなに退屈な人だとは思えないな。」
+  - ChatGPT訳: いや - 君がそんなに退屈な人だとは思えないな。
 
 ### 20, Eliasis - 7:20 - Shadowheart, Tav
 
@@ -201,7 +201,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
       - おおよそ from を伴い、〜から離れる
   - your imagination is in danger of getting away from you
     - 直訳だと、「あなたの想像力があなたから離れていく危険」
-  - ChatGPT訳: 「せめて、あなたの想像力が暴走することがないように、それはタッドポール（オタマジャクシ）とは関係ありません。」
+  - ChatGPT訳: せめて、あなたの想像力が暴走することがないように、それはタッドポール（オタマジャクシ）とは関係ありません。
 - Shadowheart: It's just... something I have to live with.
   - [live with](https://en.wiktionary.org/wiki/live_with)
     - 自動詞: 受け入れる、容認する
@@ -223,7 +223,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [manage](https://ejje.weblio.jp/content/manage), (マ|メ)ネージ
     - 自動詞: どうにかやっていく
     - コアイメージ: 困難な状況でうまくやっていく
-  - ChatGPT訳: 「正直に言うと、かなり痛いです。でも、いつもすぐに過ぎ去るので、何とか耐えられます。」
+  - ChatGPT訳: 正直に言うと、かなり痛いです。でも、いつもすぐに過ぎ去るので、何とか耐えられます。
 - Tav: Are you _sure_ it's not connected to the tadpoles?
   - [connected](https://ejje.weblio.jp/content/connected), (カ|コ)ネクテッド
     - 形容詞: 関係のある
@@ -255,7 +255,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [do](https://ejje.weblio.jp/content/do), ドゥウ
     - 他動詞: 利益や恩恵を与える、施す
       - do O1(=対象) O2(=内容)
-  - ChatGPT訳: 「そう願うべきよ。自分のことばかり話したがる人たちを聞いたことある？私はあなたに親切をしているのよ。」
+  - ChatGPT訳: そう願うべきよ。自分のことばかり話したがる人たちを聞いたことある？私はあなたに親切をしているのよ。
 - Tav: Maybe I'd like to get to know you better.
   - [like](https://ejje.weblio.jp/content/like), ゥライク
     - 他動詞: 〜をしたいと思う
@@ -272,7 +272,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - just と fine は両方ともに副詞
   - [interrogation](https://ejje.weblio.jp/content/interrogation), イントゥアロゲイション
     - 名詞: 質問、取り調べ、尋問
-  - ChatGPT訳: 「優しい言葉ね...でも心配しないで - 一緒に旅をしていれば、自然と私のことを知ることができるでしょう。今すぐに尋問する必要はありません。」
+  - ChatGPT訳: 優しい言葉ね...でも心配しないで - 一緒に旅をしていれば、自然と私のことを知ることができるでしょう。今すぐに尋問する必要はありません。
 - Tav: If that's what you prefer, I can respect that.
   - [prefer](https://ejje.weblio.jp/content/prefer), プレ・ファー
     - 他動詞: むしろ〜の方を好む
@@ -302,7 +302,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - swear - swore - sworn
   - to wildlings sworn
     - 文脈からすると wildlings has sworn to the Old Oak's grove の変形だと思うが、どういう変形でこうなったのかがわからない
-  - ChatGPT訳: 「爪と歯によって、根からとげまで、古いオークの森は、野生の者たちに誓われている。」
+  - ChatGPT訳: 爪と歯によって、根からとげまで、古いオークの森は、野生の者たちに誓われている。
 - Intelligence (Religion) Save Failed: Tav
 - \*The mural depicts a ritual, but you do not recognise the deity involved.\*
   - [mural](https://ejje.weblio.jp/content/mural), ミューラォ
@@ -356,7 +356,7 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - 他動詞: 〜を国外へ追放する
     - Assoc: PATH OF EXLIE の時は名詞、流浪か追放か亡命かはわからない
   - I doubt ((those exiled by the rite) will survive long outside)
-  - ChatGPT訳: 「しかし、彼女の儀式が完了すれば、もっと多くの人が死ぬでしょう。儀式によって追放された人々が外で長く生き残ることは疑わしいです。」
+  - ChatGPT訳: しかし、彼女の儀式が完了すれば、もっと多くの人が死ぬでしょう。儀式によって追放された人々が外で長く生き残ることは疑わしいです。
 - Tav: If no one's looking for Halsin, I could do it.
 - Rath: Would you? I would give anything to see Halsin return home.
   - to see (Halsin)=S (return)=V原形 (home)=O
@@ -375,12 +375,12 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - 名詞: 存在感、個人を他の人から際立たせる性質
   - with the presence of a bear
     - ChatGPTからすると「熊のような存在感を持つ」であることが自明のようだが、「熊のような存在を伴う」という訳にならない理由がわからない
-  - ChatGPT訳: 「ハルシンは熊のような存在感を持つエルフです。彼は冒険者たちと一緒に西へ向かいました。」
+  - ChatGPT訳: ハルシンは熊のような存在感を持つエルフです。彼は冒険者たちと一緒に西へ向かいました。
   - adventurers はおそらくAradin一行のことだからかなり情報が古いが、この人は避難民側で何があったのか詳細を知らないということなのか
 - Rath: You won't mistake the First Druid for anyone else.
   - [mistake](https://ejje.weblio.jp/content/mistake), ミステイク
     - 他動詞: 〜を見間違える、〜を間違える
-  - ChatGPT訳: 「最初のドルイドを他の誰かと間違えることはありません。」
+  - ChatGPT訳: 最初のドルイドを他の誰かと間違えることはありません。
 
 ### 20, Eliasis - 8:18 - Tav
 
@@ -394,14 +394,14 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
     - = betwixt, between
   - [harp](https://ejje.weblio.jp/content/harp), ハァプ
     - 名詞: 竪琴、ハープ
-  - ChatGPT訳: 「最も暗い時に、ハープと野生が影に対して結んだ協定。」
+  - ChatGPT訳: 最も暗い時に、ハープと野生が影に対して結んだ協定。
 - Intelligence (History) Save Failed: Tav
 - \*Local history, written in riddles.\*
   - [local](https://ejje.weblio.jp/content/local), ローカウ
     - 形容詞: 地元の、場所の、土地の、特定の地方の
   - [riddle](https://ejje.weblio.jp/content/riddle), ゥリ↑ドォ
     - 名詞: なぞなぞ、謎
-  - ChatGPT訳: 「地元の歴史、謎かけで書かれている。」
+  - ChatGPT訳: 地元の歴史、謎かけで書かれている。
 
 ### 20, Eliasis - 8:19 - Tav, Shadowheart
 
@@ -416,21 +416,21 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - The towers seized, the battle done,
     - それぞれ、受動態の過去分詞の分詞構文、were と was が省略されている
     - 分詞構文で動詞のみ省略する形は珍しいが、詩的な文章はリズムの調整でそういうこともあるらしい
-  - ChatGPT訳: 「塔は奪われ、戦いは終わり、月の出は最も暗い者を破った。」
+  - ChatGPT訳: 塔は奪われ、戦いは終わり、月の出は最も暗い者を破った。
 - Intelligence (Religion) Successful: Tav
 - Not Found
 - Shadowheart: So many dead. Sent to the Nightsinger's embrace.
   - [dead](https://ejje.weblio.jp/content/dead), デ↑ェッド
     - 名詞: 死者
   - Nightsinger
-    - ゲーム用語,名詞: Sharの化身の一つ
+    - D&D用語,名詞: Sharの化身の一つ
     - Shar, シャー
-      - ゲーム用語: 闇と喪失の女神。闇、夜、喪失、死、策略、秘密などを司る。月の女神Selûneの姉。
+      - D&D用語: 闇と喪失の女神。闇、夜、喪失、死、策略、秘密などを司る。月の女神Selûneの姉。
         - Ref: https://forgottenrealms.fandom.com/wiki/Shar
         - Ref: https://gamecows.com/ja/%E3%82%B7%E3%83%A3%E3%83%BC5e/
   - [embrace](https://ejje.weblio.jp/content/embrace), エン・ブレイス
     - 名詞: 抱擁
-  - ChatGPT訳: 「こんなにも多くの死者たち。ナイトシンガーの抱擁へと送られた。」
+  - ChatGPT訳: こんなにも多くの死者たち。ナイトシンガーの抱擁へと送られた。
   - そういえば、NightsongはAradinが依頼を受けて探していた relic の名前だったよな...?
 - \*'Moonrise' must be a reference to Shar's divine sister, Selûne.\*
   - [reference](https://ejje.weblio.jp/content/reference), リ・ファレンス
@@ -440,9 +440,9 @@ Druidの長のKaghaが、避難民のTieflingの子のArabellaを、窃盗の罪
   - [sister](https://ejje.weblio.jp/content/sister), (スィ|シ)スタァ
     - 名詞: 妹、姉、姉妹
   - Selûne, セルーン
-    - ゲーム用語,名詞: 月の女神。月、星、航海、探検、善なる獣人などを司る。夜の女神Sharの妹。
+    - D&D用語,名詞: 月の女神。月、星、航海、探検、善なる獣人などを司る。夜の女神Sharの妹。
       - Ref: https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne
-  - ChatGPT訳: 「「Moonrise」は、シャーの神聖な姉妹、セルーネを指しているに違いない。」
+  - ChatGPT訳: 「Moonrise」は、シャーの神聖な姉妹、セルーネを指しているに違いない。
 
 ### 20, Eliasis - 8:25 - Loic
 
@@ -462,7 +462,7 @@ KaghaやRathと同じ部屋に居る人へ話しかけた
   - they were crossed long ago
     - they は limits を指し、それを前提に crossed は「超える」「越える」という意味になっている
       - cross そのものにそのような意味はない
-  - ChatGPT訳: 「どうかお帰りください。私たちのおもてなしには限界があります - そして、それはとっくに超えられていました。」
+  - ChatGPT訳: どうかお帰りください。私たちのおもてなしには限界があります - そして、それはとっくに超えられていました。
   - 受け入れるにも限度があるというのを直接言ったのは、この人が初めてである。そうだよね。
 
 ### 20, Eliasis - 8:25 - Marcoryl
@@ -476,7 +476,7 @@ KaghaやRathと同じ部屋に居る人へ話しかけた
   - hell child
     - おそらくは、Tieflingのその見た目から、その子供達を指す複合名詞
     - 本文では the を伴っているのでArabellaを指す
-  - ChatGPT訳: 「次にティーフリングたちは何を望むんだろう？地獄の子供を解放するのは間違いだった。」
+  - ChatGPT訳: 次にティーフリングたちは何を望むんだろう？地獄の子供を解放するのは間違いだった。
 
 ### 20, Eliasis - 8:28 - Silver, Tav
 
@@ -497,20 +497,20 @@ KaghaやRathと同じ部屋に居る狼へ話しかけた
 Halsinが居ない現在、First DruidであるKaghaへ話しかけた
 
 - Kagha: Go on. Say it. You think I'm a monster.
-  - ChatGPT訳: 「さあ、言ってみな。私が怪物だと思ってるんだろう？」
+  - ChatGPT訳: さあ、言ってみな。私が怪物だと思ってるんだろう？
   - この人の行為は全般的にDruidたちの利益を優先していて、その面で一貫してるから悪いとは思ってないが、自分たちの都合に合わない
     - ただ、Intelligence Checkで吐露された内心で小物バレしているんだ... あれ良くないよなぁ
 - Tav: Only a monster would threaten a child.
   - [threaten](https://ejje.weblio.jp/content/threaten), スレテン
     - 他動詞: 脅す、脅迫する
-  - ChatGPT訳: 「子供を脅すなんて、怪物以外の何者でもないよ。」
+  - ChatGPT訳: 子供を脅すなんて、怪物以外の何者でもないよ。
   - いやーそんなことないっすよ、と返そうとしたんだけど程良い選択肢が無かった
 - Kagha: Yes - you _would_ say so. I know your kind. You see only villains and victims.
   - [villain](https://ejje.weblio.jp/content/villain), ヴィリン
     - 名詞: 悪党、悪者
   - [victim](https://ejje.weblio.jp/content/victim), ヴィクティム
     - 名詞: 犠牲者、被害者
-  - ChatGPT訳: 「ええ、そう言うでしょうね。私はあなたのような人を知っています。あなたは悪者と被害者しか見えない。」
+  - ChatGPT訳: ええ、そう言うでしょうね。私はあなたのような人を知っています。あなたは悪者と被害者しか見えない。
 - Kagha: A viper bares her fangs defending her brood. I call her mother. You call her monster.
   - [viper](https://ejje.weblio.jp/content/viper), ヴァイパァ
     - 名詞: 毒蛇
@@ -518,7 +518,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
     - 他動詞: 物理的に裸にする・露出する、心情を吐露する
   - [brood](https://ejje.weblio.jp/content/brood), ブルゥド
     - 名詞: 一家の子供達
-  - ChatGPT訳: 「毒蛇が子どもを守るために牙を剥く。私は彼女を母と呼びます。あなたは彼女を怪物と呼びます。」
+  - ChatGPT訳: 毒蛇が子どもを守るために牙を剥く。私は彼女を母と呼びます。あなたは彼女を怪物と呼びます。
 - Kagha: No matter. I took back the Idol of Silvanus and the rite has resumed. We will seal the grove. Free from harm. Free of _intruders_.
   - [resume](https://ejje.weblio.jp/content/resume), ゥリ・ドゥーム
     - 自動詞: 中断したことを再開する、回復する
@@ -530,7 +530,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
     - free from だと、free が「自由な」という意味になり、 本文では「害から解放された」という意味になる。問題はあるけど解決したイメージ。
     - free of だと、free が「免れた」という意味になり、 本文では「侵入者を免れた」という意味になる。問題自体が消えたイメージ。
     - なぜ from と of でそういう解釈の違いになるのかは、わからない
-  - ChatGPT訳: 「問題ない。シルヴァヌスの偶像を取り戻し、儀式は再開された。私たちはこの聖域を封じる。害からも、侵入者からも自由だ。」
+  - ChatGPT訳: 問題ない。シルヴァヌスの偶像を取り戻し、儀式は再開された。私たちはこの聖域を封じる。害からも、侵入者からも自由だ。
 - Tav: This rite must be born of powerful magic.
   - [born](https://ejje.weblio.jp/content/born), ボァン
     - bear - bare - born
@@ -540,7 +540,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
     - コアイメージ: 「我慢して支え持つ」。動きを伴うと「背負って運ぶ」、止まっていると「帯びる」「抱く」、事業なら「頑張って利益を生む」、重さに対しては「支える」。
 - Kagha: The Rite of Thorns. It is the Treefather's gift, that none come to harm. When we speak the final prayer, the Great Vine will sprout forth.
   - Treefather
-    - ゲーム用語,名詞: Silvanusの呼び名の一つ
+    - D&D用語,名詞: Silvanusの呼び名の一つ
   - [that](https://ejje.weblio.jp/content/that), (ザ|ダ)ット
     - 接続詞: 前述の文を前提として後述の文を続ける、〜ということ
   - [none](https://ejje.weblio.jp/content/none), ナン
@@ -556,7 +556,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
     - 自動詞: 芽を出す、生え始める
   - [forth](https://ejje.weblio.jp/content/forth), フォ(オ|ア)ス
     - 副詞: 目に見えるところへ、前へ
-  - ChatGPT訳: 「茨の儀式。それは木の父の贈り物で、誰もが害を受けることがありません。最後の祈りを唱える時、大蔓が芽生えます。」
+  - ChatGPT訳: 茨の儀式。それは木の父の贈り物で、誰もが害を受けることがありません。最後の祈りを唱える時、大蔓が芽生えます。
 - Kagha: The grove will be cloaked in bramble and thorn. No one enters, no one leaves. _Sanctuary_.
   - [cloak](https://ejje.weblio.jp/content/cloak), (ク|コ)ロォク
     - 他動詞: 覆う、覆って隠す
@@ -581,7 +581,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
       - 「息苦しくする」という意味もあり、そこから転じて「補給を断つ」という意味もある
   - we choke them out
     - choke out 自体に「外へ排除する」という意味はない、機能不全に陥らせるという物騒な意味を転じている
-  - ChatGPT訳: 「このようなことは、外来者が私たちに感染している間に起こることはありません。シルヴァヌスは私たちが彼らを排除することを要求しています。」
+  - ChatGPT訳: このようなことは、外来者が私たちに感染している間に起こることはありません。シルヴァヌスは私たちが彼らを排除することを要求しています。
   - 避難民たちを儀式の前に、この場所から武力で追放するということのよう
 - Tav: I came on Zevlor's behalf. His people could perish if you force them out.
   - [behalf](https://ejje.weblio.jp/content/behalf), (ベ|ビ)・ハウフ
@@ -617,7 +617,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
 - Kagha: They're to be gone before final prayer. If they are not...
   - final prayer
     - なぜ the が付かないのだろう？
-  - ChatGPT訳: 「彼らは最終祈祷前に去るべきです。もし去らなければ...」
+  - ChatGPT訳: 彼らは最終祈祷前に去るべきです。もし去らなければ...
 - Kagha: ...the viper must strike.
   - [must](https://ejje.weblio.jp/content/must), マ↑スト
     - コアイメージ: 強制力が働き、ある行為をせねばならない、ある認識をせねばならない
@@ -626,7 +626,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
 - Tav: Then it seems I'd best speak to Zevlor.
 - Kagha: You will do more than speak.
   - ChatGPT によると、 do も speak も動詞とのことだが、そういう比較級の例を他で見つけられなかった
-  - ChatGPT訳: 「言葉以上のことをするでしょう。」
+  - ChatGPT訳: 言葉以上のことをするでしょう。
 - Kagha: This tale ends but one way: with the outlander rot cleansed and the grove forever shrouded.
   - [tale](https://ejje.weblio.jp/content/tale), テイルゥ
     - 名詞: 事実・架空・伝説の話、物語
@@ -642,7 +642,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
     - Assoc: Fallout4 の Silver Shroud、 shroud は名詞で「とばり」「覆い」、「銀のとばり」かな
   - This tale ends but one way
     - 「この物語は一つの方法を除いて終わる」→「この物語は一つの方法のみになる」、というロジックだろうか
-  - ChatGPT訳: 「この物語は一つの方法で終わるだけです：異国人の腐敗が浄化され、森が永遠に覆われる。」
+  - ChatGPT訳: この物語は一つの方法で終わるだけです：異国人の腐敗が浄化され、森が永遠に覆われる。
   - Kaghaは予言めいた言い方をするので、全体的に会話の意味が掴みにくかった
 
 ### 20, Eliasis - 9:18 - Kagha, Tav
@@ -654,7 +654,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
 - Kagha: Nettie, yes. She's bumbling about somewhere.
   - [bumble](https://ejje.weblio.jp/content/bumble), バンボゥ
     - 自動詞: ブンブンいう、もぐもぐいう、ヘマなやり方をする
-  - ChatGPT訳: 「ネッティは、ええ。どこかでドジを踏んでいるよ。」
+  - ChatGPT訳: ネッティは、ええ。どこかでドジを踏んでいるよ。
   - あまりNettieのことを良く思っていないのかな？
 - Kagha: But if your treatment is meant to outlast the rite, you'll be removed with the rest.
   - [mean](https://ejje.weblio.jp/content/mean), ミィーン
@@ -673,7 +673,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
 
 - Nettie: I see you. Just give me a moment.
   - [I see you](https://en.wiktionary.org/wiki/I_see_you)
-    - イディオム: 聞き手が話し手の存在を認識していることを表現する
+    - 慣用句: 聞き手が話し手の存在を認識していることを表現する
 - Tav: _Wait patiently_.
   - [patiently](https://ejje.weblio.jp/content/patiently), ペ↑イシェントリィ
     - 副詞: 根気よく、気長に
@@ -696,7 +696,7 @@ Halsinが居ない現在、First DruidであるKaghaへ話しかけた
     - 他動詞: ものや人をある場所へ置く
     - コアイメージ: ある場所へ移動する
     - 本文で使われているような「言う」「表現する」という意味を直接は持たない
-  - ChatGPT訳: 「これをいいように言う方法はないんだけど...えっと...頭の中にオタマジャクシがいるんだ。」
+  - ChatGPT訳: これをいいように言う方法はないんだけど...えっと...頭の中にオタマジャクシがいるんだ。
 - Nettie: A tadpole? A _mind flayer_ tadpole?
 - Tav: You know of them? Can you help me?
   - [know of](https://en.wiktionary.org/wiki/know_of)
@@ -714,7 +714,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
 - Nettie: Tadpole crawled out of his head soon after.
 - Tav: The drow and I have the same kind of parasite?
   - Drow, ドラウ
-    - ゲーム用語,名詞: 暗めの肌や髪の色を持つElf族。 dark elves, deep elves, night elves, under-elves とも呼ばれる。邪悪な傾向にあるが、必ずしもそうとは限らない。
+    - D&D用語,名詞: 暗めの肌や髪の色を持つElf族。 dark elves, deep elves, night elves, under-elves とも呼ばれる。邪悪な傾向にあるが、必ずしもそうとは限らない。
       - Ref: https://forgottenrealms.fandom.com/wiki/Drow
       - Ref: https://wikiwiki.jp/classicdnd/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC/%E3%80%90%E3%83%89%E3%83%A9%E3%82%A6%E3%80%91
 - Nettie: Seems so. Gave Master Halsin a right start.
@@ -733,12 +733,12 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - 他動詞: 〜を研究する、〜を綿密に調査する
   - [option](https://ejje.weblio.jp/content/option), アープシ(ェ|ョ)ン
     - 名詞: 選択肢、選択権
-  - ChatGPT訳: 「彼ではなく私を手に入れたのは残念です。彼はこれらのことを理解しています - 研究していました。それでも、私たちには選択肢があります。」
+  - ChatGPT訳: 彼ではなく私を手に入れたのは残念です。彼はこれらのことを理解しています - 研究していました。それでも、私たちには選択肢があります。
 - Nettie: You don't have to be here for this.
   - have to be (here) (for this)
     - have to は、「〜する必要がある」「〜すべき」
     - be は、「居る」という意味の自動詞
-  - ChatGPT訳: 「これにはあなたがここにいる必要はありません。」
+  - ChatGPT訳: これにはあなたがここにいる必要はありません。
   - 前文とのつながりにおいて文意がわからない、「選択肢がある」というからこちらの意思を伺うのかと思っていた
 - Shadowheart: No, I'll stay. I'd rather know exactly what you're up to.
   - [rather](https://ejje.weblio.jp/content/rather), ラ↑ードァ
@@ -746,7 +746,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
   - [up to](https://en.wiktionary.org/wiki/up_to#Preposition)
     - 前置詞: 〜をやっている(=doing)、〜に巻き込まれている
     - Weblio辞書や日本語記事には「目的」「予定」と書いてあるのだが、Wikitionaryにはその説明はない
-  - ChatGPT訳: 「いいえ、私は残ります。あなたが何をしているのか正確に知りたいです。」
+  - ChatGPT訳: いいえ、私は残ります。あなたが何をしているのか正確に知りたいです。
 - Nettie: All right, let's see what we can do.
 - Tav: Thank you, I'll take anything that can help.
   - take (anything (that can help))
@@ -766,7 +766,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
   - they're victims の they は誰を指す？
     - ChatGPTによると、犠牲者グループ全体の中で特に自分たちが犠牲者であると認識できている人たち、を指す雰囲気だが、回答も混乱していてわからない
     - 自分が考えるところによると、おそらくは、前文の each other の対象
-  - ChatGPT訳: 「犠牲者たちは互いにを認識できるのですね？もちろん、他の犠牲者たちは自分たちが犠牲者だとは知らないわけですが。」
+  - ChatGPT訳: 犠牲者たちは互いにを認識できるのですね？もちろん、他の犠牲者たちは自分たちが犠牲者だとは知らないわけですが。
   - 自分の解釈だと、「他の犠牲者から見れば、互いに認識できたという2者間が本当に犠牲者かわからないよね？」という一部否定に読めている
 - Nettie: How'd you pick up the prasite? Halsin was desperate to find where all this was happening.
   - [desperate](https://ejje.weblio.jp/content/desperate), デス・(パ|ペ)レト
@@ -781,7 +781,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
 - Nettie: ...Look, you've been straight with me, so I'll be straight with you. You're dangerous. If you transform here, we're all dead.
   - [straight](https://ejje.weblio.jp/content/straight), ストレィト
     - 形容詞: 正直で、あからさまで、公明正大で
-  - ChatGPT訳: 「...聞いて、あなたは私に正直だったから、私も正直に話すわ。あなたは危険よ。ここで変身したら、私たちはみんな死ぬわ。」
+  - ChatGPT訳: ...聞いて、あなたは私に正直だったから、私も正直に話すわ。あなたは危険よ。ここで変身したら、私たちはみんな死ぬわ。
   - その発想はなかった。ゲーム的にもMind Flayerの強個体に先手を取られたら、どんな強者でも被害は免れなさそう。
 - Nettie: But you seem like a good soul. You deserve a chance to save yourself.
   - [soul](https://ejje.weblio.jp/content/soul), ソォゥ
@@ -789,8 +789,8 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
 - Nettie: This is a vial of wyvern poison. Swear to me you'll swallow it if you feel _any_ symptoms.
   - [vial](https://ejje.weblio.jp/content/vial), ヴァイアウ
     - 名詞: ガラス瓶、水晶瓶
-  - [Wyvern](https://forgottenrealms.fandom.com/wiki/Wyvern), ワイ・ヴァーン
-    - ゲーム用語,名詞: 大きい翼、有毒な刺す尾、鋭い歯を持つ飛行するトカゲ。ドラゴンの親戚。
+  - Wyvern, ワイ・ヴァーン
+    - D&D用語,名詞: 大きい翼、有毒な刺す尾、鋭い歯を持つ飛行するトカゲ。ドラゴンの親戚。
       - Ref: https://forgottenrealms.fandom.com/wiki/Wyvern
   - [swallow](https://ejje.weblio.jp/content/swallow), スワロゥ
     - 他動詞: ぐっと飲む、飲み込む
@@ -812,7 +812,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
   - there's dozens of you
     - 正しい文章なら、 there are と複数形になる
     - ChatGPT によると、口語では会話のリズムのために there's を使いたくなるときがあるとのこと
-  - ChatGPT訳: 「ねえ、私は人々を治療することに人生を費やしてきたけれど、一度もマインドフレイヤーの感染を見たことがなかったの。それなのに突然、あなたたちが何十人もいる - もしかしたらもっといるかもしれないわ。」
+  - ChatGPT訳: ねえ、私は人々を治療することに人生を費やしてきたけれど、一度もマインドフレイヤーの感染を見たことがなかったの。それなのに突然、あなたたちが何十人もいる - もしかしたらもっといるかもしれないわ。
 - Nettie: Master Halsin and I were tracking them, studying them, trying to figure out what the hells was going on.
   - [hell](https://ejje.weblio.jp/content/hell), ヘ↑ゥ
     - 名詞: 地獄のような苦悩の場所・状況、修羅場
@@ -821,14 +821,14 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - [figure](https://ejje.weblio.jp/content/figure), フィギュアァ
       - 他動詞: 〜だと思う・考える
   - trying to figure out (what (the hells was going on))
-  - ChatGPT訳: 「マスター・ハルシンと私は彼らを追跡し、研究し、一体全体何が起こっているのかを理解しようとしていました。」
+  - ChatGPT訳: マスター・ハルシンと私は彼らを追跡し、研究し、一体全体何が起こっているのかを理解しようとしていました。
 - Nettie: Because you should all be changing - there should be a small army of mind flayers out there! But you're not. Weird powers aside, you seem perfectly normal.
   - [because](https://en.wiktionary.org/wiki/because#Conjunction), ビカァズ
     - 接続詞: 知られているように、事実から推測し決定されるように
       - なお、ChatGPTはこの意味をどうしても出してくれない、「理由」「原因」としか答えない
   - Because you should all be changing
     - you と all は同格の関係、 S 助動詞 同格のall V の構文
-      - Ref: Part 5
+      - Ref: [Part 5 で調べた同格のこと](https://kjirou.github.io/blog/articles/baldurs-gate-3-english-part-5.html#20-eliasis---321---tav-shadowheart)
   - out there
     - 今更調べたが、イディオムではなく、 out:前置詞, there:副詞 の副詞句
       - 「ちょっと離れたひと区画の場所のあそこに」「外に」という意味が主、本文だと文脈上「そこいら中に」になる
@@ -848,11 +848,11 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - {何か} aside, {文} で、「{何か}はさておいて・別として、{文}」という例外的な構文だと考えた方が良さそう
       - Ref: https://nativecamp.net/heync/question/37250
         - こちらの例だと、 {何か} 部分には文が入っている
-  - ChatGPT訳: 「みんな変わるべきなのに - そこら中にマインドフレイヤーの小さな軍隊がいるはずなのに！でも、おかしいね。変な力を除けば、あなたたちは完全に普通に見える。」
+  - ChatGPT訳: みんな変わるべきなのに - そこら中にマインドフレイヤーの小さな軍隊がいるはずなのに！でも、おかしいね。変な力を除けば、あなたたちは完全に普通に見える。
 - Tav: What do you mean 'should' be changeing?
   - 'should' be changeing の主語がない？
     - ChatGPTによると、この文はNettieの発言からの引用なので、暗黙的に主語は you(=Tavたち) であるとのこと
-  - ChatGPT訳: 「「変わるべき」とはどういう意味？」
+  - ChatGPT訳: 「変わるべき」とはどういう意味？
 - Nettie: Mind flayers reproduce by infecting someone with their parasite. Seven gruesome days later, the victim transforms and a new mind flayer is born.
   - [reproduce](https://ejje.weblio.jp/content/reproduce), ゥリピデュース
     - 自動詞: 人間や動植物が繁殖する
@@ -860,21 +860,21 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - 形容詞: ぞっとする、身の毛もよだつような
   - the victim は何を指している？
     - これは先ほど会話に出てきた The drow ではなくて、仮定としての「ある犠牲者」を指す
-  - ChatGPT訳: 「マインドフレイヤーは、寄生虫で誰かを感染させることによって繁殖します。恐ろしい7日間の後、被害者は変身し、新しいマインドフレイヤーが誕生します。」
+  - ChatGPT訳: マインドフレイヤーは、寄生虫で誰かを感染させることによって繁殖します。恐ろしい7日間の後、被害者は変身し、新しいマインドフレイヤーが誕生します。
 - Nettie: The thing in your skull, though? It's different to anything in our records.
   - [though](https://en.wiktionary.org/wiki/though#Adverb), (ザ|ゾ)ォ
     - 副詞: 逆説的な内容に対して発言を強調する、ですが、けど、だけど、でも、しかし
       - Wiktionaryには発言を逆説や疑問を呈示しつつ強める、というまでは書かれていないが、Weblio辞書や本文や各種例文を見るとそいういう意味が通常含まれるように見える
-  - ChatGPT訳: 「あなたの頭蓋骨の中にあるものは、ですが？ それは私たちの記録にあるどんなものとも違います。」
+  - ChatGPT訳: あなたの頭蓋骨の中にあるものは、ですが？ それは私たちの記録にあるどんなものとも違います。
     - 日本語へ訳すのは難しそう
 - Nettie: It's one of their worms, for sure, but this one gives you powers - telepathic connections. And it doesn't turn you into one of them.
   - [for sure](https://en.wiktionary.org/wiki/for_sure#Prepositional_phrase)
     - 前置詞句: 間違いなく、疑いなく
   - [telepathic](https://ejje.weblio.jp/content/telepathic), テレ・パ↑ーシック
     - 形容詞: テレパシーの、精神感応的な
-  - ChatGPT訳: 「間違いなく彼らのワームの一つだけど、このワームはあなたに力を与えるんだ - テレパシーの繋がりを。そして、それはあなたを彼らの一人に変えたりしないよ。」
+  - ChatGPT訳: 間違いなく彼らのワームの一つだけど、このワームはあなたに力を与えるんだ - テレパシーの繋がりを。そして、それはあなたを彼らの一人に変えたりしないよ。
 - Nettie: Not yet, anyhow.
-  - ChatGPT訳: 「少なくとも今はね。」
+  - ChatGPT訳: 少なくとも今はね。
 - Tav: That's... good news?
 - Nettie: Could be, but there's a lot we don't know. Infected - folks like you - have been converging on an old temple of Selûne, and I've no idea why.
   - [lot](https://ejje.weblio.jp/content/lot), (ラ|ロ)ット
@@ -890,7 +890,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
       - 疑問文: Why are you late?
       - 接続詞的に使うとき: Why I did it, you'll never understand.
       - 間投詞として使う: Why, that's the most beautiful painting I've ever seen!
-  - ChatGPT訳: 「そうかもしれないけれど、まだわからないことがたくさんあるわ。感染した人たち - あなたのような人たち - がセルーネの古い寺院に集まっているの。その理由は全くわからないのよ。」
+  - ChatGPT訳: そうかもしれないけれど、まだわからないことがたくさんあるわ。感染した人たち - あなたのような人たち - がセルーネの古い寺院に集まっているの。その理由は全くわからないのよ。
 - Nettie: When Master Halsin heard the adventurers were heading that way, he saw a chance to get answers. Joined on the spot.
   - [way](https://ejje.weblio.jp/content/way), ウェイ
     - 名詞: 方向、方面
@@ -898,7 +898,7 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - 前置詞句: その瞬間
   - [join](https://ejje.weblio.jp/content/join), ジョ↑ーイン
     - 自動詞: 参加する、行動を共にする
-  - ChatGPT訳: 「冒険者たちがその方向に向かっているとマスター・ハルシンが聞いた時、彼は答えを得るチャンスを見た。その場で参加した。」
+  - ChatGPT訳: 冒険者たちがその方向に向かっているとマスター・ハルシンが聞いた時、彼は答えを得るチャンスを見た。その場で参加した。
 - Nettie: Whatever he found there, he didn't make it back.
   - [back](https://ejje.weblio.jp/content/back), バ↑ァック
     - 副詞: 元の状態・場所へ戻って
@@ -906,22 +906,22 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - 「元の状態へ戻ることを成功しなかった」
 - Tav: What do you want me to do?
 - Nettie: The thing is, I've sent birds to find him, but the place is rotten with goblins. None of us can even get close.
-  - [the thing is](https://en.wiktionary.org/wiki/the_thing_is)
-    - イディオム: 重要な点を伝えるときの導入で使う、実は、要は、問題は
+  - [the thing is](https://en.wiktionary.org/wiki/the_thing_is#Phrase)
+    - 慣用句: 重要な点を伝えるときの導入で使う、実は、要は、問題は
   - [rotten](https://ejje.weblio.jp/content/rotten), ラ↑ットン
     - 形容詞: 腐った、腐敗した
     - ChatGPT訳のような「溢れている」のような意味はない。「腐敗した」が転じた「非常に悪い状態」を起点にしての意訳。
-  - ChatGPT訳: 「実は、彼を探すために鳥を送ったんだけど、その場所はゴブリンで溢れているの。私たちでは近づくことすらできないのよ。」
+  - ChatGPT訳: 実は、彼を探すために鳥を送ったんだけど、その場所はゴブリンで溢れているの。私たちでは近づくことすらできないのよ。
 - Nettie: You, though? You're one of them - technically speaking, I mean. They won't kill someone carrying their parasite.
   - [technically](https://ejje.weblio.jp/content/technically), (テ|チェ)↑クニカリ
     - 副詞: 厳密に、法律的に、専門的に
       - 「厳密に」は、 technically speaking としてイディオム的に使うときだけかも
-  - [I mean](https://en.wiktionary.org/wiki/I_mean)
-    - イディオム: 言い間違いを訂正するのに用いる、私は意図するのは、つまり
+  - [I mean](https://en.wiktionary.org/wiki/I_mean#Particle)
+    - 助詞: 言い間違いを訂正するのに用いる、私は意図するのは、つまり
   - You're one of them - technically speaking, I mean.
     - You're one of them という言い方には「あなたは私たちとは違う」という意味を暗に含むこともあり、おそらくNettieは言った後に気まずい思いをしている
     - そのため、直後に technically speaking, I mean. という補足を入れているのだと思う
-  - ChatGPT訳: 「でもあなたなら？あなたは一応、彼らの一人と言えるわ。その寄生虫を持っている者を彼らは殺さないから。」
+  - ChatGPT訳: でもあなたなら？あなたは一応、彼らの一人と言えるわ。その寄生虫を持っている者を彼らは殺さないから。
 - Nettie: If you can find Halsin and get him out of there, we can discover what he learned. And perhaps he can save your life. How's that sound?
   - [discover](https://ejje.weblio.jp/content/discover), ディス(カ|コ)バー
     - 他動詞: 発見する、真相を明らかにする
@@ -930,20 +930,20 @@ NettieはTavたちを人の死体のある場所まで連れて行き、そこ�
     - Halsinが生還したらの話をしているのに、 discover(=発見する) という単語を使うのはおかしい気がした
     - ChatGPTによると、「Halsinからその情報を聞き出す」のような意味とのこと
   - How's = How does
-  - ChatGPT訳: 「もしハルシンを見つけてそこから連れ出せたら、彼が何を学んだかを知ることができます。そして、おそらく彼はあなたの命を救うことができるでしょう。どうですか？」
+  - ChatGPT訳: もしハルシンを見つけてそこから連れ出せたら、彼が何を学んだかを知ることができます。そして、おそらく彼はあなたの命を救うことができるでしょう。どうですか？
 - Tav: All right, I'll find Halsin.
 - Nettie: Thank you. It would mean everything to the grove. To me.
   - It would は It will ではないの？
     - 成功すればの条件付きの意思や推量を意味するので、 will だと実現性が高すぎる
     - なお、このときの would はいわゆる仮定法と呼ばれる用法
   - To me. は前文の to the grove に対して等位的な関係
-  - ChatGPT訳: 「ありがとう。それはグローブにとって全てを意味します。私にとっても。」
+  - ChatGPT訳: ありがとう。それはグローブにとって全てを意味します。私にとっても。
 - Nettie: I wish I could tell you more, but only those adventurers know what happened out there.
   - [wish](https://ejje.weblio.jp/content/wish), ウィッシュ
     - 自動詞: 容易に得られなそうなことを願う・望む・欲する
-  - ChatGPT訳: 「もっと詳しく話せたらいいのですが、そこで何が起こったのかは、冒険者たちにしかわかりません。」
+  - ChatGPT訳: もっと詳しく話せたらいいのですが、そこで何が起こったのかは、冒険者たちにしかわかりません。
 - Nettie: All I can say for sure is they all went to the old temple of Selûne and Master Halsin didn't make it back.
-  - ChatGPT訳: 「確かなことを言えるのは、彼ら全員がセルーネの古い寺院に行ったこと、そしてマスター・ハルシンが戻ってこなかったことだけです。」
+  - ChatGPT訳: 確かなことを言えるのは、彼ら全員がセルーネの古い寺院に行ったこと、そしてマスター・ハルシンが戻ってこなかったことだけです。
 - Nettie: Good luck out there. And if things start to go bad - remember the vial. Remember your oath.
   - Good luck out there.
     - out there は、「未知の困難」という側面を強調する意図
@@ -1004,7 +1004,7 @@ Arabellaを解放したので、依頼元のその家族へ会いに行った
   - [hellion](https://ejje.weblio.jp/content/hellion), ヘェリン
     - 名詞: いたずらっ子、やんちゃ、わんぱく、乱暴者
   - don't know (what we'd do) without her
-  - ChatGPT訳: 「私たちの小さなやんちゃ娘が何があったかを教えてくれました。ありがとう - 彼女がいなかったら私たちはどうしたらいいかわかりません。」
+  - ChatGPT訳: 私たちの小さなやんちゃ娘が何があったかを教えてくれました。ありがとう - 彼女がいなかったら私たちはどうしたらいいかわかりません。
 - Tav: I hope we'll meet again under better circumstances.
   - [circumstance](https://ejje.weblio.jp/content/circumstance),
     - 名詞: 状況、周囲の事情・環境
@@ -1025,7 +1025,7 @@ Nettieとの会話でより情報が引き出せそうだったので、再びAr
     - 前置詞: 〜のような
   - [go along](https://en.wiktionary.org/wiki/go_along)
     - 自動詞: 参加する(=participate), 協力する(=cooperate), 従う(=conform)
-  - ChatGPT訳: 「もう言ったじゃないか - 彼も私たちと一緒に寺院の廃墟にいた。でも、無理やり連れて行ったわけじゃないからね。」
+  - ChatGPT訳: もう言ったじゃないか - 彼も私たちと一緒に寺院の廃墟にいた。でも、無理やり連れて行ったわけじゃないからね。
   - AradinたちがKaghaの依頼を受けて連れて行ったという考え方もできるが、それにしてはAradinたちの損失が大きすぎるのでなさそう
 - Aradin: As soon as he heard we had a contract to find that Nightsong relic, he was more eager than a hound in heat.
   - [eager](https://ejje.weblio.jp/content/eager), イ↑ーガー
@@ -1034,7 +1034,7 @@ Nettieとの会話でより情報が引き出せそうだったので、再びAr
     - 名詞: 猟犬
   - [in heat](https://en.wiktionary.org/wiki/in_heat#Prepositional_phrase)
     - 前置詞句: 発情中である
-  - ChatGPT訳: 「ナイツソングの遺物を見つける契約があると聞いた途端、彼は発情期の猟犬よりも熱心だった。」
+  - ChatGPT訳: ナイツソングの遺物を見つける契約があると聞いた途端、彼は発情期の猟犬よりも熱心だった。
   - 寺院自体に興味があったのではなくて、 Nightsong relic の方に興味があったのか？
 - Aradin: When the goblins jumped us, most of my crew scarpered, just like I taught 'em to. The old codger didn't.
   - [scarper](https://ejje.weblio.jp/content/scarper), スカー(プ|パ)ー
@@ -1062,7 +1062,7 @@ Nettieとの会話でより情報が引き出せそうだったので、再びAr
   - he was right in the thick of 'em
     - right は副詞の「ちょうど」「まさに」
     - thick は比喩表現
-  - ChatGPT訳: 「ゴボスはここから西の寺院の廃墟に立てこもっている - ハルシンを最後に見た時、彼はその真っ只中にいたよ。」
+  - ChatGPT訳: ゴボスはここから西の寺院の廃墟に立てこもっている - ハルシンを最後に見た時、彼はその真っ只中にいたよ。
 - Aradin: If you head that way, you'll likely smell 'em or hear their drums before you see 'em.
   - [drum](https://ejje.weblio.jp/content/drum), デュ・ラム
     - 名詞: 太鼓の音、太鼓
@@ -1077,5 +1077,5 @@ Nettieとの会話でより情報が引き出せそうだったので、再びAr
 
 - Aradin: Outta my face.
   - outta = out of
-  - ChatGPT訳: 「俺の顔から離れろ。」
+  - ChatGPT訳: 俺の顔から離れろ。
     - 意訳で、「邪魔をするな」「放っておいてくれ」「近寄るな」

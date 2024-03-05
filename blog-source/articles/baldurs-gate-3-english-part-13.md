@@ -60,7 +60,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
   - Distinguishing qualities?
     - distinguish の動詞由来の形容詞だが、「qualities を区別している」なのか「qualities を区別するための」なのかがわからなかった
     - 概ね、自動詞由来の-ing形容詞は「〜する、〜している」、他動詞由来の-ing形容詞は「〜させる」、とのこと
-      - Ref. https://toiguru.jp/participle-adjectives
+      - Ref: https://toiguru.jp/participle-adjectives
         - どちらも目的語を主語的に解釈させるとイメージに合いそう？
           - 自動詞-ing: an aging society: society が aging している
           - 他動詞-ing: my amazing story; story が amazing させる
@@ -118,7 +118,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
   - [rally](https://ejje.weblio.jp/content/rally), ゥラーリィ
     - 自動詞: 何かの周りに集まる・馳せ参ずる・結集する
   - Did the attackers rally to 'the Absolute' when they fell upon the gates?
-    - ChatGPT訳:「攻撃者たちは門に襲いかかったとき、「絶対者」に忠誠を誓っていましたか？」
+    - ChatGPT訳: 攻撃者たちは門に襲いかかったとき、「絶対者」に忠誠を誓っていましたか？
       - rally と言う単語に「忠誠を誓う」というまでの意味はなく、「the Absoluteのために集結していた」の意訳
   - [fall upon](https://en.wiktionary.org/wiki/fall_upon)
     - 他動詞: 突然攻撃する
@@ -152,11 +152,11 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
       - しかし、この回答に辿り着くまでのかなりの間、 in this very camp と in very this camp を間違えて矛盾した回答をしていたので信憑性は薄い
     - まとめると、 in this very camp の語順は英語的に自然なもののようだが、その理由は不明
   - Maglubiyet, マグルビエント
-    - ゲーム用語,名詞: Goblinたちの主神、武闘派
-      - Ref. https://forgottenrealms.fandom.com/wiki/Maglubiyet
+    - D&D用語,名詞: Goblinたちの主神、武闘派
+      - Ref: https://forgottenrealms.fandom.com/wiki/Maglubiyet
   - favour(UK) = favor(US)
-  - [in favor of](https://ejje.weblio.jp/content/in+favor+of)
-    - イディオム: 〜に味方して
+  - [in favor of](https://en.wiktionary.org/wiki/in_favor_of#Preposition)
+    - 前置詞: 〜に味方して
 - Volo: The scandal!
   - [scandal](https://en.wiktionary.org/wiki/scandal), スキャァンダゥ
     - 名詞: 宗教的な不道徳
@@ -186,8 +186,8 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
       - to Verb または on/upon Noun が後に続く事が多い
   - [for one](https://en.wiktionary.org/wiki/for_one)
     - 副詞: 同じ意見を持たないかもしれない人々の中の一人として、少なくとも私は
-  - [get to the bottom of](https://en.wiktionary.org/wiki/get_to_the_bottom_of)
-    - イディオム: 〜を見極める・真実を知る
+  - [get to the bottom of](https://en.wiktionary.org/wiki/get_to_the_bottom_of#Verb)
+    - 他動詞: 〜を見極める・真実を知る
 - Volo: I'm just preparing to head to their camp as we speak. In fact... if you'll excuse me, I ought not to dawdle.
   - [excuse](https://ejje.weblio.jp/content/excuse), エクスキューズ
     - 他動詞: 容赦する、許す
@@ -227,7 +227,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
   - [pardon](https://ejje.weblio.jp/content/pardon), パードン
     - 他動詞: 許す
   - excuse me との違い
-    - Ref. https://jp.blog.voicetube.com/phrases/apology/
+    - Ref: https://jp.blog.voicetube.com/phrases/apology/
     - excuse me は「すみません」に近い、pardon me はもう少し謝っている
 - Tav: Where are you heading?
   - 現在進行形なのは、今まさに旅の準備をしているから
@@ -237,12 +237,12 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
   - [trace](https://ejje.weblio.jp/content/trace), トレイス
     - 他動詞: 追跡する
   - I've been tracing their doings with great care.
-    - ChatGPT訳: 「彼らの動向を大変注意深く追っています。」
+    - ChatGPT訳: 彼らの動向を大変注意深く追っています。
     - 現在完了進行形の意味がいまいちイメージできないので、端々の知識だけ集めておく
       - 状態動詞の時は現在進行形、動作動詞の時は現在完了進行形、らしい
-        - Ref. https://kou.benesse.co.jp/nigate/english/a13e3901.html
+        - Ref: https://kou.benesse.co.jp/nigate/english/a13e3901.html
       - これからも動作を続ける、という意味も含まれる
-        - Ref. https://hoshino-english.com/present-perfect-continuous/
+        - Ref: https://hoshino-english.com/present-perfect-continuous/
 - Volo: Whoever this 'Absolute' they're worshipping might be, I'll be the first to write about it.
   - [whoever](https://ejje.weblio.jp/content/whoever), フーエバー
     - 代名詞: 誰でも、どんな人でも
@@ -253,13 +253,11 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - また、文脈によっては付きそうだけど、今考えても仕方ないのでやめとく
   - [worship](https://ejje.weblio.jp/content/worship), ウォ・シップ
     - 他動詞: 〜を崇拝する
-  - [might be](https://ejje.weblio.jp/content/might+be)
-    - イディオム: 〜かもしれない
   - might be
     - is に助動詞がついている形である
     - is との差は、より不確実で確信を持ってない意味の付与
     - 意訳なら「どんな人か」「どんな人かもしれないが」になるのかな
-  - ChatGPT訳: 「彼らが崇拝しているこの「絶対者」が何者か、私が最初に書くことになるでしょう。」
+  - ChatGPT訳: 彼らが崇拝しているこの「絶対者」が何者か、私が最初に書くことになるでしょう。
 - Tav: _Leave._
 
 ### 20, Eliasis - 5:07 - Apikusis, Tav
@@ -272,7 +270,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
 - Apikusis: The bird knows. She needs to know. You do not.
   - [need](https://en.wiktionary.org/wiki/need#Verb), ニ↑ィド
     - 自動詞: 必須である、必要である
-  - ChatGPT訳: 「鳥は知っている。彼女は知る必要がある。あなたには知る必要はない。」
+  - ChatGPT訳: 鳥は知っている。彼女は知る必要がある。あなたには知る必要はない。
 - Tav: I helped defend this grove - I'm not your enemy.
   - [defend](https://ejje.weblio.jp/content/defend), デ・フェーンド
     - 他動詞: 〜を守る
@@ -295,7 +293,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - より正確に書くなら It is not you whom I fear
       - ただし、現代の英語では whom は省略するのが一般的であるとのこと
     - 通常は I do not fear you と書くが、これは you を強調したい強調構文である
-      - Ref. https://nativecamp.net/blog/20230205-syntax_highlighting
+      - Ref: https://nativecamp.net/blog/20230205-syntax_highlighting
   - [brethren](https://ejje.weblio.jp/content/brethren), ブゥレスレン
     - 名詞: 同胞、仲間
     - brothers の古風な言い方
@@ -314,7 +312,7 @@ lastUpdatedAt: "2024-01-31 01:46:47+0000"
     - 他動詞: 敵対する、反抗する
       - turn A against B で「A が B に敵対する」
   - We can do nothing without turning the others against us.
-    - ChatGPT訳:「他の者たちに反感を買わずに私たちができることは何もない。」
+    - ChatGPT訳: 他の者たちに反感を買わずに私たちができることは何もない。
 - Apikusis: Only Master Halsin can stop this. I pray my bird returns with news of him.
 - Apikusis: If not, I fear for my people.
   - [fear](https://ejje.weblio.jp/content/fear), フィアー

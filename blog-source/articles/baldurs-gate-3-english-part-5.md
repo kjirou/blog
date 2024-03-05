@@ -69,7 +69,7 @@ Mind Flayerの戦艦から転移してAvernusのどこかの海岸へ落ちた
   - [given](https://ejje.weblio.jp/content/given), ギブン
     - 前置詞: 考慮して
       - considering や taking into account と同じような意味で頻繁に使われる
-        - Ref. https://ukaru-eigo.com/given/
+        - Ref: https://ukaru-eigo.com/given/
           - > 本来 given は本来分詞構文から派生した表現なのですが、現在 given はどの辞書にも独立した項目として「前置詞的・接続詞的」と記載されています。
   - [be through](https://ejje.weblio.jp/content/be+through)
     - 自動詞: 終わっている、済んでいる
@@ -105,13 +105,13 @@ Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
 - Shadowheart: No... I don't recognise this place. But anything's an improvement on where we just came from.
   - recognise = recognize
   - anything's an improvement on where we just came from
-    - ChatGPT訳:「さっきいたところよりはましね」
+    - ChatGPT訳: さっきいたところよりはましね
     - on (where (we just came from (where))) で、where はMind Flayerの戦艦内を指す
     - [on](https://ejje.weblio.jp/content/on)
       - 前置詞: 比較の基準や焦点・原因・理由・条件を指す
 - Shadowheart: First things first - we need supplies, shelter, and most of all, a healer.
-  - [first things first](https://ejje.weblio.jp/content/first+things+first)
-    - イディオム: 大事なことを最初にしておこう
+  - [first things first](https://en.wiktionary.org/wiki/first_things_first)
+    - 慣用句: 最初に最も優先順位の高いことへ取り組むもう、物事の順序を論理的に考えよう、大事なことを最初にしておこう
   - [supply](https://ejje.weblio.jp/content/supply), サプラァイ
     - 名詞: 備え、蓄え、供給
   - [most of all](https://ejje.weblio.jp/content/most+of+all)
@@ -137,7 +137,7 @@ Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
       - run だけとの違いは、より急にたくさん逃げている感じのよう
 - Tav: You want to stay together, I take it?
   - [I take it](https://en.wiktionary.org/wiki/I_take_it)
-    - イディオム: そういうことですか？、そう受け取っていいか？
+    - イディオム: 相手の立場を理解する表現、そういうことですか？、そう受け取っていいか？
       - 相手の立場を確認する時に使う
 - Shadowheart: We need each other, and we both know what's at stake. I can't think of better company.
   - [at stake](https://ejje.weblio.jp/content/at+stake)
@@ -146,7 +146,7 @@ Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
       - 名詞: 賭け、利害関係
   - we both
     - 代名詞が二つ並んでいるのは、「同格のboth」という構文。他 all など。
-      - Ref. https://10upenglish.com/all-of-us-and-we-all-both/
+      - Ref: https://10upenglish.com/all-of-us-and-we-all-both/
         - 自然な all/both の位置は動詞や助動詞により変わるとのこと
           - S all/both V
           - S be動詞 all/both
@@ -165,8 +165,8 @@ Tavは砂浜で気絶しているShadowheartを見つけ、介抱した
   - [remember](https://ejje.weblio.jp/content/remember), ゥリメンバァ
     - 他動詞: 心に留めておく
 - Shadowheart: Lead the way.
-  - [lead the way](https://ejje.weblio.jp/content/lead+the+way)
-    - イディオム: 道案内する、手本を示す
+  - [lead the way](https://en.wiktionary.org/wiki/lead_the_way#Verb)
+    - 自動詞: 行列などで後の人を先導する、道案内する、手本を示す
     - [lead](https://en.wiktionary.org/wiki/lead), リード
       - 他動詞: 人を先導する・案内する
         - 通常目的語は人や集団、lead the way は一般的にはあまり使われない目的語の取り方

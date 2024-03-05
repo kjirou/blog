@@ -19,7 +19,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - 形容詞: 追い詰められた
     - [corner](https://ejje.weblio.jp/content/corner), コォナァ
       - 他動詞: 追い詰める
-  - ChatGPT訳:「急いで、あの脳みそみたいなものを追い詰めたんだ。」
+  - ChatGPT訳: 急いで、あの脳みそみたいなものを追い詰めたんだ。
   - この文と次の文は言っていることが支離滅裂だが、ブツブツ何か言ってた図だったので、深く考えないで良い
 - Astarion: There, in the grass. You can kill it, can't you? Like you killed the others.
   - [grass](https://ejje.weblio.jp/content/grass), グラァス
@@ -67,7 +67,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
       - 自動詞: なる、起こる、発生する
 - Astarion: Promises, promises. But I have other business, I'm afraid.
   - [promises, promises](https://en.wiktionary.org/wiki/promises,_promises)
-    - イディオム: 口先ばかり
+    - 慣用句: 口先ばかり
       - 約束が守られることを疑っている、脅しが空虚なものであると思っている、ような時に使う
     - promise の複数形がふたつでそう言う意味になるのは、約束がたくさんあるなら個々は信頼度が低くなるというイメージから
   - [I'm afraid](https://ejje.weblio.jp/content/I%27m+afraid)
@@ -78,7 +78,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
       - 間投詞的に使う、命令・要求・威嚇・慰めなどの意味
   - didn't I は付加疑問（文）(tag question)という構文
     - 後に付け足して疑問系にする、その時は肯定・否定が逆転する
-    - Ref. https://ipa-mania.com/tag-question/
+    - Ref: https://ipa-mania.com/tag-question/
   - [nod](https://ejje.weblio.jp/content/nod), ノァード
     - 自動詞: うなずいて同意する
 - Tav: _Nod._
@@ -88,7 +88,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - 形容詞: 素晴らしい、素敵な
 - Astarion: And now you're going to tell me exactly what you and those tentacled freaks did to me.
   - be going to は命令的な意味も持つ
-    - Ref. https://toiguru.jp/be-going-to
+    - Ref: https://toiguru.jp/be-going-to
   - [exactly](https://ejje.weblio.jp/content/exactly), イグザ↑ァクトリィ
     - 副詞: 正確に、厳密に
   - [freak](https://ejje.weblio.jp/content/freak), フリィック
@@ -119,17 +119,17 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
   - [prowl](https://ejje.weblio.jp/content/prowl), プ↑ラォゥ
     - 他動詞: 獲物を求めてまたは盗みの機会を狙ってこそこそと〜をうろつく
     - 自動詞でも使える
-  - ChatGPT訳:「あなたの心はねじれる。見慣れない目から、暗くて賑やかな通りをうろつきながら見ています。」
+  - ChatGPT訳: あなたの心はねじれる。見慣れない目から、暗くて賑やかな通りをうろつきながら見ています。
   - You're looking out of unfamiliar eyes は、Astarionの目から外を見ているということを言ってそう
 - \*You try to hold the memory, but it fades to the worm. The light. The fear.\*
   - [worm](https://ejje.weblio.jp/content/worm), ワ(ァ|ォ)ーム
     - 名詞: 細長く足のない虫、蛆虫、ワーム
-  - ChatGPT訳:「記憶を保とうとしますが、それは虫へと消えていきます。光へ。恐怖へ。」
+  - ChatGPT訳: 記憶を保とうとしますが、それは虫へと消えていきます。光へ。恐怖へ。
 - Astarion: What was that? What's going on?
   - [go on](https://ejje.weblio.jp/content/go+on)
     - 自動詞: 事が起こる、行事などが行なわれる
     - 他にも意味はたくさんある。コアイメージは go: 行く、on: 続けて。
-      - Ref. https://risat-english.com/go-on/
+      - Ref: https://risat-english.com/go-on/
 - Tav: It's the mind flayer's worm - it connected us.
   - [connect](https://ejje.weblio.jp/content/connect), (カ|コ)ネクト
     - 他動詞: あるものを他のものと接続する・結合する・連絡する
@@ -144,7 +144,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - 名詞: 内臓
   - [apology](https://ejje.weblio.jp/content/apology), ア・パァロズィ
     - 名詞: 謝罪、わび、謝罪すること
-  - ChatGPT訳:「そして、あなたの内臓で地面を飾ろうと思っていたのに。謝罪します。」
+  - ChatGPT訳: そして、あなたの内臓で地面を飾ろうと思っていたのに。謝罪します。
     - 前後のつながりが少しおかしい
       - 「...と思っていたことを。謝罪します。」の方がまだ適切？
     - 何か微妙な意味があるのか、文が不適切なのか、わからない
@@ -155,7 +155,7 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
     - 標準的な表現では、If the roles were reversed, I might have done the same.
     - if を省略した表現で、Were the roles reversed, I might have done the same.
       - 倒置の仮定法というらしい
-        - Ref. https://www.try-it.jp/chapters-3856/lessons-3869/
+        - Ref: https://www.try-it.jp/chapters-3856/lessons-3869/
     - その前後が入れ替わって本文
 - Astarion: Ah, a kindred spirit.
   - [kindred spirit](https://ejje.weblio.jp/content/kindred+spirit)
@@ -165,20 +165,20 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
       - 名詞: 血縁、親族
 - Astarion: My name's Astarion. I was in Baldur's Gate when those beasts snatched me.
   - Buldur's Gate
-    - ゲーム用語,名詞: バルダーズ・ゲートという都市の名前、この都市自体はD&Dの設定に存在する
-      - Ref. https://www.4gamer.net/games/688/G068867/20231112001/
+    - D&D用語,名詞: バルダーズ・ゲートという都市の名前、この都市自体はD&Dの設定に存在する
+      - Ref: https://www.4gamer.net/games/688/G068867/20231112001/
         - > タイトルにもなっているバルダーズ・ゲートは，そんなフォーゴトン・レルムの――つまり惑星トリルのフェイルーン大陸南西部，沿岸地域ソード・コーストにある街の名前であり，多様な種族や職業，宗教関係者が集まる，フェイルーンでも有数の港湾商業都市のことだ。
-      - Ref. https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate
+      - Ref: https://forgottenrealms.fandom.com/wiki/Baldur%27s_Gate
   - [snatch](https://ejje.weblio.jp/content/snatch), スナ↑ァッチ
     - 他動詞: 誘拐する、強奪する、ひったくる
     - SNATCHER
 - Tav: _Introduce yourself - you're a Baldurian too._
   - Baldurian
-    - ゲーム用語,名詞: Buldur's Gateの住人
+    - D&D用語,名詞: Buldur's Gateの住人
     - なお、字面が似てる[Balduran](https://baldursgate.fandom.com/wiki/Balduran)（バルダラン）は、Buldur's Gateにまつわる過去の偉人の名前
 - Astarion: Is that so? We clearly move in different circles.
-  - [Is that so?](https://ejje.weblio.jp/content/is+that+so)
-    - イディオム: 本当に？、そうなの？
+  - [Is that so?](https://en.wiktionary.org/wiki/is_that_so)
+    - 慣用句: 本当に？、そうなの？
   - [move](https://ejje.weblio.jp/content/move), ムゥーブ
     - 自動詞: 社交界やサークルに出入りする
   - [circle](https://ejje.weblio.jp/content/circle), (サ|セ)ーコォ
@@ -229,11 +229,11 @@ lastUpdatedAt: "2024-01-28 09:09:40+0000"
       - 多いや大きい側の程度や量を表す
   - such a bad idea
     - such が冠詞の前に来るのは、特に理屈がないよう
-      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
+      - Ref: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
     - 他、 many, half, all the, both the などが同様に形容詞なのに冠詞の前に来る
-      - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
+      - Ref: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1312993283
 - Astarion: And you seem like a useful person to know.
-  - ChatGPT訳:「あなたは知り合う価値のある人のようです。」
+  - ChatGPT訳: あなたは知り合う価値のある人のようです。
 - Astarion: All right, I accept. Lead on.
   - いち会話がくっそ長かった。流石にパケ絵の中心にいるAstarionさんだ。
   - いいキャラしているけど、主人公もローグ同士だから役割被りで連れまわしにくそう

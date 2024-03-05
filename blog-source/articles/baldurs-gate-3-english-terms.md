@@ -38,7 +38,7 @@ lastUpdatedAt: "2024-02-24 13:22:21+0000"
 - Double your **Proficiency Bonus** for any **Checks** you make with Skills that you have Expertise in.
   - [expertise](https://ejje.weblio.jp/content/expertise), エクスパティース
     - 名詞: 専門的技術
-  - ChatGPT訳: 「あなたが専門知識を持っているスキルでチェックを行う際、あなたの熟練ボーナスを2倍にしてください。」
+  - ChatGPT訳: あなたが専門知識を持っているスキルでチェックを行う際、あなたの熟練ボーナスを2倍にしてください。
 
 ### Proficiency Bonus
 

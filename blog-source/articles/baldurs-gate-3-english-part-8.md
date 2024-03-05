@@ -19,7 +19,7 @@ GimblebockはHalflingまたはGnomeらしく、TamanはHalf ElfまたはElfの�
   - both は、Gimblebockから見て他の二人ということ
   - [backbone](https://en.wiktionary.org/wiki/backbone#Noun), (バ|ベ)ック・ボーン
     - 名詞: 勇気または不屈の精神や強さの比喩
-  - ChatGPT訳: 「...あんたたち、俺の2倍の大きさをしているくせに、勇気は半分もない！」
+  - ChatGPT訳: ...あんたたち、俺の2倍の大きさをしているくせに、勇気は半分もない！
 - Taman: But we don't know what that _thing_ even is! And what about the crypt?
   - that thing は、墜落したMind Flayerの戦艦(= the nautiloid)を指す
   - [crypt](https://ejje.weblio.jp/content/crypt), クリ・プツ
@@ -27,8 +27,8 @@ GimblebockはHalflingまたはGnomeらしく、TamanはHalf ElfまたはElfの�
 - Gimblebock: I'm telling you - it's a ship.
   - [I'm telling you](https://en.wiktionary.org/wiki/I%27m_telling_you)
     - = I can tell you
-    - [I can tell you](https://en.wiktionary.org/wiki/I_can_tell_you)
-      - イディオム: 発言の真実性の強調、信じてくれよ、本当なんだよ
+    - [I can tell you](https://en.wiktionary.org/wiki/I_can_tell_you#Phrase)
+      - 慣用句: 発言の真実性の強調、信じてくれよ、本当なんだよ
 - Gimblebock: And the crypt can wait! Mari and Barton have been trying to break in for days. Now we - _Stop!_
   - [break in](https://en.wiktionary.org/wiki/break_in)
     - 自動詞: 力ずくまたは違法な手段によってその場所に入る、押し入る
@@ -44,7 +44,7 @@ GimblebockはHalflingまたはGnomeらしく、TamanはHalf ElfまたはElfの�
   - [in that case](https://en.wiktionary.org/wiki/in_that_case)
     - 副詞: もしそうなら
       - 未来のことに使う。すでに発生しているなら in this case を使うよう。
-        - Ref. https://ameblo.jp/peachpatent/entry-12648549325.html
+        - Ref: https://ameblo.jp/peachpatent/entry-12648549325.html
     - [in case](https://en.wiktionary.org/wiki/in_case)
       - 接続詞: その可能性を考慮して
 - Gimblebock: C'mon, you lot, no point in gettin' killed. Second worm gets the cheese, an' all...

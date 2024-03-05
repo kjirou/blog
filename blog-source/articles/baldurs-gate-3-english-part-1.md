@@ -95,7 +95,7 @@ Tavは、脳が剥き出しの人間から発せされる声に気づいた。
   - [subservient](https://ejje.weblio.jp/content/subservient), サ↑ブサ↑ービエン
     - 形容詞: へつらう、卑屈になる
   - should は if のような仮定の意味
-    - Ref. https://www.design-bizenglish.tech/entry/should-you
+    - Ref: https://www.design-bizenglish.tech/entry/should-you
   - [threat](https://ejje.weblio.jp/content/threat), (ス|ツ)ゥレット
     - 名詞: 脅威、脅威となるもの
 - Tav: _Spare the creature - any injuries might weaken it._

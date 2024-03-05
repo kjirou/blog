@@ -41,7 +41,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [punish](https://ejje.weblio.jp/content/punish), パニッシュ
     - 他動詞: 〜へ罰を与える
   - for it の it は、 you feel hate のことを指す
-  - ChatGPT訳: 「はい、あなたは憎しみを感じています。そしてそのために罰を受けるべきです。」
+  - ChatGPT訳: はい、あなたは憎しみを感じています。そしてそのために罰を受けるべきです。
   - 既にこの時点からTavは精神攻撃を受けている
 - \*You should be whipped - made to bow before this creature in shame!\*
   - [whip](https://ejje.weblio.jp/content/whip), ウィッ
@@ -53,8 +53,8 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 自動詞: 挨拶・服従・礼拝などのために腰をかがめる
   - You should be (whipped) - (made to bow ...) のこれらの部分が等位の関係、両方ともに受動態である
   - make O Verb原形 が make O to不定詞 になっているのは、受動態の使役動詞のときにはto不定詞を使うルールがあるため
-    - Ref. https://kou.benesse.co.jp/nigate/english/a13e1103.html
-  - ChatGPT訳: 「あなたは鞭打たれるべきです - この生き物の前で恥を感じながら頭を垂れるべきです。」
+    - Ref: https://kou.benesse.co.jp/nigate/english/a13e1103.html
+  - ChatGPT訳: あなたは鞭打たれるべきです - この生き物の前で恥を感じながら頭を垂れるべきです。
 - \*It's possessing your mind, forcing you to... love it.\*
   - [possess](https://ejje.weblio.jp/content/possess), (ポ|パ)ゼェス
     - 他動詞: 考えや感情などが〜へ取り憑く、〜を所有する
@@ -75,7 +75,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 自動詞: 融合する、溶解する
   - [lust](https://ejje.weblio.jp/content/lust), ゥラ↑スト
     - 自動詞: 切望する、渇望する
-  - ChatGPT訳: 「あなたの心は融合し、なくなってしまった何かを切望しています。」
+  - ChatGPT訳: あなたの心は融合し、なくなってしまった何かを切望しています。
 - \*But then its grip claws back with a vengeance: a vice locking your mind into obedience.\*
   - [claw back](https://en.wiktionary.org/wiki/claw_back)
     - 他動詞: 非常に苦労をして失った何かを取り戻す
@@ -85,7 +85,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 名詞: 邪悪、不道徳行為
   - [obedience](https://ejje.weblio.jp/content/obedience), オヴ↑ィーディエンス
     - 名詞: 服従、従順
-  - ChatGPT訳: 「しかし、それが復讐と共に猛烈に掴み返します：あなたの心を服従へと締め付けるバイス。」
+  - ChatGPT訳: しかし、それが復讐と共に猛烈に掴み返します：あなたの心を服従へと締め付けるバイス。
   - claws back の目的語がない？
     - claw back は他動詞としての用法しかなさそう、つまり目的語が省略されているか a vice がそれに相当するかの二択
     - ChatGPTは、 :a vice ... 以降は前文の結果どうなったかを意味し、 claws back の目的語は省略されていると言っていた
@@ -100,7 +100,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - the, this, that, 所有格人称代名詞 を伴って名詞を修飾する
   - with your very body you can provide
     - with の前置詞句が強調のために前に出ている形
-  - ChatGPT訳: 「生き延びるためには栄養が必要で、あなた自身の身体でそれを供給できます。」
+  - ChatGPT訳: 生き延びるためには栄養が必要で、あなた自身の身体でそれを供給できます。
   - この文章も文章だけ見ると唐突でおかしい、状況は忘れた
 - Tav: _Resist the intrusion with everything you have._
   - [resist](https://ejje.weblio.jp/content/resist), ゥリジェスト
@@ -121,7 +121,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - ゲームでよく出てくる「放射能」を意味する RAD は、これの名詞形 [radiation](https://ejje.weblio.jp/content/radiation) の略
   - [malice](https://ejje.weblio.jp/content/malice), マ↑(リ|ル)ス
     - 名詞: 悪意、敵意
-  - ChatGPT訳: 「モンスターは疲れ果てて、敗れた。その目は—濡れた、オレンジ色の真珠のように—悪意を放っている。」
+  - ChatGPT訳: モンスターは疲れ果てて、敗れた。その目は—濡れた、オレンジ色の真珠のように—悪意を放っている。
 - Tav: _Close those eyes forever._
   - 判定に失敗してたらどうなってたんだろうか
 
@@ -167,7 +167,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 副詞: 適切に、ほどよく、礼儀正しく
   - we'll get properly introduced
     - お互いにきちんと自己紹介しましょう
-    - properly introduced がイディオムではなさそうだが、よく使われる組み合わせのよう
+    - properly introduced が若干イディオム気味
 - Tav: _With a keen, but calculated twist, you attempt to sabotage the sigil._
   - [keen](https://ejje.weblio.jp/content/keen), キ↑ィン
     - 形容詞: 鋭い、頭の切れる、熱心な、集中した、洞察力のある
@@ -176,7 +176,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - With a ((keen), but (calculated)) twist
   - [sabotage](https://ejje.weblio.jp/content/sabotage), サァボタージ
     - 他動詞: 妨害する
-  - ChatGPT訳: 「慎重かつ計算されたひねりを加えて、あなたはシジルを妨害しようと試みる。」
+  - ChatGPT訳: 慎重かつ計算されたひねりを加えて、あなたはシジルを妨害しようと試みる。
     - but を表現してないので少しおかしい気がする
     - 再提出してもらった訳: 「熱心に、しかし計算されたひねりを加えて、あなたはシジルを妨害しようと試みる。」
 - Dexterity (SleightOfHand) Successful: Tav
@@ -191,16 +191,16 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - 名詞: 奇跡、驚くべきこと
   - working wonders
     - work wonders または working wonders として、イディオムとしても認知されていそう
-  - [do the trick](https://en.wiktionary.org/wiki/do_the_trick)
-    - イディオム: 目的を達成するのに十分である、働く、効く、成功する、問題を解決する
+  - [do the trick](https://en.wiktionary.org/wiki/do_the_trick#Verb)
+    - 自動詞: 目的を達成するのに十分・適切である、働く、効く、成功する、問題を解決する
     - [trick](https://ejje.weblio.jp/content/trick), (ト|チョ)リック
       - 名詞: 妙技、効果的・賢明・迅速な方法
-      - Ref: ハットトリック
+      - Assoc: ハットトリック
   - Now は副詞
   - should は予測や期待を示す用法、could と似ているが、それより確信度が高い
   - a quick little pull
     - ChatGPTへ「名詞の前に形容詞を二つ置くのは一般的なの？」と聞いたら一般的だから気にするなとのこと
-  - ChatGPT訳: 「あなたがしていることは、驚異的に効果があるわ！今、さっと引っ張るだけでうまくいくはずよ。」
+  - ChatGPT訳: あなたがしていることは、驚異的に効果があるわ！今、さっと引っ張るだけでうまくいくはずよ。
     - 突然の女性口調
 - Gale: Ooft, hello. I'm Gale of Waterdeep. Apologies, I'm usually better at this.
   - [ooft](https://en.wiktionary.org/wiki/ooft)
@@ -209,8 +209,8 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - 間投詞: 痛みで息を吐く様
       - = ouch
   - Waterdeep
-    - ゲーム用語,名詞: 都市の名前
-      - Ref. https://forgottenrealms.fandom.com/wiki/Waterdeep
+    - D&D用語,名詞: 都市の名前
+      - Ref: https://forgottenrealms.fandom.com/wiki/Waterdeep
 - Tav: No need to apologise. Are you all right?
 - Gale: A bit shocked, but friend, it's a relief and a pleasure to make your acquaintance.
   - [a bit](https://en.wiktionary.org/wiki/a_bit#Adverb)
@@ -236,11 +236,11 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [in a manner of speaking](https://en.wiktionary.org/wiki/in_a_manner_of_speaking)
     - 前置詞: ある意味では、いわば、比喩的に言えば
     - [manner](https://ejje.weblio.jp/content/manner) に「方法、態度」という意味があり、a manner of speaking は「言い回し」になる
-      - Ref. https://www.ihcway.com/1day/20160811214601.html
+      - Ref: https://www.ihcway.com/1day/20160811214601.html
   - [as well](https://ejje.weblio.jp/content/as+well)
     - 副詞: 〜もまた、同様に
       - 通常この意味のは文末においた時
-  - ChatGPT訳: 「言ってみなさい、でも僕はあなたを知っていますよね？ ある意味で。あなたもナウティロイドにいたんだ。」
+  - ChatGPT訳: 言ってみなさい、でも僕はあなたを知っていますよね？ ある意味で。あなたもナウティロイドにいたんだ。
     - Say が「言ってみなさい」になっているが、「ねぇ、ちょっと」でも良いとのこと。少なくとも間投詞であるとのこと。
   - GaleはTavが戦艦の中に居たのを知っているような物言いなんだけど、こちらにそのような記憶がなく、あまり意味がわからない
 - Tav: I was, yes.
@@ -254,7 +254,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - very, pretty, quite, fairly などと同じように程度を表す意味
       - 本来は、好ましい選択や好みを指定するような陽の意味のはずだが、これだと悪い方に使われている
         - ググった例文でも悪い意味で使う方が多そうで、その趣旨の言及をしているブログ記事も見つけた
-          - Ref. https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
+          - Ref: https://eitangotsukaiwake.suntomi.com/index.php?pretty%2C%20quite%2C%20fairly%2C%20rather
   - [unwelcome](https://ejje.weblio.jp/content/unwelcome), アン・ウェルカム
     - 形容詞: 歓迎しない、うれしくない
   - [ocular](https://ejje.weblio.jp/content/ocular), ア↑ーキュラァ
@@ -262,7 +262,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - Assoc: Oculus VR
   - in the ocular region
     - 視覚内というよりは頭の中って印象だったのだが、目から挿入されたからその間くらいに寄生されている感じなのかな
-  - ChatGPT訳: 「それなら、あなたも目の領域にかなり不快な挿入を受けたのだとしか思えませんね。」
+  - ChatGPT訳: それなら、あなたも目の領域にかなり不快な挿入を受けたのだとしか思えませんね。
 - Tav: Go on...
 - Gale: The insertee we speak of, this parasite - are you aware that after a period of excruciating gestation it will turn us into mind flayers?
   - (are you aware) that ((after ...) (it will ...))?
@@ -279,8 +279,8 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
       - SVO と SVOC どちらも可、 turn 自体がそう
 - Gale: It's a process known as ceremorphosis, and let me assure you: it is to be avoided.
   - ceremorphosis
-    - ゲーム用語,名詞: Mind Flayerの寄生体により変身させられること
-      - Ref. https://forgottenrealms.fandom.com/wiki/Ceremorphosis
+    - D&D用語,名詞: Mind Flayerの寄生体により変身させられること
+      - Ref: https://forgottenrealms.fandom.com/wiki/Ceremorphosis
         - 寄生された人が助かるには、初期段階（脳みそが食べられかけている最中）までに頭を完全に破壊して復活の呪文をかけることらしい
     - -sis の接尾語は「すること」「した結果」
   - [assure](https://ejje.weblio.jp/content/assure), ア↑・シュァ
@@ -306,7 +306,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [beyond](https://ejje.weblio.jp/content/beyond), ビィヨンド
     - 前置詞: 〜を超えて
   - to realise it is beyond most clerics' skills はそれ以外の文全体を修飾している
-  - ChatGPT訳: 「私たちの状態について十分知っているようですね。それはほとんどの僧侶の技能を超えていることを。」
+  - ChatGPT訳: 私たちの状態について十分知っているようですね。それはほとんどの僧侶の技能を超えていることを。
 - Gale: Most, no doubt. But I find myself hoping to be in the presence of the few. You don't happen to be one of them?
   - [most](https://en.wiktionary.org/wiki/most#Adjective), モウスト
     - 形容詞: グループの大多数の、ほとんどの
@@ -315,7 +315,7 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - [find](https://ejje.weblio.jp/content/find), ファインド
     - 他動詞: 人が〜しているのを偶然見つける
       - find O Verb-ing
-  - ChatGPT訳: 「確かに、ほとんどはそうでしょう。しかし、私は少数派の中にいることを願っています。あなたはその中の一人ではありませんか？」
+  - ChatGPT訳: 確かに、ほとんどはそうでしょう。しかし、私は少数派の中にいることを願っています。あなたはその中の一人ではありませんか？
   - Most, no doubt が「自分が非常に幸運である可能性が低いこと」を指すのか「ほとんどの Cleric がそのような技能を有しないこと」を指すのかがわからない
 - Tav: I was going to ask you the same question.
   - [ask](https://ejje.weblio.jp/content/ask), アースク
@@ -349,9 +349,9 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
   - ChatGPT: 「間違いなくヒーラーが必要になるだろうし、それもすぐにね。もう一度手を組んで一緒にヒーラーを探すのはどう？」
 - Tav: Sounds like a plan. You're welcome to join me.
   - [sounds like a plan](https://en.wiktionary.org/wiki/sounds_like_a_plan)
-    - イディオム: 提案への同意を示す
+    - 慣用句: 提案への同意を示す
     - 「計画か否かわからない提案に対して計画だと認める」というロジックで肯定の意味を含むよう
-  - ChatGPT訳: 「いいね。一緒に行くことにするよ。」
+  - ChatGPT訳: いいね。一緒に行くことにするよ。
 - Gale: Most excellent. A parasite shared is a parasite halved. Or something to that effect.
   - [excellent](https://ejje.weblio.jp/content/excellent), エ↑ク(セ|ソ)レント
     - 間投詞: よろしい、けっこう
@@ -366,10 +366,11 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - = to the effect
     - [to the effect](https://en.wiktionary.org/wiki/to_the_effect)
       - 前置詞: そのような意味の
-  - ChatGPT訳: 「最高です。共有された寄生虫は、寄生虫を半分にする。または、そのような効果です。」
+  - ChatGPT訳: 最高です。共有された寄生虫は、寄生虫を半分にする。または、そのような効果です。
 - Gale: Oh! but before you think you're about to embark on a journey with most illmannered a man: thank you for pulling me out of that stone.
-  - [be about to do](https://ejje.weblio.jp/content/be+about+to+do)
-    - イディオム: まさに〜しようとしている
+  - [about to](https://en.wiktionary.org/wiki/about_to#Phrase)
+    - 慣用句: まさに〜しようとしている
+      - about to Verb(=自動詞)
     - この about の品詞は何か不明。ChatGPTは副詞と言い、Weblio辞書の [about](https://ejje.weblio.jp/content/about) は叙述的用法の形容詞と言っている。
   - [embark](https://ejje.weblio.jp/content/embark), エンヴ↑ァーク
     - 自動詞: 新しいことや難事業などに乗り出す・従事する
@@ -400,5 +401,5 @@ Tavは墜落した戦艦の中で倒れているMind Flayerのひとりを発見
     - = favor
   - ample opportunities will present themselves for me
     - ample opportunities 自身が自身を差し出すという構造により、人の意思や推測ではない側面が強調され、より予言や運命じみた意味合いになっている
-  - ChatGPT訳: 「それは先見の明ある親切だったと保証します。私には、その恩を返す十分な機会が巡ってくるという感じがします。」
+  - ChatGPT訳: それは先見の明ある親切だったと保証します。私には、その恩を返す十分な機会が巡ってくるという感じがします。
   - Galeは軽口を叩くタイプなので、Astarionよりもさらに大変だった。お前しばらく話すな！

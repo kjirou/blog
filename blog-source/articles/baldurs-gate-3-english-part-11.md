@@ -18,7 +18,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - [hold out](https://ejje.weblio.jp/content/hold+out)
     - 句動詞,他動詞: 伸ばす、差し出す
     - これは hold your hand out ではないのか？
-      - Ref. https://www.rarejob.com/englishlab/column/20201219/
+      - Ref: https://www.rarejob.com/englishlab/column/20201219/
         - > これが代名詞you、it、thatなどになると、動詞と副詞の間に代名詞が入ります。
         - > pick you up
         - > try it on
@@ -30,7 +30,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - [sleight of hand](https://ejje.weblio.jp/content/sleight+of+hand)
     - 手先の早技、手品、奇術
     - D&Dのスキル名でもある
-      - Ref. https://www.dandwiki.com/wiki/5e_SRD:Sleight_of_Hand_Skill
+      - Ref: https://www.dandwiki.com/wiki/5e_SRD:Sleight_of_Hand_Skill
     - [sleight](https://ejje.weblio.jp/content/sleight), スライ(ト|)
       - 上記の成句以外で使われない
   - Hammar's Flourish
@@ -191,7 +191,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - 句動詞: 通過させる、見逃す
       - let が使役動詞ではないときもあるのか
   - mragreshem はゲーム用語だが、ネイティブでも意味がわからないよう
-    - Ref. https://www.reddit.com/r/BaldursGate3/comments/sxeb4x/do_we_know_what_mragreshem_means/
+    - Ref: https://www.reddit.com/r/BaldursGate3/comments/sxeb4x/do_we_know_what_mragreshem_means/
   - [rip out](https://ejje.weblio.jp/content/rip+out)
     - 句動詞: 破り取る、はぎ取る、裂き取る
     - [rip](https://ejje.weblio.jp/content/rip), ゥリッ(プ|)
@@ -239,8 +239,8 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - [yet](https://ejje.weblio.jp/content/yet) は副詞で「さらに、その上に」という意味がある
       - 「（それまで）より」という方が yet っぽいかも
       - yet のコアイメージは？
-        - これだ！という感じの記事が見つからなかった
-          - 一番良さそうだったもの: Ref. https://hackeng.com/yet-meaning-image/
+        - Ref: https://hackeng.com/yet-meaning-image/
+          - これだ！という感じの記事が見つからなく、一番良さそうだったもの
         - 自分で捻り出すと、「自分視点で、過去のある時点から、着目している時点前後までの継続を塊として捉える」ということになった
           - それがあったのには「まだ」
           - それがあるからは「もう」「さらに」
@@ -263,7 +263,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
   - I [say](https://ejje.weblio.jp/content/say) は「提案する」という意味とのこと by ChatGPT
   - check in on 人:「人 の様子を見に行く」
     - check in, check on, check in on それぞれ存在する
-      - Ref. https://talking-english.net/check-in-check-on-check-in-on/
+      - Ref: https://talking-english.net/check-in-check-on-check-in-on/
   - [come to](https://ejje.weblio.jp/content/come+to)
     - 句動詞: 至る、達する
 - Tav: She's just a child - the druids are overreacting. I'll talk to them.
@@ -277,7 +277,7 @@ lastUpdatedAt: "2024-01-20 08:50:16+0000"
     - テーザーガン・テイザーガン
   - [as is](https://ejje.weblio.jp/content/as+is)
     - 慣用句,副詞句: そのままでは、変更や改善をしない現状のままでは
-    - Ref. https://mickeyweb.info/archives/872
+    - Ref: https://mickeyweb.info/archives/872
       - as-is とハイフンで繋がると副詞になる
   - [take](https://ejje.weblio.jp/content/take), テイク
     - 他動詞: 受け入れる、思う、耐える
@@ -383,7 +383,7 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
   - [hey there](https://ejje.weblio.jp/content/hey+there)
     - 慣用句: 君、こんにちは
   - Can I have a word?:「少しだけお話しいいですか？」は一般的な丁寧な言い方のよう
-    - Ref. https://dictionary.sanseido-publ.co.jp/column/danwa50
+    - Ref: https://dictionary.sanseido-publ.co.jp/column/danwa50
 - Wyll: Well met. The Blade of Frontiers at your -
 - \*The man's smile bends downward, and his thoughts become yours.\*
   - [bend](https://ejje.weblio.jp/content/bend), ベ↑ン(ド|)
@@ -418,7 +418,7 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
     - 自動詞: 脱ぐ、落とす
       - > 〈動・植物が〉葉[角，皮，毛，羽など]を(自然に)落とす，脱ぎかえる.
   - [illithid](https://ejje.weblio.jp/content/illithid), イリシッド
-    - ゲーム用語,名詞: Mind Flayerのこと
+    - D&D用語,名詞: Mind Flayerのこと
   - 〜 or so the stories go:「（または）〜と言われている、（または）〜と伝わっている」
     - ひとつの言い回しだが、慣用句とまでは言えなさそう
     - [so](https://ejje.weblio.jp/content/so) は副詞の「そのように、そのとおりに」で、前の文を参照している
@@ -446,8 +446,8 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
   - [infernal](https://ejje.weblio.jp/content/infernal), イン・ファーナゥ
     - 形容詞: 地獄の、悪魔のような
   - wardevil
-    - ゲーム用語,名詞: ウォー・デビル、D&Dの種族名
-      - Ref. https://forgottenrealms.fandom.com/wiki/War_devil
+    - D&D用語,名詞: ウォー・デビル、D&Dの種族名
+      - Ref: https://forgottenrealms.fandom.com/wiki/War_devil
     - 強い、狡猾、被支配階級、みたいな感じ
   - [threat](https://ejje.weblio.jp/content/threat), スレッ(ド|)
     - 名詞: 脅威
@@ -456,7 +456,7 @@ Komira達の揉め事を見ていたティーフリングの一人へ話しか�
 - Wyll: Shit - you saw her: advocatus diaboli.
   - advocatus diaboli
     - ラテン語で「悪魔の代弁者」、英語だと devil's advocate
-      - Ref. https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94%E3%81%AE%E4%BB%A3%E5%BC%81%E8%80%85
+      - Ref: https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94%E3%81%AE%E4%BB%A3%E5%BC%81%E8%80%85
     - 比喩としての意味じゃないんだろう
 - Tav: Hunting in the Hells. Dangerous territory.
 - Wyll: I'm no stranger to the infernal. Better to slay a devil before her fires burn common folk to ash.
@@ -644,8 +644,8 @@ Sazzaという捕虜のゴブリンに対して、Arkaというティーフリ�
   - Those words could be your last.:「それらの言葉が最後の言葉になり得る。」
 - Sazza: I'm not afraid. Chosen by the Absolute, I am. I'm blessed.
   - the Absolute
-    - ゲーム用語,名詞: ゴブリンの神的なもの？
-    - Ref. https://forgottenrealms.fandom.com/wiki/The_Absolute
+    - BG用語,名詞: ゴブリンの神的なもの？
+    - Ref: https://forgottenrealms.fandom.com/wiki/The_Absolute
       - 翻訳して読んでもよくわからなかった
 - Arka: Oh, I'll bless you all right.
 - Tav: _Move in front of the tiefling's crossbow._
@@ -757,7 +757,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
 - Gale: You see, I have this... condition. Very different from the parasite we share, but just as deadly.
   - [you see](https://ejje.weblio.jp/content/you+see)
     - 慣用句: 相手がおそらく知らないことへの会話の切り出し
-      - Ref. http://art2006salt.blog60.fc2.com/blog-entry-1358.html
+      - Ref: http://art2006salt.blog60.fc2.com/blog-entry-1358.html
         - you know は相手がおそらく知っていることらしい
   - [deadly](https://ejje.weblio.jp/content/deadly), デ↑ッドリィ
     - 形容詞: 致命的な
@@ -770,7 +770,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
     - [suffice](https://ejje.weblio.jp/content/suffice), サ・ファイス
       - 他動詞: 〜に十分である
     - なぜこういう意味になるのかの解説は、以下のサイトにあった
-      - Ref. https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/if-anything-or#1
+      - Ref: https://eikaiwa.weblio.jp/column/phrases/how-to-say-in-english/if-anything-or#1
       - 今は理解できないことがわかった
   - [malady](https://ejje.weblio.jp/content/malady), マ↑(ラ|レ)ディ
     - 名詞: 病気、弊害
@@ -791,7 +791,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
   - [get on](https://ejje.weblio.jp/content/get+on)
     - 句動詞: 衣服を身につける、ものを取り付ける
   - Weave
-    - ゲーム用語,名詞: 呪文や魔法と関係ある手法もしくはエネルギー的なものの概念、よくわからん
+    - D&D用語,名詞: 呪文や魔法と関係ある手法もしくはエネルギー的なものの概念、よくわからん
       - Refs
         - https://trpg-japan.com/dnd/d-and-d-class/wizard-role-playing-method-recommended-for-d-and-d-beginners/
           - > D＆Dのウィザードは世界に満ち溢れる「織（ウィーヴ）」を手繰り寄せ、編み、操ることに長けているクラスであり、常に魔法を研究し続けています。呪文は「織」を成すためのもので、その力は強大であり破壊的なエネルギーを持っています。
@@ -869,8 +869,8 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
     - ただ、Weblio辞書にはその用法は書いてない
   - very far は物理的な距離のことを意味している
   - Faerûn
-    - ゲーム用語,名詞: 地域または地方名。おそらく国程度の大きさ。
-      - Ref. https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn
+    - D&D用語,名詞: 地域または地方名。おそらく国程度の大きさ。
+      - Ref: https://forgottenrealms.fandom.com/wiki/Faer%C3%BBn
     - でもここはthe Nine HellsのAvernusじゃなかったっけ...?
   - [overflow](https://ejje.weblio.jp/content/overflow), オーヴァフロウ
     - 自動詞: あふれる、満ちあふれている
@@ -880,7 +880,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
   - do は強調の意味
   - [as a matter of fact](https://ejje.weblio.jp/content/as+a+matter+of+fact)
     - 慣用句: 実際のところ
-    - Ref. https://jp.elsaspeak.com/%E3%80%90%E3%82%A4%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A0%E3%80%91%E3%80%8C-as-a-matter-of-fact%E3%80%8D%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/
+    - Ref: https://jp.elsaspeak.com/%E3%80%90%E3%82%A4%E3%83%87%E3%82%A3%E3%82%AA%E3%83%A0%E3%80%91%E3%80%8C-as-a-matter-of-fact%E3%80%8D%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9/
       - > すでに話した内容に新たな情報を付け足す時や、誰かの話したことに対して反論したり、訂正する時に使用します。
   - [prime](https://ejje.weblio.jp/content/prime), プライ(ン|ム)
     - 自動詞: 準備する
@@ -890,7 +890,7 @@ GaleのCompanions Questの条件を満たしたようで、会話をしてきた
     - 自動詞: 発生する、生じる
       - 主に困難な状況や問題の発生で使われる
     - Tales of ARISE ってあったから名詞の意味もあるのかと思ったけど、なさそう
-  - ChatGPT訳:「実際、私たちの荷物も同じです。必要が生じる瞬間に備えて、すでにそのようなアイテムを持っています。」
+  - ChatGPT訳: 実際、私たちの荷物も同じです。必要が生じる瞬間に備えて、すでにそのようなアイテムを持っています。
     - たぶん前半は、「実際のところ補足として、我々の荷物には。」という意味なのではないかと思う
       - As do our packs の As の意味があまりわからないけど
 - Gale: I hope I can count on you.
@@ -923,7 +923,7 @@ WyllとティーフリングのAsharakが子供の戦闘訓練をしていた場
     - 他動詞: 一掃する、全滅する
     - [wipe](https://ejje.weblio.jp/content/wipe), ワイプ
       - 他動詞: ぬぐう
-  - ChatGPT訳:「私は一人であのゴブリンの全キャンプを一掃して、みんなの士気を高めてみせる。」
+  - ChatGPT訳: 私は一人であのゴブリンの全キャンプを一掃して、みんなの士気を高めてみせる。
   - 文脈から過去の話をしそうなんだけど、現在形が回答になっている。そして今からの話なら一人ではないと思う。と色々不明
 - Asharak: Thanks. I prefer when they smile.
   - これで、先ほどの子供達（Gan・Ide・Umi）の会話が変わった

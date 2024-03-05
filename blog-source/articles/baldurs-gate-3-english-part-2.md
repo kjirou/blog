@@ -31,7 +31,7 @@ lastUpdatedAt: "2024-01-20 13:23:59+0000"
 - Tav: Why was I forced onto this ship?
   - [force](https://ejje.weblio.jp/content/force), フォァス
     - 他動詞: 強制する、強いる
-  - ChatGPT訳:「なぜ私はこの船に強制的に乗せられたのか？」
+  - ChatGPT訳: なぜ私はこの船に強制的に乗せられたのか？
     - force に「強制的に乗せる」という意味はないが、文脈から的確であるとのこと
 - Us: _To know you. To love you. To give you our gift._
 - Tav: Something was put in my eye. What was it?
@@ -42,8 +42,8 @@ lastUpdatedAt: "2024-01-20 13:23:59+0000"
     - flee - fled - fled
     - 自動詞: 避難する、逃げる
   - Avernus, アーヴァナス
-    - ゲーム用語,固有名詞: マインドフレイヤの船が攻撃されて逃げた先の地獄みたいなところ。デーモンが空を舞ってて、マインドフレイヤを攻撃してきた。
-      - Ref. https://forgottenrealms.fandom.com/wiki/Avernus
+    - D&D用語,固有名詞: マインドフレイヤの船が攻撃されて逃げた先の地獄みたいなところ。デーモンが空を舞ってて、マインドフレイヤを攻撃してきた。
+      - Ref: https://forgottenrealms.fandom.com/wiki/Avernus
   - a great evil に相当する悪魔的な個体はシーン上居なかったと思う、何を指しているのだろう
 - Tav: _Leave._
 - Us: _We are going to the helm. My friend and I are going to the helm._
@@ -78,14 +78,14 @@ Tavは通路でLae'zelに遭遇し襲われそうになった
     - 名詞: 奴隷、とりこ
     - Kenshiでスラルとスラルマスターって敵がいた
   - Vlaakith, ヴラキス
-    - ゲーム用語,固有名詞: Lae'zelはGithyanki(ギスヤンキ、略称Gith|ギス)という種族だが、その種族の古代の偉い英雄またはその名を冠している今の偉い人
-      - Ref. https://greyhawkonline.com/greyhawkwiki/Vlaakith
+    - D&D用語,固有名詞: Lae'zelはGithyanki(ギスヤンキ、略称Gith|ギス)という種族だが、その種族の古代の偉い英雄またはその名を冠している今の偉い人
+      - Ref: https://greyhawkonline.com/greyhawkwiki/Vlaakith
 - Tav: What made you think I was a thrall?
   - made you think は使役動詞
 - Lae'zel: We carry mind flayer parasites. Unless we escape - unless we are _cleansed_ - our bodies and minds will be tainted and twisted.
   - [cleanse](https://ejje.weblio.jp/content/cleanse), (カ|ク)リンス
     - 他動詞: 清潔にする、洗う、取り除く、浄化する
-    - Ref. https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10105213305
+    - Ref: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10105213305
       - clean の方が一般的、cleanse の方がより強く専門的な意味
   - [taint](https://ejje.weblio.jp/content/taint), テ↑イント
     - 他動詞: 汚す、腐敗させる、堕落させる
@@ -93,8 +93,8 @@ Tavは通路でLae'zelに遭遇し襲われそうになった
     - 他動詞: ねじる
 - Lae'zel: Within days, we will be _ghaik._ Mind Flayers.
   - ghaik
-    - ゲーム用語,名詞: ギス語でマインドフレイヤのこと
-      - Ref. https://forgottenrealms.fandom.com/wiki/Gith_dictionary
+    - D&D用語,名詞: ギス語でマインドフレイヤのこと
+      - Ref: https://forgottenrealms.fandom.com/wiki/Gith_dictionary
 - Tav: Who are you?
 - Lae'zel: Who am I? Your only chance of survival.
   - 「生き残る最後のチャンス」と言っているのは、ギスヤンキは種族的に昔からマインドフレイヤと対立しており、この寄生体への対処も心得ているため

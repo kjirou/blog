@@ -30,7 +30,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
     - 形容詞,限定用法: 未来の、将来の
   - [escapade](https://ejje.weblio.jp/content/escapade), エ↑スカペィ
     - 名詞: 常軌を逸した行動、脱出、日常からの脱出
-  - ChatGPT訳: 「キャンプは休息、回復、そして反省の場所です。これまでの冒険について仲間と話をしたり、これからの冒険に誰を連れて行くか選ぶことができます。」
+  - ChatGPT訳: キャンプは休息、回復、そして反省の場所です。これまでの冒険について仲間と話をしたり、これからの冒険に誰を連れて行くか選ぶことができます。
 - You can also store items and take long rests here.  
   Visitors may come and go from your camp throughout your adventure - be they friends or foes.
   - [throughout](https://ejje.weblio.jp/content/throughout), スゥルー・アーウト
@@ -49,7 +49,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [interact](https://ejje.weblio.jp/content/interact), インチュア・アークト
     - 自動詞: 相互に作用する、互いに影響し合う、ふれあう、対話する
   - camp supplies
-    - ゲーム用語,名詞: キャンプ用糧食
+    - BG用語,名詞: キャンプ用糧食
       - 食品それぞれが Camp Supplies という属性値を持っている、1のときも "1 Camp Supplies" と表記する
     - [supply](https://ejje.weblio.jp/content/supply), サ・プラァイ
       - 名詞: 軍隊や探検隊などの糧食・生活用品
@@ -65,7 +65,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
     - 他動詞: 散らばっているものや人をひとつへ集める・かき集める
   - [relationship](https://ejje.weblio.jp/content/relationship), ゥリ・レ↑イションシィップ
     - 名詞: 人と人との関係、ものとものとの結びつき
-  - ChatGPT訳: 「夜にキャンプを訪れることで、集めた仲間やフォロワーと話をしたり、あなたの関係や冒険について振り返ることができます。」
+  - ChatGPT訳: 夜にキャンプを訪れることで、集めた仲間やフォロワーと話をしたり、あなたの関係や冒険について振り返ることができます。
 - {アイコン} Open Rest Menu
 - {アイコン} Initiate Long Rest
   - [initiate](https://ejje.weblio.jp/content/initiate), イ↑ニシエイト
@@ -76,7 +76,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 - Food and drink are needed to successfully complete a **Long Rest** at your camp and are automatically added to your Camp Supply Sack when picked up.  
   More nutritious food and drink will have higher value when used for Long Resting.
   - Camp Supply Sack
-    - ゲーム用語,名詞: Camp Supplies だけを格納するサブインベントリ
+    - BG用語,名詞: Camp Supplies だけを格納するサブインベントリ
     - Camp Supplies Sack ではないんだな？
     - [sack](https://ejje.weblio.jp/content/sack), サァック
       - 名詞: 通常長方形の穀物などを入れる大袋
@@ -105,7 +105,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 - Withers is a strange wraith that commands many powers: he allows you to resurrect allies, hire help, and change your class.  
   For a price, of course.
   - Wraith
-    - ゲーム用語,名詞: レイス、悪と闇から生まれた悪霊
+    - BG用語,名詞: レイス、悪と闇から生まれた悪霊
       - Ref: https://forgottenrealms.fandom.com/wiki/Wraith
       - Ref: https://www.dndbeyond.com/monsters/17064-wraith
     - [wraith](https://ejje.weblio.jp/content/wraith), ゥレ↑イス
@@ -129,11 +129,11 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
     - 他動詞: 気力・意識・健康などを取り戻す・回復する、失ったものを偶然取り戻す
   - save downed characters
     - 一時的な戦闘不能状態と恒久的な戦闘不能状態がありそうだが、一時的な方の表現のひとつが downed characters のよう
-  - ChatGPT訳: 「ショートレストを取ることで、ヒットポイントの半分を回復し、ダウンしているキャラクターを救うことができます。」
+  - ChatGPT訳: ショートレストを取ることで、ヒットポイントの半分を回復し、ダウンしているキャラクターを救うことができます。
 - Some classes will also recover resources on a Short Rest - inspect a resource's tooltip to learn more about when it is recovered.
   - [inspect](https://ejje.weblio.jp/content/inspect), イン・スペクト
     - 他動詞: 詳しく調査する
-  - ChatGPT訳: 「一部のクラスはショートレストでリソースを回復します。リソースがいつ回復されるかを知るには、そのリソースのツールチップを確認してください。」
+  - ChatGPT訳: 一部のクラスはショートレストでリソースを回復します。リソースがいつ回復されるかを知るには、そのリソースのツールチップを確認してください。
 - {アイコン} Open Rest Menu
 - {アイコン} Initiate Short Rest
 
@@ -151,7 +151,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [frequently](https://ejje.weblio.jp/content/frequently), フリィ・クエント・リィ
     - 副詞: 頻繁に、しばしば
       - often より高い頻度
-  - ChatGPT訳: 「これらを頻繁に使うようにしてください、あなたのパーティは一度に4つまでしか蓄積できません - それ以上のインスピレーションは経験値に変換されます。」
+  - ChatGPT訳: これらを頻繁に使うようにしてください、あなたのパーティは一度に4つまでしか蓄積できません - それ以上のインスピレーションは経験値に変換されます。
 - {アイコン} **P** Open Inspiration Menu
 
 ### Skill Checks
@@ -236,15 +236,15 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [keep an eye out](https://en.wiktionary.org/wiki/keep_an_eye_out#Verb)
     - 自動詞: 注意を払う、監視する
     - 直訳だと「目を開いておく」「目をむき出しにしておく」
-  - ChatGPT訳: 「有利または不利は多くの異なる源から生じることがあります - 敵が伏せていること、キャラクターがあなたに対して肯定的または否定的な態度を持っていること、そしてあなたを助けたり妨げたりする呪文などが例に挙げられます - これらはいくつかの例に過ぎませんので、自分のチャンスをより良くする方法を探し続けてください！」
+  - ChatGPT訳: 有利または不利は多くの異なる源から生じることがあります - 敵が伏せていること、キャラクターがあなたに対して肯定的または否定的な態度を持っていること、そしてあなたを助けたり妨げたりする呪文などが例に挙げられます - これらはいくつかの例に過ぎませんので、自分のチャンスをより良くする方法を探し続けてください！
 - {アイコン} Indicates you have Advantage
 
 ### Proficiency (Weapons and Armour)
 
 - Proficiency with equipment reflects how much your character knows about using it.
-  - ChatGPT訳: 「装備に対する習熟度は、あなたのキャラクターがそれを使いこなすことについてどれだけ知っているかを反映しています。」
+  - ChatGPT訳: 装備に対する習熟度は、あなたのキャラクターがそれを使いこなすことについてどれだけ知っているかを反映しています。
 - If you are proficient with a weapon, you can add your proficiency modifier to attack rolls and can use its weapon actions.
-  - ChatGPT訳: 「武器を使いこなしている場合、攻撃ロールに習熟モディファイアを加えることができ、その武器のアクションを使用することができます。」
+  - ChatGPT訳: 武器を使いこなしている場合、攻撃ロールに習熟モディファイアを加えることができ、その武器のアクションを使用することができます。
 - If you use armour or a shield you aren't proficient with, you can still gain the additional **Armour Class**, but you'll have **Disadvantage** on Strength and Dexterity Checks and won't be able to cast spells.
   - [armour](https://ejje.weblio.jp/content/armour), アァマァ
     - = armor
@@ -253,7 +253,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
         - 複数の部品の集合という意味合いなので、不可算名詞として使われることが多い
   - won't = will not
     - would not だと思ってたけどそっちは wouldn't だった
-  - ChatGPT訳: 「習熟していない鎧や盾を使用しても、追加のアーマークラスを得ることはできますが、力と敏捷性のチェックに不利を受け、呪文を唱えることができません。」
+  - ChatGPT訳: 習熟していない鎧や盾を使用しても、追加のアーマークラスを得ることはできますが、力と敏捷性のチェックに不利を受け、呪文を唱えることができません。
 
 ## Class
 
@@ -333,7 +333,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 - Minor magical effects can be achieved with cantrips - which can be cast at any time without spell slots and increase in potency as you level up.
   - [potency](https://ejje.weblio.jp/content/potency), ポォテンスィ
     - 名詞: 効能、有効性、力
-  - ChatGPT訳: 「カントリップを使用することで、小さな魔法効果をいつでもスペルスロットを消費することなく実現でき、レベルアップするとその効力が増します。」
+  - ChatGPT訳: カントリップを使用することで、小さな魔法効果をいつでもスペルスロットを消費することなく実現でき、レベルアップするとその効力が増します。
 - Most classes restore their spell slots on a **Long Rest**.
 
 ### Sneak Attack
@@ -358,8 +358,8 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [unsuspecting](https://ejje.weblio.jp/content/unsuspecting), アン・サスペクティング
     - 形容詞: 疑わない、怪しまない
   - [melee](https://ejje.weblio.jp/content/melee), (メ|ミ)ェリィ
-    - ゲーム用語,名詞: 近接
-      - 一般的には「乱戦」「混戦」
+    - 名詞: 近接
+      - ゲーム用語としての意味、一般的には「乱戦」「混戦」
     - 一般的には、形容詞の意味はない
   - melee distance
     - 「近接距離」と言う意味の、おそらくは複合名詞
@@ -444,7 +444,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 ### Disengage
 
 - Taking the Disengatge action lets you leave an enemy's melee range without taking Opportunity Attacks.
-  - ChatGPT訳: 「「Disengageアクション」を取ることで、敵の近接範囲を離れる際に機会攻撃を受けずに済みます。」
+  - ChatGPT訳: 「Disengageアクション」を取ることで、敵の近接範囲を離れる際に機会攻撃を受けずに済みます。
 - {アイコン} Disengage
 
 ### Combat Log
@@ -461,13 +461,13 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 - You can examine creatures, objects, items, and the environment you come across during your adventures to learn more about them.
   - [come across](https://en.wiktionary.org/wiki/come_across#Verb)
     - 自動詞: 偶然に見つける
-  - ChatGPT訳: 「冒険中に出会う生き物、物体、アイテム、環境を調べることで、それらについての詳細を知ることができます。」
+  - ChatGPT訳: 冒険中に出会う生き物、物体、アイテム、環境を調べることで、それらについての詳細を知ることができます。
 - Examining something tells you its statistics, features, ability scores, **Resistances**, **Vulunerabilities**, and **Immunities**.
   - [statistic](https://ejje.weblio.jp/content/statistic), (タ|テ)スティック
     - 名詞: 統計値
   - [immunity](https://ejje.weblio.jp/content/immunity), イミューニティ
     - 名詞: 免疫、免疫性
-  - ChatGPT訳: 「何かを調べることで、その統計情報、特徴、能力スコア、耐性、弱点、免疫について知ることができます。」
+  - ChatGPT訳: 何かを調べることで、その統計情報、特徴、能力スコア、耐性、弱点、免疫について知ることができます。
 - **T** Examine something in the world.
 - **Right Mouse Button** Use the Context Menu to Examine something in your inventory.
 
@@ -480,7 +480,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
     - 名詞: 視線
   - [mark](https://ejje.weblio.jp/content/mark), マァ(ク|ケ)
     - 他動詞: 符号などで意味を示す
-  - ChatGPT訳: 「視界線は、世界の他の生物が見ることができる領域を示します。」
+  - ChatGPT訳: 視界線は、世界の他の生物が見ることができる領域を示します。
 - You can see sightlines by toggling their visibility or sneaking.  
   If you move through faintly highlighted red areas you will roll a **Stealth** check to see if the creature notices you - and will be discovered if you fail.  
   Moving into heavily highlighted red areas will immediately reveal your position.  
@@ -515,7 +515,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
     - 他動詞: 見つける、見分ける
   - [loot](https://ejje.weblio.jp/content/loot), ルゥト
     - 名詞: 戦利品、略奪品、盗品、略奪行為
-  - ChatGPT訳: 「あなたの周りにあるアイテムをハイライト表示して、新しい戦利品をより簡単に見つけることができます。」
+  - ChatGPT訳: あなたの周りにあるアイテムをハイライト表示して、新しい戦利品をより簡単に見つけることができます。
 - **Left Alt** Highlight nearby containers and items
   - [nearby](https://ejje.weblio.jp/content/nearby)
     - 形容詞: 近くの
@@ -539,11 +539,11 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [chasm](https://ejje.weblio.jp/content/chasm), キャズ(ム|ン)
     - 名詞: 広く深い割れ目
     - Assoc: キャズム
-  - ChatGPT訳: 「飛び跳ねて、峡谷、罠、その他の障害物を越えることができます。」
+  - ChatGPT訳: 飛び跳ねて、峡谷、罠、その他の障害物を越えることができます。
 - Stronger characters will be able to jump further.
   - [further](https://ejje.weblio.jp/content/further), ファー(ダ|ザ)ー
     - 副詞: 距離や空間や時間がさらに遠く、程度がさらに進んで
-  - ChatGPT訳: 「力の強いキャラクターは、より遠くまで跳ぶことができます。」
+  - ChatGPT訳: 力の強いキャラクターは、より遠くまで跳ぶことができます。
 - {アイコン} **Z** Jump
 
 ### Remaining Obscured
@@ -795,7 +795,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 - Some allies will stick by your side through thick and thin.
   - [thick and thin](https://en.wiktionary.org/wiki/thick_and_thin#Noun)
     - 名詞: 良い時も悪い時も
-  - ChatGPT訳: 「一部の仲間は、良い時も悪い時もあなたのそばにいてくれます。」
+  - ChatGPT訳: 一部の仲間は、良い時も悪い時もあなたのそばにいてくれます。
 - Companions can join you on your adventures as part of your party, or wait in camp until you call upon them.  
   All companions gain experience at the same time, regardless of if they fought by your side or stayed in camp.  
   When companions are in your active party, you can control their movements and actions as if they were an avatar.
@@ -842,7 +842,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
     世界で離れた場所にいるキャラクターは一緒にグループ化することができません。」
   - Hiding 状態でも一緒に動いているような？
 - If you want to make room in your party for new allies, you can ask a companion to wait at camp at any time by speaking to them.
-  - ChatGPT訳: 「新しい仲間をパーティーに加えたい場合、いつでも仲間に話しかけてキャンプで待ってもらうことができます。」
+  - ChatGPT訳: 新しい仲間をパーティーに加えたい場合、いつでも仲間に話しかけてキャンプで待ってもらうことができます。
 
 ### Full Party
 
@@ -853,7 +853,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - ChatGPT訳: 「パーティーには一度に4人の仲間しか加えることができません。  
     パーティーが満員の場合、新しい仲間はキャンプに送ることができますし、すぐに現在のパーティーメンバーと交換することもできます。」
 - Replaced companions can be added back to your party at any time by talking to them at camp.
-  - ChatGPT訳: 「交換された仲間は、キャンプで話しかけることでいつでもパーティーに戻すことができます。」
+  - ChatGPT訳: 交換された仲間は、キャンプで話しかけることでいつでもパーティーに戻すことができます。
 
 ## Map
 
@@ -871,7 +871,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [before](https://ejje.weblio.jp/content/before), ビィ・フォ(オ|ア)
     - 副詞: 以前に、かつて、既に
   - they've been to (locations) before
-  - ChatGPT訳: 「フェイルーン全土の特定の場所には、輝く輸送の印章、すなわち「ウェイポイント」があります。  
+  - ChatGPT訳: フェイルーン全土の特定の場所には、輝く輸送の印章、すなわち「ウェイポイントがあります。  
     抜け目のない冒険者は、これらのウェイポイントを使って、以前に訪れた場所へ即座に移動することができます。」
 - **M** Open Map
 
@@ -896,7 +896,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
 - While travelling, minimap will be shown in the the corner of the screen - you can change how the minimap works in the options menu.
   - in the the corner of the screen
     - 原文で the が2続いている、おそらくは誤り
-  - ChatGPT訳: 「旅行中、画面の隅にミニマップが表示されます - オプションメニューでミニマップの動作を変更することができます。」
+  - ChatGPT訳: 旅行中、画面の隅にミニマップが表示されます - オプションメニューでミニマップの動作を変更することができます。
 - **M** Open Map
 
 ## Trading
@@ -907,7 +907,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - [will](https://ejje.weblio.jp/content/will), ウィルゥ
     - 自動詞: 望む、欲する
   - how good (a deal)=S (you get) (depends)=V on (how well-liked you are)
-  - ChatGPT訳: 「多くの人があなたと取引をすることには前向きですが、どれだけ良い取引ができるかは、あなたがどれだけ好かれているかによります。」
+  - ChatGPT訳: 多くの人があなたと取引をすることには前向きですが、どれだけ良い取引ができるかは、あなたがどれだけ好かれているかによります。
 - You can trade to quickly buy and sell items, or haggle to get a better value - haggling in a trader's favor will make them like you more and get you better prices in future.
   - [haggle](https://ejje.weblio.jp/content/haggle), ハーゴォ
     - 自動詞: しつこくねぎる、値段などで押し問答する・言い争う
@@ -917,7 +917,7 @@ lastUpdatedAt: "2024-02-24 13:22:20+0000"
   - haggling in a trader's favor will (make them like you more) and (get you better prices in future)
   - better prices
     - better prices は文脈上「良い値段で取引できること」と解釈するが、 price 自体に「取引すること」という意味はない
-  - ChatGPT訳: 「アイテムを素早く購入・販売するために取引ができますし、より良い価値を得るために値切ることもできます - トレーダーの好意を得るために値切ると、彼らはあなたをより好むようになり、将来的にはより良い価格を提供してくれます。」
+  - ChatGPT訳: アイテムを素早く購入・販売するために取引ができますし、より良い価値を得るために値切ることもできます - トレーダーの好意を得るために値切ると、彼らはあなたをより好むようになり、将来的にはより良い価格を提供してくれます。
   - 程良く値切ると評価も上がるんだ
 
 ## Journal

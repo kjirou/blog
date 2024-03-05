@@ -31,7 +31,7 @@ Ardin一行を追ってきたゴブリン達を、ZevlorらTieflingと主人公�
     - 自動詞: （虫などで）うじゃうじゃしている
       - > 〔+with+(代)名詞〕〈場所が〉〔虫などで〕うじゃうじゃ[うようよ]している.
   - gobbo は goblin の可愛い言い方のよう
-    - Ref. https://slang.net/meaning/gobbo
+    - Ref: https://slang.net/meaning/gobbo
       - gob もあるらしい
 - Zevlor: He trusted you.
 - Aradin: Nobody forced him to go with us - he insisted. And when things got tough, he couldn't keep up. Simple as that.
@@ -89,7 +89,7 @@ Tieflingの一人へ話しかけた状況
     - 名詞: 大群
 - Elegis: Maybe - but we're not fighters. If they broke through, it'd be a massacre.
   - 確度の度合いは、probably ＞＞ maybe ＞ perhaps らしい
-    - Ref. https://nativecamp.net/blog/20230101-maybe
+    - Ref: https://nativecamp.net/blog/20230101-maybe
     - perhaps は口語ではあまり使わず、普通は maybe
   - [break through](https://ejje.weblio.jp/content/break+through) は動詞の他に名詞としても使われるよう
   - [massacre](https://ejje.weblio.jp/content/massacre), (マ|メ)↑サコゥ
@@ -199,7 +199,7 @@ Tieflingの一人へ話しかけた状況
       - owe O1 O2: O1 に O2 を借りている
   - but は、「あなたに関係のないことをした」「この場所を救った恩がある」という文たちを、「しかしながら、実際に意味はあった」という点で逆説として繋げている
     - it's not your business: あなたには関係ないことだ、余計なお世話だ
-      - Ref. https://goeigo.org/noneyourbusiness/
+      - Ref: https://goeigo.org/noneyourbusiness/
 - Zevlor: Perhaps you could persuade her. For more time to prepare, if nothing else.
   - could: 〜できるかもしれない
     - ChatGPT:
@@ -225,7 +225,7 @@ Tieflingの一人へ話しかけた状況
     - 成功する
       - この派生が色々ある
     - make it to 場所: 〜へ辿り着く
-      - Ref. https://mi-ej.com/make-it-to/
+      - Ref: https://mi-ej.com/make-it-to/
 - Zevlor: You'll find the druids at the heart of the grove. Please - make them see sense, before more lives are lost.
   - [sense](https://ejje.weblio.jp/content/sense) は、「分別、常識、物の道理」のような意味だと思う
     - けど、the druids の方の言い分も最もなので、それは言い過ぎではないか
@@ -273,8 +273,8 @@ Tieflingの一人へ話しかけた状況
   - As for those の As は、話題を変えることを意味している。As がなかったあら、より For those が強調され、Arronが真に避難民のことを心配している風になる。
     - つまり、As for those だと、当事者感が下がっている
   - Silvanus
-    - ゲーム用語,神の名: 森の父シルバヌス、自然やドルイド等の神
-      - Ref. https://www.dandwiki.com/wiki/Silvanus_(5e_Deity)
+    - D&D用語,神の名: 森の父シルバヌス、自然やドルイド等の神
+      - Ref: https://www.dandwiki.com/wiki/Silvanus_(5e_Deity)
 - 主人公: You just said the region's overrun by monsters. They won't survive by themselves.
   - [overrun](https://ejje.weblio.jp/content/overrun)
     - 自動詞: （川などが）あふれる
@@ -337,7 +337,7 @@ Tieflingの一人へ話しかけた状況
       - 他に「同時に」「一度だけ」という意味もある
 - Cal: Can we all just take a moment? Please?
   - we [all](https://ejje.weblio.jp/content/all) は代名詞で、all of we と同じ意味、遊離数量詞という用法
-    - Ref. https://toiguru.jp/floating-quantifier
+    - Ref: https://toiguru.jp/floating-quantifier
       - > 遊離数量詞として使えるのは、all、each、bothといった普遍数量詞である。
       - > 遊離数量詞は通例、一般動詞の前、be動詞の後、完了形have/has/hadの後、助動詞の後の位置にあらわれる。
   - take a moment: 時間を置く、というのは、避難民を助けるということを言っているのだろう
@@ -363,15 +363,15 @@ Tieflingの一人へ話しかけた状況
   - 「みんな残るべきだ。一本の剣が違いを生むことがある。」
     - A single blade could make a difference は故事その他何か由来があるのかと思ったけど、違いそう
   - 上述したけど、[all](https://ejje.weblio.jp/content/all) は代名詞、遊離数量詞という用法
-    - Ref. https://toiguru.jp/floating-quantifier
+    - Ref: https://toiguru.jp/floating-quantifier
 - Lia: Thank you! It's the right thing to do, and you know it.
   - 主人公からすると、一言いうだけで有事の際の戦力が増えてラッキーくらいに思ってるはず
 - Cal: She's right, Rolan. We're better than this.
   - this は「避難民を見捨てて去ること」を意味しているのだろうか、だとするとちょっと前の話なので that になりそう、わからん
 - Rolan: Zurgan. Fine. I'll stay too. Lest you both end up with your throats slit by a goblin blade.
   - Zurgan
-    - ゲーム用語,感嘆詞: おそらく「ちくしょうめ」のような呪いの言葉
-      - Ref. https://www.reddit.com/r/BaldursGate3/comments/181bgfp/whowhat_is_zurgan/
+    - D&D用語,感嘆詞: おそらく「ちくしょうめ」のような呪いの言葉
+      - Ref: https://www.reddit.com/r/BaldursGate3/comments/181bgfp/whowhat_is_zurgan/
   - Fine
     - I'm fine は現世だと「（悪いことが起こったけど）私は大丈夫、心配しないで」という意味らしいので、「嫌だけどわかったよ」みたいな意味なんだろうか
   - [lest](https://ejje.weblio.jp/content/lest), ゥレ↑ス(ト|)
@@ -422,7 +422,7 @@ Tieflingの一人へ話しかけた状況
 - Doni: \*Grunt.\*
 - 主人公: I see. Anything else on your mind?
   - on your mind:「気に掛かっている、考えている」
-    - Ref. https://english-kanazawa.com/prepositions/on/on-your-mindin-your-mind/
+    - Ref: https://english-kanazawa.com/prepositions/on/on-your-mindin-your-mind/
       - on your mind だと上に乗ってるから気がかりなという意味になる
 - Doni: \*Grunt!\*
 - \*He's still staring right past you.\*
