@@ -60,6 +60,8 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
 
 ### 21, Eliasis - 15:57 - Tav, Grukkoh
 
+閉じて中が見えない小屋の扉を調べた
+
 - \*As you approach, a guttural scream and a succession of quick bangs rattle the door.\*
   - [approach](https://ejje.weblio.jp/content/approach), アプロォチ
     - 自動詞: 近づく、接近する
@@ -85,4 +87,18 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
     - 代名詞: 誰か、誰でも
     - anyone よりくだけた言い方
 - Grukkoh: Go away.
+- Tav: _Leave_.
+  - この後に雑に開けて戦闘して倒してみたけど、特に何もなかったので戦闘前にロードして戻した
+
+### 21, Eliasis - 16:02 - Tav
+
+再び小屋の扉を調べた
+
+- \*You hear another muffled cry. The two inside are still in the throes of... passion.\*
+  - [another](https://ejje.weblio.jp/content/another), ア・ナ↑ァザァ
+    - 形容詞: もう一つの、別の、他の
+    - コアイメージ: 初めに指したものとは同じ種類の別のものである様
+  - [throe](https://ejje.weblio.jp/content/throe), スロゥ
+    - 名詞: 痛みの激しい発作、困難や苦痛な問題・葛藤
+  - ChatGPT訳: またもやくぐもった叫び声が聞こえます。中にいる二人はまだ...情熱の渦中にいます。
 - Tav: _Leave_.
