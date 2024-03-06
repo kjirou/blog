@@ -102,3 +102,53 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
     - 名詞: 痛みの激しい発作、困難や苦痛な問題・葛藤
   - ChatGPT訳: またもやくぐもった叫び声が聞こえます。中にいる二人はまだ...情熱の渦中にいます。
 - Tav: _Leave_.
+
+### 21, Eliasis - 16:37 - Chock, Fank, Lump the Enlightened, Tav
+
+荒れた小屋の中でたむろしている、3人のOgreたちへ話しかけた
+
+- Chock: Taste like chicken!
+  - [taste](https://ejje.weblio.jp/content/taste), テ↑イスト
+    - 自動詞: 味がする
+      - S(=食物) taste C
+  - Taste like chicken
+    - 主語は彼らが食べているものなので、文法上は Tastes が正しそう
+      - ChatGPTしか情報源が見つからなかったが、三人称で主語を省略したときでも、三単現のsは残るとのこと
+      - 今回は、口語だからsを省略したのではないか、とのこと
+  - 彼らは人を食べている最中である
+- Fank: No chicken. Taste like fish!
+- Lump the Enlightened: Gentlemen - contain yourselves. This quarrel sours our feast. Besides - taste like pork!
+  - [enlightened](https://ejje.weblio.jp/content/enlightened), エ↑ン・ライテン・ト
+    - 形容詞,限定用法: 啓蒙された、啓発された、教化された
+  - [contain oneself](https://en.wiktionary.org/wiki/contain_oneself)
+    - 自動詞: 自身の感情を抑制する
+      - oneself には主語と同じ対象が入る
+  - [quarrel](https://ejje.weblio.jp/content/quarrel), クォーラ(ル|ウ)
+    - 名詞: 立腹しての口喧嘩、口論、仲違い
+  - [sour](https://ejje.weblio.jp/content/sour), (ス|サ)↑ワァ
+    - 他動詞: 台無しにする(=spoil)、酸っぱくさせる
+  - ChatGPT訳: 紳士たち、落ち着いてください。この争いは私たちの宴を台無しにします。それに、豚の味がする！
+- Lump the Enlightened: And what surprise is _this_?
+- Lump the Enlightened: Brothers, look here. I have eyed yet another prize. Fortune favours our bellies!
+  - [yet another](https://ejje.weblio.jp/content/yet+another)
+    - イディオム: さらにもう一つの
+    - another 単体との違いは、繰り返して起こっている様や既にたくさん発生している様である意味の強調
+  - [prize](https://ejje.weblio.jp/content/prize), プラァイズ
+    - 名詞: 貴重なもの、努力して手にいれるもの、勝利者に与えられる賞・褒美
+      - 類似単語の比較
+        - reward は、業務・努力に対する報酬
+        - award は、審査員などの慎重な検討の結果与えられる報酬
+    - Assoc: プリコネのプライズガチャ
+  - [favour](https://ejje.weblio.jp/content/favour), フェ↑イバ
+    - = favor
+    - [favor](https://ejje.weblio.jp/content/favor), フェ↑イバァ
+      - 他動詞: 栄誉を与える
+        - favor O(=与える対象、主に人) [with {内容}]
+  - ChatGPT訳: 兄弟たち、こちらを見よ。私は別の獲物を見つけた。運命は私たちの腹を恵んでくれる！
+- Lump the Enlightened: Stranger: be you friend or food? The mark is Her measure: show us the brand of the Absolute.
+  - ChatGPT訳: 見知らぬ者よ、お前は友か、それとも食糧か？印が彼女の測りなのだ：絶対者の烙印を見せてくれ。
+- Tav:
+- Lump the Enlightened:
+- Lump the Enlightened:
+- Tav:
+- Charisma (Deception) Successful: Tav
