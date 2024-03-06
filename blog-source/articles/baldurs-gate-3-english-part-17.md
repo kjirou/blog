@@ -197,17 +197,58 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
   - [indeed](https://ejje.weblio.jp/content/indeed), イン・ディード
     - 間投詞: 驚き・懐疑・憤慨・皮肉などを表す表現、まぁ、へぇ、まさか
   - [how](https://ejje.weblio.jp/content/how), ハァウ
-    - 副詞: 感嘆の意を表す、なんと、いかに、どれほど
+    - 副詞: 感嘆の意を表す、なんと、いかに、どれほど、実に
+  - [regrettable](https://ejje.weblio.jp/content/regrettable), ゥリィグ・レッタボゥ
+    - 形容詞: 残念な、遺憾な
+  - How regrettable, that your meat must go unsavoured.
+    - How regrettable your meat must go unsavoured. と書いても意味は通じる、感嘆を示す度合いは減る
+  - [unsavoured](https://ejje.weblio.jp/content/unsavoured)
+    - savour の部分はUK風、USなら savor
+    - [savor](https://ejje.weblio.jp/content/savor), セイバァ
+      - 他動詞: ゆっくり味わう、賞味する
 - Chock: Food?
 - Fank: Food?
 - Lump the Enlightened: Not food. Friend!
-- Tav:
-- Lump the Enlightened:
-- Lump the Enlightened:
-- Lump the Enlightened:
-- Chock:
-- Lump the Enlightened:
-- Tav:
-- Lump the Enlightened:
-- Lump the Enlightened:
-- Tav:
+- Tav: I notice you don't bear a brand of your own.
+  - ChatGPT訳: あなたは自分自身の印を持っていないようですね。
+- Lump the Enlightened: I've no use for the Absolute - or any god. I follow two masters only: gluttony and greed.
+  - [use](https://ejje.weblio.jp/content/use), ユゥズ
+    - 名詞: 用途、役に立つこと、使い道
+  - ChatGPT訳: 絶対者も、どんな神も、私には必要ない。私が従うのはただ二つ、暴食と貪欲だけだ。
+- Lump the Enlightened: The goblins understand my appetites. They sate my hunger for gold...
+  - [appetite](https://ejje.weblio.jp/content/appetite), ア↑パタイト
+    - 名詞: 欲望、興味、食欲
+  - [sate](https://ejje.weblio.jp/content/sate), セイト
+    - 他動詞: 欲望や渇きを十二分に満足させる
+      - S(=満足させる人) sate O(=満足させる物)
+  - ChatGPT訳: ゴブリンたちは私の欲望を理解している。彼らは私の金に対する飢えを満たしてくれる...
+- Lump the Enlightened: ... and the rest sate my hunger for _meat_.
+  - the rest
+    - 自分が文脈から判断するに、またChatGPT曰く、これは「ゴブリン以外の種族の人々」を指すよう
+    - 最初に母集団の定義をして、その一部と他の残り、と言う使い方だけなのかと思ったら、母集団の定義をしないでも使えるよう
+  - ChatGPT訳: ...そして残りは私の肉に対する飢えを満たしてくれる。
+- Chock: Boss goblin give gold. We check brand. Good deal!
+  - ChatGPT訳: ボスゴブリンが金をくれる。私たちは印をチェックする。いい取引だ！
+- Lump the Enlightened: No talk!
+  - なぜ話してはいけないのだろう？
+- Tav: Forget goblins. You should be fighting for me.
+  - You should be fighting for me の現在進行形の意味は？
+    - should fight と基本的に意味は同じ
+    - 現在進行形の時は、それに継続的なサポートの意味や、既に現在サポートが発生している意味、などが付与される
+  - ChatGPT訳: ゴブリンなんか忘れて、俺のために戦ってくれ。
+- Lump the Enlightened: I am by all accounts a student of higher commerce and extortion.
+  - [by all accounts](https://en.wiktionary.org/wiki/by_all_accounts#Prepositional_phrase)
+    - 前置詞句: 誰から聞いても、みんなの話によると、あらゆる意味で
+    - [account](https://ejje.weblio.jp/content/account), ア・キャウント
+      - 名詞: 詳細な話・記述・記事、評価、考慮、根拠
+  - [commerce](https://ejje.weblio.jp/content/commerce), コーマァス
+    - 名詞: 交渉、商業、貿易
+  - [extortion](https://ejje.weblio.jp/content/extortion), エクス・トォション
+    - 名詞: 強要、強奪、脅迫、ゆすり
+  - ChatGPT訳: 私はあらゆる意味で高等商取引と恐喝の学生です。
+    - 交渉もでき暴力に訴えることもできる、そのような技術の研鑽をしているものだ、という意味のよう
+- Lump the Enlightened: Make me an offer. _Tempt me_.
+  - ChatGPT訳: 私に申し出をしてください。誘惑してください。
+- Tav: {不具合で読めないけど、たしか 1000 gp だった} - to be paid once the killing's done.
+  - ChatGPT訳: 1000ゴールドピース - 殺し終わったら支払う。
+- Charisma (Deception) Successful: Tav
