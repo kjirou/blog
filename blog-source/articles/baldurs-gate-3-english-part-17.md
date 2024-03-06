@@ -146,9 +146,68 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
         - favor O(=与える対象、主に人) [with {内容}]
   - ChatGPT訳: 兄弟たち、こちらを見よ。私は別の獲物を見つけた。運命は私たちの腹を恵んでくれる！
 - Lump the Enlightened: Stranger: be you friend or food? The mark is Her measure: show us the brand of the Absolute.
+  - be you friend or food
+    - are you friend or food の古風で文学的な表現
+  - [measure](https://ejje.weblio.jp/content/measure), メ・ジャー
+    - 名詞: 評価や判断などのための基準・尺度
+  - [brand](https://ejje.weblio.jp/content/brand), ブラァンド
+    - 名詞: 焼印、烙印
   - ChatGPT訳: 見知らぬ者よ、お前は友か、それとも食糧か？印が彼女の測りなのだ：絶対者の烙印を見せてくれ。
-- Tav:
-- Lump the Enlightened:
-- Lump the Enlightened:
-- Tav:
+- Tav: You're quite eloquent for an ogre.
+  - [eloquent](https://ejje.weblio.jp/content/eloquent), エ↑ロ・クゥエント
+    - 形容詞: 雄弁な、能弁な
+  - ChatGPT訳: お前、オーガにしては随分と達者な話し方をするな。
+- Lump the Enlightened: Am I not astonishing? A robust diet makes for a shrewd mind, you see. I am a _gourmand_...
+  - [astonishing](https://ejje.weblio.jp/content/astonishing), アスト↑ーニシン
+    - 形容詞: 驚くべき、びっくりさせる
+    - [astonish](https://ejje.weblio.jp/content/astonish), アスト↑ーニッシュ
+      - 他動詞: 非常に驚かせる・びっくりさせる
+        - astonish O(=驚かせる人)
+  - Am I not astonishing?
+    - 強調した「私は驚くべきものである」という意味
+    - 修辞疑問文 (rhetorical question) と言う文法であり、真偽を逆にした形の強い肯定文になる
+      - 元々は、反語表現から来ているよう
+        - 「私がそれを知らないと思うか、いや知っている」のような
+      - Ref: https://manabitimes.jp/english/2398
+  - [robust](https://ejje.weblio.jp/content/robust), ロ・バ↑スト
+    - 形容詞: 人や体格などが強権な・とても健康的な・たくましい・丈夫な
+  - [diet](https://ejje.weblio.jp/content/diet), ダァイエット
+    - 名詞: 日常の飲食物
+  - [shrewd](https://ejje.weblio.jp/content/shrewd), シュルゥード
+    - 形容詞: 賢い、鋭敏な
+  - [make for](https://en.wiktionary.org/wiki/make_for#Verb)
+    - 他動詞: 結果として〜を生み出す
+  - [gourmand](https://ejje.weblio.jp/content/gourmand), ゴォー・メン(ト|ツ)
+    - 名詞: 美食家、健啖家
+  - ChatGPT訳: 驚くべきことではないか？充実した食生活が賢明な心を育むのだからな。私は美食家であり...
+- Lump the Enlightened: ... and you, a delicacy - unless you bear the mark, of course.
+  - [delicacy](https://ejje.weblio.jp/content/delicacy), デ↑ェリカスィ
+    - 名詞: 珍味
+    - 主には「上品さ」「優美」「きゃしゃ」というような意味
+  - [bear](https://ejje.weblio.jp/content/bear), ベ↑アー
+    - 他動詞: 身につける、帯びる
+      - コアイメージの「我慢して支え持つ」から
+  - ChatGPT訳: ...そしてお前は珍味だ - もちろん、印を持っていない限りは。
+- Tav: I'll do you one better - I'm one of the Absolute's chosen disciples.
+  - [disciple](https://ejje.weblio.jp/content/disciple), ディ・サ↑イポォ
+    - 名詞: 弟子、門弟、キリスト十二使徒の一人
+  - ChatGPT訳: それよりもいいことを教えてやろう - 私はアブソリュートの選ばれし弟子の一人だ。
 - Charisma (Deception) Successful: Tav
+- Lump the Enlightened: Indeed? How regrettable, that your meat must go unsavoured.
+  - [indeed](https://ejje.weblio.jp/content/indeed), イン・ディード
+    - 間投詞: 驚き・懐疑・憤慨・皮肉などを表す表現、まぁ、へぇ、まさか
+  - [how](https://ejje.weblio.jp/content/how), ハァウ
+    - 副詞: 感嘆の意を表す、なんと、いかに、どれほど
+- Chock: Food?
+- Fank: Food?
+- Lump the Enlightened: Not food. Friend!
+- Tav:
+- Lump the Enlightened:
+- Lump the Enlightened:
+- Lump the Enlightened:
+- Chock:
+- Lump the Enlightened:
+- Tav:
+- Lump the Enlightened:
+- Lump the Enlightened:
+- Tav:
