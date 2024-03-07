@@ -72,6 +72,10 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
         - Wiktionaryで Conjunction へ分類されているもの
       - 間投詞
         - Wiktionaryで Interjection へ分類されているもの
+      - 限定詞
+        - Wiktionaryで Determiner へ分類されているもの
+        - 限定詞とは、その状況での名詞の役割を指定する単語。冠詞は限定詞の一種。
+          - Ref: https://ipa-mania.com/determiner/
       - 助詞
         - Wiktionaryで Particle へ分類されているもの
       - 限定用法

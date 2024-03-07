@@ -248,7 +248,59 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
   - ChatGPT訳: 私はあらゆる意味で高等商取引と恐喝の学生です。
     - 交渉もでき暴力に訴えることもできる、そのような技術の研鑽をしているものだ、という意味のよう
 - Lump the Enlightened: Make me an offer. _Tempt me_.
+  - [make](https://ejje.weblio.jp/content/make), メィク
+    - 他動詞: 〜を行う
+      - make IO(=対象) DO(=内容)
+        - make O(=内容) to {対象} と言う順番にもできる
+  - [tempt](https://ejje.weblio.jp/content/tempt), テ↑ンプト
+    - 他動詞: 悪事や快楽へ誘惑する、そそのかす
+    - Assoc: テンプテーション
   - ChatGPT訳: 私に申し出をしてください。誘惑してください。
 - Tav: {不具合で読めないけど、たしか 1000 gp だった} - to be paid once the killing's done.
   - ChatGPT訳: 1000ゴールドピース - 殺し終わったら支払う。
 - Charisma (Deception) Successful: Tav
+- Lump the Enlightened: A twice-played serenade to my ears, my tasty kibble. We have a bargain!
+  - [serenade](https://ejje.weblio.jp/content/serenade), セ↑レニィ
+    - 名詞: セレナーデ、小夜曲
+  - [kibble](https://ejje.weblio.jp/content/kibble), キブ(ル|ウ)
+    - 名詞: 動物の飼料として使われる細かく砕かれた穀物
+  - [bargain](https://ejje.weblio.jp/content/bargain), バーゲン
+    - 名詞: 売買契約、契約、協定
+  - ChatGPT訳: 私の耳に二度奏でられた小曲よ、私の美味しいキブル。私たちは取引を持っている！
+- Lump the Enlightened: Take my bonehorn. One blow, and the ground will quake with my family name.
+  - [blow](https://ejje.weblio.jp/content/blow), ブロォウ
+    - 名詞: ひと吹き
+  - ChatGPT訳: 私の骨角を持っていってください。一吹きで、私の家族の名前で地面が揺れます。
+- Lump the Enlightened: Use it when the need arises - and never a moment before.
+  - [arise](https://ejje.weblio.jp/content/arise), ア・ラァイズ
+    - 自動詞: 問題や困難が発生する・起こる
+  - a moment before
+    - 前置詞句: 一瞬前に、ちょっと前に
+      - ChatGPT曰くこの意味、文脈にも合うが、検索では探せなかった
+        - a moment / before ~ の文章しか出てこない
+  - ChatGPT訳: 必要な時に使ってください - そして、その瞬間以前には決して使わないでください。
+- Chock: Ogre kill everyone around! Then ogre eats them!
+  - ChatGPT訳: オーガは周りのみんなを殺して！それから、オーガは彼らを食べるんだ！
+- Lump the Enlightened: Well spoken. Indeed, ogre 'kill everyone around'.
+  - well spoken
+    - イディオム: 上手いことを言った、よく言った、確かに
+    - well-spoken だと「雄弁な」という形容詞になる
+  - ChatGPT訳: 言い得て妙だ。確かに、オーガは'周りのみんなを殺す'のだ。
+    - これはゲーム的な説明のよう
+- Tav: I've seen few other ogres in these parts.
+  - [few](https://en.wiktionary.org/wiki/few#Determiner), (フ|ヒ)ュウ
+    - 限定詞: 比較されている数に対して小さく不明確な数
+  - ChatGPT訳: この辺りで他のオーガを数体見かけたよ。
+- Lump the Enlightened: We follow the scents of blood and gold to all lands fertile, friend.
+  - [scent](https://ejje.weblio.jp/content/scent), セント
+    - 名詞: におい、良い香り
+  - [fertile](https://ejje.weblio.jp/content/fertile), ファートォ
+    - 形容詞: 肥沃な、肥えた
+  - ChatGPT訳: 我々は血と金の香りを追って、肥沃な全ての地へと向かうのだ、友よ。
+- Lump the Enlightened: And this land proves particularly... fruitful.
+  - [fruitful](https://ejje.weblio.jp/content/fruitful), フルゥトホォ
+    - 形容詞: 実りの多い、収穫の多い
+  - ChatGPT訳: そして、この地は特に... 豊かであることが証明されている。
+- Tav: _Leave_.
+- Lump the Enlightened: We will keep close. When you are ready, sound the horn.
+  - ChatGPT訳: 私たちは近くにいます。準備ができたら、角笛を鳴らしてください。
