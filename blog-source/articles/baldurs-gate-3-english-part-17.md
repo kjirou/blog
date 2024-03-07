@@ -411,3 +411,38 @@ Kaghaが居る洞窟内の狼へ話しかけた
 再び話しかけた
 
 - Silver: Leave. You are not wanted here.
+
+### 21, Eliasis - 21:09 - Strange Ox, Tav
+
+三頭並んでいる牛の一頭へ話しかけた
+
+- Strange Ox: Ah, you're addressing _me_. A humble ox. How... quaint.
+  - [ox](https://ejje.weblio.jp/content/ox), (オ|ア)ックス
+    - 名詞: 特に労務用または食用の去勢牛、雄牛
+  - [address](https://ejje.weblio.jp/content/address), (ア|エ)ジョレェス
+    - 他動詞: 人に話しかける
+  - [humble](https://ejje.weblio.jp/content/humble), ハンボゥ
+    - 形容詞: 地味な、自ら卑下してつまらない
+  - [quaint](https://ejje.weblio.jp/content/quaint), クゥェイント
+    - 形容詞: 風変わりで面白い、古風で趣のある
+  - ChatGPT訳: ああ、私に話しかけているのか。一介の牛に。なんて...風変わりだ。
+- Tav: _There's something strange about this ox_. _What is it_?
+  - ChatGPT訳: この牛には何か奇妙なところがある。何だろう？
+- Intelligence (Arcana) Successful: Tav
+- \*Something's off. This creature isn't what it appears to be.\*
+  - [appear](https://ejje.weblio.jp/content/appear), ア・ピヤァ
+    - 自動詞: 〜のように見える・思われる
+      - appear [to be] C
+  - what it appears to be (what)
+  - ChatGPT訳: 何かおかしい。この生き物は見た目とは違うものだ。
+    - 難しいので直訳してみると、「その生物は何か（その何かに見える）ではない」
+- Tav: There's more to you than meets the eye. Care to explain?
+  - ChatGPT訳:
+- Strange Ox: No. You are... incapable.
+  - ChatGPT訳:
+- Tav: Come on, old chap. I'm a devil for gossip.
+  - ChatGPT訳:
+- Charisma (Persuasion) Successful: Tav
+- Strange Ox: I'll tell you this much: I'm going to Baldur's Gate. With or without the rest of these poor sods.
+- Strange Ox: Now - that's all I have to say besides - and I really mean this - _moo_.
+  - 人が動物に化けてるとか？または、何かのネタ？
