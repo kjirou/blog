@@ -383,3 +383,31 @@ Druidたちが儀式をしている場所から少し下った川で、魚を採
 再び話しかけた
 
 - Ormn: Still nothing... still nothing...
+
+### 21, Eliasis - 20:53 - Silver, Tav
+
+Kaghaが居る洞窟内の狼へ話しかけた
+
+- Silver: Another stranger come to vex me. What will you do? Hunt me? Grab my tail? Shout until my head hurts?
+  - [vex](https://ejje.weblio.jp/content/vex), ベックス
+    - 他動詞: 悩ます、いらだたせる、うるさがらせる
+  - [grab](https://ejje.weblio.jp/content/grab), グラァブ
+    - 他動詞: 体や衣服の一部をひっつかむ
+  - ChatGPT訳: また新たな迷惑者が私を悩ませに来たのか。どうするつもりだ？私を追いかけるのか？尾を掴むのか？頭が痛くなるまで叫ぶのか？
+- Tav: Who's been pestering you? I'll teach them a lesson.
+  - [pester](https://ejje.weblio.jp/content/pester), ペ↑ス(タ|ト)ァ
+    - 他動詞: 悩ます、困らす、苦しめる
+  - [lesson](https://ejje.weblio.jp/content/lesson), レッ・スン
+    - 名詞: 教訓、訓戒、見せしめ
+  - ChatGPT訳: 誰があなたを困らせているんですか？私がきっちりと教訓を与えてやりますよ。
+- Silver: Silence. _Your_ help is not required. Not by _me_, at least.
+  - [silence](https://ejje.weblio.jp/content/silence), サァイレンス
+    - 間投詞: 静かに！、黙れ！
+  - ChatGPT訳: 黙れ。お前の助けなど必要ない。少なくとも、私にはね。
+  - 文明人とDruid的な生活は、どこかで衝突せざるを得ないだろうなぁ
+
+### 21, Eliasis - 20:53 - Silver
+
+再び話しかけた
+
+- Silver: Leave. You are not wanted here.
