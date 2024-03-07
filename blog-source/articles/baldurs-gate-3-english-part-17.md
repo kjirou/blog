@@ -341,3 +341,45 @@ Druidたちが儀式をしている側にいるBoarへ話しかけた
   - [mate](https://ejje.weblio.jp/content/mate), メィト
     - 名詞: つがいの一方、配偶者の一方
   - ChatGPT訳: ハルシンはどこだ？約束したメイトを連れて来てくれるって言っただろう！
+
+### 21, Eliasis - 20:28 - Topaz, Tav
+
+Druidたちが儀式をしている側にいる、自分の巣を内装中の鳥へ話しかけた
+
+- Topaz: Shh, I'm concentrating. Does this look good? Is the coin in the middle?
+  - [concentrate](https://ejje.weblio.jp/content/concentrate), コン・セント・レィト
+    - 自動詞: 集中する、全力を注ぐ
+  - ChatGPT訳: 静かにして、集中しているの。これ、良い感じ？コインが中央にある？
+- Tav: It's slightly off - push it a bit to the right.
+  - ChatGPT訳: 少しズレてるよ - 右に少し押してみて。
+- Topaz: Yes... yes, you're right. That's it.
+  - [that's it](https://en.wiktionary.org/wiki/that%27s_it#Phrase)
+    - 慣用句: まさにその通り！、それでおしまい(=that's all)
+  - ChatGPT訳: ええ...そうね、あなたの言う通りだわ。それでいいわ。
+  - これで巣の中のものの配置が変わり、下にある鍵が盗みやすくなった
+
+### 21, Eliasis - 20:46 - Ormn, Tav
+
+Druidたちが儀式をしている場所から少し下った川で、魚を採っているBearへ話しかけた
+
+- Ormn: He didn't come back, did he? His smell is gone. He's gone...
+  - ChatGPT訳: 彼は戻ってこなかったんだね？ 彼の匂いはもうない。彼はもういない...
+- Tav: Who are you looking for?
+- Ormn: Master. He left with the weaponed two-legs. He said he'd be back.
+  - ChatGPT訳: 主人だよ。彼は武装した二足歩行の者たちと一緒に出かけた。戻ると言っていたのに。
+- Ormn: But I can smell them - the weaponed ones. And I cannot smell him... he's not coming back...
+  - ChatGPT訳: でも、武装した者たちの匂いはする。そして彼の匂いはしない...彼は戻ってこない...
+- Tav: Don't worry - he'll be back.
+- Ormn: No... the woods have gone dark. There's too many predators lately - even for Master.
+  - [predator](https://ejje.weblio.jp/content/predator), プレデチョァ
+    - 名詞: 捕食者、略奪者
+  - [lately](https://ejje.weblio.jp/content/lately), レ↑イトリィ
+    - 副詞: 最近は、近頃
+  - ChatGPT訳: いや...森が暗くなった。最近、捕食者が多すぎる - 主人にも。
+    - 最後の「主人にも」は、正確には「主人にとっても」という意味
+
+### 21, Eliasis - 20:48 - Ormn
+
+再び話しかけた
+
+- Ormn: Still nothing... still nothing...
