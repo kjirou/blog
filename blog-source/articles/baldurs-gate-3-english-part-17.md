@@ -304,3 +304,40 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
 - Tav: _Leave_.
 - Lump the Enlightened: We will keep close. When you are ready, sound the horn.
   - ChatGPT訳: 私たちは近くにいます。準備ができたら、角笛を鳴らしてください。
+
+### 21, Eliasis - 19:23 - Dammon, Tav
+
+Potion of Animal Speakingを飲んだので、その日中に動物たちと話すために、Emerald Grove（本文中の"the grove"のMap上の名称）へ戻った。
+
+ついでに、買い物と不用品の売却をするために鍛冶屋へ話しかけた。
+
+- Dammon: Looking for steel? I have... well, something close.
+  - ChatGPT訳: 鋼を探していますか？私には...まあ、それに近いものがあります。
+- Tav: Let me see your wares.
+- Tav: _Leave_.
+
+### 21, Eliasis - 20:26 - Tusk
+
+Druidたちが儀式をしている側にいるBoarへ話しかけた
+
+- Tusk: Hmph. I thought you ware Halsin.
+  - ChatGPT訳: ふん、お前がハルシンだと思ったよ。
+    - 門の戦闘時に「誰だかわからんがいい知らせがあった」というような伝わり方をしているから、みんな勘違いしているのかな？
+- \*The boar prances around, haunches clenching and unclenching impatiently.\*
+  - [prance](https://ejje.weblio.jp/content/prance), プラァンス
+    - 自動詞: 後ろ足で踊り跳ねて進む、跳ね回る
+  - [haunch](https://ejje.weblio.jp/content/haunch), ハァンチ
+    - 名詞: 動物の足と臀部
+  - [clench](https://ejje.weblio.jp/content/clench), (カ|ク)ランチ
+    - 自動詞: 口や手が堅く締まる
+  - [unclench](https://ejje.weblio.jp/content/unclench), アン・クレンツ
+    - 自動詞: こぶしなどが緩む・開く
+  - [impatiently](https://ejje.weblio.jp/content/impatiently)
+    - 副詞: いらいらして、やきもきして
+    - [patiently](https://ejje.weblio.jp/content/patiently), ペイ↑シェントリィ
+      - 副詞: 根気よく、気長に、じっとして
+  - ChatGPT訳: 猪は周りを踊るように動き回り、後ろ足をいらいらと開閉させる。
+- Tusk: Where's Halsin? He promised me a mate!
+  - [mate](https://ejje.weblio.jp/content/mate), メィト
+    - 名詞: つがいの一方、配偶者の一方
+  - ChatGPT訳: ハルシンはどこだ？約束したメイトを連れて来てくれるって言っただろう！
