@@ -478,6 +478,10 @@ Kaghaが居る洞窟内の狼へ話しかけた
 三頭並んでいる牛の一頭へ話しかけた
 
 - Bored Ox: Another one. What are you under there, then? Ant? Aurochs?
+  - [bored](https://ejje.weblio.jp/content/bored), ボォーァ
+    - 形容詞: 退屈した、うんざりした
+    - [bore](https://ejje.weblio.jp/content/bore), ボォーア
+      - 他動詞: 退屈させる、うんざりさせる
   - [under](https://ejje.weblio.jp/content/under), ア↑ンダァ
     - 前置詞: 〜に隠れて
   - Aurochs
@@ -510,3 +514,19 @@ Kaghaが居る洞窟内の狼へ話しかけた
     - 名詞: 細長いものの先端・末端・端
   - ChatGPT訳: 時々、僕は光る部分を食べてしまって、彼らはそれを反対側で探さなくてはならなくなるんだ。
   - この後に、近くのhayオブジェクトがコンテナとして開けるようになり、そこから若干の貴重品が取得できる
+
+### 21, Eliasis - 21:34 - Bored Ox
+
+再び話しかけた
+
+- Bored Ox: I have no more to say. Even old hay tastes better than your idle chatter.
+  - [idle](https://ejje.weblio.jp/content/idle), ア↑ーイドォ
+    - 形容詞: くだらぬ、無意味な、遊んでいる、仕事のない、暇な
+  - ChatGPT訳: 退屈な牛：もう何も言うことはありません。古い干し草でも、あなたの無駄話よりはましだ。
+
+### 21, Eliasis - 21:43 - Hungry Ox
+
+三頭並んでいる牛の一頭へ話しかけた
+
+- Hungry Ox: Be gone. I am hungry.
+  - ChatGPT訳: 消え失せろ。私は空腹だ。
