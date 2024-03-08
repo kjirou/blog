@@ -572,9 +572,32 @@ Kaghaが居る洞窟内の狼へ話しかけた
     - 名詞: 特に一歳未満の馬の子、子馬
   - ChatGPT訳: それでもまた倒れるだけさ - 脚は子馬のようにふらふらしてる。
 - Pandirna: Bloody potion!
+  - ChatGPT訳:
 - Tav: I'd wager your 'potion' was a paralysing agent.
+  - [wager](https://ejje.weblio.jp/content/wager), ウェイジャァ
+    - 他動詞: 〜を推測する
+      - wager that ~
+    - 「賭ける」という意味が主
+  - [agent](https://ejje.weblio.jp/content/agent), エィジェント
+    - 名詞: 薬品、作用物
+    - 「何かを作用させるもの」が転じて「代理人」になっている？
+  - ChatGPT訳: お前の「ポーション」は麻痺させる薬だったんじゃないかと思うぞ。
 - Pandirna: _What_? No, the potion worked! I'm strong as a bugbear. And fearless.
+  - Bugbear
+    - D&D用語,名詞: GoblinやHobgoblinと遠い関係にある、それらよりも強力なヒューマノイド
+      - Ref: https://forgottenrealms.fandom.com/wiki/Bugbear
+  - ChatGPT訳: 何？いや、ポーションは効いてる。俺はバグベアみたいに強くなった。そして恐れを知らない。
 - Pandirna: The old lady warned me that this might happen. That it was a side effect!
+  - ChatGPT訳: その老婆はこれが起こるかもしれないと警告してくれた。副作用だってさ！
 - Tav: Sounds like you've been duped.
+  - [dupe](https://ejje.weblio.jp/content/dupe), デュゥプ
+    - 他動詞: 人を騙す
+    - Assoc: なお、MMOの dupe は duplicate の略でこれではない
+  - ChatGPT訳: だまされたんだな、きっと。
 - Pandirna: No. She's been nothing but kind to me. Why would she...
+  - [nothing but](https://en.wiktionary.org/wiki/nothing_but#Adverb)
+    - 副詞: only と同じ
+  - ChatGPT訳: 違う。彼女はずっと親切にしてくれた。なぜそんなことを...
 - Pandirna: ...Sorry, I need a moment. I'm not - not feeling the best. But I'm sure it'll pass.
+  - ChatGPT訳: ...ごめん、ちょっと時間が欲しい。最高の気分じゃない。でも、きっとこれも過ぎ去るさ。
+  - the old lady って、Auntie Ethelのことか？
