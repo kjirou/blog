@@ -530,3 +530,51 @@ Kaghaが居る洞窟内の狼へ話しかけた
 
 - Hungry Ox: Be gone. I am hungry.
   - ChatGPT訳: 消え失せろ。私は空腹だ。
+
+### 21, Eliasis - 21:50 - Pandirna, Tav
+
+以前に話しかけたRatが案内してくれた、施錠された倉庫に入り、その中に座り込んでいるTieflingへ話しかけた
+
+- Pandirna: Stop!
+- Pandirna: This place is off-limits. _Leave_.
+  - [off-limits](https://en.wiktionary.org/wiki/off-limits)
+    - 形容詞: 入れない、使えない
+    - 「限界や範囲の外」、から転じているよう
+  - ChatGPT訳: この場所は立ち入り禁止だ。去れ。
+- Tav: Don't worry. I'm here to help.
+  - ChatGPT訳: 心配しないで。助けに来たんだ。
+- Charisma (Persuasion) Successful: Tav
+- Pandirna: Damn it, was inventory today? I'm sorry. Nerves are shot after the attack.
+  - [inventory](https://ejje.weblio.jp/content/inventory), イ↑ン・ベン・トォリィ
+    - 名詞: 棚卸し、在荷調べ
+  - [shot](https://ejje.weblio.jp/content/shot), シャァット
+    - 形容詞: 神経などが疲れ切って、物が使い古されて
+  - ChatGPT訳: くそ、今日が棚卸しだったっけ？ごめんなさい。攻撃の後で神経が参ってるんだ。
+- Pandirna: Do what you gotta do - sorry if I don't show you around.
+  - gotta = got to
+  - [show around](https://en.wiktionary.org/wiki/show_around)
+    - 他動詞: 建物や会場などの物理的な場所に慣らす
+  - ChatGPT訳: やらなきゃいけないことをやってくれ - ごめん、案内できないかもしれない。
+- Tav: Need a hand up?
+  - [up](https://ejje.weblio.jp/content/up), アッ
+    - 副詞: 低い位置から上の方へ、上へ
+  - ChatGPT訳: 手を貸そうか？
+    - 正確には「立ち上がりのために手を貸そうか？」
+- Pandirna: I'd just fall back down - legs are as steady as a foal's.
+  - [fall down](https://en.wiktionary.org/wiki/fall_down#Verb)
+    - 自動詞: 地面へ倒れる、崩れ落ちる(=collapse)
+  - [back](https://ejje.weblio.jp/content/back), バァック
+    - 副詞: 繰り返して、もう一度
+  - [steady](https://ejje.weblio.jp/content/steady), ステディ
+    - 形容詞: 安定した、足場や基礎を固定した、震えない
+    - Assoc: 決まった恋人という意味でのステディ
+  - [foal](https://ejje.weblio.jp/content/foal), フォォ
+    - 名詞: 特に一歳未満の馬の子、子馬
+  - ChatGPT訳: それでもまた倒れるだけさ - 脚は子馬のようにふらふらしてる。
+- Pandirna: Bloody potion!
+- Tav: I'd wager your 'potion' was a paralysing agent.
+- Pandirna: _What_? No, the potion worked! I'm strong as a bugbear. And fearless.
+- Pandirna: The old lady warned me that this might happen. That it was a side effect!
+- Tav: Sounds like you've been duped.
+- Pandirna: No. She's been nothing but kind to me. Why would she...
+- Pandirna: ...Sorry, I need a moment. I'm not - not feeling the best. But I'm sure it'll pass.
