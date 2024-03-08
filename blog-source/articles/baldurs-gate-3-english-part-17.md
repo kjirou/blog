@@ -437,12 +437,38 @@ Kaghaが居る洞窟内の狼へ話しかけた
   - ChatGPT訳: 何かおかしい。この生き物は見た目とは違うものだ。
     - 難しいので直訳してみると、「その生物は何か（その何かに見える）ではない」
 - Tav: There's more to you than meets the eye. Care to explain?
-  - ChatGPT訳:
+  - [more than meets the eye](https://en.wiktionary.org/wiki/more_than_meets_the_eye#Phrase)
+    - 慣用句: 明らかなものや容易に認識できる以上のもの
+    - meets の主語が何かはわからなかった
+  - [care](https://ejje.weblio.jp/content/care), ケェア
+    - 自動詞: 〜をしたいと思う
+      - care to Verb
+  - (Do you) Care to explain?
+  - ChatGPT訳: 君には見た目以上のものがあるみたいだね。説明してくれるかい？
 - Strange Ox: No. You are... incapable.
-  - ChatGPT訳:
+  - [incapable](https://ejje.weblio.jp/content/incapable), イン・ケ↑イパボォ
+    - 形容詞: 〜ができなくて、無能な、無力の
+  - ChatGPT訳: いや、あなたには…理解できない。
 - Tav: Come on, old chap. I'm a devil for gossip.
-  - ChatGPT訳:
+  - [old chap](https://en.wiktionary.org/wiki/old_chap#Noun)
+    - 名詞: 男性に対する愛情を込めた呼び方、ねえ君
+    - [chap](https://ejje.weblio.jp/content/chap), チヤプ
+      - 名詞: 男、やつ
+  - [devil](https://ejje.weblio.jp/content/devil), デボォ
+    - 名詞: 何かにあまりよくないことに熱中している人、いたずらに夢中な子供
+  - [gossip](https://ejje.weblio.jp/content/gossip), ガ↑・シップ
+    - 名詞: 人の私事に対する噂話
+  - ChatGPT訳: さあ、友よ。私はうわさ話が大好きなんだ。
 - Charisma (Persuasion) Successful: Tav
 - Strange Ox: I'll tell you this much: I'm going to Baldur's Gate. With or without the rest of these poor sods.
+  - [much](https://en.wiktionary.org/wiki/much#Adverb), マッチ
+    - 副詞: 範囲を示すか比較する表現、このくらいは、これだけは
+      - this much や as much で使うことが多い意味
+  - [sod](https://ejje.weblio.jp/content/sod), ソォーッド
+    - 名詞: 厄介者、馬鹿者
+  - ChatGPT訳: これだけは言っておく：この貧乏な連中と一緒でもなく、私はバルダーズ・ゲートに行く。
 - Strange Ox: Now - that's all I have to say besides - and I really mean this - _moo_.
-  - 人が動物に化けてるとか？または、何かのネタ？
+  - [besides](https://ejje.weblio.jp/content/besides), ビィ・サァイズ
+    - 副詞: その他に、その上
+  - ChatGPT訳: それ以外に言うことはない - そして、本当にこれを意味している - ムー。
+  - どういうイベントなんだろうか... 過去作に出てたなどの何かの単発ネタ？人が化けている？
