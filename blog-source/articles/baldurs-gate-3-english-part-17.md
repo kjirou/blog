@@ -472,3 +472,41 @@ Kaghaが居る洞窟内の狼へ話しかけた
     - 副詞: その他に、その上
   - ChatGPT訳: それ以外に言うことはない - そして、本当にこれを意味している - ムー。
   - どういうイベントなんだろうか... 過去作に出てたなどの何かの単発ネタ？人が化けている？
+
+### 21, Eliasis - 21:23 - Bored Ox, Tav
+
+三頭並んでいる牛の一頭へ話しかけた
+
+- Bored Ox: Another one. What are you under there, then? Ant? Aurochs?
+  - [under](https://ejje.weblio.jp/content/under), ア↑ンダァ
+    - 前置詞: 〜に隠れて
+  - Aurochs
+    - D&D用語,名詞: 強力な野獣。一部のOrc族に崇拝され、騎馬として用いられる。
+      - Ref: https://forgottenrealms.fandom.com/wiki/Aurochs
+    - 単数形でこの形で、複数形で Aurochses らしい
+      - Ref: https://en.wiktionary.org/wiki/aurochses
+  - ChatGPT訳: また来たのか。お前は一体何者だ？アリ？オーロックス？
+- Tav: What are you talking about?
+  - ChatGPT訳: 何の話をしているんだ？
+- Bored Ox: The keepers of this place. They change their form to fit their need.
+  - ChatGPT訳: この場所を守っている者たちのことだ。必要に応じて形を変える。
+- Bored Ox: They become birds, to hunt on the wing. Bears, to tear flesh with teeth. But for me - only oxen. Only same old hay.
+  - [tear](https://ejje.weblio.jp/content/tear), ティアァ
+    - 他動詞: 布や紙や着物などをズタズタに引き裂く
+  - [oxen](https://ejje.weblio.jp/content/oxen), (ア|オ)クセン
+    - ox - oxen
+  - only oxen は only one of oxen ではないの？
+    - ChatGPTによると、「多様な複数の形態を見せる」に対して「常に牛だけの形態である」という意味で複数形であるとのこと
+  - ChatGPT訳: 彼らは狩りをするために鳥になり、肉を裂くために熊になる。でも俺には - いつもオックス。いつも同じ古い干し草だけ。
+  - このOxは変化できるのはDruidということは認識していなくて、動物一般が変化できるものだと思っているのかな
+- Bored Ox: And I cannot even eat it, because the horned ones hide their shiny bits inside.
+  - ChatGPT訳: そして、角を持つ者たちはその光る部分を中に隠してしまうから、僕はそれを食べることさえできないんだ。
+- Tav: 'Shiny bits'? The tieflings put something in your hay?
+  - ChatGPT訳: 「光る部分」って？ ティーフリングたちはお前の干し草に何かを入れたのか？
+- Bored Ox: Hiding things, thinking they are clever. Not clever.
+  - ChatGPT訳: 物を隠して、彼らは賢いと思っている。賢くない。
+- Bored Ox: Sometimes I eat the shiny bits, and they have to go looking for them on the _other_ end.
+  - [end](https://ejje.weblio.jp/content/end), エーンド
+    - 名詞: 細長いものの先端・末端・端
+  - ChatGPT訳: 時々、僕は光る部分を食べてしまって、彼らはそれを反対側で探さなくてはならなくなるんだ。
+  - この後に、近くのhayオブジェクトがコンテナとして開けるようになり、そこから若干の貴重品が取得できる
