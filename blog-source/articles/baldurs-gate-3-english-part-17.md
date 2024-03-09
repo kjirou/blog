@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-17
-lastUpdatedAt: "2024-03-03 09:08:20+0000"
+lastUpdatedAt: "2024-03-09 00:21:25+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 17冊目
