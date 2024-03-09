@@ -19,7 +19,7 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
 ### 本編
 
 - [1冊目](./baldurs-gate-3-english-part-1.html), [2冊目](./baldurs-gate-3-english-part-2.html), [3冊目](./baldurs-gate-3-english-part-3.html), [4冊目](./baldurs-gate-3-english-part-4.html), [5冊目](./baldurs-gate-3-english-part-5.html), [6冊目](./baldurs-gate-3-english-part-6.html), [7冊目](./baldurs-gate-3-english-part-7.html), [8冊目](./baldurs-gate-3-english-part-8.html), [9冊目](./baldurs-gate-3-english-part-9.html), [10冊目](./baldurs-gate-3-english-part-10.html)
-- [11冊目](./baldurs-gate-3-english-part-11.html), [12冊目](./baldurs-gate-3-english-part-12.html), [13冊目](./baldurs-gate-3-english-part-13.html), [14冊目](./baldurs-gate-3-english-part-14.html), [15冊目](./baldurs-gate-3-english-part-15.html), [16冊目](./baldurs-gate-3-english-part-16.html)
+- [11冊目](./baldurs-gate-3-english-part-11.html), [12冊目](./baldurs-gate-3-english-part-12.html), [13冊目](./baldurs-gate-3-english-part-13.html), [14冊目](./baldurs-gate-3-english-part-14.html), [15冊目](./baldurs-gate-3-english-part-15.html), [16冊目](./baldurs-gate-3-english-part-16.html), [17冊目](./baldurs-gate-3-english-part-17.html)
 
 ### その他
 
@@ -54,6 +54,8 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
     - 単語・句・文などの意味の定義に使うもの
       - 名詞
         - Wiktionaryで Noun へ分類されているもの
+      - 代名詞
+        - Wiktionaryで Pronoun へ分類されているもの
       - 自動詞
         - Wiktionaryで Verb へ分類されていて、本文で自動詞として使われているもの
       - 他動詞
@@ -70,6 +72,10 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
         - Wiktionaryで Conjunction へ分類されているもの
       - 間投詞
         - Wiktionaryで Interjection へ分類されているもの
+      - 限定詞
+        - Wiktionaryで Determiner へ分類されているもの
+        - 限定詞とは、その状況での名詞の役割を指定する単語。冠詞は限定詞の一種。
+          - Ref: https://ipa-mania.com/determiner/
       - 助詞
         - Wiktionaryで Particle へ分類されているもの
       - 限定用法
@@ -83,12 +89,12 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
       - イディオム
         - Wiktionaryへ記載されていないが、その他の情報から固有の意味を持つもの
       - D&D用語
-        - Dungeons & Dragons 世界の用語
+        - Dungeons & Dragons世界の用語
       - BG用語
-        - Baldur's Gate 世界の用語、または、ゲームシステムの用語
+        - Baldur's Gate世界の用語、または、ゲームシステムの用語
     - その他
       - ChatGPT訳
-        - ChatGPT4 へ本文を少なくとも文単位で渡して日本語訳したときの回答のコピー、こちらで手修正はしない
+        - ChatGPT4へ本文を少なくとも文単位で渡して日本語訳したときの回答のコピー、こちらで手修正はしない
       - Ref
         - 参考資料のURL、もしくは、Markdownのラベル付きリンク
 - 日本語文中に英文を埋め込む時
@@ -96,7 +102,9 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
   - 例
     - あああ foo bar いいい
     - あああ"foo bar"いいい
-- 日本語文中で日本語として扱う英単語
-  - 人名・種族名・地名・アイテム名・呪文名・BG3ゲームシステム用語・D&DやBG3の専門用語、などは、日本語として英語を埋め込む
+- 日本語文中で日本語として扱える英単語
+  - 固有名詞
+    - 一般的な固有名詞
+    - ゲーム内の、人名・種族名・地名・アイテム名・呪文名・BG3ゲームシステム用語・D&DやBG3の専門用語、などは固有名詞として扱えるものとする
   - 例
     - あああElfいいい

@@ -693,9 +693,6 @@ Kaghaの話を受けて、再びZevlorへ会いに来た
     - 他動詞: 切り倒す、伐採する
   - [a fair few](https://en.wiktionary.org/wiki/a_fair_few)
     - 限定詞: 不定なやや大きい数の、少なくない数の、かなりの数の
-    - 限定詞(determiner)とは？
-      - その状況での名詞の役割を指定する単語。冠詞は限定詞の一種。
-        - Ref: https://ipa-mania.com/determiner/
     - [fair](https://ejje.weblio.jp/content/fair), フェアァ
       - 形容詞: かなりたくさんの、相当な
   - ChatGPT訳: イリシッドによる予定外の手術を受ける前に、私は何百もの獣とそれなりに多くの友人を倒してきた。
