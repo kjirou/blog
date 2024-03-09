@@ -125,6 +125,7 @@ Ogreの住処と思われる場所のすぐ外に焚き火があり、そこで�
       - oneself には主語と同じ対象が入る
   - [quarrel](https://ejje.weblio.jp/content/quarrel), クォーラ(ル|ウ)
     - 名詞: 立腹しての口喧嘩、口論、仲違い
+    - Assoc: クォーラル・ボンバー
   - [sour](https://ejje.weblio.jp/content/sour), (ス|サ)↑ワァ
     - 他動詞: 台無しにする(=spoil)、酸っぱくさせる
   - ChatGPT訳: 紳士たち、落ち着いてください。この争いは私たちの宴を台無しにします。それに、豚の味がする！
@@ -312,6 +313,8 @@ Potion of Animal Speakingを飲んだので、その日中に動物たちと話�
 ついでに、買い物と不用品の売却をするために鍛冶屋へ話しかけた。
 
 - Dammon: Looking for steel? I have... well, something close.
+  - [close](https://ejje.weblio.jp/content/close), (カ|ク)ロォズ
+    - 形容詞: 類似した
   - ChatGPT訳: 鋼を探していますか？私には...まあ、それに近いものがあります。
 - Tav: Let me see your wares.
 - Tav: _Leave_.
@@ -368,6 +371,8 @@ Druidたちが儀式をしている場所から少し下った川で、魚を採
 - Ormn: Master. He left with the weaponed two-legs. He said he'd be back.
   - ChatGPT訳: 主人だよ。彼は武装した二足歩行の者たちと一緒に出かけた。戻ると言っていたのに。
 - Ormn: But I can smell them - the weaponed ones. And I cannot smell him... he's not coming back...
+  - [smell](https://ejje.weblio.jp/content/smell), スメ↑ウ
+    - 他動詞: 〜のにおいを感じる
   - ChatGPT訳: でも、武装した者たちの匂いはする。そして彼の匂いはしない...彼は戻ってこない...
 - Tav: Don't worry - he'll be back.
 - Ormn: No... the woods have gone dark. There's too many predators lately - even for Master.
@@ -422,7 +427,8 @@ Kaghaが居る洞窟内の狼へ話しかけた
   - [address](https://ejje.weblio.jp/content/address), (ア|エ)ジョレェス
     - 他動詞: 人に話しかける
   - [humble](https://ejje.weblio.jp/content/humble), ハンボゥ
-    - 形容詞: 地味な、自ら卑下してつまらない
+    - 形容詞: 地味な、自ら卑下してつまらない、謙虚な、謙遜した
+    - Assoc: Humble Bundle
   - [quaint](https://ejje.weblio.jp/content/quaint), クゥェイント
     - 形容詞: 風変わりで面白い、古風で趣のある
   - ChatGPT訳: ああ、私に話しかけているのか。一介の牛に。なんて...風変わりだ。
@@ -430,6 +436,8 @@ Kaghaが居る洞窟内の狼へ話しかけた
   - ChatGPT訳: この牛には何か奇妙なところがある。何だろう？
 - Intelligence (Arcana) Successful: Tav
 - \*Something's off. This creature isn't what it appears to be.\*
+  - [off](https://ejje.weblio.jp/content/off), オ↑ォフ
+    - 副詞: 人の調子が狂って
   - [appear](https://ejje.weblio.jp/content/appear), ア・ピヤァ
     - 自動詞: 〜のように見える・思われる
       - appear [to be] C
@@ -484,6 +492,8 @@ Kaghaが居る洞窟内の狼へ話しかけた
       - 他動詞: 退屈させる、うんざりさせる
   - [under](https://ejje.weblio.jp/content/under), ア↑ンダァ
     - 前置詞: 〜に隠れて
+  - under there
+    - 直訳だと「そこに隠れている」、意訳で「あなたの隠された本質」になるよう
   - Aurochs
     - D&D用語,名詞: 強力な野獣。一部のOrc族に崇拝され、騎馬として用いられる。
       - Ref: https://forgottenrealms.fandom.com/wiki/Aurochs
@@ -601,3 +611,13 @@ Kaghaが居る洞窟内の狼へ話しかけた
 - Pandirna: ...Sorry, I need a moment. I'm not - not feeling the best. But I'm sure it'll pass.
   - ChatGPT訳: ...ごめん、ちょっと時間が欲しい。最高の気分じゃない。でも、きっとこれも過ぎ去るさ。
   - the old lady って、Auntie Ethelのことか？
+
+### 21, Eliasis - 22:08 - Pandirna
+
+再び話しかけた
+
+- Pandirna: If this isn't the most boring post in the grove, I don't know what is.
+  - [post](https://ejje.weblio.jp/content/post), ポウスト
+    - 名詞: 衛兵や警官の部署・持ち場
+  - ChatGPT訳: これが林の中で最も退屈な場所でなければ、私にはわかりません。
+    - 意味がわからない
