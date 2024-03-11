@@ -113,5 +113,43 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
     - 副詞: 贅沢に、惜しげなく、ふんだんに
   - ChatGPT訳: 希望の家。疲れた人が休息を求め、飢えた人が贅沢に食事をする場所。
 - Raphael: Go on. Partake. Enjoy your supper. After all...
+  - [partake](https://ejje.weblio.jp/content/partake), パー・テイ
+    - 自動詞: 食べる・飲む、何かを共にする
+  - [supper](https://ejje.weblio.jp/content/supper), サ・(パ|ポ)ー
+    - 名詞: 夕食、夕食会
+  - ChatGPT訳: どうぞ、召し上がれ。晩餐を楽しんでください。なぜなら...
 - Raphael: ...it might just be your last.
+  - ChatGPT訳: ...これが最後の食事になるかもしれないからです。
 - Tav: What makes you say that?
+  - ChatGPT訳: どうしてそう言うのですか？
+- Raphael: Call it a ninth sense.
+  - [call](https://ejje.weblio.jp/content/call), コー(ル|ウ)
+    - 他動詞: 〜と呼ぶ・称する
+      - call O(=対象) C(=命名内容)
+  - ChatGPT訳: 第九感と呼ぶことにしましょう。
+  - a ninth sense に何か元ネタがあるのかと思ったが、わからなかった
+- Raphael: What's better than a devil you don't know?
+  - ChatGPT訳: 知らない悪魔よりもいいものは何ですか？
+- Raphael: A devil you do.
+  - ChatGPT訳: 知っている悪魔です。
+- Raphael: Am I a friend? Potentially. An adversary? Conceivably. But a saviour? That's for certain.
+  - [potentially](https://ejje.weblio.jp/content/potentially), ポ・テ↑ン・シャリィ
+    - 副詞: 潜在的に、もしかすると
+  - [adversary](https://ejje.weblio.jp/content/adversary), ア↑ド・バ・サァリィ
+    - 名詞: 敵、反対する人、競争相手
+    - The Adversary で「魔王」などの強大な敵を意味する
+    - 語源の一部は versus に由来している
+  - [conceivably](https://ejje.weblio.jp/content/conceivably), (コ|カ)ン・シーバブリィ
+    - 副詞: 考えられるところでは、想像では、あるいは
+    - [conceive](https://ejje.weblio.jp/content/conceive), (コ|カ)ン・スィーブ
+      - 他動詞: 〜だと想像する・考える・思う
+  - [saviour](https://ejje.weblio.jp/content/saviour), セ↑イビァ
+    - = savior
+    - [savior](https://ejje.weblio.jp/content/savior), セ↑イビァ
+      - 名詞: 救世主、救い主、救助者
+  - That's for certain を That's certain にするとどんな意味の違いになる？
+    - どちらも「確実である」という点は同じ
+    - ChatGPTによると、 for がある方がより強く確信している意味になるとのこと
+      - 雑な照準合わせが for だから、確信度が弱くなるんじゃないのか...
+  - ChatGPT訳: 私は友人ですか？ それもあり得ます。敵ですか？ それも考えられます。しかし、救世主ですか？ それは間違いないです。
+- Tav:
