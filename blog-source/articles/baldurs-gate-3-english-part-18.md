@@ -207,8 +207,39 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
     - 名詞: 絶望、絶望させるもの
   - ChatGPT訳: そして、希望が絶望の髄まで削り取られたとき - そう、そのときにあなたは私のドアを叩くんだ。
 - Raphael: Hope. Hahaha! Such a tease.
-- Tav:
-- Raphael:
-- Raphael:
-- Raphael:
-- Raphael:
+  - [tease](https://en.wiktionary.org/wiki/tease#Noun), テ↑ィーズ
+    - 名詞: からかう人、からかう行為
+    - 他動詞の「〜をからかう」が主な用法
+  - ChatGPT訳: 希望か。ハハハ！なんてからかい。
+- Tav: And if I do want to take this deal - how would I find you?
+  - ChatGPT訳: もし本当にこの取引を受けたくなったら、どうやってあなたを見つければいいの？
+- Raphael: I'll be around. Watching you squirm like a tadpole through a nice juicy brain.
+  - [juicy](https://ejje.weblio.jp/content/juicy), ジュゥスィ
+    - 形容詞: 汁気の多い、水分の多い
+  - ChatGPT訳: 辺りにいるよ。君がジューシーな脳を通り抜けるオタマジャクシみたいにもがくのを楽しんで見ているよ。
+    - like a tadpole through a nice juicy brain の文意はわからない
+- Raphael: All those pretty little symptoms - sundering skin, dissolving guts - they haven't manifested yet, have they?
+  - [symptom](https://ejje.weblio.jp/content/symptom), シンプトン
+    - 名詞: 病気の症状、徴候
+  - All those は何を指しているの？
+    - pretty little symptoms
+  - [sunder](https://ejje.weblio.jp/content/sunder), サ↑ンダァ
+    - 他動詞: 二つに分ける、切り離す
+  - [dissolve](https://ejje.weblio.jp/content/dissolve), ディ・ゾゥブ
+    - 他動詞: ものを液体に溶かす、分解する
+  - [manifest](https://ejje.weblio.jp/content/manifest), (マ|メ)ーニ・フェスト
+    - 自動詞: 現れる、顕在化する
+    - 動詞としては、通常は他動詞で「明らかにする」「現れる」
+  - ChatGPT訳: 皮膚が割れ、内臓が溶け出す - そんなきれいな小さな症状はまだ現れていないだろう？
+- Raphael: One might say you're a paragon of luck.
+  - One might say とは？
+    - one は「ある人」で、「ある人はいうかもしれない」、つまり「一般的に言えば」
+  - [paragon](https://ejje.weblio.jp/content/paragon), (パ|ペ)ェラゴォン
+    - 名詞: 模範、手本
+    - Assoc: Ultima Onlineに「パラゴンシステム」ってあったなぁ
+  - ChatGPT訳: 君は運がいいと言えるだろうね。
+- Raphael: I'll be there when it runs out.
+  - [run out](https://en.wiktionary.org/wiki/run_out#Verb)
+    - 自動詞: 使い切る、全て消費する
+  - ChatGPT訳: 運が尽きたとき、私はそこにいるよ。
+  - また別の利害関係者がでてきた。このゲーム、伏線がドンドン溜まっていく。
