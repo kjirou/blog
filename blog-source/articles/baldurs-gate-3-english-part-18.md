@@ -152,4 +152,63 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
     - ChatGPTによると、 for がある方がより強く確信している意味になるとのこと
       - 雑な照準合わせが for だから、確信度が弱くなるんじゃないのか...
   - ChatGPT訳: 私は友人ですか？ それもあり得ます。敵ですか？ それも考えられます。しかし、救世主ですか？ それは間違いないです。
+- Tav: Why would you help me?
+- Raphael: Because my compassion is boundless. I stride among the needy, giving comfort where I can.
+  - [boundless](https://ejje.weblio.jp/content/boundless), バウンドレス
+    - 形容詞: 無限の、限りない
+  - [stride](https://ejje.weblio.jp/content/stride), ストラァイド
+    - 自動詞: 元気よくまたは威張って大股に歩く、闊歩する
+  - [needy](https://ejje.weblio.jp/content/needy), ニーディ
+    - 形容詞: 貧乏な、貧困な
+  - [comfort](https://ejje.weblio.jp/content/comfort), (カ|コ)↑ン・フォート
+    - 名詞: 困っている人や悩んでいる人に対する慰め、慰安、不安や苦痛や不満の無い安楽・快適
+  - ChatGPT訳: なぜなら、私の慈悲は無限だからです。私は必要としている人々の間を歩き、できるところに慰めを与えます。
+- Raphael: And you're in dire need. One skull, two tenants, and no solution in sight.
+  - [dire](https://ejje.weblio.jp/content/dire), ダ↑イアァ
+    - 形容詞: 恐ろしい、ものすごい、悲惨な
+  - [tenant](https://ejje.weblio.jp/content/tenant), テ↑ナント
+    - 名詞: 土地や家屋などの借用者・借家人・借地人、居住者
+  - ChatGPT訳: そして、あなたは深刻な必要にあります。一つの頭蓋骨に二人の住人、そして見通しのない状況です。
+- Raphael: I could fix it all like that.
+  - [like that](https://en.wiktionary.org/wiki/like_that#Prepositional_phrase)
+    - 前置詞句: そのような方法で、同様の方法で、こんな具合に
+  - ChatGPT訳: 私ならそれを全部、あっという間に解決できますよ。
+    - like that が「あっという間」なのは少なくとも意訳、ChatGPTは、身振りで「こんな具合に」ということをやっていたはず、という主張をしている。真実のところは忘れた。
+- Tav: I need to think this over.
+  - [think over](https://en.wiktionary.org/wiki/think_over#Verb)
+    - 他動詞: 主題について熟考する
+  - ChatGPT訳: これはよく考えなければ。
+- Raphael: Take all the time you need - but make up your mind before you're counting down with tentacles.
+  - [make up one's mind](https://en.wiktionary.org/wiki/make_up_one%27s_mind#Verb)
+    - 自動詞: 決める・決定する(=decide)、結論に達する
+  - ChatGPT訳: 時間をかけて構わないよ - でも、触手でカウントダウンをする前に決断してね。
+- Raphael: Try to cure yourself. Shop around - beg, borrow, and steal. Exhaust every possibility until none are left.
+  - [shop around](https://en.wiktionary.org/wiki/shop_around)
+    - 自動詞: 自分が持っていたり欲しいものの別の選択肢を積極的に探す、店を選ぶ前に選択肢の検討をする
+  - [beg](https://ejje.weblio.jp/content/beg), ベッグ
+    - 自動詞: 施しを請う、こじきをする
+  - [borrow](https://ejje.weblio.jp/content/borrow), ボォロゥ
+    - 自動詞: 借りる、借金する
+    - Assoc: Borrow Checker
+  - [exhaust](https://ejje.weblio.jp/content/exhaust), エグ・ゾースト
+    - 他動詞: 資源や体力などを使い尽くす
+    - [exhaustive](https://ejje.weblio.jp/content/exhaustive), エグ・ゾ↑ウ・スィブ
+      - 形容詞: 徹底的な、余す所がない
+      - Assoc: react-hooks/exhaustive-deps から調べたけど、単語のイメージが割と違う
+  - ChatGPT訳: 自分を治そうとしてみて。あちこち探して、借りたり盗んだりして。可能性がなくなるまで全てを試してみて。
+- Raphael: And when hope has been whittled down to the very marrow of despair - that's when you'll come knocking on my door.
+  - [whittle](https://ejje.weblio.jp/content/whittle), ウィトォ
+    - 他動詞: 少しずつ削る、削ぐ
+  - [marrow](https://ejje.weblio.jp/content/marrow), マ↑ァロゥ
+    - 名詞: 髄、骨髄
+  - to the very marrow
+    - very は副詞で、名詞の marrow を修飾している
+  - [despair](https://ejje.weblio.jp/content/despair), ディスペ↑アァ
+    - 名詞: 絶望、絶望させるもの
+  - ChatGPT訳: そして、希望が絶望の髄まで削り取られたとき - そう、そのときにあなたは私のドアを叩くんだ。
+- Raphael: Hope. Hahaha! Such a tease.
 - Tav:
+- Raphael:
+- Raphael:
+- Raphael:
+- Raphael:
