@@ -386,11 +386,88 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 全体的に意味がわからない
       - いきなり弱々しくなったので前兆はなかったけど、そこはゲーム的な説明不足で、「こんなに弱っているのだから、早く魔法の品をくれ」という意味かな
 - Tav: I think I have a magical artefact you'll be interested in.
+  - [interest](https://ejje.weblio.jp/content/interest), イントラスト
+    - 他動詞: 関心を持たせる
+      - S(=関心を持たせる主体) interest O(=関心を持たせる対象) in {関心を持たせる内容}
+      - S(=関心を持たせる内容) interest O(=関心を持たせる対象) もある
+  - you'll be interested in (a magical artefact)
   - ChatGPT訳: 魔法のアーティファクトがあると思うよ、君が興味を持つと思う。
 - Gale: That is most gratifying to hear. May I?
+  - [gratifying](https://ejje.weblio.jp/content/gratifying), グラァ↑ティファイイン
+    - 形容詞: 希望などを叶えて満足を与えた、心地良い
+    - [gratify](https://ejje.weblio.jp/content/gratify), グラァ↑ティファイ
+      - 他動詞: 〜を喜ばせる
   - ChatGPT訳: それは聞いて非常に嬉しいね。見せてもらえるかい？
 - Tav: _Give Gale a magic artefact_.
 - Gale: Thank you!
 - Gale: That hit the spot.
-- Gale:
-- Gale:
+  - [hit the spot](https://en.wiktionary.org/wiki/hit_the_spot)
+    - 自動詞: ちょうど良い、特に嬉しい・適切である
+  - ChatGPT訳: それでちょうど良かった。
+- Gale: I can feel it work. The magic is like a lullaby that sings to sleep the demon inside.
+  - ChatGPT訳: 効いているのが分かる。この魔法は内側の悪魔を眠らせる子守唄のようだ。
+- Gale: A metaphorical demon I haste to point out. But no less dangerous - and no less bound to wake up again to continue its ravages. Such is the nature of all monsters.
+  - [metaphorical](https://ejje.weblio.jp/content/metaphorical), メタ・フォ↑リ・コォ
+    - 形容詞: 比喩的な、隠喩の
+  - [haste](https://en.wiktionary.org/wiki/haste#Verb), ヘイスト
+    - 自動詞: 急いで動く
+      - 古風な使い方
+    - 現代では、通常「急ぎ」という名詞、動詞で使うなら hasten
+  - [point out](https://en.wiktionary.org/wiki/point_out#Verb)
+    - 自動詞: 指摘する(=indicate)
+  - [no less](https://en.wiktionary.org/wiki/no_less#Adverb)
+    - 副詞: 同じくらい
+  - [bound](https://ejje.weblio.jp/content/bound), バァウンド
+    - 形容詞: 確かに〜をするはずで、束縛された
+  - [ravage](https://ejje.weblio.jp/content/ravage), ゥラ↑ーベッジ
+    - 名詞: 破壊
+  - [nature](https://ejje.weblio.jp/content/nature), ネ↑イチュア
+    - 名詞: ものの本質
+  - ChatGPT訳: もちろん比喩的な悪魔だと急いで指摘しておく。それでもやはり危険であり、再び目を覚まして破壊を続ける運命にある。全ての怪物の本質がそうであるように。
+- Tav: Perhaps now you'll tell me what all this is in aid of?
+  - [in aid of](https://en.wiktionary.org/wiki/in_aid_of#Preposition)
+    - 前置詞: 〜のために(=for, for the sake of)
+      - 文の最後に置いて、人が何かをした理由を問うのに使う
+  - ChatGPT訳: さて、これが何のためにあるのか、今は教えてくれるかな？
+- Gale: Grateful as I am, the course of our camaraderie is much better served by not taking that particular detour. Not just yet.
+  - [grateful](https://ejje.weblio.jp/content/grateful), グレイトフォゥ
+    - 形容詞: 感謝して
+  - [as](https://ejje.weblio.jp/content/as), アァズ
+    - 接続詞: 〜だけれども
+      - 譲歩を示す逆説
+      - 形容詞 as S be動詞
+  - [course](https://ejje.weblio.jp/content/course), コォス
+    - 名詞: 進行、推移
+  - [camaraderie](https://ejje.weblio.jp/content/camaraderie), カァマ・ラル・リィ
+    - 名詞: 同じ職場や共同生活から生まれた友情・友愛
+  - [serve](https://ejje.weblio.jp/content/serve), (ス|サ)ーヴ
+    - 他動詞: 役に立つ
+      - S(=役に立つもの) serve O(=役に立たせる対象)
+  - [detour](https://ejje.weblio.jp/content/detour), ディー・トゥーア
+    - 名詞: 迂回路、回り道、遠回り
+  - ChatGPT訳: 感謝しているけど、その特定の迂回路を取ることは、まだ、私たちの友情の進行にとっては良くない。まだね。
+- Gale: Sincerely though: I understand I ask a lot from you with few answers in return, but in time all will be told.
+  - [sincerely](https://ejje.weblio.jp/content/sincerely), スィン・シア・リィ
+    - 副詞: 心から、本当に
+    - [sincere](https://ejje.weblio.jp/content/sincere), スィン・シーア
+      - 形容詞: 嘘偽りのない、正直な、誠実な
+      - Assoc: DQ4のシンシアって、皮肉が名前になってるんか
+  - [lot](https://ejje.weblio.jp/content/lot), (ラ|ロ)ット
+    - 名詞: たくさん
+  - [ask](https://ejje.weblio.jp/content/ask), アースク
+    - 他動詞: 人から援助や助言を求める
+      - ask O(=内容) from {人}
+  - [in return](https://en.wiktionary.org/wiki/in_return#Prepositional_phrase)
+    - 前置詞句: お返しの手段として、その代わりに
+  - [in time](https://en.wiktionary.org/wiki/in_time#Prepositional_phrase)
+    - 前置詞句: 時間の経過と共に
+  - ChatGPT訳: しかし本当に：少ない答えであなたに多くを求めていることを理解しているけど、時間が経てばすべてを話すよ。
+- Tav: Don't mention it. I'm glad I could help.
+  - [mention](https://ejje.weblio.jp/content/mention), メ↑ン・ション
+    - 他動詞: 簡単に述べる、言及する
+  - ChatGPT訳: 気にしないで。助けられてうれしいよ。
+- Gale: My lord, I bow to your boundless kindness!
+  - ChatGPT訳: 私の主よ、あなたの無限の優しさに、私は頭が上がりません！
+  - なんでお前らは何も言わないんだ、いざという時に困るだろ！
+
+### 21, Eliasis - 5:24 - Shadowheart, Tav
