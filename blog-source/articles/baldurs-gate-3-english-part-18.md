@@ -301,6 +301,69 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 副詞: 考えなしに、即座に
   - ChatGPT訳: 悪魔の代弁者を務めさせてもらうが、その男はあまりにも熱心だ。彼の申し出を即座に退けることはない。
 - Gale: If there's one quality all the denizens of the Hells embody, it's _ambition_. A quality they share with many humans, come to think of it...
-- Tav:
+  - [quality](https://ejje.weblio.jp/content/quality), クォリティ
+    - 名詞: 特質、特性、特色
+  - [denizen](https://ejje.weblio.jp/content/denizen), デェニズン
+    - 名詞: 特定の地域の住民・生息者、市民権の一部を与えられた居住者
+  - [embody](https://ejje.weblio.jp/content/embody), エン・バ↑ーディ
+    - 他動詞: 思想や感情を具体的に表現する・体現する・具現化する
+  - [ambition](https://ejje.weblio.jp/content/ambition), (ア|エ)ン・ビ↑ション
+    - 名詞: 野心
+  - [share](https://ejje.weblio.jp/content/share), シェアァ
+    - 他動詞: 〜を共有する
+  - [come](https://ejje.weblio.jp/content/come), カァンム
+    - 自動詞: ある状態がやってくる、ある状態になる
+  - (A quality (they share with many humans)), (I) come to think of it...
+    - they は all the denizens of the Hells
+    - come to think of it は、直訳すると「私がそれを考える状態になると」で、転じて「それを思い返してみると」「それを考え直してみると」
+  - ChatGPT訳: 地獄の住人が体現する一つの特質があるとすれば、それは野心です。多くの人間が共有する特質だとも言えますね...
+- Tav: What do you think Raphael's 'ambition' could be?
+  - ChatGPT訳: ラファエルの「野心」についてはどう思いますか？
+- Gale: Haven't the foggiest. But based on the evidence before us, we can make certain deductions as to _why_ he sought out our merry band.
+  - [foggy](https://ejje.weblio.jp/content/foggy), フォーギィ
+    - 形容詞: 霧の立ち込めた、霧がかかってぼんやりした
+  - [base on](https://en.wiktionary.org/wiki/base_on#Verb)
+    - 他動詞: 意見や議論や主張を〜に根拠づける・基かせる
+  - [evidence](https://ejje.weblio.jp/content/evidence), エヴィデンス
+    - 名詞: 立証するための証拠
+  - [deduction](https://ejje.weblio.jp/content/deduction), ディ・ダァクション
+    - 名詞: 推論、推論による結論、演繹的結論
+    - 「差し引き」という意味もある
+  - [as to](https://en.wiktionary.org/wiki/as_to#Preposition)
+    - 前置詞: 〜に関して、〜の参照として
+  - [sought](https://ejje.weblio.jp/content/sought), ソァット
+    - seek - sought - sought
+  - [seek out](https://en.wiktionary.org/wiki/seek_out#Verb)
+    - 他動詞: 位置を特定しようとする、検索する(=search for)
+  - [merry](https://ejje.weblio.jp/content/merry), メ↑・リィ
+    - 形容詞: 陽気な、愉快な、楽しい
+    - Assoc: Merry Christmas!
+  - ChatGPT訳: さっぱりわかりません。しかし、目の前の証拠から、彼がなぜ私たちの楽しい一団を求めたのかについて、ある推論を立てることができます。
+- Gale: Fact one: there's something very strange and very powerful about our tadpoles.
+  - ChatGPT訳: 事実一つ：私たちのタドポールにはとても奇妙で非常に強力な何かがあります。
+- Gale: Fact two: a devil offers to take it away.
+  - ChatGPT訳: 事実二つ：悪魔がそれを取り除くことを申し出ました。
+- Gale: Devils aren't known to aid mortals out of simple kindness. Whatever Raphael wants, _we_ must be the key to getting it. Along with our tadpoles...
+  - [aid](https://ejje.weblio.jp/content/aid), エ↑ィド
+    - 他動詞: 助ける
+    - help より形式的
+  - [out of](https://en.wiktionary.org/wiki/out_of#Preposition)
+    - 前置詞: 特定の原因または動機から
+      - 他の意味である「ある対象の外側」という意味とは逆なんだが、ある対象のうちから外側に漏れ出ると言うイメージをするといいのかもしれない
+  - ChatGPT訳: 悪魔は単なる親切から人間を助けるとは知られていない。ラファエルが何を望んでいるにせよ、私たちがそれを得るための鍵でなければならない。私たちの蝌蚪と共に...
+    - 「おたまじゃくし」の漢字は「蝌蚪」なんだ
+- Gale: So I say for now - we wait. If I'm right, Raphael will seek us out again. And when he does, there's a mighty bargain to be made.
+  - [mighty](https://ejje.weblio.jp/content/mighty), マ↑ィティ
+    - 形容詞: 強力な、力強い、強大な、巨大な
+  - ChatGPT訳: だから私は今のところ待つべきだと言っている。もし私が正しければ、ラファエルは再び私たちを求めてくるだろう。そして、彼がそうしたとき、強力な取引が成立する。
+    - a mighty bargain が「我々に有利な」という意味を含むかは、わからなかった
+- Gale: Remember his Cormyrian rhyme? 'Down came the claw'. Perhaps we should start growing our nails.
+  - [rhyme](https://ejje.weblio.jp/content/rhyme), ゥラ↑ァイム
+    - 名詞: 韻、脚韻
+      - 「韻」は「音のひびき」という意味
+  - ChatGPT訳: 彼のコーミリアンの韻を覚えているか？「爪が降ってきた」。もしかすると、私たちは爪を伸ばし始めるべきかもしれない。
+    - 先の寓話は、強大な側として爪を保つ猫を例えている。これだと我々が猫になるのでおかしい気がする？
 
 ### 21, Eliasis - 4:22 - Gale, Tav
+
+再び話した
