@@ -248,7 +248,7 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
 
 Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸収しないといけない病気だと思って話した。
 
-そうしたら、別の会話が始まった。
+そうしたら、別の会話が始まってしまった。
 
 - Gale: Do you feel as flattered as I do? Invited to dine with a devil...
   - [flattered](https://ejje.weblio.jp/content/flattered), フラ↑ァタァ
@@ -366,4 +366,31 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
 
 ### 21, Eliasis - 4:22 - Gale, Tav
 
-再び話した
+本来の目的の話をするために、再び話した
+
+- Gale: What's on your mind? Apart from finding me an artefact to consume, which I assume you're pursuing with the appropriate urgency.
+  - [apart from](https://en.wiktionary.org/wiki/apart_from#Preposition)
+    - 前置詞: 〜を除いて(=except for)、〜の他にも(=besides)
+  - [assume](https://ejje.weblio.jp/content/assume), ア・シュゥム
+    - 他動詞: 証拠はないが〜を事実や当然のことだと思う
+  - [pursue](https://ejje.weblio.jp/content/pursue), パ・シュ↑ゥ
+    - 他動詞: しばらくの期間に物事を達成するための活動をする、追求する
+  - you're pursuing の目的語は？
+    - finding me an artefact to consume の全体
+  - [appropriate](https://ejje.weblio.jp/content/appropriate), アプロ・プリェィト
+    - 形容詞: 適切な、ふさわしい
+    - 動詞で「充当する」と言う意味もある
+  - [urgency](https://ejje.weblio.jp/content/urgency), (ア|オ)ージェンスィ
+    - 名詞: 緊急性、緊急、切迫した様子
+  - ChatGPT訳: 何を考えてるの？私が消費するためのアーティファクトを見つけること以外に、もちろんそれを適切な緊急性を持って追求していると思うけど。
+    - 全体的に意味がわからない
+      - いきなり弱々しくなったので前兆はなかったけど、そこはゲーム的な説明不足で、「こんなに弱っているのだから、早く魔法の品をくれ」という意味かな
+- Tav: I think I have a magical artefact you'll be interested in.
+  - ChatGPT訳: 魔法のアーティファクトがあると思うよ、君が興味を持つと思う。
+- Gale: That is most gratifying to hear. May I?
+  - ChatGPT訳: それは聞いて非常に嬉しいね。見せてもらえるかい？
+- Tav: _Give Gale a magic artefact_.
+- Gale: Thank you!
+- Gale: That hit the spot.
+- Gale:
+- Gale:
