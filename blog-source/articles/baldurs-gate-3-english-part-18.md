@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-18
 lastUpdatedAt: "2024-03-09 00:21:25+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 17冊目
+# Baldur's Gate 3の英語を復習する 18冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - Blighted Villageの探索を終え、Halsinの捜索に戻った
@@ -242,4 +242,65 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
   - [run out](https://en.wiktionary.org/wiki/run_out#Verb)
     - 自動詞: 使い切る、全て消費する
   - ChatGPT訳: 運が尽きたとき、私はそこにいるよ。
-  - また別の利害関係者がでてきた。このゲーム、伏線がドンドン溜まっていく。
+  - また別の利害関係者がでてきた。このゲームは伏線が未消化なままドンドン溜まっていく。
+
+### 21, Eliasis - 3:32 - Gale, Tav
+
+Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸収しないといけない病気だと思って話した。
+
+そうしたら、別の会話が始まった。
+
+- Gale: Do you feel as flattered as I do? Invited to dine with a devil...
+  - [flattered](https://ejje.weblio.jp/content/flattered), フラ↑ァタァ
+    - 形容詞,叙述用法: 喜んで
+    - [flatter](https://ejje.weblio.jp/content/flatter), フラ↑ァトォ
+      - 他動詞: おべっかを言う、おもねる、お世辞を言う
+  - ChatGPT訳: 私がそう感じているように、あなたも光栄に思いますか？悪魔と食事に招待されるなんて...
+- Intelligence (Arcana) Successful: Tav
+- Tav: Devils rarely approach mortals without some nefarious intent. We'd be wise to avoid him.
+  - [nefarious](https://ejje.weblio.jp/content/nefarious), ネ・フェ↑アリアス
+    - 形容詞: 極悪な、ふらちな、非道な
+  - ChatGPT訳: 悪魔が人間に近づくときは、何か悪意のある意図があることがほとんどです。彼を避けるのが賢明でしょう。
+- Gale: Don't let his bluster fool you. All that talk of desperation? It merely illustrates his own.
+  - [bluster](https://ejje.weblio.jp/content/bluster), ブラスタァ
+    - 名詞: 空威張り、脅し
+    - コアイメージ: 主には動詞の「荒れ狂う」で、そこから「人が猛り狂う」「威張り散らす」に転じている
+  - [desperation](https://ejje.weblio.jp/content/desperation), デスパレイション
+    - 名詞: 自暴自棄、捨て鉢
+  - [merely](https://ejje.weblio.jp/content/merely), ミィアリィ
+    - 副詞: 単に〜に過ぎない
+    - only よりも形式的な表現
+  - [illustrate](https://ejje.weblio.jp/content/illustrate), イ↑・ラストレィト
+    - 他動詞: 〜であることを説明する・例証する
+    - 動詞で「図解する」「挿絵を入れる」という意味もある
+  - ChatGPT訳: 彼の大言壮語に騙されてはいけません。あの絶望についての話すべて？それは彼自身の絶望を示しているに過ぎません。
+- Gale: I think he wants something from us. Badly. And in that knowledge lies our opportunity.
+  - [badly](https://ejje.weblio.jp/content/badly), バァドリィ
+    - 副詞: とても、非常に、激しく
+    - 「悪く」という意味もある
+  - in that knowledge lies our opportunity だが、 lie は他動詞の用法がない？
+    - 「横たわる」という意味の lie には、他動詞の用法はない
+    - おそらくは、 our opportunity lies in that knowledge の語順が変化した結果
+  - ChatGPT訳: 彼は我々から何かを強く求めていると思う。その知識の中に、我々の機会がある。
+- Tav: But what is it that this devil wants so very badly?
+  - ChatGPT訳: しかし、この悪魔がそんなにも切望しているものとは一体何だろう？
+- Gale: Our souls. But I suspect that's but his opening offer.
+  - [but](https://ejje.weblio.jp/content/but)
+    - 副詞: ほんの、ただの、〜なだけ
+  - ChatGPT訳: 我々の魂だ。しかし、それは彼の最初の提案に過ぎないと思う。
+- Gale: Let me play the devil's advocate: the man is too eager. Do not dismiss his offer out of hand.
+  - [play](https://ejje.weblio.jp/content/play), プレェイ
+    - 他動詞: 〜らしくふるまう、〜の役割を果たす
+      - play the {単数形の名詞}
+  - [advocate](https://ejje.weblio.jp/content/advocate), ア・ボ・ケィ
+    - 名詞: 代弁者
+  - [dismiss](https://ejje.weblio.jp/content/dismiss), ディス・ミィス
+    - 他動詞: 考えなどを捨てる
+    - 他の意味は「解雇する」「解散させる」など
+  - [out of hand](https://en.wiktionary.org/wiki/out_of_hand#Adverb)
+    - 副詞: 考えなしに、即座に
+  - ChatGPT訳: 悪魔の代弁者を務めさせてもらうが、その男はあまりにも熱心だ。彼の申し出を即座に退けることはない。
+- Gale: If there's one quality all the denizens of the Hells embody, it's _ambition_. A quality they share with many humans, come to think of it...
+- Tav:
+
+### 21, Eliasis - 4:22 - Gale, Tav
