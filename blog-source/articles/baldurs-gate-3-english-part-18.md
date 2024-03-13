@@ -572,11 +572,28 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - ChatGPT訳: 彼を拒絶するんだ、どんなに魅力的な提案であっても、彼が用意するごちそうがどんなに美味しくてもね。代償はあまりにも大きい。
 - Tav: Don't worry. I have no interest in a devil's deal.
   - ChatGPT訳: 心配しないで。デビルの取引に興味はないよ。
-- Wyll:
-- Wyll:
-- Wyll:
-- Wyll:
-- Wyll:
+- Wyll: That's because you still have hope. But when he becomes your last hope, remember this.
+  - ChatGPT訳: それはまだあなたが希望を持っているからです。しかし、彼があなたの最後の希望になったとき、これを覚えておいてください。
+- Wyll: He'll require of you only what you're least ready to part with.
+  - [least](https://ejje.weblio.jp/content/least), リィスト
+    - little - less - least
+  - [ready](https://ejje.weblio.jp/content/ready), ゥレディ
+    - 形容詞: 準備ができて、用意が整って
+  - [part with](https://en.wiktionary.org/wiki/part_with)
+    - 他動詞: 手放す(=let go of)、諦める(=give up)、放棄する(=relinquish)
+  - 通常は require only O(=what you're least ready to part with) of 名詞(=you) という語順になるのでは？
+    - たぶん、強調で順番が前後している
+  - ChatGPT訳: 彼はあなたが最も手放す準備ができていないものだけを要求するでしょう。
+- Wyll: And then require more still.
+  - ChatGPT訳: そして、さらに多くを要求するでしょう。
+- Wyll: You might think you'd give up anything for a cure.
+  - ChatGPT訳: あなたは何でも治療のためには諦めると思うかもしれません。
+- Wyll: But the devil won't take just anything. He'll take _everything_.
+  - anything と everything の違いは？
+    - anything は、主題に関わる、1つないしは複数ないしは全てのもの
+    - everything は、制約なく全てのもの
+    - Ref: https://redkiwiapp.com/ja/english-guide/questions/TaMTUoVbWQgWH7rlO32q
+  - ChatGPT訳: しかし、悪魔はただ何でも受け取るわけではありません。彼はすべてを取るでしょう。
 - Tav: _Leave_.
 
 ### 21, Eliasis - 6:10 - Wyll, Tav
