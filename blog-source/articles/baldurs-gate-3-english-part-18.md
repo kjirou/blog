@@ -531,8 +531,52 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - The にすることで、「皆ご存知のあの種の物語」という側面が強調される
   - ChatGPT訳: 父が読んでくれた古いおとぎ話だよ。英雄と悪役と教訓がある種の話さ。
 - Wyll: A farmer made a deal with a devil, so the story goes: in exchange for the farmer's dearest fruit, the devil granted him a bottomless coinpurse.
+  - so the story goes の so は何？
+    - 副詞の「そのように」と前文を参照する表現、接続詞にこの意味はない
+  - [bottomless](https://ejje.weblio.jp/content/bottomless), バ↑ートムレス
+    - 形容詞: 底なしの、底の深い、計り知れない
+  - [coinpurse](https://ejje.weblio.jp/content/coinpurse), コイン・パース
+    - 名詞: 財布、金袋、小銭入れ
+    - [purse](https://ejje.weblio.jp/content/purse), パ↑ゥァス
+      - 名詞: 口金付きの財布、がま口
+  - ChatGPT訳: 農夫が悪魔と取引をしたという話がある。最愛の果実と引き換えに、悪魔は彼に底なしの財布を与えたのだ。
+- Wyll: The farmer's dearest fruit, naturally, was no apple nor peach, but his beloved daughter.
+  - [naturally](https://ejje.weblio.jp/content/naturally), ナ↑・チュラリィ
+    - 副詞: 当然に、自然に、生まれつき
+  - [beloved](https://ejje.weblio.jp/content/beloved), ビ・ラベ・ド
+    - 形容詞: 最愛の、いとしい
+  - [daughter](https://ejje.weblio.jp/content/daughter), ド↑ゥラァー
+    - 名詞: 娘、義理の娘
+  - ChatGPT訳: 農夫の最愛の果実とは、当然、リンゴや桃のことではなく、彼が愛する娘のことだった。
+- Wyll: We can learn a lot from fairy tales, don't you think?
+  - ChatGPT訳: 童話からは多くのことを学ぶことができると思いませんか？
+- Tav: With the right teacher, yes. What are your thoughts on the devil, Wyll?
+  - ChatGPT訳: 正しい先生がいれば、ね。デビルについてどう思う、ウィル？
+- Wyll: Refuse him, no matter how tempting the offer, no matter how delicious the feast he lays out for you. The cost will be too great.
+  - [refuse](https://ejje.weblio.jp/content/refuse), ゥリ・フューズ
+    - 他動詞: 人の言い分を拒む・はねつける
+      - refuse O(=人)
+      - refuse O(=拒む内容) もある
+  - [no matter](https://en.wiktionary.org/wiki/no_matter#Preposition)
+    - 前置詞: 〜にも関わらず(=in spite of, regardless of)
+  - [tempting](https://ejje.weblio.jp/content/tempting), テ↑ンプ・ティング
+    - 形容詞: うっとりさせる、心や味覚をそそる
+  - no matter how
+    - イディオム: どれだけ〜であるにも関わらず
+      - no matter how 形容詞
+  - [lay out](https://en.wiktionary.org/wiki/lay_out#Verb)
+    - 自動詞: 広げたり間隔を置いたりして特定の方法で配置する、展示する
+    - Assoc: layout
+    - [lay](https://ejje.weblio.jp/content/lay), レイ
+      - 他動詞: 横たえる、しっかりと置く
+  - ChatGPT訳: 彼を拒絶するんだ、どんなに魅力的な提案であっても、彼が用意するごちそうがどんなに美味しくてもね。代償はあまりにも大きい。
+- Tav: Don't worry. I have no interest in a devil's deal.
+  - ChatGPT訳: 心配しないで。デビルの取引に興味はないよ。
 - Wyll:
 - Wyll:
-- Tav:
+- Wyll:
+- Wyll:
+- Wyll:
+- Tav: _Leave_.
 
 ### 21, Eliasis - 6:10 - Wyll, Tav
