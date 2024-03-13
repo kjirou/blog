@@ -503,4 +503,21 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
 
 ### 21, Eliasis - 5:31 - Wyll, Tav
 
+さらに他の仲間へ話した
+
+- Wyll: Gale slurped that thing up like a horse with a carrot. I hope he got what he needed from it.
+  - [slurp](https://ejje.weblio.jp/content/slurp), スロゥプ
+    - 他動詞: 音を立てて食べる
+  - [up](https://ejje.weblio.jp/content/up), アッ
+    - 副詞: まったく、すっかり、し尽くす
+      - 動詞と結合して動作の完了を強調する
+  - ChatGPT訳: ゲイルはそれをニンジンを食べる馬のようにガツガツと食べたね。彼が必要としていたものを得られたことを願っているよ。
+- Tav:
+- Wyll:
+- Wyll:
+- Wyll:
+- Wyll:
+- Wyll:
+- Tav:
+
 ### 21, Eliasis - 6:10 - Wyll, Tav
