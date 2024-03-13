@@ -512,10 +512,25 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 副詞: まったく、すっかり、し尽くす
       - 動詞と結合して動作の完了を強調する
   - ChatGPT訳: ゲイルはそれをニンジンを食べる馬のようにガツガツと食べたね。彼が必要としていたものを得られたことを願っているよ。
-- Tav:
-- Wyll:
-- Wyll:
-- Wyll:
+- Tav: What do you make of Raphael?
+  - [make_of](https://en.wiktionary.org/wiki/make_of)
+    - 他動詞: 何かまたは誰かについて意見を形成する、人や考えや状況を評価する
+  - ChatGPT訳: ラファエルについてどう思う？
+- Wyll: He brings to mind a story. 'The Devil with the Silver Tongue.'
+  - [tongue](https://ejje.weblio.jp/content/tongue), タンー
+    - 名詞: 舌、舌肉、弁舌
+  - ChatGPT訳: 彼を見ると、ある物語を思い出すよ。「銀の舌を持つ悪魔」。
+- Wyll: An old fairy tale my father read to me. The kind with a hero, a villain, and a moral.
+  - [villain](https://ejje.weblio.jp/content/villain), ヴィ(ラ|レ)ン
+    - 名詞: 悪党、悪者、悪役
+    - Assoc: ヒーローとヴィラン
+  - [moral](https://ejje.weblio.jp/content/moral), モラ(ル|ウ)
+    - 名詞: 寓話などの寓意、教訓、社会の道徳
+    - なお、「士気」は morale
+  - The kind は A kind じゃないの？
+    - The にすることで、「皆ご存知のあの種の物語」という側面が強調される
+  - ChatGPT訳: 父が読んでくれた古いおとぎ話だよ。英雄と悪役と教訓がある種の話さ。
+- Wyll: A farmer made a deal with a devil, so the story goes: in exchange for the farmer's dearest fruit, the devil granted him a bottomless coinpurse.
 - Wyll:
 - Wyll:
 - Tav:
