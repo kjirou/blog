@@ -471,3 +471,36 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - なんでお前らは何も言わないんだ、いざという時に困るだろ！
 
 ### 21, Eliasis - 5:24 - Shadowheart, Tav
+
+これを機会に他の仲間の話も聞いて、イベント進行に伴い溜まっている会話を消化しておくことにした
+
+- Shadowheart; So Gale just consumes magical items like I do wine? We truly are a group apart...
+  - [wine](https://ejje.weblio.jp/content/wine), ワーイン
+    - 自動詞: ワインを飲む
+  - [apart](https://ejje.weblio.jp/content/apart), ア・パァト
+    - 形容詞,叙述用法: 特異な、他と別個の
+      - 名詞の直後に置く用法
+  - ChatGPT訳: だからゲイルは私がワインを消費するように魔法のアイテムを消費するのね？本当に私たちは一風変わっているわ...
+- Shadowheart; Nevertheless, as quirks go, that's a new one for me.
+  - [nevertheless](https://ejje.weblio.jp/content/nevertheless), ネバ・ザ・レ↑ス
+    - 副詞: 前述の意見や事実に反するか無関係なことの表現、それにも関わらず、それでもなお
+  - [quirk](https://ejje.weblio.jp/content/quirk), クゥォーク
+    - 名詞: 癖
+  - [go](https://ejje.weblio.jp/content/go), ゴ↑ォゥ
+    - 自動詞: なる、変わる
+  - as quirks go の go の意味は？
+    - Shadowheart が前述した I do wine という例えのように「なる」という意味
+  - ChatGPT訳: それにしても、癖としてはそれは新しいわね。
+- Tav; Those murals in the Grove - something about them seemed to catch your eye.
+  - [mural](https://ejje.weblio.jp/content/mural), ミュゥロォ
+    - 名詞: 大きな壁画
+  - ChatGPT訳: グローブの中の壁画、何かあなたの目を引いたようですね。
+- Shadowheart; What can I say? They were eye-catching. Consider me an art-lover.
+  - [eye-catching](https://en.wiktionary.org/wiki/eye-catching#Adjective)
+    - 形容詞: 人目を惹く、魅力的な見た目な、注目を集めた
+  - ChatGPT訳: 何と言えばいいのかしら？目を引くものだったわ。私は芸術愛好家とでも考えてください。
+- Tav; _Leave_.
+
+### 21, Eliasis - 5:31 - Wyll, Tav
+
+### 21, Eliasis - 6:10 - Wyll, Tav
