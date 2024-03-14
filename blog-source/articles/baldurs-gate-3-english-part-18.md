@@ -722,7 +722,7 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - [make](https://ejje.weblio.jp/content/make), メィ・ク
     - 他動詞: 何かの原因になる、何かを生じさせる、傷つけたり壊したりして何かを作る
   - ChatGPT訳: 純粋なブラッドストーンで作られており、ムーンシーの北にあるガレナ山脈から切り出されました。時には血が流され、犠牲が伴うこともあるという思い出です。
-    - blood must be shed and sacrifices must be made は、直訳だと「血は流されるべきで犠牲を生じるべき」になる
+    - blood must be shed and sacrifices must be made は、直訳だと「血は流されるべきで犠牲を生じるべき」になる。厳しい土地がらを所与として肯定的に捉えているのかもしれない。
 - Wyll: Ah, but that is a story reserved for lifetime friends and calmer days.
   - [lifetime](https://ejje.weblio.jp/content/lifetime), ライフ・ターイム
     - 形容詞,限定用法: 生涯の、終生の
