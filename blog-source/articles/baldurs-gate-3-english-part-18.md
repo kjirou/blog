@@ -597,3 +597,134 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
 - Tav: _Leave_.
 
 ### 21, Eliasis - 6:10 - Wyll, Tav
+
+別の話題を聞くために、再び話した
+
+- Wyll: Well met.
+- Tav: Tell me, Wyll: How did you come to be the Blade of Frontiers?
+  - ChatGPT訳: 教えてくれ、Wyll: どうやってあなたはフロンティアの剣になったのですか？
+- Wyll: My father once said, 'One does not pursue a champion's life. One merely answers its call.'
+  - [champion](https://ejje.weblio.jp/content/champion), チャン・ピィオン
+    - 名詞: 優勝者、他より優れた人、主義主張のために戦う闘志
+    - 本文では、どの意味が使われいるのかはわからない
+  - its call の its は何を指している？
+    - おそらくは、 a champion's life
+  - ChatGPT訳: 父がかつて言ったことがあります、「チャンピオンの人生を追求するのではない。ただ、その呼び声に応えるだけだ。」
+    - 何を言っているのかわからない
+- Wyll: So it was for me.
+  - ChatGPT訳: 私にとっても、そうでした。
+    - 「とっても」の「も」で、Wyllの意思が強調されているが、これはChatGPTは意図してなかった
+  - ここまでの文を読むと、「父がそう言ったのでそうした」みたいな他人事感を感じてしまうんだが、文意上そうではなくWyll自らの意思がないとおかしそう。それがどこで表現されているのかわからない。
+- Wyll: I was hunting near the Cloakwood when I heared it - a child crying out from a lone farmstead.
+  - Cloak Wood
+    - D&D用語,名詞: Sword Coast南端にある、密生した古代の森
+      - Ref: https://forgottenrealms.fandom.com/wiki/Cloak_Wood
+  - [cry out](https://en.wiktionary.org/wiki/cry_out#Verb)
+    - 自動詞: 痛みや恐怖などの理由により大声て泣き叫ぶ
+  - [lone](https://ejje.weblio.jp/content/lone), ロォーウンヌ
+    - 形容詞: 孤独の、一人の
+  - [farmstead](https://ejje.weblio.jp/content/farmstead), ファ↑ーム・ステッ
+    - 名詞: 付属建物を含めた農場
+  - ChatGPT訳: 私はクロークウッドの近くで狩りをしていたとき、それを聞いた - 孤立した農場から子供が泣いている声が。
+- Wyll: I found him in the fields, flanked by goblins. His mother's corpse bled into the soil next to him.
+  - [flank](https://ejje.weblio.jp/content/flank), フ(ラ|レ)ンク
+    - 他動詞: 側面に並べる
+      - S(=並べる先) flank O(=並べるもの)
+      - S(=並べるもの) be動詞 flanked by 名詞(=並べる先) と受動態で用いることが多い
+  - [bled](https://ejje.weblio.jp/content/bled), ブレェッド
+    - bleed - bled - bled
+    - [bleed](https://ejje.weblio.jp/content/bleed), ブ・リィード
+      - 自動詞: 出血する
+  - [soil](https://ejje.weblio.jp/content/soil), ソォイルゥ
+    - 名詞: 土、土壌
+  - ChatGPT訳: 畑で彼を見つけた、ゴブリンに囲まれていた。彼の母親の死体が隣で土に血を流していた。
+- Wyll: I don't remember much of the battle. But I remember drying the boy's tears after.
+  - [dry](https://ejje.weblio.jp/content/dry), ヂョラァイ
+    - 他動詞: 拭って乾かす
+  - dry one's tears
+    - イディオム: 誰かの涙を拭う
+  - ChatGPT訳: 戦いのことはあまり覚えていない。しかし、その後で少年の涙を拭いたことは覚えている。
+- Tav: Whatever became of the boy, I wonder?
+  - [become of](https://en.wiktionary.org/wiki/become_of#Verb)
+    - 他動詞: 偶然起こる(=happen to)、発生する(=occur to)
+  - ChatGPT訳: その少年はどうなったのかな？
+- Wyll: I left him with his uncles. Five years on, and he's flourishing. If only every child were so lucky.
+  - [flourish](https://ejje.weblio.jp/content/flourish), フロゥリッシュ
+    - 自動詞: 良く成長する、草木が繁茂する
+  - [if only](https://en.wiktionary.org/wiki/if_only#Conjunction)
+    - 接続詞: 現在や未来に対する願望の表現、〜であれば良い、〜を望む
+  - If only every child were so lucky の were はなぜ複数形なのか？
+    - every child は、 every が「一つずつ数える」という限定詞で、通常は単数扱いになる
+    - しかし、仮定法過去のときは、be動詞は複数形にしても良い、という例外がある
+      - なぜそうなのかはわからない、一説によると、複数形にするのは古風な言い方だから、あえて古風にすることで非現実感を増しているのでは？とのこと
+        - Ref: https://jp.quora.com/%E8%8B%B1%E8%AA%9E%E3%81%AE%E4%BB%AE%E5%AE%9A%E6%B3%95%E3%81%A7be%E5%8B%95%E8%A9%9E%E9%81%8E%E5%8E%BB%E8%A4%87%E6%95%B0%E5%BD%A2%E3%81%8C%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B-if-it-were%E3%81%AA%E3%81%A9-%E7%90%86
+  - ChatGPT訳: 彼を叔父たちに託したんだ。5年が経ち、彼は順調に育っている。全ての子供がそうであればいいのに。
+- Wyll: I mourn the ones I could never save, whose cries I never heard.
+  - [mourn](https://ejje.weblio.jp/content/mourn), モゥンヌ
+    - 他動詞: 死や損失や不幸を嘆き悲しむ
+    - 自動詞だと、それに「弔う」や「喪に服する」という意味も加わる
+  - ChatGPT訳: 救えなかった子供たちを、聞くこともなかった彼らの叫びを、私は悼む。
+- Wyll: In the boy's tears, I finally saw the suffering wrought by the villains of the wild.
+  - [suffering](https://ejje.weblio.jp/content/suffering), サ・ファリング
+    - 名詞: 苦しみ、苦痛
+  - [wrought](https://ejje.weblio.jp/content/wrought), ゥロゥ
+    - work - worked | wrought - worked | wrought
+    - [work](https://ejje.weblio.jp/content/work), ワァク
+      - 他動詞: 変化や効果や影響を生じさせる・もたらす・引き起こす
+  - ChatGPT訳: その少年の涙の中に、野の悪党たちがもたらした苦しみを、私はようやく見た。
+- Wyll: The frontiers demanded a blade. And so I heeded.
+  - [heed](https://ejje.weblio.jp/content/heed), ヒィード
+    - 自動詞: 注意を払う、気遣う
+  - ChatGPT訳: 辺境は剣を求めた。だから、私は応えたんだ。
+    - I heeded が「応えた」になっているのは意訳
+- Tav: It's nice to finally put a face to the name.
+  - ChatGPT訳: 名前にようやく顔がついたようで嬉しい。
+- Wyll: And it's nice to meet someone of your talents.
+  - ChatGPT訳: あなたのような才能を持つ人に会えて光栄だよ。
+  - 会話が成立していないような
+- Wyll: Having a worm wriggling in my skull didn't instil much confidence in the days ahead.
+  - [wriggle](https://ejje.weblio.jp/content/wriggle), ゥリゴォ
+    - 自動詞: ミミズなどがのたうつ、身を捩る、体をくねらす
+  - [instil](https://ejje.weblio.jp/content/instil), イン・スティルォ
+    - 他動詞: 人や心に思想や感情を染み込ませる、徐々に教え込む
+  - ChatGPT訳: 頭の中でミミズがもぞもぞするのは、これからの日々にあまり自信を持たせてくれませんでした。
+- Wyll: With you as my ally, the future looks a little less daunting.
+  - [daunt](https://ejje.weblio.jp/content/daunt), ドーント
+    - 他動詞: 人の気力をくじく、ひるませる
+  - ChatGPT訳: あなたが味方としていてくれると、未来は少し怖くなくなります。
+- Tav: I've noticed your stone eye. Did you lose it in battle?
+  - ChatGPT訳: 石の目に気がつきました。戦いで失いましたか？
+- Wyll: A most vicious one, in fact.
+  - [vicious](https://ejje.weblio.jp/content/vicious), ビシャス
+    - 形容詞: 危険な、物騒な
+  - [most](https://ejje.weblio.jp/content/most), モゥスト
+    - 副詞: 主観的に非常に・はなはだ
+      - 最上級としての意味ではない、通常は the を伴わない
+  - ChatGPT訳: 実に獰猛な戦いでした。
+- Wyll: It's made from pure Bloodstone, carved from the Galena Mountains just north of the Moonsea. A reminder that sometimes, blood must be shed and sacrifices must be made.
+  - Bloodstone
+    - D&D用語,名詞: 半貴石、傷口に押し当てると傷を塞ぎ血液を正常にする、アイテムにもあって価値は高い方
+      - Ref: https://forgottenrealms.fandom.com/wiki/Bloodstone
+  - [carve](https://ejje.weblio.jp/content/carve), カァーブ
+    - 他動詞: 切断する・切り離す(=cut)、肉を切り分ける、彫刻する
+  - Moonsea
+    - D&D用語,名詞: Faerûn北部の広大な内海に面した地域、土地や治安は厳しいが豊富な天然資源がある
+      - Ref: https://forgottenrealms.fandom.com/wiki/Moonsea
+  - [reminder](https://ejje.weblio.jp/content/reminder), ゥリ・マインダー
+    - 名詞: 思い出させるもの・人・合図
+  - [that](https://ejje.weblio.jp/content/that), ザァット
+    - 接続詞: 〜という
+      - 同格節を導く
+  - [shed](https://ejje.weblio.jp/content/shed), シェーッ
+    - shed - shed | shedded - shed | shedded
+    - [shed](https://ejje.weblio.jp/content/shed), シェーッ
+      - 他動詞: 血や涙を流す・こぼす
+  - [make](https://ejje.weblio.jp/content/make), メィ・ク
+    - 他動詞: 何かの原因になる、何かを生じさせる、傷つけたり壊したりして何かを作る
+  - ChatGPT訳: 純粋なブラッドストーンで作られており、ムーンシーの北にあるガレナ山脈から切り出されました。時には血が流され、犠牲が伴うこともあるという思い出です。
+    - blood must be shed and sacrifices must be made は、直訳だと「血は流されるべきで犠牲を生じるべき」になる
+- Wyll: Ah, but that is a story reserved for lifetime friends and calmer days.
+  - [lifetime](https://ejje.weblio.jp/content/lifetime), ライフ・ターイム
+    - 形容詞,限定用法: 生涯の、終生の
+  - ChatGPT訳: ああ、しかし、その話は親友との穏やかな日々にとっておきましょう。
+- Tav: _Leave_.
