@@ -788,3 +788,36 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - Assoc: Breach WanderersにFrenzyという状態があった、手札とAPを一度初期状態にできる強いやつ
   - ChatGPT訳: 彼女のお腹は腐った果物のように割れ、爪と牙の狂乱が生まれる。
   - 中からGnollが現れ、この後めちゃくちゃ先手を打たれた。英語だとこんなのもわからなくなるんやな...
+
+### 21, Eliasis - 13:41 - Anders, Tav, Wyll
+
+一般人とそれを襲ったと思われるGnoll達の死体の山の中に、元々は死体になっている一般人達のものだと思われる小屋があった。
+
+その中に入ると、一人の騎士が居て、その人へ話しかけた。
+
+- Anders: Wh-who's there? Please - keep your distance. You're welcome to shelter here, but we've grave injuries to tend to.
+  - [shelter](https://ejje.weblio.jp/content/shelter), シェル・ター
+    - 自動詞: 避難する、隠れる
+  - [grave](https://ejje.weblio.jp/content/grave), グレィブ
+    - 形容詞: 事態や病気や誤りなどがゆゆしい・容易ならぬ・危機をはらんだ、問題や責任や決定が重要な・重大な
+    - 名詞で「墓」と言う意味もある
+  - we've grave injuries to tend to (grave injuries)
+  - ChatGPT訳: 誰ですか？お願いですから、距離を保ってください。ここに避難するのは構いませんが、私たちは重傷を治療中です。
+- Tav: What is this place?
+  - ChatGPT訳: ここはどんな場所ですか？
+- Anders: A tollhouse, once upon a time. Now a house of respite for those of us burned by a devil.
+  - [tollhouse](https://ejje.weblio.jp/content/tollhouse), ト↑ーゥ・ハウス
+    - 名詞: 通行税徴収所、通行税徴収事務所
+  - [once upon a time](https://en.wiktionary.org/wiki/once_upon_a_time#Adverb)
+    - 副詞: ずっと前に(=a long time ago)、過去のある時点に、昔々
+  - [respite](https://ejje.weblio.jp/content/respite), ゥレスペィ
+    - 名詞: ひと休み、休息期間、一時休止
+  - for those of us と for us は何が違うの？
+    - those of us は us の一部の集団を強調している
+  - ChatGPT訳: 昔は通行料を徴収する場所でした。今は、悪魔に焼かれた私たちが休息を取る家です。
+- Anders:
+- Wyll:
+- Anders:
+- Anders:
+- Anders:
+- Intelligence (Religion) Successful: Tav
