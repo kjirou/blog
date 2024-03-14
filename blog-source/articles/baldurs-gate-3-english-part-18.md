@@ -728,3 +728,38 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 形容詞,限定用法: 生涯の、終生の
   - ChatGPT訳: ああ、しかし、その話は親友との穏やかな日々にとっておきましょう。
 - Tav: _Leave_.
+
+### 21, Eliasis - 7:44 - Bloated Hyena, Tav
+
+傷ついたHyenaの集団に遭遇し、今にも死にそうなその内の一匹と話した
+
+- \*The creature's eyes roll back in its head - equal parts bliss and agony.\*
+  - [bloated](https://ejje.weblio.jp/content/bloated), ブロゥテッド
+    - 形容詞: ふくれた、むくんだ、太り過ぎた
+  - [hyena](https://ejje.weblio.jp/content/hyena), ハィィーナ
+    - 名詞: ハイエナ
+  - [part](https://ejje.weblio.jp/content/part), パ↑ァット
+    - 名詞: 全体の中の割合
+  - equal parts
+    - イディオム: 等分
+      - equal parts of A and B
+  - [bliss](https://ejje.weblio.jp/content/bliss), ブレス
+    - 名詞: 至福、無上の喜び
+  - [agony](https://ejje.weblio.jp/content/agony), アゲニィ
+    - 名詞: 肉体的または精神的な激しい苦痛
+  - equal parts bliss and agony の文法はどうなってるの？
+    - 色々省略された結果のようなので、深く考えない
+    - feeling equal parts of bliss and agony の省略という解釈が、一つの正解かもしれない
+  - ChatGPT訳: その生き物の目は頭の中で後ろに転がります - 至福と苦痛の両方を等しく感じながら。
+- \*She'd eaten. Feasted. And yet, looking into her eyes, you can see it wasn't enough. She's still hungry.\*
+  - ChatGPT訳: 彼女は食べました。食べ尽くしました。しかし、彼女の目を見ると、それだけでは満足していないことがわかります。彼女はまだ空腹です。
+- Bloated Hyena: Come... see. My flesh becomes new flesh.
+  - ChatGPT訳: 来て... 見て。私の肉が新しい肉へと変わります。
+- \*You hear what comes next before you see it: the sharp snapping of bones and a yelp of pain as her body starts to twist and undulate.\*
+  - ChatGPT訳: 次に来るものは、見る前に聞こえます: 骨が鋭く鳴り、彼女の体が捻じれてうねる中での痛みの叫び声。
+- Intelligence (Arcana) Save Failed: Tav
+- \*The hyena moans softly as its body contrts, ribs cracking and flesh tearing.\*
+- Tav: What's happening to you? Is there any way I can help?
+- Bloated Hyena: Yes - come closer. Feed the new flesh.
+- \*Her belly splits like a rotten fruit, birthing a frenzy of claws and fangs.\*
+  - この後めちゃくちゃ先手を打たれた、英語だとこんなのもわからなくなるんやな...
