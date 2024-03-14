@@ -756,10 +756,35 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
 - Bloated Hyena: Come... see. My flesh becomes new flesh.
   - ChatGPT訳: 来て... 見て。私の肉が新しい肉へと変わります。
 - \*You hear what comes next before you see it: the sharp snapping of bones and a yelp of pain as her body starts to twist and undulate.\*
+  - [snap](https://ejje.weblio.jp/content/snap), スナップ
+    - 自動詞: パチンやピシッと鳴る、ピストルなどがカチッと鳴る、不発に終わる
+  - [yelp](https://ejje.weblio.jp/content/yelp), イエウップ
+    - 名詞: 犬のキャンキャン鳴く声
+    - 自動詞で同じ意味もある
+  - [undulate](https://ejje.weblio.jp/content/undulate), ア↑ン・ジュ・レイト
+    - 自動詞: ゆるやかに波打つ・起伏する、うねる
+    - Assoc: VF3や鉄拳4のアンジュレーション
   - ChatGPT訳: 次に来るものは、見る前に聞こえます: 骨が鋭く鳴り、彼女の体が捻じれてうねる中での痛みの叫び声。
 - Intelligence (Arcana) Save Failed: Tav
-- \*The hyena moans softly as its body contrts, ribs cracking and flesh tearing.\*
+- \*The hyena moans softly as its body contorts, ribs cracking and flesh tearing.\*
+  - [moan](https://ejje.weblio.jp/content/moan), モ↑ーン
+    - 自動詞: うめく、うなる
+  - [contort](https://ejje.weblio.jp/content/contort), (カ|コ)ントォト
+    - 自動詞: 緊張した形になる、顔などがゆがむ
+    - 他動詞で「捻じ曲げる」という意味もあり、本文はそちらの転用のように見える
+  - ChatGPT訳: ハイエナは柔らかくうめき声をあげる。その体はねじれ、肋骨が鳴り、肉が裂ける。
 - Tav: What's happening to you? Is there any way I can help?
+  - ChatGPT訳: あなたに何が起こっているの？何か手伝えることはありますか？
 - Bloated Hyena: Yes - come closer. Feed the new flesh.
+  - the new flesh は何を指す？
+    - おそらくは、Hyenaの中から生まれた新しい生命体
+    - Tavのことを「新しい肉の餌」だと表現している可能性もあるけど、それだと文法的には feed O(=餌) to 対象 になる
+  - ChatGPT訳: はい - 近づいてください。新しい肉を養ってください。
 - \*Her belly splits like a rotten fruit, birthing a frenzy of claws and fangs.\*
-  - この後めちゃくちゃ先手を打たれた、英語だとこんなのもわからなくなるんやな...
+  - [birth](https://en.wiktionary.org/wiki/birth#Verb)
+    - 他動詞: 子供を産む・出産する
+  - [frenzy](https://ejje.weblio.jp/content/frenzy), フ↑レンズィ
+    - 名詞: 狂乱、熱狂、乱心、逆上
+    - Assoc: Breach WanderersにFrenzyという状態があった、手札とAPを一度初期状態にできる強いやつ
+  - ChatGPT訳: 彼女のお腹は腐った果物のように割れ、爪と牙の狂乱が生まれる。
+  - 中からGnollが現れ、この後めちゃくちゃ先手を打たれた。英語だとこんなのもわからなくなるんやな...
