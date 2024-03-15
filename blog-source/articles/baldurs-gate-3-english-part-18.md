@@ -791,7 +791,7 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
 
 ### 21, Eliasis - 13:41 - Anders, Tav, Wyll
 
-一般人とそれを襲ったと思われるGnoll達の死体の山の中に、元々は死体になっている一般人達のものだと思われる小屋があった。
+一般人達とそれを襲ったと思われるGnoll達の死体の山の中に、その一般人達のものだと思われる小屋があった。
 
 その中に入ると、一人の騎士が居て、その人へ話しかけた。
 
@@ -815,9 +815,77 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - for those of us と for us は何が違うの？
     - those of us は us の一部の集団を強調している
   - ChatGPT訳: 昔は通行料を徴収する場所でした。今は、悪魔に焼かれた私たちが休息を取る家です。
-- Anders:
-- Wyll:
-- Anders:
-- Anders:
-- Anders:
+- Anders: We are paladins of Tyr, Lord of Justice. He sent us after an infernal being, straight out of the Nine Hells, hiding in the form of a one-horned tiefling.
+  - Tyr, ティア
+    - D&D用語,名詞: 法と正義の善神、戦いで右手首を失い、盲目になっている
+      - Ref: https://forgottenrealms.fandom.com/wiki/Tyr
+  - [after](https://ejje.weblio.jp/content/after), (ア|エ)ァフタァ
+    - 前置詞: 〜の後を追って、〜を求めて、〜を追求して
+  - [straight out](https://en.wiktionary.org/wiki/straight_out)
+    - 副詞: 率直に、直接的に、明白に
+  - ChatGPT訳: 私たちは正義の主、ティアのパラディンです。彼は私たちに、ナインヘルズから直接やってきた地獄の存在、一本角のティーフリングの形で隠れている者を追わせました。
+- Wyll: One horn? Then you mean Karlach. Archdevil's bootlicker.
+  - [bootlicker](https://ejje.weblio.jp/content/bootlicker), ブゥトリッカァ
+    - 名詞: ご機嫌取り、権威に対しておもねる人
+      - lick が「舌でなめる」という動詞、バイオハザードの Licker の由来
+  - ChatGPT訳: 一本角？それならカーラックのことだ。大悪魔のおべっか使いだ。
+- Anders: You know her. Which means you know what the fiend's capable of.
+  - [capable](https://ejje.weblio.jp/content/capable), ケイパボゥ
+    - 形容詞,叙述用法: 〜ができて、〜の能力・才能があって
+      - capable of 名詞
+  - what the fiend's capable of (what)
+  - ChatGPT訳: 彼女を知っている。ということは、その悪魔が何をするかも知っているということだ。
+- Anders: She's slaughtered countless refugees fleeing the Absolute. Yesterday, she butchered an entire family without mercy.
+  - [butcher](https://ejje.weblio.jp/content/butcher), ブッ・チャァ
+    - 他動詞: 人を虐殺する、動物を屠殺する
+  - [entire](https://ejje.weblio.jp/content/entire), エン・タ↑イアァ
+    - 形容詞: 全体の、全部の
+  - [mercy](https://ejje.weblio.jp/content/mercy), マァスィ
+    - 名詞: 慈悲、情け、容赦
+  - ChatGPT訳: 彼女は、アブソリュートから逃れる無数の難民を虐殺しました。昨日、彼女は一家全員を無慈悲にも虐殺しました。
+- Anders: We were lucky to survive our encounter with her.
+  - [survive](https://ejje.weblio.jp/content/survive), (サ|ス)・バァ↑イブ
+    - 他動詞: 災害や事故などを切り抜けて生き残る、〜から助かる
+  - ChatGPT訳: 彼女との遭遇から生き延びられたのは幸運でした。
 - Intelligence (Religion) Successful: Tav
+- Tav: It isn't like a devil to use their brawn instead of their brains.
+  - [brawn](https://ejje.weblio.jp/content/brawn), ブ(ラ|ロ)ン
+    - 名詞: 筋肉、腕力、筋力
+    - なお、「茶色」は brown
+  - ChatGPT訳: 悪魔が脳よりも筋肉を使うなんて珍しいね。
+- Anders: Indeed. She's a uniquely vicious case. All the more reason she _must_ be stopped.
+  - [uniquely](https://ejje.weblio.jp/content/uniquely), ユ・ニ↑ィクリィ
+    - 副詞: 比類なく、独自に
+  - [all](https://ejje.weblio.jp/content/all), オーゥ
+    - 副詞: ますます、かえって、なおさらの
+      - all the 比較級 の時
+  - ChatGPT訳: 本当にそうだ。彼女は特別に残忍なケースだ。だからこそ、彼女を止めなければならない。
+- Tav: Where is this devil?
+- Anders: She ran toward the river when she saw we were merely wounded - not dead. Down the hill from here.
+  - [down](https://ejje.weblio.jp/content/down), ダァウン
+    - 前置詞: 高所から〜を下って
+  - Down the hill from here は here が頂点なの？
+    - 頂点とは限らない、 here は the hill のどこかではある
+  - ChatGPT訳: 彼女は私たちが死んでいない、ただの傷だとわかると、川の方へ走っていきました。ここから下り坂です。
+- Anders: She must pay for her crimes. If you capture her, you will have served Try where we could not.
+  - [pay](https://ejje.weblio.jp/content/pay), ペイ
+    - 自動詞: 償いをする、罰を受ける
+      - pay for 名詞
+  - where we could not は what だと意味が変わる？
+    - 変わる。 where は場所や状況に焦点を当てているので、「我々ができなかった状況で」という意味になる。
+  - ChatGPT訳: アンダース: 彼女は自分の罪に対する代償を支払わなければなりません。彼女を捕まえれば、私たちができなかったことをTryに対して果たしたことになります。
+- Anders: This is the Sword of Justice, blessed by Tyr. I've wielded it since I swore my oath.
+  - [wield](https://ejje.weblio.jp/content/wield), ウィールゥド
+    - 他動詞: 剣などをふるう・振り回す
+  - ChatGPT訳: これはティルによって祝福された正義の剣だ。誓いを立ててからずっとこれを手にしてきた。
+- Anders: It's all I have, but it's yours if you stop her. Bring me her head, and Tyr will consider her crimes repaid.
+  - [consider](https://ejje.weblio.jp/content/consider), (カ|コ)ン・スィ・ダー
+    - 他動詞: みなす、考える
+      - consider O(=対象) [to be] C(=みなす内容)
+  - [repay](https://ejje.weblio.jp/content/repay), ゥリ・ペイ
+    - 他動詞: 金銭を払い戻す・返済する、物事が〜に報いる・値する
+  - ChatGPT訳: これが私の全てだが、彼女を止めるなら君のものだ。彼女の首を持ってきてくれれば、ティルは彼女の罪を償ったとみなすだろう。
+- Tav: I'll think about it.
+  - ChatGPT訳: 考えておくよ。
+- Anders: May the Just God guide you.
+  - ChatGPT訳: 正義の神が君を導きますように。
