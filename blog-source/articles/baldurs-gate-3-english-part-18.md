@@ -1044,8 +1044,33 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 自動詞: 指す、示す、指差す
       - 本文では、 point at で「〜を指差す」が転じて、「判断する」になっている
   - ChatGPT訳: もし道徳的な判断基準が必要なら、少し背景を説明しましょう…
-- Karlach:
-- Karlach:
-- Karlach:
-- Karlach:
+- Karlach: You already know I fought in the Blood War. I was good. _Really_ good.
+  - ChatGPT訳: あなたは私がブラッド・ウォーで戦ったことをすでに知っています。私は上手でした。本当に上手でした。
+- Karlach: Turns out I've got a knack for killing demons. That made me a valuable asset. Zariel - the archdevil herself - made me as her personal attack dog.
+  - [turn out](https://en.wiktionary.org/wiki/turn_out#Verb)
+    - 他動詞: 判明する、明らかになる
+      - 本文では他動詞として使われているようだが、Wiktionaryには他動詞としてこの用法は記載されていなかった
+  - [have got](https://en.wiktionary.org/wiki/have_got#Verb)
+    - 他動詞: 持っている・所有する(=have)
+    - 用法が非常に難しい、以下は一部だけを抜粋したもの
+      - 口語表現である
+      - 現在形でしか使えない
+      - 疑問系は Have S got になる
+      - Ref: https://en.wiktionary.org/wiki/have_got#Usage_notes
+      - Ref: https://bbtonline.jp/blog/tips/have-got/
+  - [knack](https://ejje.weblio.jp/content/knack), ナァック
+    - 名詞: 技巧、巧みな技、こつ
+  - [attack dog](https://en.wiktionary.org/wiki/attack_dog#Noun)
+    - 名詞: 警察犬、治安部隊の特殊な訓練を受けた犬
+      - 比喩的に、誰かの代わりに攻撃をする人、も意味する
+  - ChatGPT訳: デーモンを殺す才能があることがわかりました。それが私を貴重な資産にしました。ザリエル - 地獄の大魔王自身 - が私を個人的な攻撃犬にしました。
+- Karlach: I played along until I could get the fuck out of there, but devils don't like to lose their assets.
+  - [play](https://ejje.weblio.jp/content/play), プレェイ
+    - 自動詞: 演じる、出演する
+  - [along](https://ejje.weblio.jp/content/along), ア・ロォン
+    - 副詞: 沿って
+      - 本文の「期待や他人に合わせて」という意味は、これからの意訳
+  - ChatGPT訳: そこから抜け出せるまで演じ続けましたが、悪魔は自分の資産を失うのを好みません。
+- Karlach: Zariel liked it so little, she sent a bunch of goons, so-called 'Paladins of Tyr' to take me back. Problem is, I'm not going.
+  - ChatGPT訳: ザリエルはそれをあまり好まなかったので、いわゆる「ティアのパラディン」たちを送って私を連れ戻そうとしました。問題は、私は行かないということです。
 - Tav:
