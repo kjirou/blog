@@ -105,6 +105,7 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
 - Raphael: The House of Hope. Where the tired come to rest, and the famished come to feed - lavishly.
   - the tired は名詞なの？
     - the形容詞・形容詞の名詞化・形容詞の名詞用法、などと呼ばれる用法
+      - このページの後で a friendly という名詞句が出てきたので、 the 以外の冠詞も相当するよう
     - Ref: https://toiguru.jp/adjectives-with-the-definite-article
   - [famish](https://ejje.weblio.jp/content/famish), ファ↑ーミッシュ
     - 他動詞: 〜を飢えさせる
@@ -962,9 +963,89 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - [agent](https://ejje.weblio.jp/content/agent), エィジェント
     - 名詞: 発動者、行為者、代理人
   - ChatGPT訳: 彼女の怒りと絶望があなたに染み渡る。彼女は血の戦争のエージェントではなく、その犠牲者なのだ。
-- Wyll:
-- Karlach:
-- Karlach:
-- Wyll:
-- Tav:
+- Wyll: She's trying to trick us. Don't believe her lies.
+  - [trick](https://ejje.weblio.jp/content/trick), トリック
+    - 他動詞: 計略で人を騙す・かつぐ
+  - ChatGPT訳: 彼女は私たちを騙そうとしています。彼女の嘘を信じないでください。
+- Karlach: You saw the truth. I never wanted to serve Zariel. I was enlisted in her army against my will. Forced to fight, and fight I did.
+  - [enlist](https://ejje.weblio.jp/content/enlist), エン・リ↑ィスト
+    - 他動詞: 兵籍に入れる、徴募する
+  - ChatGPT訳: あなたは真実を見ました。私は決してザリエルに仕えたいと思ったわけではありません。私は彼女の軍隊に無理やり徴兵されました。戦わざるを得なかった、そして戦いました。
+  - なぜ、Karlachは、我々が真実を見たってわかるんだ？寄生体には初めて会ったんだよな？
+- Karlach: When I saw an opportunity to get away, I took it. I'm finally home - or near it, anyway.
+  - [get away](https://en.wiktionary.org/wiki/get_away#Verb)
+    - 自動詞: 離れる
+  - ChatGPT訳: 逃げる機会を見つけたとき、私はそれをつかみました。ついに家に帰ることができました - まあ、とにかく近くに。
+- Wyll: You served her. That's enough to damn you.
+  - [damn](https://ejje.weblio.jp/content/damn), デーン
+    - 他動詞: 永遠に罰する、地獄に落とす、罵る、呪う
+  - ChatGPT訳: あなたは彼女に仕えました。それだけであなたは断罪されるに足ります。
+- Tav: Stand down, Wyll. You saw what I saw.
+  - ChatGPT訳: 落ち着け、Wyll。あなたも私が見たものを見ました。
 - Wisdom (Perception) Successful: Tav
+- Wyll: You don't know what you're saying. You're asking me to trust a devil.
+  - ChatGPT訳: あなたは何を言っているのかわかっていない。悪魔を信じろと言っているのだ。
+- Tav: Gods, you're stubborn. Karlach's not a devil, and you know it.
+  - [stubborn](https://ejje.weblio.jp/content/stubborn), スタボーン
+    - 形容詞: 頑固な、強情な
+  - ChatGPT訳: 神よ、あなたは頑固だ。Karlachは悪魔ではない、それをあなたも知っている。
+- Karlach: Listen to sense, now. I don't want this to end badly for eighter of us.
+  - [sense](https://ejje.weblio.jp/content/sense), セ↑ンス
+    - 名詞: 合理性、思慮、分別、常識
+  - ChatGPT訳: 今、理性を聞いてくれ。どちらにとっても悪い結末になることは望んでいない。
+    - Listen to sense の訳がわからない
+- Karlach: You know monsters, right? Better than anyone. Look into my eyes. Can't you see I'm not what you think?
+  - ChatGPT訳: あなたはモンスターを知っているよね？誰よりも。私の目を見て。私があなたが思っているものではないことがわからないか？
+- Wyll: Shit.
+- Wyll: You really are no devil, are you? I've... I've been deceived.
+  - [deceive](https://ejje.weblio.jp/content/deceive), デ・ス↑ィーブ
+    - 他動詞: 騙す、欺く、思い違いをさせる
+  - ChatGPT訳: 本当に悪魔じゃないんだね。騙されたよ。
+- Karlach: Thank the gods. Thought I was going to have to take your head.
+  - ChatGPT訳: 神々に感謝するよ。君の首を取らなきゃいけないと思ってたから。
+- Wyll: You would've died in the attempt. But - there have been enough threats today.
+  - [attempt](https://ejje.weblio.jp/content/attempt), ア・テ↑ント
+    - 名詞: 試み、企て
+  - [threat](https://ejje.weblio.jp/content/threat), (ス|ツ)レェット
+    - 名詞: 脅し、脅迫、脅威
+  - ChatGPT訳: そんな試みをしたら、君が死んでいただろうね。でも、今日はもう十分脅し合った。
+- Karlach: Truce then, hey?
+  - [truce](https://ejje.weblio.jp/content/truce), トゥルース
+    - 名詞: 停戦、停戦協定
+  - ChatGPT訳: それじゃ、休戦でどうだい？
+- Wyll: Aye. Truce.
+  - [aye](https://ejje.weblio.jp/content/aye), アーイ
+    - 間投詞: 然り、賛成
+  - ChatGPT訳: ああ、休戦だ。
+- Karlach: I'm Karlach - but you already knew that. And you are...?
+  - ChatGPT訳: 私はカーラックです - でも、あなたはすでにそれを知っていましたね。そして、あなたは...？
+- Tav: I'm {不具合で読めないが Tav と書いてあった}.
+- Karlach: Well met, soldier. Nice to meet a friendly around here - it's been tough going so far.
+  - [friendly](https://ejje.weblio.jp/content/friendly), フレンドリィ
+    - 形容詞: 友好的な、好意的な、敵意のない
+  - [tough](https://ejje.weblio.jp/content/tough), タ↑フ
+    - 形容詞: 骨の折れる、困難な
+  - [going](https://en.wiktionary.org/wiki/going#Noun), ゴ↑ゥイン
+    - 名詞: 進行・進捗(=progress)
+  - ChatGPT訳: よく会えた、兵士。ここで友好的な人に会えて良かった - ここまで大変だった。
+- Karlach: I may not be a devil, but I can put the Blade's reputation to work.
+  - [reputation](https://ejje.weblio.jp/content/reputation), レ・ピュ・テ↑イション
+    - 名詞: 評判、名声
+  - [put to work](https://en.wiktionary.org/wiki/put_to_work#Verb)
+    - 他動詞: 使用する
+      - put O to work
+  - ChatGPT訳: 私は悪魔ではないかもしれませんが、ブレードの評判を活かすことはできます。
+- Karlach: How would you feel about helping me kill some evil bastards?
+  - ChatGPT訳: いくつかの悪い奴らを殺す手伝いをしてくれるとどう思いますか？
+- Karlach: A little background, if your moral compass needs something to point at...
+  - [compass](https://ejje.weblio.jp/content/compass), コ↑ン・パス
+    - 名詞: 羅針盤、コンパス
+  - [point](https://ejje.weblio.jp/content/point), ポ↑ォイント
+    - 自動詞: 指す、示す、指差す
+      - 本文では、 point at で「〜を指差す」が転じて、「判断する」になっている
+  - ChatGPT訳: もし道徳的な判断基準が必要なら、少し背景を説明しましょう…
+- Karlach:
+- Karlach:
+- Karlach:
+- Karlach:
+- Tav:
