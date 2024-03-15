@@ -889,3 +889,82 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - ChatGPT訳: 考えておくよ。
 - Anders: May the Just God guide you.
   - ChatGPT訳: 正義の神が君を導きますように。
+  - 最初のプレイではKarlachへ先に話しかけてしまい、この会話を聞けなかったので、やり直している
+
+### 21, Eliasis - 13:50 - Karlach, Wyll, Tav
+
+指示された場所へ向かい、傷ついてうずくまっているKarlachへ話しかけた
+
+- Karlach: Ngh...
+- Wyll: One horn. The stink of Avernus. _Advocatus diaboli_.
+  - [stink](https://ejje.weblio.jp/content/stink), スティンク
+    - 名詞: 我慢ならない悪臭・臭気
+  - ChatGPT訳: 一本の角。アヴェルヌスの臭い。悪魔の代理人。
+- Karlach: Well I'll be godsdamned - the Blade of Frontiers. Thought I'd shaken you for good. That'll teach me to underestimate you.
+  - [godsdamned](https://en.wiktionary.org/wiki/godsdamned)
+    - = goddamned
+      - 複数の神がいる架空の世界での単語
+    - [goddamned](https://en.wiktionary.org/wiki/goddamned#Adjective)
+      - 形容詞: 神に呪われた
+  - [shaken](https://ejje.weblio.jp/content/shaken), シェイ(ク|ケ)ン
+    - shake - shook - shaken
+    - [shake](https://ejje.weblio.jp/content/shake), シェイク
+      - 他動詞: 振り払う、振り落とす
+  - [for good](https://en.wiktionary.org/wiki/for_good#Prepositional_phrase)
+    - 副詞: 決定的もしくは最終的な方法として
+  - [underestimate](https://ejje.weblio.jp/content/underestimate), アンダァ・ゥレストメイツ
+    - 他動詞: 過小評価する、少なく見積もる
+  - ChatGPT訳: まさか - フロンティアの剣だとは。お前を振り切ったと思っていた。お前を過小評価したことを教えてくれたな。
+- Tav: You're the devil we've been hunting. Karlach, right?
+  - ChatGPT訳: 我々が追っていた悪魔、カーラックだな？
+- Karlach: Bloody right. An honour to be chased by the Blade of Frontiers. But - _agh_!
+  - ChatGPT訳: その通りだ。フロンティアの剣に追われるなんて光栄だ。しかし - ああ！
+- \*A great heat roars through you: _her_ heat, fiery as the Hells.\*
+  - [roar](https://ejje.weblio.jp/content/roar), ロォアァ
+    - 自動詞: 轟音を発する、鳴り響く、うなる
+  - [fiery](https://ejje.weblio.jp/content/fiery), ファイアリィ
+    - 形容詞: 火のついた、猛火の、灼熱の
+  - ChatGPT訳: あなたを貫く強烈な熱：彼女の熱、地獄のように燃える。
+- \*Then you're lost in visions of demonic armies as you tear through a landscape of fire and blood.\*
+  - [lose](https://ejje.weblio.jp/content/lose), ルゥーズ
+    - 他動詞: 道に迷う、道を見失う
+      - 例えば He lose himself のように使う
+  - [landscape](https://ejje.weblio.jp/content/landscape), ランド・スケェイプ
+    - 名詞: ひと目で見渡せる景色、風景
+  - ChatGPT訳: そこから、火と血の景色を引き裂きながら、魔物の軍勢の幻視に迷い込む。
+- \*The Blood War. You saw it from above as the nautiloid passed through Avernus - this woman was on the frontline.\*
+  - ChatGPT訳: 血の戦争。ナウティロイドがアヴェルヌスを通過した際、あなたはそれを上空から見た - この女性は前線にいた。
+- Karlach: What was _that_?!
+- Wyll: Evidence. Proof that you're a devil, a gladiator in the archdevil Zariel's army.
+  - [proof](https://ejje.weblio.jp/content/proof), プルゥーフ
+    - 名詞: 証明、証拠
+  - proof と evidence の違いは？
+    - proof は、ひとつだけで決定的になる証拠、または結論に至る論理的な証明
+    - evidence は、照明の一部となるたくさんある証拠の内の一つ
+  - [gladiator](https://ejje.weblio.jp/content/gladiator), グラァ↑ーディエイタァ
+    - 名詞: 古代ローマの剣闘士
+  - ChatGPT訳: 証拠だ。お前が悪魔であり、大悪魔ザリエルの軍隊の剣闘士である証拠だ。
+- Karlach: I can explain. But it's a whole situation. If you'd just hear me out -
+  - a whole situation
+    - イディオム: 多面的で説明が難しい面倒な・複雑な状況
+      - 口語で用いることが多い
+  - [hear out](https://en.wiktionary.org/wiki/hear_out#Verb)
+    - 他動詞: 相手が最後まで話し終わるまで聞く、誰かの意見を徹底的に検討する
+  - ChatGPT訳: 説明できる。でも、それは大きな事態だ。ちょっと聞いてくれるなら -
+- \*Another vision. Karlach's blade raised, slicing through devils - Zariel's servants - as her eyes dart around, seeking escape.\*
+  - [dart](https://ejje.weblio.jp/content/dart), ダ↑ァト
+    - 他動詞: 視線や矢や光などをすばやく投げかける・放つ
+    - 文中では自動詞だが、自動詞としては「突進する」のような意味しかないので、こちらの他動詞の意味の転用のよう
+  - ChatGPT訳: もう一つの幻視。カーラックの刃が上がり、ザリエルのしもべたちである悪魔を切り裂きながら、彼女の目は逃げ道を探してあたりを見回す。
+- \*Her rage and desperation seep into you. She is a victim of the Blood War, not an agent of it.\*
+  - [seep](https://ejje.weblio.jp/content/seep), ス↑ィ
+    - 自動詞: 理解や思想などが少しずつ染み込む・行き渡る・広がる
+  - [agent](https://ejje.weblio.jp/content/agent), エィジェント
+    - 名詞: 発動者、行為者、代理人
+  - ChatGPT訳: 彼女の怒りと絶望があなたに染み渡る。彼女は血の戦争のエージェントではなく、その犠牲者なのだ。
+- Wyll:
+- Karlach:
+- Karlach:
+- Wyll:
+- Tav:
+- Wisdom (Perception) Successful: Tav
