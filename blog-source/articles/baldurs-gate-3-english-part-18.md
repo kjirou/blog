@@ -1070,7 +1070,20 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - [along](https://ejje.weblio.jp/content/along), ア・ロォン
     - 副詞: 沿って
       - 本文の「期待や他人に合わせて」という意味は、これからの意訳
+  - [the fuck](https://en.wiktionary.org/wiki/the_fuck#Phrase)
+    - 慣用句: 攻撃的な強調の表現
+      - 句動詞の一部を形成する動詞の後に置く
   - ChatGPT訳: そこから抜け出せるまで演じ続けましたが、悪魔は自分の資産を失うのを好みません。
 - Karlach: Zariel liked it so little, she sent a bunch of goons, so-called 'Paladins of Tyr' to take me back. Problem is, I'm not going.
+  - [bunch](https://ejje.weblio.jp/content/bunch), バンチ
+    - 名詞: 一団、群れ、果物などの房
+  - [goon](https://en.wiktionary.org/wiki/goon#Noun), グゥーン
+    - 名詞: 暴漢・凶漢(=thug)、間抜けな人
   - ChatGPT訳: ザリエルはそれをあまり好まなかったので、いわゆる「ティアのパラディン」たちを送って私を連れ戻そうとしました。問題は、私は行かないということです。
+- Tav: So you want me to kill the people hunting you?
+- Karlach: Don't worry, I'll lead the charge. But I could use your help. There's a lot of them and only one of me. After that, we can team up. Take Faerûn by the short hairs. Sound good?
+- Tav: Let's do it.
+- Karlach:
+- Karlach:
 - Tav:
+- Karlach:
