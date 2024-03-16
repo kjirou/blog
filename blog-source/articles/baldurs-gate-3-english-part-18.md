@@ -1187,3 +1187,33 @@ Wyllにイベント会話が発生していたので、話しかけた
   - ChatGPT訳: 罪滅ぼし？心配するべき？
 - Wyll: You're not in any danger, I promise. I can't say the same about me.
   - ChatGPT訳: あなたに危険は及びません、約束します。私については同じことが言えないけれど。
+
+### 21, Eliasis - 16:02 - Cyrel, Tav
+
+Paladins of Tyrを名乗るAndersには二人の仲間が居て、それらの片方へ話しかけた。
+
+なお、Andersへ話すと小悪党ムーブの会話を聞いた上で戦闘になるが、今回は先制攻撃と話の流れのために話さなかった。
+
+そういえば、仲間の方には話しかけられるのは、不自然な気はする。
+
+- Cyrel: Need any supplies? We've fewer mouths to feed now.
+  - [mouth](https://ejje.weblio.jp/content/mouth), マ↑ウ・ス
+    - 名詞: 口、口腔、口元
+  - ChatGPT訳: 必要な物資はありますか？今は食べる口が少なくなりました。
+- Tav: What happened to you?
+- Cyrel: The Lord of Justice sent us after a devil haunting this area. We squared off against her. We lost.
+  - [after](https://ejje.weblio.jp/content/after), (エ|ア)ァフトゥ
+    - 前置詞: 〜の後を追って、〜を求めて、〜を追求して
+  - [haunt](https://ejje.weblio.jp/content/haunt), (ハ|ホ)ーント
+    - 他動詞: 幽霊などが出現する、考えや思い出などが絶えずつきまとう
+      - haunt O(=幽霊が出そうな場所)
+      - haunt O(=思い出してしまう人)
+    - Assoc: ホーンテッドマンション
+  - ChatGPT訳: 正義の主がこの地域を悩ませる悪魔を追跡するよう私たちに命じました。彼女と対決しました。私たちは負けました。
+- Cyrel: Talk to Andres if you want the details. I don't have it in me to recount the horror.
+  - ChatGPT訳: 詳細を知りたいなら、アンドレスに話を聞いてください。私にはその恐怖を語る元気がありません。
+- Tav: How many did you lose?
+- Cyrel: Two. Both stalwarts of Tyr, sworn to uphold justice.
+  - ChatGPT訳: 二人です。共にティルの勇士で、正義を守ることを誓っていました。
+- Tav: Let's see what you have to trade.
+- Cyrel: In Tyr's name.
