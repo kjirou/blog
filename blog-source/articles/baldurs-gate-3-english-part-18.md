@@ -1273,6 +1273,24 @@ Andersのもう一人の仲間へ話しかけた
     - down は前置詞としては「沿って」という意味もあり、ここでは副詞だがそちらの意味の方が近そう
   - ChatGPT訳: この道を通るのは、コインよりもモンスターの方が多いんだ。
 - Tav: Tollhouses mean gold. Seen any around?
+  - ChatGPT訳: 関所は金を意味する。周りに見える？
 - Trynn: There's a locked door down the hatch. Doesn't look like anyone managed to get in.
+  - [manage](https://ejje.weblio.jp/content/manage), (マ|メ)ネージ
+    - 他動詞: どうにかして〜する、うまく〜する
+      - manage to Verb
+  - ChatGPT訳: ハッチを下ったところに鍵のかかったドアがある。誰も中に入れたようには見えない。
 - Trynn: If there's any gold left, that's where it'll be.
+  - ChatGPT訳: まだ金が残っているとしたら、そこにあるだろう。
 - Tav: _Leave_.
+
+### 21, Eliasis - 16:33 - Narrator
+
+何の常今日で出現した文章かを忘れた
+
+- \*You picked a fight. The consequences are hardly surprising.\*
+  - [consequence](https://ejje.weblio.jp/content/consequence), コ↑ン・シクエンス
+    - 名詞: 続けて起こるまたは必然的な結果、成り行き、帰結
+  - [hardly](https://ejje.weblio.jp/content/hardly), ハァドリィ
+    - 副詞: ほとんど〜ない、〜であるとは言い難い
+  - ChatGPT訳: あなたが喧嘩を売った。その結果が驚くには値しないのは当然です。
+  - こっちから一方的に開戦した扱いになっているのかも？
