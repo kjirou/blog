@@ -1081,9 +1081,54 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 名詞: 暴漢・凶漢(=thug)、間抜けな人
   - ChatGPT訳: ザリエルはそれをあまり好まなかったので、いわゆる「ティアのパラディン」たちを送って私を連れ戻そうとしました。問題は、私は行かないということです。
 - Tav: So you want me to kill the people hunting you?
+  - ChatGPT訳: だから、あなたを追っている人々を殺してほしいのですか？
 - Karlach: Don't worry, I'll lead the charge. But I could use your help. There's a lot of them and only one of me. After that, we can team up. Take Faerûn by the short hairs. Sound good?
+  - There's a lot of them は There are a lot of them ではないの？
+    - 結論としては、確固たる回答がなく、文意によりそう。日本人の意見だと are 寄り。
+    - 論点としてはおそらく3点あって、 a lot of をどう捉えるかというのと、 of の後の名詞がどう言うイメージなのかと、発音の問題
+    - a lot of
+      - ここでは限定詞だと思った方が良さそう。 a lot of が慣用句かは諸説ありそうだが、少なくとも a lot が慣用句でないとおかしいので、それなら a lot of もそうなることはありそう。
+      - a lot を「一塊の何か」という単数と捉えることもできそうだが、本文の「多勢に無勢」という主張の際の them に対してはそうならなそう
+    - of の後の名詞のイメージ
+      - 日本人から見た英文法上だと、この単語が不可算名詞なら単数になるとのこと
+      - でもおそらくは、イメージ依存だと思う
+    - 発音
+      - There's の方が言い易いらしい
+      - ChatGPT によると、口語だとこっちを使うことが多いとのこと
+    - Ref: https://jp.quora.com/There-a-lot-of-people-%E3%81%AE-%E3%81%AB%E5%85%A5%E3%82%8Bbe%E5%8B%95%E8%A9%9E%E3%81%AFis%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fare%E3%81%A0%E3%81%A8%E4%BF%A1%E3%81%98%E3%81%A6%E7%96%91%E3%82%8F%E3%81%AA%E3%81%8B
+  - [team](https://ejje.weblio.jp/content/team), ティーン
+    - 自動詞: 手を組む
+      - team up | with 対象
+  - by the short hairs
+    - イディオム: 強引に支配下に置いて、完全に支配して
+      - おそらくは副詞、 髪の毛を鷲掴みにするイメージ
+  - ChatGPT訳: 心配しないで、私が先頭を切る。しかし、あなたの助けが必要です。彼らはたくさんいるのに、私一人だけです。その後、私たちはチームを組むことができます。ファエルーンを手中に収めましょう。いいですか？
 - Tav: Let's do it.
-- Karlach:
-- Karlach:
-- Tav:
-- Karlach:
+  - ChatGPT訳: やりましょう。
+- Karlach: Fuck yes. They cornered me outside the tollhouse, just up the hill. Doubt they've gone far after the scorching I gave 'em.
+  - [corner](https://ejje.weblio.jp/content/corner), コ↑ォナァ
+    - 他動詞: 隅へ追い詰める、窮地に陥らせる
+  - [scorch](https://ejje.weblio.jp/content/scorch), スコォチ
+    - 他動詞: 損傷するほど焼く・焦がす
+    - 形容詞の schorching もあるけど、「猛烈に暑い」「手厳しい」のような意味
+  - after the scorching I gave 'em は after I gave 'em the scorching の語順が強調で変化したもの
+  - ChatGPT訳: そうだ。彼らは私を料金所の外、ちょうど丘の上で追い詰めた。焼き払った後で彼らが遠くに行っているとは思えない。
+- Karlach: Looks like your troop's all trooped up. You'll need to send someone packing if you want me to join.
+  - [troop](https://ejje.weblio.jp/content/troop), トゥループ
+    - 名詞: 隊、団、部隊、群れ
+  - [troop](https://en.wiktionary.org/wiki/troop#Verb), トゥループ
+    - 自動詞: 軍隊や群衆へ集まる・来る、速く行軍する
+  - [send someone packing](https://en.wiktionary.org/wiki/send_someone_packing#Verb)
+    - 自動詞: 解雇する、追放する、追い払う
+    - packing は「荷詰め」なのかな？
+  - ChatGPT訳: お前の部隊はもういっぱいだな。私を加えたければ、誰かを解雇する必要がある。
+- Tav: True. Meet me at camp.
+  - ChatGPT訳: 確かに。キャンプで会おう。
+- Karlach: I'll catch up with you when it's time to camp, for now. But don't get to any of the fun stuff without me - got it?
+  - [catch up](https://en.wiktionary.org/wiki/catch_up#Verb)
+    - 自動詞: 先にあったものへ追いつく、不足を補う
+  - [for now](https://en.wiktionary.org/wiki/for_now#Prepositional_phrase)
+    - 前置詞句: 現時点で、後になるまで
+  - [stuff](https://en.wiktionary.org/wiki/stuff#Noun), スタ↑ッ
+    - 名詞: 不特定の物事・事項
+  - ChatGPT訳: 今はキャンプの時間になったら追いつくよ。でも、楽しいことを私なしでやっちゃダメだからな - 分かったか？
