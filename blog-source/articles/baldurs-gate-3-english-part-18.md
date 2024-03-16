@@ -1132,3 +1132,58 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - [stuff](https://en.wiktionary.org/wiki/stuff#Noun), スタ↑ッ
     - 名詞: 不特定の物事・事項
   - ChatGPT訳: 今はキャンプの時間になったら追いつくよ。でも、楽しいことを私なしでやっちゃダメだからな - 分かったか？
+
+### 21, Eliasis - 15:47 - Wyll, Tav, Gale
+
+Wyllにイベント会話が発生していたので、話しかけた
+
+- Wyll: You've been witness to a pantomime, I'm sorry to say. And I've played my part all too poorly.
+  - [witness](https://ejje.weblio.jp/content/witness), ウィ↑ット・ネス
+    - 名詞: 目撃者
+  - [pantomime](https://ejje.weblio.jp/content/pantomime), パ↑ント・マイム
+    - 名詞: 茶番劇、茶番
+  - I'm sorry to say の to say はどういう意味？
+    - 「言うこと」が「申し訳ない」ということ、「すまないと言わざるを得ない」
+    - つまりTavへ茶番を見せて悪かったということ
+  - [part](https://ejje.weblio.jp/content/part), パァット
+    - 名詞: 俳優の役
+  - [too](https://ejje.weblio.jp/content/too), トュゥ
+    - 副詞: 過度に、あまりにも
+  - [all](https://ejje.weblio.jp/content/all), オーゥ
+    - 副詞: 完全に、まったく、すっかり
+  - [poorly](https://ejje.weblio.jp/content/poorly), ポォァリィ
+    - 副詞: 下手に、不十分に、まずく
+  - ChatGPT訳: あなたはパントマイムを目の当たりにしていました。残念ながら、私は自分の役割をあまりにも下手に演じてしまいました。
+- Tav: What's that supposed to mean? Lay it it out plainly, Wyll.
+  - [supposed](https://ejje.weblio.jp/content/supposed), サ・ポォ↑ゥズド
+    - 形容詞,叙述用法: 〜することになっている
+      - supposed to Verb
+  - Lay it it out plainly はTypoしてない？
+    - おそらくしてて、 Lay it out plainly が正しい
+  - [lay out](https://en.wiktionary.org/wiki/lay_out#Verb)
+    - 他動詞: 説明する(=explain)、解釈する(=interpret)
+  - [plainly](https://ejje.weblio.jp/content/plainly), プ↑レインリィ
+    - 副詞: 明白に、はっきりと、率直に
+  - ChatGPT訳: それはどういう意味ですか？はっきりと教えてください、Wyll。
+- Wyll: It means that a reckoning's coming. And I'll be the one to pay up.
+  - [reckoning](https://ejje.weblio.jp/content/reckoning), レ↑ックニング
+    - 名詞: 清算、決算
+  - ChatGPT訳: それは、報いが来るという意味です。そして、その代償を払うのは私です。
+- Gale: You sound a man with the nine hells at his heels.
+  - at one's heels
+    - イディオム: 人を追って、人のすぐ後について
+  - ChatGPT訳: あなたは地獄の九層に追われている男のように聞こえます。
+- Wyll: You're closer than you know.
+  - ChatGPT訳: あなたの思っている以上に、それは近いです。
+- Wyll: One night soon when we make camp, the veil will be lifted and I'll pay my penance.
+  - [soon](https://ejje.weblio.jp/content/soon), スゥムン
+    - 副詞: まもなく、もうすぐ
+  - [veil](https://ejje.weblio.jp/content/veil), ベ↑ィウゥ
+    - 名詞: 覆って見えなくするもの、ベール
+  - [penance](https://ejje.weblio.jp/content/penance), ペ↑ネンス
+    - 名詞: 罪の償いのための苦行、苦痛なこと、いやだがしないといけないこと、懺悔
+  - ChatGPT訳: そのうちの一晩、私たちがキャンプを張った時に、ヴェールが持ち上げられ、私は自分の罪滅ぼしを果たします。
+- Tav: Penance? Should I be worried?
+  - ChatGPT訳: 罪滅ぼし？心配するべき？
+- Wyll: You're not in any danger, I promise. I can't say the same about me.
+  - ChatGPT訳: あなたに危険は及びません、約束します。私については同じことが言えないけれど。
