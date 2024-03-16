@@ -1209,11 +1209,24 @@ Paladins of Tyrを名乗るAndersには二人の仲間が居て、それらの�
       - haunt O(=幽霊が出そうな場所)
       - haunt O(=思い出してしまう人)
     - Assoc: ホーンテッドマンション
+  - [square off](https://en.wiktionary.org/wiki/square_off)
+    - 自動詞: 喧嘩の身構えをする、直接対決・対戦する、喧嘩や討論などの対決や対立の準備をする、
+      - イメージは、1対1で喧嘩の態勢を取って睨み合う図
+        - Ref: https://mickeyweb.info/archives/26399
+      - 由来は、拳闘の試合場や交渉の四角いテーブルから直前に人払いすること、らしい
   - ChatGPT訳: 正義の主がこの地域を悩ませる悪魔を追跡するよう私たちに命じました。彼女と対決しました。私たちは負けました。
 - Cyrel: Talk to Andres if you want the details. I don't have it in me to recount the horror.
+  - [recount](https://ejje.weblio.jp/content/recount), ゥリ・キャウント
+    - 他動詞: 詳しく話す、物語る
+  - I don't have it in me to recount the horror の it は何を指している？
+    - この it は仮目的語または形式目的語で、後続に説明を任せるもの
   - ChatGPT訳: 詳細を知りたいなら、アンドレスに話を聞いてください。私にはその恐怖を語る元気がありません。
 - Tav: How many did you lose?
 - Cyrel: Two. Both stalwarts of Tyr, sworn to uphold justice.
+  - [stalwart](https://ejje.weblio.jp/content/stalwart), スト↑ォー・ウォト
+    - 名詞: 特に政治的に信念の固い人
+  - [uphold](https://ejje.weblio.jp/content/uphold), アッ↑プ・ホゥールド
+    - 他動詞: 人や権利や行動などを支持する・維持する
   - ChatGPT訳: 二人です。共にティルの勇士で、正義を守ることを誓っていました。
 - Tav: Let's see what you have to trade.
 - Cyrel: In Tyr's name.
