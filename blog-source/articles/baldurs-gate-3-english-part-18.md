@@ -1230,3 +1230,49 @@ Paladins of Tyrを名乗るAndersには二人の仲間が居て、それらの�
   - ChatGPT訳: 二人です。共にティルの勇士で、正義を守ることを誓っていました。
 - Tav: Let's see what you have to trade.
 - Cyrel: In Tyr's name.
+
+### 21, Eliasis - 16:08 - Trynn, Tav
+
+Andersのもう一人の仲間へ話しかけた
+
+- Trynn: If you want to go poking around in the cellar, be my guest. Plug your nose first though.
+  - [be my guest](https://en.wiktionary.org/wiki/be_my_guest#Verb)
+    - 自動詞: どうぞご自由にお使いください・お召し上がりください
+  - [poke around](https://en.wiktionary.org/wiki/poke_around)
+    - 自動詞: 雑な方法で何かを探す
+    - [poke](https://ejje.weblio.jp/content/poke), ポゥク
+      - 他動詞: 腕や指や棒などで突っつく・突く・小突く、鼻や棒を突きつける・突っ込む
+  - [plug](https://ejje.weblio.jp/content/plug), プラッグ
+    - 他動詞: 栓をする、塞ぐ、詰める
+  - ChatGPT訳: 地下室で探索したいなら、どうぞ。ただ、最初に鼻をつまんでね。
+- Tav: Why? What's down there?
+  - ChatGPT訳: どうして？ 何があるの？
+- Trynn: Corpse, half-rotted to mush. Must have been down there a tenday or more.
+  - [rotted](https://ejje.weblio.jp/content/rotted)
+    - rot - rotted - rotted
+      - なお、 rotten は形容詞
+    - [rot](https://ejje.weblio.jp/content/rot), ゥ(ラ|ロ)ット
+      - 自動詞: 腐る、腐敗する
+  - [mush](https://ejje.weblio.jp/content/mush), マ↑ッシュ
+    - 名詞: どろどろしたもの
+  - ChatGPT訳: 半分腐った死体があるよ。もう10日以上はそこにあるはずだ。
+- Tav: This is a nice place to hole up in. What is it?
+  - [hole up](https://en.wiktionary.org/wiki/hole_up#Verb)
+    - 自動詞: 隠れる(=hide)
+      - hole up in 場所 の用法が多い
+  - This is a nice place to hole up in (a nice place)
+  - ChatGPT訳: ここは隠れるにはいい場所だね。これは何？
+- Trynn: It _was_ a tollhouse. By the time we arrived, it was more like a slaughterhouse.
+  - [by the time](https://en.wiktionary.org/wiki/by_the_time#Conjunction)
+    - 接続詞: 将来何かが起こったとき(=when)
+  - [slaughterhouse](https://ejje.weblio.jp/content/slaughterhouse), スロォター・ハウス
+    - 名詞: 屠殺場
+  - ChatGPT訳: これは料金所だったんだ。僕たちが着いた時には、もう屠殺場みたいなものだった。
+- Trynn: There's more monsters than coin moving down this road.
+  - moving down this road は「道を下る」ではないの？
+    - down は前置詞としては「沿って」という意味もあり、ここでは副詞だがそちらの意味の方が近そう
+  - ChatGPT訳: この道を通るのは、コインよりもモンスターの方が多いんだ。
+- Tav: Tollhouses mean gold. Seen any around?
+- Trynn: There's a locked door down the hatch. Doesn't look like anyone managed to get in.
+- Trynn: If there's any gold left, that's where it'll be.
+- Tav: _Leave_.
