@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-18
-lastUpdatedAt: "2024-03-09 00:21:25+0000"
+lastUpdatedAt: "2024-03-17 14:37:05+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 18冊目
@@ -320,15 +320,22 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 他動詞: 〜を共有する
   - [come](https://ejje.weblio.jp/content/come), カァンム
     - 自動詞: ある状態がやってくる、ある状態になる
+  - one quality (that) S=(all the denizens of the Hells) V=(embody)
   - (A quality (they share with many humans)), (I) come to think of it...
     - they は all the denizens of the Hells
     - come to think of it は、直訳すると「私がそれを考える状態になると」で、転じて「それを思い返してみると」「それを考え直してみると」
-  - ChatGPT訳: 地獄の住人が体現する一つの特質があるとすれば、それは野心です。多くの人間が共有する特質だとも言えますね...
+  - ChatGPT訳: 地獄の住人が体現する一つの特質があるとしたら、それは野心です。考えてみれば、多くの人間も同じ特質を持っていますね...
 - Tav: What do you think Raphael's 'ambition' could be?
   - ChatGPT訳: ラファエルの「野心」についてはどう思いますか？
 - Gale: Haven't the foggiest. But based on the evidence before us, we can make certain deductions as to _why_ he sought out our merry band.
-  - [foggy](https://ejje.weblio.jp/content/foggy), フォーギィ
-    - 形容詞: 霧の立ち込めた、霧がかかってぼんやりした
+  - [have the foggiest](https://en.wiktionary.org/wiki/have_the_foggiest#Verb)
+    - 自動詞: 知る(=know)、理解する(=understand)、手掛かりを得る
+      - 通常は否定形で使う
+      - the foggiest は「わずかな考え」であり、否定形を直訳すると「わずかな考えを持っていない」、つまり「全くわからない」
+    - [foggy](https://ejje.weblio.jp/content/foggy), フォーギィ
+      - 形容詞: 霧の立ち込めた、霧がかかってぼんやりした
+  - Haven't the foggiest は Don't have the foggiest ではないの？
+    - どちらも同じ意味、前者は古風な形
   - [base on](https://en.wiktionary.org/wiki/base_on#Verb)
     - 他動詞: 意見や議論や主張を〜に根拠づける・基かせる
   - [evidence](https://ejje.weblio.jp/content/evidence), エヴィデンス
@@ -459,11 +466,11 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - [sincere](https://ejje.weblio.jp/content/sincere), スィン・シーア
       - 形容詞: 嘘偽りのない、正直な、誠実な
       - Assoc: DQ4のシンシアって、皮肉が名前になってるんか
-  - [lot](https://ejje.weblio.jp/content/lot), (ラ|ロ)ット
-    - 名詞: たくさん
   - [ask](https://ejje.weblio.jp/content/ask), アースク
     - 他動詞: 人から援助や助言を求める
       - ask O(=内容) from {人}
+  - [lot](https://ejje.weblio.jp/content/lot), (ラ|ロ)ット
+    - 名詞: たくさん
   - [in return](https://en.wiktionary.org/wiki/in_return#Prepositional_phrase)
     - 前置詞句: お返しの手段として、その代わりに
   - [in time](https://en.wiktionary.org/wiki/in_time#Prepositional_phrase)
@@ -481,16 +488,17 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
 
 これを機会に他の仲間の話も聞いて、イベント進行に伴い溜まっている会話を消化しておくことにした
 
-- Shadowheart; So Gale just consumes magical items like I do wine? We truly are a group apart...
+- Shadowheart: So Gale just consumes magical items like I do wine? We truly are a group apart...
   - [wine](https://ejje.weblio.jp/content/wine), ワーイン
     - 自動詞: ワインを飲む
   - [apart](https://ejje.weblio.jp/content/apart), ア・パァト
     - 形容詞,叙述用法: 特異な、他と別個の
       - 名詞の直後に置く用法
   - ChatGPT訳: だからゲイルは私がワインを消費するように魔法のアイテムを消費するのね？本当に私たちは一風変わっているわ...
-- Shadowheart; Nevertheless, as quirks go, that's a new one for me.
+- Shadowheart: Nevertheless, as quirks go, that's a new one for me.
   - [nevertheless](https://ejje.weblio.jp/content/nevertheless), ネバ・ザ・レ↑ス
     - 副詞: 前述の意見や事実に反するか無関係なことの表現、それにも関わらず、それでもなお
+    - 由来は、「決してない(=never)、前述のそれは(=the)、少なく(=less)」
   - [quirk](https://ejje.weblio.jp/content/quirk), クゥォーク
     - 名詞: 癖
   - [go](https://ejje.weblio.jp/content/go), ゴ↑ォゥ
@@ -498,15 +506,17 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - as quirks go の go の意味は？
     - Shadowheart が前述した I do wine という例えのように「なる」という意味
   - ChatGPT訳: それにしても、癖としてはそれは新しいわね。
-- Tav; Those murals in the Grove - something about them seemed to catch your eye.
+- Tav: Those murals in the Grove - something about them seemed to catch your eye.
   - [mural](https://ejje.weblio.jp/content/mural), ミュゥロォ
     - 名詞: 大きな壁画
-  - ChatGPT訳: グローブの中の壁画、何かあなたの目を引いたようですね。
-- Shadowheart; What can I say? They were eye-catching. Consider me an art-lover.
+  - seemed の主語は？
+    - something about them で良い、something about them が〜のように見えた、ということ
+  - ChatGPT訳: グローブの壁画 - それらに何か引きつけられるものがあったようだね。
+- Shadowheart: What can I say? They were eye-catching. Consider me an art-lover.
   - [eye-catching](https://en.wiktionary.org/wiki/eye-catching#Adjective)
     - 形容詞: 人目を惹く、魅力的な見た目な、注目を集めた
-  - ChatGPT訳: 何と言えばいいのかしら？目を引くものだったわ。私は芸術愛好家とでも考えてください。
-- Tav; _Leave_.
+  - ChatGPT訳: どう言えばいいのかな？ 目を引いたわ。私はアート愛好家と言ってもいい。
+- Tav: _Leave_.
 
 ### 21, Eliasis - 5:31 - Wyll, Tav
 
@@ -520,7 +530,7 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
       - 動詞と結合して動作の完了を強調する
   - ChatGPT訳: ゲイルはそれをニンジンを食べる馬のようにガツガツと食べたね。彼が必要としていたものを得られたことを願っているよ。
 - Tav: What do you make of Raphael?
-  - [make_of](https://en.wiktionary.org/wiki/make_of)
+  - [make of](https://en.wiktionary.org/wiki/make_of)
     - 他動詞: 何かまたは誰かについて意見を形成する、人や考えや状況を評価する
   - ChatGPT訳: ラファエルについてどう思う？
 - Wyll: He brings to mind a story. 'The Devil with the Silver Tongue.'
@@ -539,7 +549,7 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - ChatGPT訳: 父が読んでくれた古いおとぎ話だよ。英雄と悪役と教訓がある種の話さ。
 - Wyll: A farmer made a deal with a devil, so the story goes: in exchange for the farmer's dearest fruit, the devil granted him a bottomless coinpurse.
   - so the story goes の so は何？
-    - 副詞の「そのように」と前文を参照する表現、接続詞にこの意味はない
+    - 副詞の「そのように」と前文を参照する表現、なお、接続詞にこの意味はない
   - [bottomless](https://ejje.weblio.jp/content/bottomless), バ↑ートムレス
     - 形容詞: 底なしの、底の深い、計り知れない
   - [coinpurse](https://ejje.weblio.jp/content/coinpurse), コイン・パース
@@ -694,7 +704,10 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 自動詞: ミミズなどがのたうつ、身を捩る、体をくねらす
   - [instil](https://ejje.weblio.jp/content/instil), イン・スティルォ
     - 他動詞: 人や心に思想や感情を染み込ませる、徐々に教え込む
-  - ChatGPT訳: 頭の中でミミズがもぞもぞするのは、これからの日々にあまり自信を持たせてくれませんでした。
+  - [confidence](https://ejje.weblio.jp/content/confidence), (カ|コ)ンフィデンス
+    - 名詞: 自信、大胆さ、図々しさ、信用、信頼
+  - ChatGPT訳: 頭蓋骨の中でミミズがうごめくのを感じると、これからの日々にあまり自信を持てませんでした。
+    - 直訳だと「多くの自信を染み込ませることはなかった」で、「自信が徐々に上がらない」から「あまり自信が持てない」になりそう
 - Wyll: With you as my ally, the future looks a little less daunting.
   - [daunt](https://ejje.weblio.jp/content/daunt), ドーント
     - 他動詞: 人の気力をくじく、ひるませる
@@ -829,12 +842,13 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
   - [after](https://ejje.weblio.jp/content/after), (ア|エ)ァフタァ
     - 前置詞: 〜の後を追って、〜を求めて、〜を追求して
   - [straight out](https://en.wiktionary.org/wiki/straight_out)
-    - 副詞: 率直に、直接的に、明白に
+    - 副詞: 直接的に、率直に、明白に
   - ChatGPT訳: 私たちは正義の主、ティアのパラディンです。彼は私たちに、ナインヘルズから直接やってきた地獄の存在、一本角のティーフリングの形で隠れている者を追わせました。
 - Wyll: One horn? Then you mean Karlach. Archdevil's bootlicker.
   - [bootlicker](https://ejje.weblio.jp/content/bootlicker), ブゥトリッカァ
     - 名詞: ご機嫌取り、権威に対しておもねる人
-      - lick が「舌でなめる」という動詞、バイオハザードの Licker の由来
+      - lick が「舌でなめる」という動詞
+    - Assoc: バイオハザードの Licker
   - ChatGPT訳: 一本角？それならカーラックのことだ。大悪魔のおべっか使いだ。
 - Anders: You know her. Which means you know what the fiend's capable of.
   - [capable](https://ejje.weblio.jp/content/capable), ケイパボゥ
@@ -880,7 +894,7 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
       - pay for 名詞
   - where we could not は what だと意味が変わる？
     - 変わる。 where は場所や状況に焦点を当てているので、「我々ができなかった状況で」という意味になる。
-  - ChatGPT訳: アンダース: 彼女は自分の罪に対する代償を支払わなければなりません。彼女を捕まえれば、私たちができなかったことをTryに対して果たしたことになります。
+  - ChatGPT訳: 彼女は自分の罪に対する代償を支払わなければなりません。彼女を捕まえれば、私たちができなかったことをTryに対して果たしたことになります。
 - Anders: This is the Sword of Justice, blessed by Tyr. I've wielded it since I swore my oath.
   - [wield](https://ejje.weblio.jp/content/wield), ウィールゥド
     - 他動詞: 剣などをふるう・振り回す
@@ -940,7 +954,14 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
     - 名詞: ひと目で見渡せる景色、風景
   - ChatGPT訳: そこから、火と血の景色を引き裂きながら、魔物の軍勢の幻視に迷い込む。
 - \*The Blood War. You saw it from above as the nautiloid passed through Avernus - this woman was on the frontline.\*
+  - Blood War
+    - D&D用語,名詞: Devil対Demonの古代の大戦争・紛争、主にAvernusが戦場となった
+      - Ref: https://forgottenrealms.fandom.com/wiki/Blood_War
+  - DevilとDemonの違いは？
+    - D&D世界観においては別種族である。Devilは秩序の悪、The Nine Hellsを本拠地とする、Demonは混沌の悪、Abyssという無数の深層から来る。
+    - Ref: https://note.com/mslabo102/n/nbff85f2a05ee
   - ChatGPT訳: 血の戦争。ナウティロイドがアヴェルヌスを通過した際、あなたはそれを上空から見た - この女性は前線にいた。
+  - Blood Warは古代の戦争？とすると、Mind Flayerの戦艦は時空を旅してた？
 - Karlach: What was _that_?!
 - Wyll: Evidence. Proof that you're a devil, a gladiator in the archdevil Zariel's army.
   - [proof](https://ejje.weblio.jp/content/proof), プルゥーフ
@@ -1198,9 +1219,7 @@ Wyllにイベント会話が発生していたので、話しかけた
 
 Paladins of Tyrを名乗るAndersには二人の仲間が居て、それらの片方へ話しかけた。
 
-なお、Andersへ話すと小悪党ムーブの会話を聞いた上で戦闘になるが、今回は先制攻撃と話の流れのために話さなかった。
-
-そういえば、仲間の方には話しかけられるのは、不自然な気はする。
+なお、Andersへ話すと小悪党ムーブの会話を聞いた上で戦闘になるが、今回はドヤられるのが嫌だったので彼には話さずに、先制攻撃から戦った。
 
 - Cyrel: Need any supplies? We've fewer mouths to feed now.
   - [mouth](https://ejje.weblio.jp/content/mouth), マ↑ウ・ス
@@ -1359,10 +1378,6 @@ Karlachを仲間に入れるため、Campで話しかけた
     - 前置詞句: もう一方の観点から、他方では、これに反して
   - [singular](https://en.wiktionary.org/wiki/singular#Adjective), スィ↑ン・ギュラァ
     - 形容詞: 唯一無二の、個性的な、稀に見る、非凡な、奇妙な、珍しい、単数形の
-  - DevilとDemonの違いは？
-    - D&D世界観においては別種族である。Damonは秩序の悪、The Nine Hellsを本拠地とする、Devilは混沌の悪、Abyssという無数の深層から来る。
-    - 互いに対立しているらしい
-    - Ref: https://note.com/mslabo102/n/nbff85f2a05ee
   - [out](https://ejje.weblio.jp/content/out), ア↑ゥト
     - 副詞: 最後まで、すっかり、完全に
     - コアイメージ: 内側から見た時は境界線の外に出ていくもの、外側から見た時は境界線からこちらに出てくるもの
