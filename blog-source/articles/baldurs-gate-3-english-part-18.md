@@ -1285,7 +1285,7 @@ Andersのもう一人の仲間へ話しかけた
 
 ### 21, Eliasis - 16:33 - Narrator
 
-何の常今日で出現した文章かを忘れた
+何の状況で出現した文章かを忘れた
 
 - \*You picked a fight. The consequences are hardly surprising.\*
   - [consequence](https://ejje.weblio.jp/content/consequence), コ↑ン・シクエンス
@@ -1293,4 +1293,89 @@ Andersのもう一人の仲間へ話しかけた
   - [hardly](https://ejje.weblio.jp/content/hardly), ハァドリィ
     - 副詞: ほとんど〜ない、〜であるとは言い難い
   - ChatGPT訳: あなたが喧嘩を売った。その結果が驚くには値しないのは当然です。
-  - こっちから一方的に開戦した扱いになっているのかも？
+
+### 21, Eliasis - 17:11 - Karlach, Tav
+
+Karlachを仲間に入れるため、Campで話しかけた
+
+- Karlach: What's the story?
+  - ChatGPT訳: 話の内容は？
+- Tav: So - how did you end up fighting in the Blood War?
+  - ChatGPT訳: それで - どうやって血の戦争で戦うことになったの？
+- Karlach: Trust me, I'll tell you all about it - _after_ we take care of the goons on my tail.
+  - [take care of](https://en.wiktionary.org/wiki/take_care_of#Verb)
+    - 他動詞: 殺す、処理する、世話をする
+  - ChatGPT訳: 信じて。私の後を追っている悪党たちを片付けた後、全部話すよ。
+- Tav: About those paladins you want us to confront...
+  - [confront](https://ejje.weblio.jp/content/confront), (カ|コ)ン・フロント
+    - 他動詞: 対決させる、直面する
+      - confront O(=対決する人1) with {対決する人2}
+  - ChatGPT訳: あなたが私たちに対峙させたいと言っていたパラディンについて...
+- Karlach: Yeah! Let's go straight there. Whatever those fucks are getting up to, it's nothing good.
+  - [get up to](https://en.wiktionary.org/wiki/get_up_to#Verb)
+    - 他動詞: 特に禁止されていたり不適切なことを行う
+    - [up to](https://en.wiktionary.org/wiki/up_to#Preposition)
+      - 前置詞: 行っている(=doing), 巻き込まれている(=involved in)
+  - ChatGPT訳: そうだ！さっそく向かおう。あいつらが何をしているにせよ、良いことなんか一つもない。
+- Karlach: Just to say, by the way, they're not _really_ paladins. Lackeys of the archdevil playing dress-up as paladins of Tyr. No honour among devils.
+  - just to say
+    - イディオム: 付け加えると、話の途中ですが、たいしたことではないけど
+  - [by the way](https://en.wiktionary.org/wiki/by_the_way#Prepositional_phrase)
+    - 前置詞句: 現在の話題にとって中心的でも重要でもないことの表現、ちなみに、ところで、ついでながら
+    - 由来は古く、「道に沿って」が転じて「側面からの観察」になり、「ところで」になったらしい
+      - Ref: https://www.etymonline.com/jp/word/by
+    - = BTW
+  - [lackey](https://ejje.weblio.jp/content/lackey), ラ↑ァキィ
+    - 名詞: へいこらする子分、おべっか使い
+  - [dress-up](https://en.wiktionary.org/wiki/dress-up#Noun)
+    - 名詞: 様々な服を着て何かの振りをする子供の遊び
+  - Lackeys of the archdevil playing dress-up as paladins of Tyr. の動詞は何？
+    - おそらく、 Lackeys of the archdevil (are) playing dress-up as paladins of Tyr. と、 are が省略されているのではないか
+  - ChatGPT訳: ちなみに、本当のパラディンではないんだ。ティアのパラディンに扮しているだけの、大悪魔の手下たちさ。悪魔たちに名誉などない。
+- Tav: In your expert opinion, what's the best way to kill a devil?
+  - ChatGPT訳: あなたの専門的な意見で、悪魔を殺す最良の方法は何ですか？
+- Karlach: Depends on the type. Ice devils hate an inferno, but that's an easy one. Orthons love projectiles - what they don't love is getting their bombs lobbed right back in their faces.
+  - [inferno](https://ejje.weblio.jp/content/inferno), イン・フ↑ァーノ
+    - 名詞: 大火、地獄、地獄さながらの光景
+  - Orthon
+    - D&D用語,名詞: 巨大で凶暴な人形の悪魔、武具を使用する、Baatezuに仕える、常時苦痛を感じているが戦いの時だけそれが和らぐので戦いが好きという悲しい背景がある
+      - Ref: https://forgottenrealms.fandom.com/wiki/Orthon
+  - [projectile](https://ejje.weblio.jp/content/projectile), プロジェク・トォ
+    - 名詞: 投射物、発射体、弾、ロケット
+  - [lob](https://ejje.weblio.jp/content/lob), (ラ|ロ)ァー
+    - 他動詞: 弧を描くように投げる
+    - Assoc: テニスのロブ
+  - [right](https://ejje.weblio.jp/content/right), ゥレィト
+    - 副詞: まっすぐに、正確に
+  - ChatGPT訳: タイプによります。氷の悪魔は炎を嫌いますが、それは簡単な方です。Orthon（オーソン）は投射物が好きですが、彼らが好まないのは自分たちの爆弾が真っ向から投げ返されることです。
+- Karlach: Demons, on the other hand - every demon is absolutely singular. You can't _ever_ think you've got 'em typed out.
+  - [on the other hand](https://en.wiktionary.org/wiki/on_the_other_hand#Prepositional_phrase)
+    - 前置詞句: もう一方の観点から、他方では、これに反して
+  - [singular](https://en.wiktionary.org/wiki/singular#Adjective), スィ↑ン・ギュラァ
+    - 形容詞: 唯一無二の、個性的な、稀に見る、非凡な、奇妙な、珍しい、単数形の
+  - devil と demon の違いは？
+  - [out](https://ejje.weblio.jp/content/out), ア↑ゥト
+    - 副詞: 最後まで、すっかり、完全に
+    - コアイメージ: 内側から見た時は境界線の外に出ていくもの、外側から見た時は境界線からこちらに出てくるもの
+  - ChatGPT訳: 一方、デーモンは - すべてのデーモンは完全に独特です。あなたが彼らをタイプ化したと思ってもいけません。
+- Karlach: Sharp instincts, sharp weapons, and a knack for improvisation. That's the only way to survive 'em.
+  - [instinct](https://ejje.weblio.jp/content/instinct), イ↑ン・スティンクト
+    - 名詞: 直感、本能、勘
+  - [improvisation](https://ejje.weblio.jp/content/improvisation), イ↑ン・プロビ・ゼ↑イション
+    - 名詞: 即興、即座にやること、即席で作ったもの
+    - 動詞の improve には、直接はこのような意味はなさそう
+  - ChatGPT訳: 鋭い直感、鋭い武器、そして即興の才能。それが彼らを生き残る唯一の方法です。
+- Karlach: Anyway, what were we talking about?
+  - ChatGPT訳: とにかく、何の話をしていたっけ？
+- Tav: Come on, we're heading out.
+  - [head out](https://en.wiktionary.org/wiki/head_out)
+    - 自動詞: 先へ進む(=go on ahead)、出発する(=depart)、離れる(=leave)
+  - ChatGPT訳: さあ、出発しよう。
+- Karlach: Looks like your troop's all trooped up. You'll need to send someone packing if you want me to join.
+  - 先に同じ文章があったので、解説はそちらへ統合する
+- Tav: You can trade places with Wyll.
+  - ChatGPT訳: Wyllと交代できるよ。
+- Karlach: Let's hop!
+  - [hop](https://ejje.weblio.jp/content/hop), (ハ|ホ)ッ
+    - 自動詞: ウサギや鳥などがぴょんぴょん跳び回る、片足で跳ねる
+  - ChatGPT訳: さあ、行こう！
