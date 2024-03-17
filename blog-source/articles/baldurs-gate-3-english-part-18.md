@@ -1353,7 +1353,10 @@ Karlachを仲間に入れるため、Campで話しかけた
     - 前置詞句: もう一方の観点から、他方では、これに反して
   - [singular](https://en.wiktionary.org/wiki/singular#Adjective), スィ↑ン・ギュラァ
     - 形容詞: 唯一無二の、個性的な、稀に見る、非凡な、奇妙な、珍しい、単数形の
-  - devil と demon の違いは？
+  - DevilとDemonの違いは？
+    - D&D世界観においては別種族である。Damonは秩序の悪、The Nine Hellsを本拠地とする、Devilは混沌の悪、Abyssという無数の深層から来る。
+    - 互いに対立しているらしい
+    - Ref: https://note.com/mslabo102/n/nbff85f2a05ee
   - [out](https://ejje.weblio.jp/content/out), ア↑ゥト
     - 副詞: 最後まで、すっかり、完全に
     - コアイメージ: 内側から見た時は境界線の外に出ていくもの、外側から見た時は境界線からこちらに出てくるもの
@@ -1379,3 +1382,121 @@ Karlachを仲間に入れるため、Campで話しかけた
   - [hop](https://ejje.weblio.jp/content/hop), (ハ|ホ)ッ
     - 自動詞: ウサギや鳥などがぴょんぴょん跳び回る、片足で跳ねる
   - ChatGPT訳: さあ、行こう！
+
+### 21, Eliasis - 19:51 - Karlach, Tav
+
+Paladins of Tyrの面々を倒した直後に、Karlachの話が始まった
+
+- Karlach: Fuck them. Fuck _Zariel_. I won't go back. I'm never going back.
+  - ChatGPT訳: 彼らなんかにうんざりだ。ザリエルにもうんざり。戻らない。絶対に戻らない。
+- Karlach: And if any of mummy's little friends want to pick up where the others left off... they'll find nothing but a pile of ash.
+  - [mummy](https://ejje.weblio.jp/content/mummy), マ↑・ミィ
+    - 名詞: ミイラ、干からびたもの、やせこけた人、おかあちゃん
+    - 母もミイラも同じ綴りだったんだ... 本文では、おそらくZarielを指しているんだけど、どっちの意味だろう？
+  - [pick up](https://en.wiktionary.org/wiki/pick_up#Verb)
+    - 他動詞: 中断したことを再び始める(=resume)、再起動する(=restart)、引き継ぐ
+  - ChatGPT訳: もしもお母さんの小さな友達が他の人たちがやめたところを引き継ごうとしても... 彼らが見つけるのは灰の山だけだ。
+    - 「やめたところを引き継ぐ」の意味がやや不明瞭
+      - where が関係代名詞を目的語として取れる pick up の解釈が「引き継ぐ」くらいしかなさそうだから、直訳としては合ってそうだけども
+- Tav: Easy, Karlach. Those flames are getting _big_.
+  - ChatGPT訳: 落ち着いて、カーラック。その炎、大きくなってるよ。
+- Karlach: Not big enough. Now get out before you get hurt. _Now_.
+  - ChatGPT訳: 十分大きくない。今すぐ出て行って、怪我をしないうちに。今すぐに。
+  - この後、しばらくの間、Karlachが勝手に動き、炎を撒き散らしながら辺りを叩き壊し続けた
+
+### 21, Eliasis - 20:11 - Karlach, Tav
+
+Karlachがひとしきり暴れた後に話しかけた
+
+- Karlach: Felt good letting off a little steam after facing off with this ignots.
+  - [let off](https://en.wiktionary.org/wiki/let_off#Verb)
+    - 他動詞: 解放する、爆発する、飛び出す
+    - [let](https://ejje.weblio.jp/content/let), レット
+      - 他動詞: 液体や気体を出させる・漏らす
+  - ignot は一般的な単語ではなく、おそらくは ignorant の略
+    - [ignorant](https://ejje.weblio.jp/content/ignorant), イ↑グ・ノ・ラント
+      - 形容詞: 無学の、無知の、不作法な
+  - [face off](https://en.wiktionary.org/wiki/face_off#Verb)
+    - 他動詞: 対決する(=confront)
+    - [face](https://ejje.weblio.jp/content/face), フェイス
+      - 他動詞: ものが〜へ面する、人が〜へ向く、危難や災難へ立ち向かう
+  - ChatGPT訳: この無能な者と対峙した後で、少し蒸気を吹き出すのは気持ちが良かった。
+- Karlach: Granted the fire lasted a little longer than it should.
+  - [granted](https://en.wiktionary.org/wiki/granted#Adverb), グ(ラ|ア)ァンテッド
+    - 副詞: 対照的または競合する情報を述べる前にする承認や認識の表現、確かに
+      - Wiktionaryはこの分類だが、ChatGPTは接続詞と言ってた
+  - [last](https://ejje.weblio.jp/content/last), ラァスト
+    - 自動詞: 時間的に続く、持続する、存続する
+  - ChatGPT訳: 確かに、火は少し長く続いたかもしれない。
+- Tav: How could you withstand the heat?
+  - [withstand](https://ejje.weblio.jp/content/withstand), ウィズ・スタ↑ァンド
+    - 他動詞: 抵抗する、耐える
+  - ChatGPT訳: どうやってその暑さに耐えることができたのですか？
+- Karlach: Hear that? Infernal engine for a heart. Lets me burn as hot as the Hells. Seems to be running in overdrive since I left Avernus.
+  - [overdrive](https://en.wiktionary.org/wiki/overdrive#Noun), オ↑ゥーバー・ヂョラァイ
+    - 名詞: 活動が高まっている状態
+    - 本来は、少ない力で速度を出せるような状態にあるギアの設定のこと
+  - ChatGPT訳: 聞こえますか？地獄のように熱い、心臓の代わりに地獄のエンジンを持っています。アヴェルヌスを離れてから、オーバードライブで動いているようです。
+  - あれ、今いるところもAvernusではなかったっけ...?
+- Karlach: Won't be seeing my mechanic any time soon, so I'll just make the most of the extra heat. Just don't get too close 'til I've found a way to calm it down.
+  - [any time soon](https://en.wiktionary.org/wiki/any_time_soon#Adverb)
+    - 副詞: = soon
+  - [make the most of](https://en.wiktionary.org/wiki/make_the_most_of#Verb)
+    - 他動詞: 何かの価値を最大限に引き出す、何かから可能な限り多くの利益を出す
+    - 「〜の最大を作る」というイメージかな
+  - 'til = until
+  - ChatGPT訳: 私の整備士には会えそうにありませんので、余分な熱を最大限に活用することにします。落ち着かせる方法を見つけるまでは、あまり近づかないでください。
+- Tav: You have a mechanic for your heart?
+  - ChatGPT訳: あなたの心臓にメカニックがいるのですか？
+- Karlach: Wild, right? And believe it or not, I'm one of Zariel's _least_-mutilated pets.
+  - [wild](https://en.wiktionary.org/wiki/wild#Adjective), ワィルド
+    - 形容詞: やばい・すごい(=amazing, awesome)、信じられない(=unbelievable)
+  - [mutilate](https://ejje.weblio.jp/content/mutilate), ミューテレイト
+    - 他動詞: 損傷する、切断する、手足を切断する
+  - ChatGPT訳: 信じられないかもしれませんが、私はザリエルのペットの中で最も傷ついていない方の一人です。
+- Karlach: But it's a bit early in the game to be getting into tragic backstories. Let's save the scar-show for later, after we've worked up an appetite for tragedy.
+  - in the game
+    - イディオム: この状況で、現段階で
+      - ChatGPT以外に原典が見つからなかった、何となくイメージはできる
+  - [get into](https://en.wiktionary.org/wiki/get_into#Verb)
+    - 他動詞: ものの中へ移動して入る
+  - [tragic](https://ejje.weblio.jp/content/tragic), トラ↑ァ・ジェック
+    - 形容詞,限定用法: 悲劇的な、悲劇の
+  - [backstory](https://ejje.weblio.jp/content/backstory), バ↑ァック・ストォリィ
+    - 名詞: 生い立ち
+  - [scar](https://ejje.weblio.jp/content/scar), スカァ
+    - 名詞: 皮膚に残った傷跡、家具などの傷、心の傷
+  - [work up](https://en.wiktionary.org/wiki/work_up)
+    - 他動詞: 〜に興奮する(=excite), 〜を刺激・挑発する(=stir up), 〜を起こさせる(=raise)
+  - [appetite](https://ejje.weblio.jp/content/appetite), ア↑パタィト
+    - 名詞: 欲求、欲望、興味
+  - ChatGPT訳: でも、悲劇的なバックストーリーに入るには少し早いですね。悲劇に飢えた後で、傷の見せ合いをしましょう。
+- Karlach: Meanwhile, I'll need to find someone who can tune up my engine sooner rather than later. Believe me when I say this thing is _hot_.
+  - [meanwhile](https://ejje.weblio.jp/content/meanwhile), ミィ↑ン・ワィル
+    - 副詞: 2つのことが同時に起こる間に
+  - [tune up](https://en.wiktionary.org/wiki/tune_up#Verb)
+    - 他動詞: 性能を向上するためにエンジンなどを調整する、激しい運動の準備をする、演奏に備えて楽器を調律する
+    - [tune](https://ejje.weblio.jp/content/tune), チュ↑ゥン
+      - 他動詞: 調律する、調整する、一致・適合・調和させる
+  - ChatGPT訳: その間、私は早めにエンジンをチューニングしてくれる人を見つける必要があります。信じてください、このマシンは本当に熱いんです。
+- Karlach: The first time I faced down those 'paradins,' they let slip there was an infernal mechanic in the area. A tiefling. He might be able to stabilise things - if I can find him.
+  - [face down](https://en.wiktionary.org/wiki/face_down#Verb)
+    - 他動詞: 立ち向かう(=confront)
+  - 'paradins,' のカンマの位置は何？
+    - おそらくは、 'paradins', のTypoなのではないか
+  - [let slip](https://en.wiktionary.org/wiki/let_slip#Verb)
+    - 他動詞: 偶然や過ちなどで秘密を漏らす
+    - 動詞と動詞の組み合わせの句動詞！
+  - [stabilise](https://ejje.weblio.jp/content/stabilise), スティ(バ|ブ)・ラァイズ
+    - = stabilize
+    - [stabilize](https://ejje.weblio.jp/content/stabilize), スティ(バ|ブ)・ラァイズ
+      - 他動詞: 安定させる、固定させる
+  - ChatGPT訳: 最初にあの「パラディンズ」に立ち向かった時、この地域に地獄のメカニックがいると彼らがぽろっと言っていました。ティーフリングの。彼なら物事を安定させることができるかもしれません - もし見つけられたら。
+- Tav: Wonder if they meant Dammon - a tiefling weaponsmith.
+  - [wonder](https://ejje.weblio.jp/content/wonder), (ウ|ワ)ォンダァ
+    - 自動詞: 〜かと思う・不審に思う
+  - ChatGPT訳: 彼らがダモンのことを言っていたのかな - ティーフリングの武器職人。
+- Karlach: A weaponsmith, huh? Not sure if he's the guy, but I'd love to find out. A tune-up would do this rusty heart a world of good.
+  - do a world of good
+    - イディオム: 誰かをより幸せに・良くする
+  - ChatGPT訳: 武器職人、か。彼がその人かどうかはわかりませんが、確かめてみたいですね。チューンアップは、このさびついた心にとって非常に良いことでしょう。
