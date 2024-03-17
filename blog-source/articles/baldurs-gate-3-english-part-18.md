@@ -41,6 +41,7 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
 - Raphael: The mouse smiled brightly: it outfoxed the cat!
   - [outfox](https://ejje.weblio.jp/content/outfox), アゥ・フォーックス
     - 他動詞: 相手の裏をかく、相手を出し抜く
+    - Assoc: アウトフォクシーズ(The Outfoxies)、なお名詞の用法はない
   - ChatGPT訳: ネズミは明るく微笑んだ：それは猫を出し抜いたのだ！
 - Raphael: Then down came the claw, and that, love, was that.
   - [claw](https://ejje.weblio.jp/content/claw), クロァ
@@ -95,10 +96,10 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
     - 名詞: 非常に辺鄙な人里離れた場所、特徴が欠けている目立たない場所、僻地、田舎
       - nowhere は名詞の「どことも知れぬ場所」という意味の方だと考えておくと覚えやすそう
       - 現代でも、出身は田舎だよ、というような会話で使われるよう
-  - ChatGPT訳: この風変わりな小さな光景は、私の好みには確かに中途半端な何もない場所すぎます。
+  - ChatGPT訳: この風景は、私の好みにはあまりにも田舎すぎます。
 - Raphael: Come.
 - Raphael: There. Middle-of-somewhere.
-  - これは謙遜で言っているのかな？
+  - ChatGPT訳: そこ。どこかの中心地。
 - Tav: Nice decor.
   - [decor](https://ejje.weblio.jp/content/decor), ディ・コォァ
     - 名詞: 室内装飾、装飾様式
@@ -118,11 +119,15 @@ lastUpdatedAt: "2024-03-09 00:21:25+0000"
     - 自動詞: 食べる・飲む、何かを共にする
   - [supper](https://ejje.weblio.jp/content/supper), サ・(パ|ポ)ー
     - 名詞: 夕食、夕食会
-  - ChatGPT訳: どうぞ、召し上がれ。晩餐を楽しんでください。なぜなら...
+  - ChatGPT訳: どうぞ、召し上がれ。楽しんでください。結局のところ...
 - Raphael: ...it might just be your last.
   - ChatGPT訳: ...これが最後の食事になるかもしれないからです。
 - Tav: What makes you say that?
-  - ChatGPT訳: どうしてそう言うのですか？
+  - What makes you say that?
+    - イディオム: どうしてそう思うの？、どうしてそんな事言うの？
+      - 直訳だと「何があなたにそう言わせるの？」
+    - Ref: https://native-phrase-blog.com/what-makes-you-say-that%ef%bc%9a%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6%e3%81%9d%e3%81%86%e6%80%9d%e3%81%86%e3%81%ae%ef%bc%9f/
+  - ChatGPT訳: なぜそう言うんですか？
 - Raphael: Call it a ninth sense.
   - [call](https://ejje.weblio.jp/content/call), コー(ル|ウ)
     - 他動詞: 〜と呼ぶ・称する
@@ -295,6 +300,7 @@ Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸�
       - play the {単数形の名詞}
   - [advocate](https://ejje.weblio.jp/content/advocate), ア・ボ・ケィ
     - 名詞: 代弁者
+    - Assoc: Advocatus diaboli
   - [dismiss](https://ejje.weblio.jp/content/dismiss), ディス・ミィス
     - 他動詞: 考えなどを捨てる
     - 他の意味は「解雇する」「解散させる」など
