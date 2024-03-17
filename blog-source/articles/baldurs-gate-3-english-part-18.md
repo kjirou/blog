@@ -1,0 +1,1523 @@
+---
+publicId: baldurs-gate-3-english-part-18
+lastUpdatedAt: "2024-03-17 14:37:05+0000"
+---
+
+# Baldur's Gate 3の英語を復習する 18冊目
+
+- [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
+- Blighted Villageの探索を終え、Halsinの捜索に戻った
+
+## 本編
+
+### 21, Eliasis - 3:09 - Raphael, Tav, Raphael
+
+道を歩いていると、突然現れた人に話しかけられた。
+
+なお、本セクション名へRaphaelが二回書いてあるのは、原文通り。
+
+- Raphael: My, my, what manner of place is this? A path to redemption, or a road to damnation? Hard to say, for your journey is just beginning.
+  - [manner](https://ejje.weblio.jp/content/manner), (マ|メ)ーナァ
+    - 名詞: 種類
+      - 古語、単数形で用いる
+  - [redemption](https://ejje.weblio.jp/content/redemption), ゥリ・デンプ・ション
+    - 名詞: 救済、救い、神学における罪の贖い
+  - [damnation](https://ejje.weblio.jp/content/damnation), ダムネイション
+    - 名詞: 破滅、地獄に落とすこと、天罰
+  - [hard](https://ejje.weblio.jp/content/hard), ハァード
+    - 形容詞: 理解や説明がしにくい・難しい
+  - [begin](https://ejje.weblio.jp/content/begin), (バ|ベ)・ギンヌ
+    - 自動詞: 始まる、開始する
+  - ChatGPT訳: なんてところだろう、これは？ 救済への道、それとも破滅への道？ どちらとも言えない、あなたの旅はこれから始まるのだから。
+- Raphael: What would suit the occasion? The words to a lullaby, perhaps?
+  - [suit](https://ejje.weblio.jp/content/suit), スゥト
+    - 他動詞: 服装などが〜に似合う、気候や食物が目的や条件に合う・適する
+  - [occasion](https://ejje.weblio.jp/content/occasion), オケイジョン
+    - 名詞: 特定の事が起こったまたは起こる時・場合・時折、好機、機会
+  - The words to a lullaby は The words for a lullaby ではないの？
+    - to だと、 words が何かの参照であることを意味する、つまり概ね既存の子守唄を指す
+    - for だと、 woards を何かの目的のために選択して揃えたことを意味する、つまり概ね新しく子守唄を作ることを指す
+  - ChatGPT訳: 何がふさわしいだろうか？ 子守歌の言葉はどうだろう？
+- Raphael: The mouse smiled brightly: it outfoxed the cat!
+  - [outfox](https://ejje.weblio.jp/content/outfox), アゥ・フォーックス
+    - 他動詞: 相手の裏をかく、相手を出し抜く
+    - Assoc: アウトフォクシーズ(The Outfoxies)、なお名詞の用法はない
+  - ChatGPT訳: ネズミは明るく微笑んだ：それは猫を出し抜いたのだ！
+- Raphael: Then down came the claw, and that, love, was that.
+  - [claw](https://ejje.weblio.jp/content/claw), クロァ
+    - 名詞: 猫や鷹などの鋭く曲がった鍵爪
+  - Then down came the claw の語順がおかしい？
+    - 通常の語順だと、 the claw came down である。詩的な表現にしたもの。
+  - and that
+    - イディオム: 話の締めくくりに使う表現
+    - that が接続詞で「主節み導いて〜ということは」なので、その強調と考える？
+      - ただし、本文では関係代名詞として使ってそう、わからん
+  - [love](https://ejje.weblio.jp/content/love), ラァブ
+    - 名詞: 代名詞的な呼びかけとしての愛する人
+  - and that, love, was that の意味がわからない
+    - love は間投詞的なものなので省ける、つまり and that was that
+    - それ以上のことはわからない
+  - ChatGPT訳: そして爪が降りてきた、そしてそれが終わりだ、愛する人よ。
+- Raphael: They do know how to write them in Cormyr, don't they?
+  - Cormyr, コーミア
+    - D&D用語,名詞: Faerûn内部の独立国家、別名Forest Country・Land of the Purple Dragon、戦火は絶えなかったが繁栄している国
+      - Ref: https://forgottenrealms.fandom.com/wiki/Cormyr
+  - ChatGPT訳: 彼らはコーミアでどうやってそれを書くか知っているものだね？
+    - 意味がわからない
+- Raphael: Well met. I am Raphael. Very much at your service.
+  - [very much](https://en.wiktionary.org/wiki/very_much#Adverb)
+    - 副詞: 極めて・極端に・とても(=extremely)
+  - [at your service](https://en.wiktionary.org/wiki/at_your_service#Prepositional_phrase)
+    - 前置詞句: 初めての人に会ったときの丁寧な挨拶、あなたの支援が可能であること
+  - ChatGPT訳: こんにちは。私はラファエルです。ご奉仕することをとても楽しみにしています。
+- Tav: Pleasure. I'm {不具合で読めないが Tav だった}.
+  - ChatGPT訳: はじめまして。私はタヴです。
+- Raphael: Charmed, I'm sure. In more ways than one...
+  - [charmed](https://ejje.weblio.jp/content/charmed), チャ↑ームト
+    - 形容詞: 魅了された、心地よさに感動した、幸運が訪れた
+    - 挨拶の返しとしても使うよう
+  - [way](https://ejje.weblio.jp/content/way), ウェイィ
+    - 名詞: 点、面
+      - in 限定詞 way(s) の用法
+  - In more ways than one の than の品詞は？
+    - 比較級の構文の than と同じ接続詞
+    - 厳密に比較級じゃなくても、 {比較を意味する何か} than {比較対象の何か} でも同様に使えるよう
+  - ChatGPT訳: 魅了されました、確かに。色々な意味で...
+- Raphael: We should have a chat, you and I. But not here.
+  - ChatGPT訳: 私たち、話をした方がいいですね。でも、ここではなく。
+- Raphael: This quaint little scene is decidedly too middle-of-nowhere for my tastes.
+  - [quaint](https://ejje.weblio.jp/content/quaint), クゥェイント
+    - 形容詞: 特にまたは古くて風変わりで面白い、古風で趣のある
+  - [scene](https://ejje.weblio.jp/content/scene), スィーン
+    - 名詞: 舞台を思わせるような風景・光景・景色
+  - [decidedly](https://ejje.weblio.jp/content/decidedly), ディ・サイデットリィ
+    - 副詞: 確かに、明らかに
+  - [middle of nowhere](https://en.wiktionary.org/wiki/middle_of_nowhere#Noun)
+    - 名詞: 非常に辺鄙な人里離れた場所、特徴が欠けている目立たない場所、僻地、田舎
+      - nowhere は名詞の「どことも知れぬ場所」という意味の方だと考えておくと覚えやすそう
+      - 現代でも、出身は田舎だよ、というような会話で使われるよう
+  - ChatGPT訳: この風景は、私の好みにはあまりにも田舎すぎます。
+- Raphael: Come.
+- Raphael: There. Middle-of-somewhere.
+  - ChatGPT訳: そこ。どこかの中心地。
+- Tav: Nice decor.
+  - [decor](https://ejje.weblio.jp/content/decor), ディ・コォァ
+    - 名詞: 室内装飾、装飾様式
+- Raphael: The House of Hope. Where the tired come to rest, and the famished come to feed - lavishly.
+  - the tired は名詞なの？
+    - the形容詞・形容詞の名詞化・形容詞の名詞用法、などと呼ばれる用法
+      - このページの後で a friendly という名詞句が出てきたので、 the 以外の冠詞も相当するよう
+    - Ref: https://toiguru.jp/adjectives-with-the-definite-article
+  - [famish](https://ejje.weblio.jp/content/famish), ファ↑ーミッシュ
+    - 他動詞: 〜を飢えさせる
+      - 通常は過去分詞形で形容詞的に用いる
+  - [lavishly](https://ejje.weblio.jp/content/lavishly), ラービッシュリィ
+    - 副詞: 贅沢に、惜しげなく、ふんだんに
+  - ChatGPT訳: 希望の家。疲れた人が休息を求め、飢えた人が贅沢に食事をする場所。
+- Raphael: Go on. Partake. Enjoy your supper. After all...
+  - [partake](https://ejje.weblio.jp/content/partake), パー・テイ
+    - 自動詞: 食べる・飲む、何かを共にする
+  - [supper](https://ejje.weblio.jp/content/supper), サ・(パ|ポ)ー
+    - 名詞: 夕食、夕食会
+  - ChatGPT訳: どうぞ、召し上がれ。楽しんでください。結局のところ...
+- Raphael: ...it might just be your last.
+  - ChatGPT訳: ...これが最後の食事になるかもしれないからです。
+- Tav: What makes you say that?
+  - What makes you say that?
+    - イディオム: どうしてそう思うの？、どうしてそんな事言うの？
+      - 直訳だと「何があなたにそう言わせるの？」
+    - Ref: https://native-phrase-blog.com/what-makes-you-say-that%ef%bc%9a%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6%e3%81%9d%e3%81%86%e6%80%9d%e3%81%86%e3%81%ae%ef%bc%9f/
+  - ChatGPT訳: なぜそう言うんですか？
+- Raphael: Call it a ninth sense.
+  - [call](https://ejje.weblio.jp/content/call), コー(ル|ウ)
+    - 他動詞: 〜と呼ぶ・称する
+      - call O(=対象) C(=命名内容)
+  - ChatGPT訳: 第九感と呼ぶことにしましょう。
+  - a ninth sense に何か元ネタがあるのかと思ったが、わからなかった
+- Raphael: What's better than a devil you don't know?
+  - ChatGPT訳: 知らない悪魔よりもいいものは何ですか？
+- Raphael: A devil you do.
+  - ChatGPT訳: 知っている悪魔です。
+- Raphael: Am I a friend? Potentially. An adversary? Conceivably. But a saviour? That's for certain.
+  - [potentially](https://ejje.weblio.jp/content/potentially), ポ・テ↑ン・シャリィ
+    - 副詞: 潜在的に、もしかすると
+  - [adversary](https://ejje.weblio.jp/content/adversary), ア↑ド・バ・サァリィ
+    - 名詞: 敵、反対する人、競争相手
+    - The Adversary で「魔王」などの強大な敵を意味する
+    - 語源の一部は versus に由来している
+  - [conceivably](https://ejje.weblio.jp/content/conceivably), (コ|カ)ン・シーバブリィ
+    - 副詞: 考えられるところでは、想像では、あるいは
+    - [conceive](https://ejje.weblio.jp/content/conceive), (コ|カ)ン・スィーブ
+      - 他動詞: 〜だと想像する・考える・思う
+  - [saviour](https://ejje.weblio.jp/content/saviour), セ↑イビァ
+    - = savior
+    - [savior](https://ejje.weblio.jp/content/savior), セ↑イビァ
+      - 名詞: 救世主、救い主、救助者
+  - That's for certain を That's certain にするとどんな意味の違いになる？
+    - どちらも「確実である」という点は同じ
+    - ChatGPTによると、 for がある方がより強く確信している意味になるとのこと
+      - 雑な照準合わせが for だから、確信度が弱くなるんじゃないのか...
+  - ChatGPT訳: 私は友人ですか？ それもあり得ます。敵ですか？ それも考えられます。しかし、救世主ですか？ それは間違いないです。
+- Tav: Why would you help me?
+- Raphael: Because my compassion is boundless. I stride among the needy, giving comfort where I can.
+  - [boundless](https://ejje.weblio.jp/content/boundless), バウンドレス
+    - 形容詞: 無限の、限りない
+  - [stride](https://ejje.weblio.jp/content/stride), ストラァイド
+    - 自動詞: 元気よくまたは威張って大股に歩く、闊歩する
+  - [needy](https://ejje.weblio.jp/content/needy), ニーディ
+    - 形容詞: 貧乏な、貧困な
+  - [comfort](https://ejje.weblio.jp/content/comfort), (カ|コ)↑ン・フォート
+    - 名詞: 困っている人や悩んでいる人に対する慰め、慰安、不安や苦痛や不満の無い安楽・快適
+  - ChatGPT訳: なぜなら、私の慈悲は無限だからです。私は必要としている人々の間を歩き、できるところに慰めを与えます。
+- Raphael: And you're in dire need. One skull, two tenants, and no solution in sight.
+  - [dire](https://ejje.weblio.jp/content/dire), ダ↑イアァ
+    - 形容詞: 恐ろしい、ものすごい、悲惨な
+  - [tenant](https://ejje.weblio.jp/content/tenant), テ↑ナント
+    - 名詞: 土地や家屋などの借用者・借家人・借地人、居住者
+  - ChatGPT訳: そして、あなたは深刻な必要にあります。一つの頭蓋骨に二人の住人、そして見通しのない状況です。
+- Raphael: I could fix it all like that.
+  - [like that](https://en.wiktionary.org/wiki/like_that#Prepositional_phrase)
+    - 前置詞句: そのような方法で、同様の方法で、こんな具合に
+  - ChatGPT訳: 私ならそれを全部、あっという間に解決できますよ。
+    - like that が「あっという間」なのは少なくとも意訳、ChatGPTは、身振りで「こんな具合に」ということをやっていたはず、という主張をしている。真実のところは忘れた。
+- Tav: I need to think this over.
+  - [think over](https://en.wiktionary.org/wiki/think_over#Verb)
+    - 他動詞: 主題について熟考する
+  - ChatGPT訳: これはよく考えなければ。
+- Raphael: Take all the time you need - but make up your mind before you're counting down with tentacles.
+  - [make up one's mind](https://en.wiktionary.org/wiki/make_up_one%27s_mind#Verb)
+    - 自動詞: 決める・決定する(=decide)、結論に達する
+  - ChatGPT訳: 時間をかけて構わないよ - でも、触手でカウントダウンをする前に決断してね。
+- Raphael: Try to cure yourself. Shop around - beg, borrow, and steal. Exhaust every possibility until none are left.
+  - [shop around](https://en.wiktionary.org/wiki/shop_around)
+    - 自動詞: 自分が持っていたり欲しいものの別の選択肢を積極的に探す、店を選ぶ前に選択肢の検討をする
+  - [beg](https://ejje.weblio.jp/content/beg), ベッグ
+    - 自動詞: 施しを請う、こじきをする
+  - [borrow](https://ejje.weblio.jp/content/borrow), ボォロゥ
+    - 自動詞: 借りる、借金する
+    - Assoc: Borrow Checker
+  - [exhaust](https://ejje.weblio.jp/content/exhaust), エグ・ゾースト
+    - 他動詞: 資源や体力などを使い尽くす
+    - [exhaustive](https://ejje.weblio.jp/content/exhaustive), エグ・ゾ↑ウ・スィブ
+      - 形容詞: 徹底的な、余す所がない
+      - Assoc: react-hooks/exhaustive-deps から調べたけど、単語のイメージが割と違う
+  - ChatGPT訳: 自分を治そうとしてみて。あちこち探して、借りたり盗んだりして。可能性がなくなるまで全てを試してみて。
+- Raphael: And when hope has been whittled down to the very marrow of despair - that's when you'll come knocking on my door.
+  - [whittle](https://ejje.weblio.jp/content/whittle), ウィトォ
+    - 他動詞: 少しずつ削る、削ぐ
+  - [marrow](https://ejje.weblio.jp/content/marrow), マ↑ァロゥ
+    - 名詞: 髄、骨髄
+  - to the very marrow
+    - very は副詞で、名詞の marrow を修飾している
+  - [despair](https://ejje.weblio.jp/content/despair), ディスペ↑アァ
+    - 名詞: 絶望、絶望させるもの
+  - ChatGPT訳: そして、希望が絶望の髄まで削り取られたとき - そう、そのときにあなたは私のドアを叩くんだ。
+- Raphael: Hope. Hahaha! Such a tease.
+  - [tease](https://en.wiktionary.org/wiki/tease#Noun), テ↑ィーズ
+    - 名詞: からかう人、からかう行為
+    - 他動詞の「〜をからかう」が主な用法
+  - ChatGPT訳: 希望か。ハハハ！なんてからかい。
+- Tav: And if I do want to take this deal - how would I find you?
+  - ChatGPT訳: もし本当にこの取引を受けたくなったら、どうやってあなたを見つければいいの？
+- Raphael: I'll be around. Watching you squirm like a tadpole through a nice juicy brain.
+  - [juicy](https://ejje.weblio.jp/content/juicy), ジュゥスィ
+    - 形容詞: 汁気の多い、水分の多い
+  - ChatGPT訳: 辺りにいるよ。君がジューシーな脳を通り抜けるオタマジャクシみたいにもがくのを楽しんで見ているよ。
+    - like a tadpole through a nice juicy brain の文意はわからない
+- Raphael: All those pretty little symptoms - sundering skin, dissolving guts - they haven't manifested yet, have they?
+  - [symptom](https://ejje.weblio.jp/content/symptom), シンプトン
+    - 名詞: 病気の症状、徴候
+  - All those は何を指しているの？
+    - pretty little symptoms
+  - [sunder](https://ejje.weblio.jp/content/sunder), サ↑ンダァ
+    - 他動詞: 二つに分ける、切り離す
+  - [dissolve](https://ejje.weblio.jp/content/dissolve), ディ・ゾゥブ
+    - 他動詞: ものを液体に溶かす、分解する
+  - [manifest](https://ejje.weblio.jp/content/manifest), (マ|メ)ーニ・フェスト
+    - 自動詞: 現れる、顕在化する
+    - 動詞としては、通常は他動詞で「明らかにする」「現れる」
+  - ChatGPT訳: 皮膚が割れ、内臓が溶け出す - そんなきれいな小さな症状はまだ現れていないだろう？
+- Raphael: One might say you're a paragon of luck.
+  - One might say とは？
+    - one は「ある人」で、「ある人はいうかもしれない」、つまり「一般的に言えば」
+  - [paragon](https://ejje.weblio.jp/content/paragon), (パ|ペ)ェラゴォン
+    - 名詞: 模範、手本
+    - Assoc: Ultima Onlineに「パラゴンシステム」ってあったなぁ
+  - ChatGPT訳: 君は運がいいと言えるだろうね。
+- Raphael: I'll be there when it runs out.
+  - [run out](https://en.wiktionary.org/wiki/run_out#Verb)
+    - 自動詞: 使い切る、全て消費する
+  - ChatGPT訳: 運が尽きたとき、私はそこにいるよ。
+  - また別の利害関係者がでてきた。このゲームは伏線が未消化なままドンドン溜まっていく。
+
+### 21, Eliasis - 3:32 - Gale, Tav
+
+Galeが気分が悪そうにしてたので、前に言っていたWeaveを吸収しないといけない病気だと思って話した。
+
+そうしたら、別の会話が始まってしまった。
+
+- Gale: Do you feel as flattered as I do? Invited to dine with a devil...
+  - [flattered](https://ejje.weblio.jp/content/flattered), フラ↑ァタァ
+    - 形容詞,叙述用法: 喜んで
+    - [flatter](https://ejje.weblio.jp/content/flatter), フラ↑ァトォ
+      - 他動詞: おべっかを言う、おもねる、お世辞を言う
+  - ChatGPT訳: 私がそう感じているように、あなたも光栄に思いますか？悪魔と食事に招待されるなんて...
+- Intelligence (Arcana) Successful: Tav
+- Tav: Devils rarely approach mortals without some nefarious intent. We'd be wise to avoid him.
+  - [nefarious](https://ejje.weblio.jp/content/nefarious), ネ・フェ↑アリアス
+    - 形容詞: 極悪な、ふらちな、非道な
+  - ChatGPT訳: 悪魔が人間に近づくときは、何か悪意のある意図があることがほとんどです。彼を避けるのが賢明でしょう。
+- Gale: Don't let his bluster fool you. All that talk of desperation? It merely illustrates his own.
+  - [bluster](https://ejje.weblio.jp/content/bluster), ブラスタァ
+    - 名詞: 空威張り、脅し
+    - コアイメージ: 主には動詞の「荒れ狂う」で、そこから「人が猛り狂う」「威張り散らす」に転じている
+  - [desperation](https://ejje.weblio.jp/content/desperation), デスパレイション
+    - 名詞: 自暴自棄、捨て鉢
+  - [merely](https://ejje.weblio.jp/content/merely), ミィアリィ
+    - 副詞: 単に〜に過ぎない
+    - only よりも形式的な表現
+  - [illustrate](https://ejje.weblio.jp/content/illustrate), イ↑・ラストレィト
+    - 他動詞: 〜であることを説明する・例証する
+    - 動詞で「図解する」「挿絵を入れる」という意味もある
+  - ChatGPT訳: 彼の大言壮語に騙されてはいけません。あの絶望についての話すべて？それは彼自身の絶望を示しているに過ぎません。
+- Gale: I think he wants something from us. Badly. And in that knowledge lies our opportunity.
+  - [badly](https://ejje.weblio.jp/content/badly), バァドリィ
+    - 副詞: とても、非常に、激しく
+    - 「悪く」という意味もある
+  - in that knowledge lies our opportunity だが、 lie は他動詞の用法がない？
+    - 「横たわる」という意味の lie には、他動詞の用法はない
+    - おそらくは、 our opportunity lies in that knowledge の語順が変化した結果
+  - ChatGPT訳: 彼は我々から何かを強く求めていると思う。その知識の中に、我々の機会がある。
+- Tav: But what is it that this devil wants so very badly?
+  - ChatGPT訳: しかし、この悪魔がそんなにも切望しているものとは一体何だろう？
+- Gale: Our souls. But I suspect that's but his opening offer.
+  - [but](https://ejje.weblio.jp/content/but)
+    - 副詞: ほんの、ただの、〜なだけ
+  - ChatGPT訳: 我々の魂だ。しかし、それは彼の最初の提案に過ぎないと思う。
+- Gale: Let me play the devil's advocate: the man is too eager. Do not dismiss his offer out of hand.
+  - [play](https://ejje.weblio.jp/content/play), プレェイ
+    - 他動詞: 〜らしくふるまう、〜の役割を果たす
+      - play the {単数形の名詞}
+  - [advocate](https://ejje.weblio.jp/content/advocate), ア・ボ・ケィ
+    - 名詞: 代弁者
+    - Assoc: Advocatus diaboli
+  - [dismiss](https://ejje.weblio.jp/content/dismiss), ディス・ミィス
+    - 他動詞: 考えなどを捨てる
+    - 他の意味は「解雇する」「解散させる」など
+  - [out of hand](https://en.wiktionary.org/wiki/out_of_hand#Adverb)
+    - 副詞: 考えなしに、即座に
+  - ChatGPT訳: 悪魔の代弁者を務めさせてもらうが、その男はあまりにも熱心だ。彼の申し出を即座に退けることはない。
+- Gale: If there's one quality all the denizens of the Hells embody, it's _ambition_. A quality they share with many humans, come to think of it...
+  - [quality](https://ejje.weblio.jp/content/quality), クォリティ
+    - 名詞: 特質、特性、特色
+  - [denizen](https://ejje.weblio.jp/content/denizen), デェニズン
+    - 名詞: 特定の地域の住民・生息者、市民権の一部を与えられた居住者
+  - [embody](https://ejje.weblio.jp/content/embody), エン・バ↑ーディ
+    - 他動詞: 思想や感情を具体的に表現する・体現する・具現化する
+  - [ambition](https://ejje.weblio.jp/content/ambition), (ア|エ)ン・ビ↑ション
+    - 名詞: 野心
+  - [share](https://ejje.weblio.jp/content/share), シェアァ
+    - 他動詞: 〜を共有する
+  - [come](https://ejje.weblio.jp/content/come), カァンム
+    - 自動詞: ある状態がやってくる、ある状態になる
+  - one quality (that) S=(all the denizens of the Hells) V=(embody)
+  - (A quality (they share with many humans)), (I) come to think of it...
+    - they は all the denizens of the Hells
+    - come to think of it は、直訳すると「私がそれを考える状態になると」で、転じて「それを思い返してみると」「それを考え直してみると」
+  - ChatGPT訳: 地獄の住人が体現する一つの特質があるとしたら、それは野心です。考えてみれば、多くの人間も同じ特質を持っていますね...
+- Tav: What do you think Raphael's 'ambition' could be?
+  - ChatGPT訳: ラファエルの「野心」についてはどう思いますか？
+- Gale: Haven't the foggiest. But based on the evidence before us, we can make certain deductions as to _why_ he sought out our merry band.
+  - [have the foggiest](https://en.wiktionary.org/wiki/have_the_foggiest#Verb)
+    - 自動詞: 知る(=know)、理解する(=understand)、手掛かりを得る
+      - 通常は否定形で使う
+      - the foggiest は「わずかな考え」であり、否定形を直訳すると「わずかな考えを持っていない」、つまり「全くわからない」
+    - [foggy](https://ejje.weblio.jp/content/foggy), フォーギィ
+      - 形容詞: 霧の立ち込めた、霧がかかってぼんやりした
+  - Haven't the foggiest は Don't have the foggiest ではないの？
+    - どちらも同じ意味、前者は古風な形
+  - [base on](https://en.wiktionary.org/wiki/base_on#Verb)
+    - 他動詞: 意見や議論や主張を〜に根拠づける・基かせる
+  - [evidence](https://ejje.weblio.jp/content/evidence), エヴィデンス
+    - 名詞: 立証するための証拠
+  - [deduction](https://ejje.weblio.jp/content/deduction), ディ・ダァクション
+    - 名詞: 推論、推論による結論、演繹的結論
+    - 「差し引き」という意味もある
+  - [as to](https://en.wiktionary.org/wiki/as_to#Preposition)
+    - 前置詞: 〜に関して、〜の参照として
+  - [sought](https://ejje.weblio.jp/content/sought), ソァット
+    - seek - sought - sought
+  - [seek out](https://en.wiktionary.org/wiki/seek_out#Verb)
+    - 他動詞: 位置を特定しようとする、検索する(=search for)
+  - [merry](https://ejje.weblio.jp/content/merry), メ↑・リィ
+    - 形容詞: 陽気な、愉快な、楽しい
+    - Assoc: Merry Christmas!
+  - ChatGPT訳: さっぱりわかりません。しかし、目の前の証拠から、彼がなぜ私たちの楽しい一団を求めたのかについて、ある推論を立てることができます。
+- Gale: Fact one: there's something very strange and very powerful about our tadpoles.
+  - ChatGPT訳: 事実一つ：私たちのタドポールにはとても奇妙で非常に強力な何かがあります。
+- Gale: Fact two: a devil offers to take it away.
+  - ChatGPT訳: 事実二つ：悪魔がそれを取り除くことを申し出ました。
+- Gale: Devils aren't known to aid mortals out of simple kindness. Whatever Raphael wants, _we_ must be the key to getting it. Along with our tadpoles...
+  - [aid](https://ejje.weblio.jp/content/aid), エ↑ィド
+    - 他動詞: 助ける
+    - help より形式的
+  - [out of](https://en.wiktionary.org/wiki/out_of#Preposition)
+    - 前置詞: 特定の原因または動機から
+      - 他の意味である「ある対象の外側」という意味とは逆なんだが、ある対象のうちから外側に漏れ出ると言うイメージをするといいのかもしれない
+  - ChatGPT訳: 悪魔は単なる親切から人間を助けるとは知られていない。ラファエルが何を望んでいるにせよ、私たちがそれを得るための鍵でなければならない。私たちの蝌蚪と共に...
+    - 「おたまじゃくし」の漢字は「蝌蚪」なんだ
+- Gale: So I say for now - we wait. If I'm right, Raphael will seek us out again. And when he does, there's a mighty bargain to be made.
+  - [mighty](https://ejje.weblio.jp/content/mighty), マ↑ィティ
+    - 形容詞: 強力な、力強い、強大な、巨大な
+  - ChatGPT訳: だから私は今のところ待つべきだと言っている。もし私が正しければ、ラファエルは再び私たちを求めてくるだろう。そして、彼がそうしたとき、強力な取引が成立する。
+    - a mighty bargain が「我々に有利な」という意味を含むかは、わからなかった
+- Gale: Remember his Cormyrian rhyme? 'Down came the claw'. Perhaps we should start growing our nails.
+  - [rhyme](https://ejje.weblio.jp/content/rhyme), ゥラ↑ァイム
+    - 名詞: 韻、脚韻
+      - 「韻」は「音のひびき」という意味
+  - ChatGPT訳: 彼のコーミリアンの韻を覚えているか？「爪が降ってきた」。もしかすると、私たちは爪を伸ばし始めるべきかもしれない。
+    - 先の寓話は、強大な側として爪を保つ猫を例えている。これだと我々が猫になるのでおかしい気がする？
+
+### 21, Eliasis - 4:22 - Gale, Tav
+
+本来の目的の話をするために、再び話した
+
+- Gale: What's on your mind? Apart from finding me an artefact to consume, which I assume you're pursuing with the appropriate urgency.
+  - [apart from](https://en.wiktionary.org/wiki/apart_from#Preposition)
+    - 前置詞: 〜を除いて(=except for)、〜の他にも(=besides)
+  - [assume](https://ejje.weblio.jp/content/assume), ア・シュゥム
+    - 他動詞: 証拠はないが〜を事実や当然のことだと思う
+  - [pursue](https://ejje.weblio.jp/content/pursue), パ・シュ↑ゥ
+    - 他動詞: しばらくの期間に物事を達成するための活動をする、追求する
+  - you're pursuing の目的語は？
+    - finding me an artefact to consume の全体
+  - [appropriate](https://ejje.weblio.jp/content/appropriate), アプロ・プリェィト
+    - 形容詞: 適切な、ふさわしい
+    - 動詞で「充当する」と言う意味もある
+  - [urgency](https://ejje.weblio.jp/content/urgency), (ア|オ)ージェンスィ
+    - 名詞: 緊急性、緊急、切迫した様子
+  - ChatGPT訳: 何を考えてるの？私が消費するためのアーティファクトを見つけること以外に、もちろんそれを適切な緊急性を持って追求していると思うけど。
+    - 全体的に意味がわからない
+      - いきなり弱々しくなったので前兆はなかったけど、そこはゲーム的な説明不足で、「こんなに弱っているのだから、早く魔法の品をくれ」という意味かな
+- Tav: I think I have a magical artefact you'll be interested in.
+  - [interest](https://ejje.weblio.jp/content/interest), イントラスト
+    - 他動詞: 関心を持たせる
+      - S(=関心を持たせる主体) interest O(=関心を持たせる対象) in {関心を持たせる内容}
+      - S(=関心を持たせる内容) interest O(=関心を持たせる対象) もある
+  - you'll be interested in (a magical artefact)
+  - ChatGPT訳: 魔法のアーティファクトがあると思うよ、君が興味を持つと思う。
+- Gale: That is most gratifying to hear. May I?
+  - [gratifying](https://ejje.weblio.jp/content/gratifying), グラァ↑ティファイイン
+    - 形容詞: 希望などを叶えて満足を与えた、心地良い
+    - [gratify](https://ejje.weblio.jp/content/gratify), グラァ↑ティファイ
+      - 他動詞: 〜を喜ばせる
+  - ChatGPT訳: それは聞いて非常に嬉しいね。見せてもらえるかい？
+- Tav: _Give Gale a magic artefact_.
+- Gale: Thank you!
+- Gale: That hit the spot.
+  - [hit the spot](https://en.wiktionary.org/wiki/hit_the_spot)
+    - 自動詞: ちょうど良い、特に嬉しい・適切である
+  - ChatGPT訳: それでちょうど良かった。
+- Gale: I can feel it work. The magic is like a lullaby that sings to sleep the demon inside.
+  - ChatGPT訳: 効いているのが分かる。この魔法は内側の悪魔を眠らせる子守唄のようだ。
+- Gale: A metaphorical demon I haste to point out. But no less dangerous - and no less bound to wake up again to continue its ravages. Such is the nature of all monsters.
+  - [metaphorical](https://ejje.weblio.jp/content/metaphorical), メタ・フォ↑リ・コォ
+    - 形容詞: 比喩的な、隠喩の
+  - [haste](https://en.wiktionary.org/wiki/haste#Verb), ヘイスト
+    - 自動詞: 急いで動く
+      - 古風な使い方
+    - 現代では、通常「急ぎ」という名詞、動詞で使うなら hasten
+  - [point out](https://en.wiktionary.org/wiki/point_out#Verb)
+    - 自動詞: 指摘する(=indicate)
+  - [no less](https://en.wiktionary.org/wiki/no_less#Adverb)
+    - 副詞: 同じくらい
+  - [bound](https://ejje.weblio.jp/content/bound), バァウンド
+    - 形容詞: 確かに〜をするはずで、束縛された
+  - [ravage](https://ejje.weblio.jp/content/ravage), ゥラ↑ーベッジ
+    - 名詞: 破壊
+  - [nature](https://ejje.weblio.jp/content/nature), ネ↑イチュア
+    - 名詞: ものの本質
+  - ChatGPT訳: もちろん比喩的な悪魔だと急いで指摘しておく。それでもやはり危険であり、再び目を覚まして破壊を続ける運命にある。全ての怪物の本質がそうであるように。
+- Tav: Perhaps now you'll tell me what all this is in aid of?
+  - [in aid of](https://en.wiktionary.org/wiki/in_aid_of#Preposition)
+    - 前置詞: 〜のために(=for, for the sake of)
+      - 文の最後に置いて、人が何かをした理由を問うのに使う
+  - ChatGPT訳: さて、これが何のためにあるのか、今は教えてくれるかな？
+- Gale: Grateful as I am, the course of our camaraderie is much better served by not taking that particular detour. Not just yet.
+  - [grateful](https://ejje.weblio.jp/content/grateful), グレイトフォゥ
+    - 形容詞: 感謝して
+  - [as](https://ejje.weblio.jp/content/as), アァズ
+    - 接続詞: 〜だけれども
+      - 譲歩を示す逆説
+      - 形容詞 as S be動詞
+  - [course](https://ejje.weblio.jp/content/course), コォス
+    - 名詞: 進行、推移
+  - [camaraderie](https://ejje.weblio.jp/content/camaraderie), カァマ・ラル・リィ
+    - 名詞: 同じ職場や共同生活から生まれた友情・友愛
+  - [serve](https://ejje.weblio.jp/content/serve), (ス|サ)ーヴ
+    - 他動詞: 役に立つ
+      - S(=役に立つもの) serve O(=役に立たせる対象)
+  - [detour](https://ejje.weblio.jp/content/detour), ディー・トゥーア
+    - 名詞: 迂回路、回り道、遠回り
+  - ChatGPT訳: 感謝しているけど、その特定の迂回路を取ることは、まだ、私たちの友情の進行にとっては良くない。まだね。
+- Gale: Sincerely though: I understand I ask a lot from you with few answers in return, but in time all will be told.
+  - [sincerely](https://ejje.weblio.jp/content/sincerely), スィン・シア・リィ
+    - 副詞: 心から、本当に
+    - [sincere](https://ejje.weblio.jp/content/sincere), スィン・シーア
+      - 形容詞: 嘘偽りのない、正直な、誠実な
+      - Assoc: DQ4のシンシアって、皮肉が名前になってるんか
+  - [ask](https://ejje.weblio.jp/content/ask), アースク
+    - 他動詞: 人から援助や助言を求める
+      - ask O(=内容) from {人}
+  - [lot](https://ejje.weblio.jp/content/lot), (ラ|ロ)ット
+    - 名詞: たくさん
+  - [in return](https://en.wiktionary.org/wiki/in_return#Prepositional_phrase)
+    - 前置詞句: お返しの手段として、その代わりに
+  - [in time](https://en.wiktionary.org/wiki/in_time#Prepositional_phrase)
+    - 前置詞句: 時間の経過と共に
+  - ChatGPT訳: しかし本当に：少ない答えであなたに多くを求めていることを理解しているけど、時間が経てばすべてを話すよ。
+- Tav: Don't mention it. I'm glad I could help.
+  - [mention](https://ejje.weblio.jp/content/mention), メ↑ン・ション
+    - 他動詞: 簡単に述べる、言及する
+  - ChatGPT訳: 気にしないで。助けられてうれしいよ。
+- Gale: My lord, I bow to your boundless kindness!
+  - ChatGPT訳: 私の主よ、あなたの無限の優しさに、私は頭が上がりません！
+  - なんでお前らは何も言わないんだ、いざという時に困るだろ！
+
+### 21, Eliasis - 5:24 - Shadowheart, Tav
+
+これを機会に他の仲間の話も聞いて、イベント進行に伴い溜まっている会話を消化しておくことにした
+
+- Shadowheart: So Gale just consumes magical items like I do wine? We truly are a group apart...
+  - [wine](https://ejje.weblio.jp/content/wine), ワーイン
+    - 自動詞: ワインを飲む
+  - [apart](https://ejje.weblio.jp/content/apart), ア・パァト
+    - 形容詞,叙述用法: 特異な、他と別個の
+      - 名詞の直後に置く用法
+  - ChatGPT訳: だからゲイルは私がワインを消費するように魔法のアイテムを消費するのね？本当に私たちは一風変わっているわ...
+- Shadowheart: Nevertheless, as quirks go, that's a new one for me.
+  - [nevertheless](https://ejje.weblio.jp/content/nevertheless), ネバ・ザ・レ↑ス
+    - 副詞: 前述の意見や事実に反するか無関係なことの表現、それにも関わらず、それでもなお
+    - 由来は、「決してない(=never)、前述のそれは(=the)、少なく(=less)」
+  - [quirk](https://ejje.weblio.jp/content/quirk), クゥォーク
+    - 名詞: 癖
+  - [go](https://ejje.weblio.jp/content/go), ゴ↑ォゥ
+    - 自動詞: なる、変わる
+  - as quirks go の go の意味は？
+    - Shadowheart が前述した I do wine という例えのように「なる」という意味
+  - ChatGPT訳: それにしても、癖としてはそれは新しいわね。
+- Tav: Those murals in the Grove - something about them seemed to catch your eye.
+  - [mural](https://ejje.weblio.jp/content/mural), ミュゥロォ
+    - 名詞: 大きな壁画
+  - seemed の主語は？
+    - something about them で良い、something about them が〜のように見えた、ということ
+  - ChatGPT訳: グローブの壁画 - それらに何か引きつけられるものがあったようだね。
+- Shadowheart: What can I say? They were eye-catching. Consider me an art-lover.
+  - [eye-catching](https://en.wiktionary.org/wiki/eye-catching#Adjective)
+    - 形容詞: 人目を惹く、魅力的な見た目な、注目を集めた
+  - ChatGPT訳: どう言えばいいのかな？ 目を引いたわ。私はアート愛好家と言ってもいい。
+- Tav: _Leave_.
+
+### 21, Eliasis - 5:31 - Wyll, Tav
+
+さらに他の仲間へ話した
+
+- Wyll: Gale slurped that thing up like a horse with a carrot. I hope he got what he needed from it.
+  - [slurp](https://ejje.weblio.jp/content/slurp), スロゥプ
+    - 他動詞: 音を立てて食べる
+  - [up](https://ejje.weblio.jp/content/up), アッ
+    - 副詞: まったく、すっかり、し尽くす
+      - 動詞と結合して動作の完了を強調する
+  - ChatGPT訳: ゲイルはそれをニンジンを食べる馬のようにガツガツと食べたね。彼が必要としていたものを得られたことを願っているよ。
+- Tav: What do you make of Raphael?
+  - [make of](https://en.wiktionary.org/wiki/make_of)
+    - 他動詞: 何かまたは誰かについて意見を形成する、人や考えや状況を評価する
+  - ChatGPT訳: ラファエルについてどう思う？
+- Wyll: He brings to mind a story. 'The Devil with the Silver Tongue.'
+  - [tongue](https://ejje.weblio.jp/content/tongue), タンー
+    - 名詞: 舌、舌肉、弁舌
+  - ChatGPT訳: 彼を見ると、ある物語を思い出すよ。「銀の舌を持つ悪魔」。
+- Wyll: An old fairy tale my father read to me. The kind with a hero, a villain, and a moral.
+  - [villain](https://ejje.weblio.jp/content/villain), ヴィ(ラ|レ)ン
+    - 名詞: 悪党、悪者、悪役
+    - Assoc: ヒーローとヴィラン
+  - [moral](https://ejje.weblio.jp/content/moral), モラ(ル|ウ)
+    - 名詞: 寓話などの寓意、教訓、社会の道徳
+    - なお、「士気」は morale
+  - The kind は A kind じゃないの？
+    - The にすることで、「皆ご存知のあの種の物語」という側面が強調される
+  - ChatGPT訳: 父が読んでくれた古いおとぎ話だよ。英雄と悪役と教訓がある種の話さ。
+- Wyll: A farmer made a deal with a devil, so the story goes: in exchange for the farmer's dearest fruit, the devil granted him a bottomless coinpurse.
+  - so the story goes の so は何？
+    - 副詞の「そのように」と前文を参照する表現、なお、接続詞にこの意味はない
+  - [bottomless](https://ejje.weblio.jp/content/bottomless), バ↑ートムレス
+    - 形容詞: 底なしの、底の深い、計り知れない
+  - [coinpurse](https://ejje.weblio.jp/content/coinpurse), コイン・パース
+    - 名詞: 財布、金袋、小銭入れ
+    - [purse](https://ejje.weblio.jp/content/purse), パ↑ゥァス
+      - 名詞: 口金付きの財布、がま口
+  - ChatGPT訳: 農夫が悪魔と取引をしたという話がある。最愛の果実と引き換えに、悪魔は彼に底なしの財布を与えたのだ。
+- Wyll: The farmer's dearest fruit, naturally, was no apple nor peach, but his beloved daughter.
+  - [naturally](https://ejje.weblio.jp/content/naturally), ナ↑・チュラリィ
+    - 副詞: 当然に、自然に、生まれつき
+  - [beloved](https://ejje.weblio.jp/content/beloved), ビ・ラベ・ド
+    - 形容詞: 最愛の、いとしい
+  - [daughter](https://ejje.weblio.jp/content/daughter), ド↑ゥラァー
+    - 名詞: 娘、義理の娘
+  - ChatGPT訳: 農夫の最愛の果実とは、当然、リンゴや桃のことではなく、彼が愛する娘のことだった。
+- Wyll: We can learn a lot from fairy tales, don't you think?
+  - ChatGPT訳: 童話からは多くのことを学ぶことができると思いませんか？
+- Tav: With the right teacher, yes. What are your thoughts on the devil, Wyll?
+  - ChatGPT訳: 正しい先生がいれば、ね。デビルについてどう思う、ウィル？
+- Wyll: Refuse him, no matter how tempting the offer, no matter how delicious the feast he lays out for you. The cost will be too great.
+  - [refuse](https://ejje.weblio.jp/content/refuse), ゥリ・フューズ
+    - 他動詞: 人の言い分を拒む・はねつける
+      - refuse O(=人)
+      - refuse O(=拒む内容) もある
+  - [no matter](https://en.wiktionary.org/wiki/no_matter#Preposition)
+    - 前置詞: 〜にも関わらず(=in spite of, regardless of)
+  - [tempting](https://ejje.weblio.jp/content/tempting), テ↑ンプ・ティング
+    - 形容詞: うっとりさせる、心や味覚をそそる
+  - no matter how
+    - イディオム: どれだけ〜であるにも関わらず
+      - no matter how 形容詞
+  - [lay out](https://en.wiktionary.org/wiki/lay_out#Verb)
+    - 自動詞: 広げたり間隔を置いたりして特定の方法で配置する、展示する
+    - Assoc: layout
+    - [lay](https://ejje.weblio.jp/content/lay), レイ
+      - 他動詞: 横たえる、しっかりと置く
+  - ChatGPT訳: 彼を拒絶するんだ、どんなに魅力的な提案であっても、彼が用意するごちそうがどんなに美味しくてもね。代償はあまりにも大きい。
+- Tav: Don't worry. I have no interest in a devil's deal.
+  - ChatGPT訳: 心配しないで。デビルの取引に興味はないよ。
+- Wyll: That's because you still have hope. But when he becomes your last hope, remember this.
+  - ChatGPT訳: それはまだあなたが希望を持っているからです。しかし、彼があなたの最後の希望になったとき、これを覚えておいてください。
+- Wyll: He'll require of you only what you're least ready to part with.
+  - [least](https://ejje.weblio.jp/content/least), リィスト
+    - little - less - least
+  - [ready](https://ejje.weblio.jp/content/ready), ゥレディ
+    - 形容詞: 準備ができて、用意が整って
+  - [part with](https://en.wiktionary.org/wiki/part_with)
+    - 他動詞: 手放す(=let go of)、諦める(=give up)、放棄する(=relinquish)
+  - 通常は require only O(=what you're least ready to part with) of 名詞(=you) という語順になるのでは？
+    - たぶん、強調で順番が前後している
+  - ChatGPT訳: 彼はあなたが最も手放す準備ができていないものだけを要求するでしょう。
+- Wyll: And then require more still.
+  - ChatGPT訳: そして、さらに多くを要求するでしょう。
+- Wyll: You might think you'd give up anything for a cure.
+  - ChatGPT訳: あなたは何でも治療のためには諦めると思うかもしれません。
+- Wyll: But the devil won't take just anything. He'll take _everything_.
+  - anything と everything の違いは？
+    - anything は、主題に関わる、1つないしは複数ないしは全てのもの
+    - everything は、制約なく全てのもの
+    - Ref: https://redkiwiapp.com/ja/english-guide/questions/TaMTUoVbWQgWH7rlO32q
+  - ChatGPT訳: しかし、悪魔はただ何でも受け取るわけではありません。彼はすべてを取るでしょう。
+- Tav: _Leave_.
+
+### 21, Eliasis - 6:10 - Wyll, Tav
+
+別の話題を聞くために、再び話した
+
+- Wyll: Well met.
+- Tav: Tell me, Wyll: How did you come to be the Blade of Frontiers?
+  - ChatGPT訳: 教えてくれ、Wyll: どうやってあなたはフロンティアの剣になったのですか？
+- Wyll: My father once said, 'One does not pursue a champion's life. One merely answers its call.'
+  - [champion](https://ejje.weblio.jp/content/champion), チャン・ピィオン
+    - 名詞: 優勝者、他より優れた人、主義主張のために戦う闘志
+    - 本文では、どの意味が使われいるのかはわからない
+  - its call の its は何を指している？
+    - おそらくは、 a champion's life
+  - ChatGPT訳: 父がかつて言ったことがあります、「チャンピオンの人生を追求するのではない。ただ、その呼び声に応えるだけだ。」
+    - 何を言っているのかわからない
+- Wyll: So it was for me.
+  - ChatGPT訳: 私にとっても、そうでした。
+    - 「とっても」の「も」で、Wyllの意思が強調されているが、これはChatGPTは意図してなかった
+  - ここまでの文を読むと、「父がそう言ったのでそうした」みたいな他人事感を感じてしまうんだが、文意上そうではなくWyll自らの意思がないとおかしそう。それがどこで表現されているのかわからない。
+- Wyll: I was hunting near the Cloakwood when I heared it - a child crying out from a lone farmstead.
+  - Cloak Wood
+    - D&D用語,名詞: Sword Coast南端にある、密生した古代の森
+      - Ref: https://forgottenrealms.fandom.com/wiki/Cloak_Wood
+  - [cry out](https://en.wiktionary.org/wiki/cry_out#Verb)
+    - 自動詞: 痛みや恐怖などの理由により大声て泣き叫ぶ
+  - [lone](https://ejje.weblio.jp/content/lone), ロォーウンヌ
+    - 形容詞: 孤独の、一人の
+  - [farmstead](https://ejje.weblio.jp/content/farmstead), ファ↑ーム・ステッ
+    - 名詞: 付属建物を含めた農場
+  - ChatGPT訳: 私はクロークウッドの近くで狩りをしていたとき、それを聞いた - 孤立した農場から子供が泣いている声が。
+- Wyll: I found him in the fields, flanked by goblins. His mother's corpse bled into the soil next to him.
+  - [flank](https://ejje.weblio.jp/content/flank), フ(ラ|レ)ンク
+    - 他動詞: 側面に並べる
+      - S(=並べる先) flank O(=並べるもの)
+      - S(=並べるもの) be動詞 flanked by 名詞(=並べる先) と受動態で用いることが多い
+  - [bled](https://ejje.weblio.jp/content/bled), ブレェッド
+    - bleed - bled - bled
+    - [bleed](https://ejje.weblio.jp/content/bleed), ブ・リィード
+      - 自動詞: 出血する
+  - [soil](https://ejje.weblio.jp/content/soil), ソォイルゥ
+    - 名詞: 土、土壌
+  - ChatGPT訳: 畑で彼を見つけた、ゴブリンに囲まれていた。彼の母親の死体が隣で土に血を流していた。
+- Wyll: I don't remember much of the battle. But I remember drying the boy's tears after.
+  - [dry](https://ejje.weblio.jp/content/dry), ヂョラァイ
+    - 他動詞: 拭って乾かす
+  - dry one's tears
+    - イディオム: 誰かの涙を拭う
+  - ChatGPT訳: 戦いのことはあまり覚えていない。しかし、その後で少年の涙を拭いたことは覚えている。
+- Tav: Whatever became of the boy, I wonder?
+  - [become of](https://en.wiktionary.org/wiki/become_of#Verb)
+    - 他動詞: 偶然起こる(=happen to)、発生する(=occur to)
+  - ChatGPT訳: その少年はどうなったのかな？
+- Wyll: I left him with his uncles. Five years on, and he's flourishing. If only every child were so lucky.
+  - [flourish](https://ejje.weblio.jp/content/flourish), フロゥリッシュ
+    - 自動詞: 良く成長する、草木が繁茂する
+  - [if only](https://en.wiktionary.org/wiki/if_only#Conjunction)
+    - 接続詞: 現在や未来に対する願望の表現、〜であれば良い、〜を望む
+  - If only every child were so lucky の were はなぜ複数形なのか？
+    - every child は、 every が「一つずつ数える」という限定詞で、通常は単数扱いになる
+    - しかし、仮定法過去のときは、be動詞は複数形にしても良い、という例外がある
+      - なぜそうなのかはわからない、一説によると、複数形にするのは古風な言い方だから、あえて古風にすることで非現実感を増しているのでは？とのこと
+        - Ref: https://jp.quora.com/%E8%8B%B1%E8%AA%9E%E3%81%AE%E4%BB%AE%E5%AE%9A%E6%B3%95%E3%81%A7be%E5%8B%95%E8%A9%9E%E9%81%8E%E5%8E%BB%E8%A4%87%E6%95%B0%E5%BD%A2%E3%81%8C%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B-if-it-were%E3%81%AA%E3%81%A9-%E7%90%86
+  - ChatGPT訳: 彼を叔父たちに託したんだ。5年が経ち、彼は順調に育っている。全ての子供がそうであればいいのに。
+- Wyll: I mourn the ones I could never save, whose cries I never heard.
+  - [mourn](https://ejje.weblio.jp/content/mourn), モゥンヌ
+    - 他動詞: 死や損失や不幸を嘆き悲しむ
+    - 自動詞だと、それに「弔う」や「喪に服する」という意味も加わる
+  - ChatGPT訳: 救えなかった子供たちを、聞くこともなかった彼らの叫びを、私は悼む。
+- Wyll: In the boy's tears, I finally saw the suffering wrought by the villains of the wild.
+  - [suffering](https://ejje.weblio.jp/content/suffering), サ・ファリング
+    - 名詞: 苦しみ、苦痛
+  - [wrought](https://ejje.weblio.jp/content/wrought), ゥロゥ
+    - work - worked | wrought - worked | wrought
+    - [work](https://ejje.weblio.jp/content/work), ワァク
+      - 他動詞: 変化や効果や影響を生じさせる・もたらす・引き起こす
+  - ChatGPT訳: その少年の涙の中に、野の悪党たちがもたらした苦しみを、私はようやく見た。
+- Wyll: The frontiers demanded a blade. And so I heeded.
+  - [heed](https://ejje.weblio.jp/content/heed), ヒィード
+    - 自動詞: 注意を払う、気遣う
+  - ChatGPT訳: 辺境は剣を求めた。だから、私は応えたんだ。
+    - I heeded が「応えた」になっているのは意訳
+- Tav: It's nice to finally put a face to the name.
+  - ChatGPT訳: 名前にようやく顔がついたようで嬉しい。
+- Wyll: And it's nice to meet someone of your talents.
+  - ChatGPT訳: あなたのような才能を持つ人に会えて光栄だよ。
+  - 会話が成立していないような
+- Wyll: Having a worm wriggling in my skull didn't instil much confidence in the days ahead.
+  - [wriggle](https://ejje.weblio.jp/content/wriggle), ゥリゴォ
+    - 自動詞: ミミズなどがのたうつ、身を捩る、体をくねらす
+  - [instil](https://ejje.weblio.jp/content/instil), イン・スティルォ
+    - 他動詞: 人や心に思想や感情を染み込ませる、徐々に教え込む
+  - [confidence](https://ejje.weblio.jp/content/confidence), (カ|コ)ンフィデンス
+    - 名詞: 自信、大胆さ、図々しさ、信用、信頼
+  - ChatGPT訳: 頭蓋骨の中でミミズがうごめくのを感じると、これからの日々にあまり自信を持てませんでした。
+    - 直訳だと「多くの自信を染み込ませることはなかった」で、「自信が徐々に上がらない」から「あまり自信が持てない」になりそう
+- Wyll: With you as my ally, the future looks a little less daunting.
+  - [daunt](https://ejje.weblio.jp/content/daunt), ドーント
+    - 他動詞: 人の気力をくじく、ひるませる
+  - ChatGPT訳: あなたが味方としていてくれると、未来は少し怖くなくなります。
+- Tav: I've noticed your stone eye. Did you lose it in battle?
+  - ChatGPT訳: 石の目に気がつきました。戦いで失いましたか？
+- Wyll: A most vicious one, in fact.
+  - [vicious](https://ejje.weblio.jp/content/vicious), ビシャス
+    - 形容詞: 危険な、物騒な
+  - [most](https://ejje.weblio.jp/content/most), モゥスト
+    - 副詞: 主観的に非常に・はなはだ
+      - 最上級としての意味ではない、通常は the を伴わない
+  - ChatGPT訳: 実に獰猛な戦いでした。
+- Wyll: It's made from pure Bloodstone, carved from the Galena Mountains just north of the Moonsea. A reminder that sometimes, blood must be shed and sacrifices must be made.
+  - Bloodstone
+    - D&D用語,名詞: 半貴石、傷口に押し当てると傷を塞ぎ血液を正常にする、アイテムにもあって価値は高い方
+      - Ref: https://forgottenrealms.fandom.com/wiki/Bloodstone
+  - [carve](https://ejje.weblio.jp/content/carve), カァーブ
+    - 他動詞: 切断する・切り離す(=cut)、肉を切り分ける、彫刻する
+  - Moonsea
+    - D&D用語,名詞: Faerûn北部の広大な内海に面した地域、土地や治安は厳しいが豊富な天然資源がある
+      - Ref: https://forgottenrealms.fandom.com/wiki/Moonsea
+  - [reminder](https://ejje.weblio.jp/content/reminder), ゥリ・マインダー
+    - 名詞: 思い出させるもの・人・合図
+  - [that](https://ejje.weblio.jp/content/that), ザァット
+    - 接続詞: 〜という
+      - 同格節を導く
+  - [shed](https://ejje.weblio.jp/content/shed), シェーッ
+    - shed - shed | shedded - shed | shedded
+    - [shed](https://ejje.weblio.jp/content/shed), シェーッ
+      - 他動詞: 血や涙を流す・こぼす
+  - [make](https://ejje.weblio.jp/content/make), メィ・ク
+    - 他動詞: 何かの原因になる、何かを生じさせる、傷つけたり壊したりして何かを作る
+  - ChatGPT訳: 純粋なブラッドストーンで作られており、ムーンシーの北にあるガレナ山脈から切り出されました。時には血が流され、犠牲が伴うこともあるという思い出です。
+    - blood must be shed and sacrifices must be made は、直訳だと「血は流されるべきで犠牲を生じるべき」になる。厳しい土地がらを所与として肯定的に捉えているのかもしれない。
+- Wyll: Ah, but that is a story reserved for lifetime friends and calmer days.
+  - [lifetime](https://ejje.weblio.jp/content/lifetime), ライフ・ターイム
+    - 形容詞,限定用法: 生涯の、終生の
+  - ChatGPT訳: ああ、しかし、その話は親友との穏やかな日々にとっておきましょう。
+- Tav: _Leave_.
+
+### 21, Eliasis - 7:44 - Bloated Hyena, Tav
+
+傷ついたHyenaの集団に遭遇し、今にも死にそうなその内の一匹と話した
+
+- \*The creature's eyes roll back in its head - equal parts bliss and agony.\*
+  - [bloated](https://ejje.weblio.jp/content/bloated), ブロゥテッド
+    - 形容詞: ふくれた、むくんだ、太り過ぎた
+  - [hyena](https://ejje.weblio.jp/content/hyena), ハィィーナ
+    - 名詞: ハイエナ
+  - [part](https://ejje.weblio.jp/content/part), パ↑ァット
+    - 名詞: 全体の中の割合
+  - equal parts
+    - イディオム: 等分
+      - equal parts of A and B
+  - [bliss](https://ejje.weblio.jp/content/bliss), ブレス
+    - 名詞: 至福、無上の喜び
+  - [agony](https://ejje.weblio.jp/content/agony), アゲニィ
+    - 名詞: 肉体的または精神的な激しい苦痛
+  - equal parts bliss and agony の文法はどうなってるの？
+    - 色々省略された結果のようなので、深く考えない
+    - feeling equal parts of bliss and agony の省略という解釈が、一つの正解かもしれない
+  - ChatGPT訳: その生き物の目は頭の中で後ろに転がります - 至福と苦痛の両方を等しく感じながら。
+- \*She'd eaten. Feasted. And yet, looking into her eyes, you can see it wasn't enough. She's still hungry.\*
+  - ChatGPT訳: 彼女は食べました。食べ尽くしました。しかし、彼女の目を見ると、それだけでは満足していないことがわかります。彼女はまだ空腹です。
+- Bloated Hyena: Come... see. My flesh becomes new flesh.
+  - ChatGPT訳: 来て... 見て。私の肉が新しい肉へと変わります。
+- \*You hear what comes next before you see it: the sharp snapping of bones and a yelp of pain as her body starts to twist and undulate.\*
+  - [snap](https://ejje.weblio.jp/content/snap), スナップ
+    - 自動詞: パチンやピシッと鳴る、ピストルなどがカチッと鳴る、不発に終わる
+  - [yelp](https://ejje.weblio.jp/content/yelp), イエウップ
+    - 名詞: 犬のキャンキャン鳴く声
+    - 自動詞で同じ意味もある
+  - [undulate](https://ejje.weblio.jp/content/undulate), ア↑ン・ジュ・レイト
+    - 自動詞: ゆるやかに波打つ・起伏する、うねる
+    - Assoc: VF3や鉄拳4のアンジュレーション
+  - ChatGPT訳: 次に来るものは、見る前に聞こえます: 骨が鋭く鳴り、彼女の体が捻じれてうねる中での痛みの叫び声。
+- Intelligence (Arcana) Save Failed: Tav
+- \*The hyena moans softly as its body contorts, ribs cracking and flesh tearing.\*
+  - [moan](https://ejje.weblio.jp/content/moan), モ↑ーン
+    - 自動詞: うめく、うなる
+  - [contort](https://ejje.weblio.jp/content/contort), (カ|コ)ントォト
+    - 自動詞: 緊張した形になる、顔などがゆがむ
+    - 他動詞で「捻じ曲げる」という意味もあり、本文はそちらの転用のように見える
+  - ChatGPT訳: ハイエナは柔らかくうめき声をあげる。その体はねじれ、肋骨が鳴り、肉が裂ける。
+- Tav: What's happening to you? Is there any way I can help?
+  - ChatGPT訳: あなたに何が起こっているの？何か手伝えることはありますか？
+- Bloated Hyena: Yes - come closer. Feed the new flesh.
+  - the new flesh は何を指す？
+    - おそらくは、Hyenaの中から生まれた新しい生命体
+    - Tavのことを「新しい肉の餌」だと表現している可能性もあるけど、それだと文法的には feed O(=餌) to 対象 になる
+  - ChatGPT訳: はい - 近づいてください。新しい肉を養ってください。
+- \*Her belly splits like a rotten fruit, birthing a frenzy of claws and fangs.\*
+  - [birth](https://en.wiktionary.org/wiki/birth#Verb)
+    - 他動詞: 子供を産む・出産する
+  - [frenzy](https://ejje.weblio.jp/content/frenzy), フ↑レンズィ
+    - 名詞: 狂乱、熱狂、乱心、逆上
+    - Assoc: Breach WanderersにFrenzyという状態があった、手札とAPを一度初期状態にできる強いやつ
+  - ChatGPT訳: 彼女のお腹は腐った果物のように割れ、爪と牙の狂乱が生まれる。
+  - 中からGnollが現れ、この後めちゃくちゃ先手を打たれた。英語だとこんなのもわからなくなるんやな...
+
+### 21, Eliasis - 13:41 - Anders, Tav, Wyll
+
+一般人達とそれを襲ったと思われるGnoll達の死体の山の中に、その一般人達のものだと思われる小屋があった。
+
+その中に入ると、一人の騎士が居て、その人へ話しかけた。
+
+- Anders: Wh-who's there? Please - keep your distance. You're welcome to shelter here, but we've grave injuries to tend to.
+  - [shelter](https://ejje.weblio.jp/content/shelter), シェル・ター
+    - 自動詞: 避難する、隠れる
+  - [grave](https://ejje.weblio.jp/content/grave), グレィブ
+    - 形容詞: 事態や病気や誤りなどがゆゆしい・容易ならぬ・危機をはらんだ、問題や責任や決定が重要な・重大な
+    - 名詞で「墓」と言う意味もある
+  - we've grave injuries to tend to (grave injuries)
+  - ChatGPT訳: 誰ですか？お願いですから、距離を保ってください。ここに避難するのは構いませんが、私たちは重傷を治療中です。
+- Tav: What is this place?
+  - ChatGPT訳: ここはどんな場所ですか？
+- Anders: A tollhouse, once upon a time. Now a house of respite for those of us burned by a devil.
+  - [tollhouse](https://ejje.weblio.jp/content/tollhouse), ト↑ーゥ・ハウス
+    - 名詞: 通行税徴収所、通行税徴収事務所
+  - [once upon a time](https://en.wiktionary.org/wiki/once_upon_a_time#Adverb)
+    - 副詞: ずっと前に(=a long time ago)、過去のある時点に、昔々
+  - [respite](https://ejje.weblio.jp/content/respite), ゥレスペィ
+    - 名詞: ひと休み、休息期間、一時休止
+  - for those of us と for us は何が違うの？
+    - those of us は us の一部の集団を強調している
+  - ChatGPT訳: 昔は通行料を徴収する場所でした。今は、悪魔に焼かれた私たちが休息を取る家です。
+- Anders: We are paladins of Tyr, Lord of Justice. He sent us after an infernal being, straight out of the Nine Hells, hiding in the form of a one-horned tiefling.
+  - Tyr, ティア
+    - D&D用語,名詞: 法と正義の善神、戦いで右手首を失い、盲目になっている
+      - Ref: https://forgottenrealms.fandom.com/wiki/Tyr
+  - [after](https://ejje.weblio.jp/content/after), (ア|エ)ァフタァ
+    - 前置詞: 〜の後を追って、〜を求めて、〜を追求して
+  - [straight out](https://en.wiktionary.org/wiki/straight_out)
+    - 副詞: 直接的に、率直に、明白に
+  - ChatGPT訳: 私たちは正義の主、ティアのパラディンです。彼は私たちに、ナインヘルズから直接やってきた地獄の存在、一本角のティーフリングの形で隠れている者を追わせました。
+- Wyll: One horn? Then you mean Karlach. Archdevil's bootlicker.
+  - [bootlicker](https://ejje.weblio.jp/content/bootlicker), ブゥトリッカァ
+    - 名詞: ご機嫌取り、権威に対しておもねる人
+      - lick が「舌でなめる」という動詞
+    - Assoc: バイオハザードの Licker
+  - ChatGPT訳: 一本角？それならカーラックのことだ。大悪魔のおべっか使いだ。
+- Anders: You know her. Which means you know what the fiend's capable of.
+  - [capable](https://ejje.weblio.jp/content/capable), ケイパボゥ
+    - 形容詞,叙述用法: 〜ができて、〜の能力・才能があって
+      - capable of 名詞
+  - what the fiend's capable of (what)
+  - ChatGPT訳: 彼女を知っている。ということは、その悪魔が何をするかも知っているということだ。
+- Anders: She's slaughtered countless refugees fleeing the Absolute. Yesterday, she butchered an entire family without mercy.
+  - [butcher](https://ejje.weblio.jp/content/butcher), ブッ・チャァ
+    - 他動詞: 人を虐殺する、動物を屠殺する
+  - [entire](https://ejje.weblio.jp/content/entire), エン・タ↑イアァ
+    - 形容詞: 全体の、全部の
+  - [mercy](https://ejje.weblio.jp/content/mercy), マァスィ
+    - 名詞: 慈悲、情け、容赦
+  - ChatGPT訳: 彼女は、アブソリュートから逃れる無数の難民を虐殺しました。昨日、彼女は一家全員を無慈悲にも虐殺しました。
+- Anders: We were lucky to survive our encounter with her.
+  - [survive](https://ejje.weblio.jp/content/survive), (サ|ス)・バァ↑イブ
+    - 他動詞: 災害や事故などを切り抜けて生き残る、〜から助かる
+  - ChatGPT訳: 彼女との遭遇から生き延びられたのは幸運でした。
+- Intelligence (Religion) Successful: Tav
+- Tav: It isn't like a devil to use their brawn instead of their brains.
+  - [brawn](https://ejje.weblio.jp/content/brawn), ブ(ラ|ロ)ン
+    - 名詞: 筋肉、腕力、筋力
+    - なお、「茶色」は brown
+  - ChatGPT訳: 悪魔が脳よりも筋肉を使うなんて珍しいね。
+- Anders: Indeed. She's a uniquely vicious case. All the more reason she _must_ be stopped.
+  - [uniquely](https://ejje.weblio.jp/content/uniquely), ユ・ニ↑ィクリィ
+    - 副詞: 比類なく、独自に
+  - [all](https://ejje.weblio.jp/content/all), オーゥ
+    - 副詞: ますます、かえって、なおさらの
+      - all the 比較級 の時
+  - ChatGPT訳: 本当にそうだ。彼女は特別に残忍なケースだ。だからこそ、彼女を止めなければならない。
+- Tav: Where is this devil?
+- Anders: She ran toward the river when she saw we were merely wounded - not dead. Down the hill from here.
+  - [down](https://ejje.weblio.jp/content/down), ダァウン
+    - 前置詞: 高所から〜を下って
+  - Down the hill from here は here が頂点なの？
+    - 頂点とは限らない、 here は the hill のどこかではある
+  - ChatGPT訳: 彼女は私たちが死んでいない、ただの傷だとわかると、川の方へ走っていきました。ここから下り坂です。
+- Anders: She must pay for her crimes. If you capture her, you will have served Try where we could not.
+  - [pay](https://ejje.weblio.jp/content/pay), ペイ
+    - 自動詞: 償いをする、罰を受ける
+      - pay for 名詞
+  - where we could not は what だと意味が変わる？
+    - 変わる。 where は場所や状況に焦点を当てているので、「我々ができなかった状況で」という意味になる。
+  - ChatGPT訳: 彼女は自分の罪に対する代償を支払わなければなりません。彼女を捕まえれば、私たちができなかったことをTryに対して果たしたことになります。
+- Anders: This is the Sword of Justice, blessed by Tyr. I've wielded it since I swore my oath.
+  - [wield](https://ejje.weblio.jp/content/wield), ウィールゥド
+    - 他動詞: 剣などをふるう・振り回す
+  - ChatGPT訳: これはティルによって祝福された正義の剣だ。誓いを立ててからずっとこれを手にしてきた。
+- Anders: It's all I have, but it's yours if you stop her. Bring me her head, and Tyr will consider her crimes repaid.
+  - [consider](https://ejje.weblio.jp/content/consider), (カ|コ)ン・スィ・ダー
+    - 他動詞: みなす、考える
+      - consider O(=対象) [to be] C(=みなす内容)
+  - [repay](https://ejje.weblio.jp/content/repay), ゥリ・ペイ
+    - 他動詞: 金銭を払い戻す・返済する、物事が〜に報いる・値する
+  - ChatGPT訳: これが私の全てだが、彼女を止めるなら君のものだ。彼女の首を持ってきてくれれば、ティルは彼女の罪を償ったとみなすだろう。
+- Tav: I'll think about it.
+  - ChatGPT訳: 考えておくよ。
+- Anders: May the Just God guide you.
+  - ChatGPT訳: 正義の神が君を導きますように。
+  - 最初のプレイではKarlachへ先に話しかけてしまい、この会話を聞けなかったので、やり直している
+
+### 21, Eliasis - 13:50 - Karlach, Wyll, Tav
+
+指示された場所へ向かい、傷ついてうずくまっているKarlachへ話しかけた
+
+- Karlach: Ngh...
+- Wyll: One horn. The stink of Avernus. _Advocatus diaboli_.
+  - [stink](https://ejje.weblio.jp/content/stink), スティンク
+    - 名詞: 我慢ならない悪臭・臭気
+  - ChatGPT訳: 一本の角。アヴェルヌスの臭い。悪魔の代理人。
+- Karlach: Well I'll be godsdamned - the Blade of Frontiers. Thought I'd shaken you for good. That'll teach me to underestimate you.
+  - [godsdamned](https://en.wiktionary.org/wiki/godsdamned)
+    - = goddamned
+      - 複数の神がいる架空の世界での単語
+    - [goddamned](https://en.wiktionary.org/wiki/goddamned#Adjective)
+      - 形容詞: 神に呪われた
+  - [shaken](https://ejje.weblio.jp/content/shaken), シェイ(ク|ケ)ン
+    - shake - shook - shaken
+    - [shake](https://ejje.weblio.jp/content/shake), シェイク
+      - 他動詞: 振り払う、振り落とす
+  - [for good](https://en.wiktionary.org/wiki/for_good#Prepositional_phrase)
+    - 副詞: 決定的もしくは最終的な方法として
+  - [underestimate](https://ejje.weblio.jp/content/underestimate), アンダァ・ゥレストメイツ
+    - 他動詞: 過小評価する、少なく見積もる
+  - ChatGPT訳: まさか - フロンティアの剣だとは。お前を振り切ったと思っていた。お前を過小評価したことを教えてくれたな。
+- Tav: You're the devil we've been hunting. Karlach, right?
+  - ChatGPT訳: 我々が追っていた悪魔、カーラックだな？
+- Karlach: Bloody right. An honour to be chased by the Blade of Frontiers. But - _agh_!
+  - ChatGPT訳: その通りだ。フロンティアの剣に追われるなんて光栄だ。しかし - ああ！
+- \*A great heat roars through you: _her_ heat, fiery as the Hells.\*
+  - [roar](https://ejje.weblio.jp/content/roar), ロォアァ
+    - 自動詞: 轟音を発する、鳴り響く、うなる
+  - [fiery](https://ejje.weblio.jp/content/fiery), ファイアリィ
+    - 形容詞: 火のついた、猛火の、灼熱の
+  - ChatGPT訳: あなたを貫く強烈な熱：彼女の熱、地獄のように燃える。
+- \*Then you're lost in visions of demonic armies as you tear through a landscape of fire and blood.\*
+  - [lose](https://ejje.weblio.jp/content/lose), ルゥーズ
+    - 他動詞: 道に迷う、道を見失う
+      - 例えば He lose himself のように使う
+  - [landscape](https://ejje.weblio.jp/content/landscape), ランド・スケェイプ
+    - 名詞: ひと目で見渡せる景色、風景
+  - ChatGPT訳: そこから、火と血の景色を引き裂きながら、魔物の軍勢の幻視に迷い込む。
+- \*The Blood War. You saw it from above as the nautiloid passed through Avernus - this woman was on the frontline.\*
+  - Blood War
+    - D&D用語,名詞: Devil対Demonの古代の大戦争・紛争、主にAvernusが戦場となった
+      - Ref: https://forgottenrealms.fandom.com/wiki/Blood_War
+  - DevilとDemonの違いは？
+    - D&D世界観においては別種族である。Devilは秩序の悪、The Nine Hellsを本拠地とする、Demonは混沌の悪、Abyssという無数の深層から来る。
+    - Ref: https://note.com/mslabo102/n/nbff85f2a05ee
+  - ChatGPT訳: 血の戦争。ナウティロイドがアヴェルヌスを通過した際、あなたはそれを上空から見た - この女性は前線にいた。
+  - Blood Warは古代の戦争？とすると、Mind Flayerの戦艦は時空を旅してた？
+- Karlach: What was _that_?!
+- Wyll: Evidence. Proof that you're a devil, a gladiator in the archdevil Zariel's army.
+  - [proof](https://ejje.weblio.jp/content/proof), プルゥーフ
+    - 名詞: 証明、証拠
+  - proof と evidence の違いは？
+    - proof は、ひとつだけで決定的になる証拠、または結論に至る論理的な証明
+    - evidence は、照明の一部となるたくさんある証拠の内の一つ
+  - [gladiator](https://ejje.weblio.jp/content/gladiator), グラァ↑ーディエイタァ
+    - 名詞: 古代ローマの剣闘士
+  - ChatGPT訳: 証拠だ。お前が悪魔であり、大悪魔ザリエルの軍隊の剣闘士である証拠だ。
+- Karlach: I can explain. But it's a whole situation. If you'd just hear me out -
+  - a whole situation
+    - イディオム: 多面的で説明が難しい面倒な・複雑な状況
+      - 口語で用いることが多い
+  - [hear out](https://en.wiktionary.org/wiki/hear_out#Verb)
+    - 他動詞: 相手が最後まで話し終わるまで聞く、誰かの意見を徹底的に検討する
+  - ChatGPT訳: 説明できる。でも、それは大きな事態だ。ちょっと聞いてくれるなら -
+- \*Another vision. Karlach's blade raised, slicing through devils - Zariel's servants - as her eyes dart around, seeking escape.\*
+  - [dart](https://ejje.weblio.jp/content/dart), ダ↑ァト
+    - 他動詞: 視線や矢や光などをすばやく投げかける・放つ
+    - 文中では自動詞だが、自動詞としては「突進する」のような意味しかないので、こちらの他動詞の意味の転用のよう
+  - ChatGPT訳: もう一つの幻視。カーラックの刃が上がり、ザリエルのしもべたちである悪魔を切り裂きながら、彼女の目は逃げ道を探してあたりを見回す。
+- \*Her rage and desperation seep into you. She is a victim of the Blood War, not an agent of it.\*
+  - [seep](https://ejje.weblio.jp/content/seep), ス↑ィ
+    - 自動詞: 理解や思想などが少しずつ染み込む・行き渡る・広がる
+  - [agent](https://ejje.weblio.jp/content/agent), エィジェント
+    - 名詞: 発動者、行為者、代理人
+  - ChatGPT訳: 彼女の怒りと絶望があなたに染み渡る。彼女は血の戦争のエージェントではなく、その犠牲者なのだ。
+- Wyll: She's trying to trick us. Don't believe her lies.
+  - [trick](https://ejje.weblio.jp/content/trick), トリック
+    - 他動詞: 計略で人を騙す・かつぐ
+  - ChatGPT訳: 彼女は私たちを騙そうとしています。彼女の嘘を信じないでください。
+- Karlach: You saw the truth. I never wanted to serve Zariel. I was enlisted in her army against my will. Forced to fight, and fight I did.
+  - [enlist](https://ejje.weblio.jp/content/enlist), エン・リ↑ィスト
+    - 他動詞: 兵籍に入れる、徴募する
+  - ChatGPT訳: あなたは真実を見ました。私は決してザリエルに仕えたいと思ったわけではありません。私は彼女の軍隊に無理やり徴兵されました。戦わざるを得なかった、そして戦いました。
+  - なぜ、Karlachは、我々が真実を見たってわかるんだ？寄生体には初めて会ったんだよな？
+- Karlach: When I saw an opportunity to get away, I took it. I'm finally home - or near it, anyway.
+  - [get away](https://en.wiktionary.org/wiki/get_away#Verb)
+    - 自動詞: 離れる
+  - ChatGPT訳: 逃げる機会を見つけたとき、私はそれをつかみました。ついに家に帰ることができました - まあ、とにかく近くに。
+- Wyll: You served her. That's enough to damn you.
+  - [damn](https://ejje.weblio.jp/content/damn), デーン
+    - 他動詞: 永遠に罰する、地獄に落とす、罵る、呪う
+  - ChatGPT訳: あなたは彼女に仕えました。それだけであなたは断罪されるに足ります。
+- Tav: Stand down, Wyll. You saw what I saw.
+  - ChatGPT訳: 落ち着け、Wyll。あなたも私が見たものを見ました。
+- Wisdom (Perception) Successful: Tav
+- Wyll: You don't know what you're saying. You're asking me to trust a devil.
+  - ChatGPT訳: あなたは何を言っているのかわかっていない。悪魔を信じろと言っているのだ。
+- Tav: Gods, you're stubborn. Karlach's not a devil, and you know it.
+  - [stubborn](https://ejje.weblio.jp/content/stubborn), スタボーン
+    - 形容詞: 頑固な、強情な
+  - ChatGPT訳: 神よ、あなたは頑固だ。Karlachは悪魔ではない、それをあなたも知っている。
+- Karlach: Listen to sense, now. I don't want this to end badly for eighter of us.
+  - [sense](https://ejje.weblio.jp/content/sense), セ↑ンス
+    - 名詞: 合理性、思慮、分別、常識
+  - ChatGPT訳: 今、理性を聞いてくれ。どちらにとっても悪い結末になることは望んでいない。
+    - Listen to sense の訳がわからない
+- Karlach: You know monsters, right? Better than anyone. Look into my eyes. Can't you see I'm not what you think?
+  - ChatGPT訳: あなたはモンスターを知っているよね？誰よりも。私の目を見て。私があなたが思っているものではないことがわからないか？
+- Wyll: Shit.
+- Wyll: You really are no devil, are you? I've... I've been deceived.
+  - [deceive](https://ejje.weblio.jp/content/deceive), デ・ス↑ィーブ
+    - 他動詞: 騙す、欺く、思い違いをさせる
+  - ChatGPT訳: 本当に悪魔じゃないんだね。騙されたよ。
+- Karlach: Thank the gods. Thought I was going to have to take your head.
+  - ChatGPT訳: 神々に感謝するよ。君の首を取らなきゃいけないと思ってたから。
+- Wyll: You would've died in the attempt. But - there have been enough threats today.
+  - [attempt](https://ejje.weblio.jp/content/attempt), ア・テ↑ント
+    - 名詞: 試み、企て
+  - [threat](https://ejje.weblio.jp/content/threat), (ス|ツ)レェット
+    - 名詞: 脅し、脅迫、脅威
+  - ChatGPT訳: そんな試みをしたら、君が死んでいただろうね。でも、今日はもう十分脅し合った。
+- Karlach: Truce then, hey?
+  - [truce](https://ejje.weblio.jp/content/truce), トゥルース
+    - 名詞: 停戦、停戦協定
+  - ChatGPT訳: それじゃ、休戦でどうだい？
+- Wyll: Aye. Truce.
+  - [aye](https://ejje.weblio.jp/content/aye), アーイ
+    - 間投詞: 然り、賛成
+  - ChatGPT訳: ああ、休戦だ。
+- Karlach: I'm Karlach - but you already knew that. And you are...?
+  - ChatGPT訳: 私はカーラックです - でも、あなたはすでにそれを知っていましたね。そして、あなたは...？
+- Tav: I'm {不具合で読めないが Tav と書いてあった}.
+- Karlach: Well met, soldier. Nice to meet a friendly around here - it's been tough going so far.
+  - [friendly](https://ejje.weblio.jp/content/friendly), フレンドリィ
+    - 形容詞: 友好的な、好意的な、敵意のない
+  - [tough](https://ejje.weblio.jp/content/tough), タ↑フ
+    - 形容詞: 骨の折れる、困難な
+  - [going](https://en.wiktionary.org/wiki/going#Noun), ゴ↑ゥイン
+    - 名詞: 進行・進捗(=progress)
+  - ChatGPT訳: よく会えた、兵士。ここで友好的な人に会えて良かった - ここまで大変だった。
+- Karlach: I may not be a devil, but I can put the Blade's reputation to work.
+  - [reputation](https://ejje.weblio.jp/content/reputation), レ・ピュ・テ↑イション
+    - 名詞: 評判、名声
+  - [put to work](https://en.wiktionary.org/wiki/put_to_work#Verb)
+    - 他動詞: 使用する
+      - put O to work
+  - ChatGPT訳: 私は悪魔ではないかもしれませんが、ブレードの評判を活かすことはできます。
+- Karlach: How would you feel about helping me kill some evil bastards?
+  - ChatGPT訳: いくつかの悪い奴らを殺す手伝いをしてくれるとどう思いますか？
+- Karlach: A little background, if your moral compass needs something to point at...
+  - [compass](https://ejje.weblio.jp/content/compass), コ↑ン・パス
+    - 名詞: 羅針盤、コンパス
+  - [point](https://ejje.weblio.jp/content/point), ポ↑ォイント
+    - 自動詞: 指す、示す、指差す
+      - 本文では、 point at で「〜を指差す」が転じて、「判断する」になっている
+  - ChatGPT訳: もし道徳的な判断基準が必要なら、少し背景を説明しましょう…
+- Karlach: You already know I fought in the Blood War. I was good. _Really_ good.
+  - ChatGPT訳: あなたは私がブラッド・ウォーで戦ったことをすでに知っています。私は上手でした。本当に上手でした。
+- Karlach: Turns out I've got a knack for killing demons. That made me a valuable asset. Zariel - the archdevil herself - made me as her personal attack dog.
+  - [turn out](https://en.wiktionary.org/wiki/turn_out#Verb)
+    - 他動詞: 判明する、明らかになる
+      - 本文では他動詞として使われているようだが、Wiktionaryには他動詞としてこの用法は記載されていなかった
+  - [have got](https://en.wiktionary.org/wiki/have_got#Verb)
+    - 他動詞: 持っている・所有する(=have)
+    - 用法が非常に難しい、以下は一部だけを抜粋したもの
+      - 口語表現である
+      - 現在形でしか使えない
+      - 疑問系は Have S got になる
+      - Ref: https://en.wiktionary.org/wiki/have_got#Usage_notes
+      - Ref: https://bbtonline.jp/blog/tips/have-got/
+  - [knack](https://ejje.weblio.jp/content/knack), ナァック
+    - 名詞: 技巧、巧みな技、こつ
+  - [attack dog](https://en.wiktionary.org/wiki/attack_dog#Noun)
+    - 名詞: 警察犬、治安部隊の特殊な訓練を受けた犬
+      - 比喩的に、誰かの代わりに攻撃をする人、も意味する
+  - ChatGPT訳: デーモンを殺す才能があることがわかりました。それが私を貴重な資産にしました。ザリエル - 地獄の大魔王自身 - が私を個人的な攻撃犬にしました。
+- Karlach: I played along until I could get the fuck out of there, but devils don't like to lose their assets.
+  - [play](https://ejje.weblio.jp/content/play), プレェイ
+    - 自動詞: 演じる、出演する
+  - [along](https://ejje.weblio.jp/content/along), ア・ロォン
+    - 副詞: 沿って
+      - 本文の「期待や他人に合わせて」という意味は、これからの意訳
+  - [the fuck](https://en.wiktionary.org/wiki/the_fuck#Phrase)
+    - 慣用句: 攻撃的な強調の表現
+      - 句動詞の一部を形成する動詞の後に置く
+  - ChatGPT訳: そこから抜け出せるまで演じ続けましたが、悪魔は自分の資産を失うのを好みません。
+- Karlach: Zariel liked it so little, she sent a bunch of goons, so-called 'Paladins of Tyr' to take me back. Problem is, I'm not going.
+  - [bunch](https://ejje.weblio.jp/content/bunch), バンチ
+    - 名詞: 一団、群れ、果物などの房
+  - [goon](https://en.wiktionary.org/wiki/goon#Noun), グゥーン
+    - 名詞: 暴漢・凶漢(=thug)、間抜けな人
+  - ChatGPT訳: ザリエルはそれをあまり好まなかったので、いわゆる「ティアのパラディン」たちを送って私を連れ戻そうとしました。問題は、私は行かないということです。
+- Tav: So you want me to kill the people hunting you?
+  - ChatGPT訳: だから、あなたを追っている人々を殺してほしいのですか？
+- Karlach: Don't worry, I'll lead the charge. But I could use your help. There's a lot of them and only one of me. After that, we can team up. Take Faerûn by the short hairs. Sound good?
+  - There's a lot of them は There are a lot of them ではないの？
+    - 結論としては、確固たる回答がなく、文意によりそう。日本人の意見だと are 寄り。
+    - 論点としてはおそらく3点あって、 a lot of をどう捉えるかというのと、 of の後の名詞がどう言うイメージなのかと、発音の問題
+    - a lot of
+      - ここでは限定詞だと思った方が良さそう。 a lot of が慣用句かは諸説ありそうだが、少なくとも a lot が慣用句でないとおかしいので、それなら a lot of もそうなることはありそう。
+      - a lot を「一塊の何か」という単数と捉えることもできそうだが、本文の「多勢に無勢」という主張の際の them に対してはそうならなそう
+    - of の後の名詞のイメージ
+      - 日本人から見た英文法上だと、この単語が不可算名詞なら単数になるとのこと
+      - でもおそらくは、イメージ依存だと思う
+    - 発音
+      - There's の方が言い易いらしい
+      - ChatGPT によると、口語だとこっちを使うことが多いとのこと
+    - Ref: https://jp.quora.com/There-a-lot-of-people-%E3%81%AE-%E3%81%AB%E5%85%A5%E3%82%8Bbe%E5%8B%95%E8%A9%9E%E3%81%AFis%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8Fare%E3%81%A0%E3%81%A8%E4%BF%A1%E3%81%98%E3%81%A6%E7%96%91%E3%82%8F%E3%81%AA%E3%81%8B
+  - [team](https://ejje.weblio.jp/content/team), ティーン
+    - 自動詞: 手を組む
+      - team up | with 対象
+  - by the short hairs
+    - イディオム: 強引に支配下に置いて、完全に支配して
+      - おそらくは副詞、 髪の毛を鷲掴みにするイメージ
+  - ChatGPT訳: 心配しないで、私が先頭を切る。しかし、あなたの助けが必要です。彼らはたくさんいるのに、私一人だけです。その後、私たちはチームを組むことができます。ファエルーンを手中に収めましょう。いいですか？
+- Tav: Let's do it.
+  - ChatGPT訳: やりましょう。
+- Karlach: Fuck yes. They cornered me outside the tollhouse, just up the hill. Doubt they've gone far after the scorching I gave 'em.
+  - [corner](https://ejje.weblio.jp/content/corner), コ↑ォナァ
+    - 他動詞: 隅へ追い詰める、窮地に陥らせる
+  - [scorch](https://ejje.weblio.jp/content/scorch), スコォチ
+    - 他動詞: 損傷するほど焼く・焦がす
+    - 形容詞の schorching もあるけど、「猛烈に暑い」「手厳しい」のような意味
+  - after the scorching I gave 'em は after I gave 'em the scorching の語順が強調で変化したもの
+  - ChatGPT訳: そうだ。彼らは私を料金所の外、ちょうど丘の上で追い詰めた。焼き払った後で彼らが遠くに行っているとは思えない。
+- Karlach: Looks like your troop's all trooped up. You'll need to send someone packing if you want me to join.
+  - [troop](https://ejje.weblio.jp/content/troop), トゥループ
+    - 名詞: 隊、団、部隊、群れ
+  - [troop](https://en.wiktionary.org/wiki/troop#Verb), トゥループ
+    - 自動詞: 軍隊や群衆へ集まる・来る、速く行軍する
+  - [send someone packing](https://en.wiktionary.org/wiki/send_someone_packing#Verb)
+    - 自動詞: 解雇する、追放する、追い払う
+    - packing は「荷詰め」なのかな？
+  - ChatGPT訳: お前の部隊はもういっぱいだな。私を加えたければ、誰かを解雇する必要がある。
+- Tav: True. Meet me at camp.
+  - ChatGPT訳: 確かに。キャンプで会おう。
+- Karlach: I'll catch up with you when it's time to camp, for now. But don't get to any of the fun stuff without me - got it?
+  - [catch up](https://en.wiktionary.org/wiki/catch_up#Verb)
+    - 自動詞: 先にあったものへ追いつく、不足を補う
+  - [for now](https://en.wiktionary.org/wiki/for_now#Prepositional_phrase)
+    - 前置詞句: 現時点で、後になるまで
+  - [stuff](https://en.wiktionary.org/wiki/stuff#Noun), スタ↑ッ
+    - 名詞: 不特定の物事・事項
+  - ChatGPT訳: 今はキャンプの時間になったら追いつくよ。でも、楽しいことを私なしでやっちゃダメだからな - 分かったか？
+
+### 21, Eliasis - 15:47 - Wyll, Tav, Gale
+
+Wyllにイベント会話が発生していたので、話しかけた
+
+- Wyll: You've been witness to a pantomime, I'm sorry to say. And I've played my part all too poorly.
+  - [witness](https://ejje.weblio.jp/content/witness), ウィ↑ット・ネス
+    - 名詞: 目撃者
+  - [pantomime](https://ejje.weblio.jp/content/pantomime), パ↑ント・マイム
+    - 名詞: 茶番劇、茶番
+  - I'm sorry to say の to say はどういう意味？
+    - 「言うこと」が「申し訳ない」ということ、「すまないと言わざるを得ない」
+    - つまりTavへ茶番を見せて悪かったということ
+  - [part](https://ejje.weblio.jp/content/part), パァット
+    - 名詞: 俳優の役
+  - [too](https://ejje.weblio.jp/content/too), トュゥ
+    - 副詞: 過度に、あまりにも
+  - [all](https://ejje.weblio.jp/content/all), オーゥ
+    - 副詞: 完全に、まったく、すっかり
+  - [poorly](https://ejje.weblio.jp/content/poorly), ポォァリィ
+    - 副詞: 下手に、不十分に、まずく
+  - ChatGPT訳: あなたはパントマイムを目の当たりにしていました。残念ながら、私は自分の役割をあまりにも下手に演じてしまいました。
+- Tav: What's that supposed to mean? Lay it it out plainly, Wyll.
+  - [supposed](https://ejje.weblio.jp/content/supposed), サ・ポォ↑ゥズド
+    - 形容詞,叙述用法: 〜することになっている
+      - supposed to Verb
+  - Lay it it out plainly はTypoしてない？
+    - おそらくしてて、 Lay it out plainly が正しい
+  - [lay out](https://en.wiktionary.org/wiki/lay_out#Verb)
+    - 他動詞: 説明する(=explain)、解釈する(=interpret)
+  - [plainly](https://ejje.weblio.jp/content/plainly), プ↑レインリィ
+    - 副詞: 明白に、はっきりと、率直に
+  - ChatGPT訳: それはどういう意味ですか？はっきりと教えてください、Wyll。
+- Wyll: It means that a reckoning's coming. And I'll be the one to pay up.
+  - [reckoning](https://ejje.weblio.jp/content/reckoning), レ↑ックニング
+    - 名詞: 清算、決算
+  - ChatGPT訳: それは、報いが来るという意味です。そして、その代償を払うのは私です。
+- Gale: You sound a man with the nine hells at his heels.
+  - at one's heels
+    - イディオム: 人を追って、人のすぐ後について
+  - ChatGPT訳: あなたは地獄の九層に追われている男のように聞こえます。
+- Wyll: You're closer than you know.
+  - ChatGPT訳: あなたの思っている以上に、それは近いです。
+- Wyll: One night soon when we make camp, the veil will be lifted and I'll pay my penance.
+  - [soon](https://ejje.weblio.jp/content/soon), スゥムン
+    - 副詞: まもなく、もうすぐ
+  - [veil](https://ejje.weblio.jp/content/veil), ベ↑ィウゥ
+    - 名詞: 覆って見えなくするもの、ベール
+  - [penance](https://ejje.weblio.jp/content/penance), ペ↑ネンス
+    - 名詞: 罪の償いのための苦行、苦痛なこと、いやだがしないといけないこと、懺悔
+  - ChatGPT訳: そのうちの一晩、私たちがキャンプを張った時に、ヴェールが持ち上げられ、私は自分の罪滅ぼしを果たします。
+- Tav: Penance? Should I be worried?
+  - ChatGPT訳: 罪滅ぼし？心配するべき？
+- Wyll: You're not in any danger, I promise. I can't say the same about me.
+  - ChatGPT訳: あなたに危険は及びません、約束します。私については同じことが言えないけれど。
+
+### 21, Eliasis - 16:02 - Cyrel, Tav
+
+Paladins of Tyrを名乗るAndersには二人の仲間が居て、それらの片方へ話しかけた。
+
+なお、Andersへ話すと小悪党ムーブの会話を聞いた上で戦闘になるが、今回はドヤられるのが嫌だったので彼には話さずに、先制攻撃から戦った。
+
+- Cyrel: Need any supplies? We've fewer mouths to feed now.
+  - [mouth](https://ejje.weblio.jp/content/mouth), マ↑ウ・ス
+    - 名詞: 口、口腔、口元
+  - ChatGPT訳: 必要な物資はありますか？今は食べる口が少なくなりました。
+- Tav: What happened to you?
+- Cyrel: The Lord of Justice sent us after a devil haunting this area. We squared off against her. We lost.
+  - [after](https://ejje.weblio.jp/content/after), (エ|ア)ァフトゥ
+    - 前置詞: 〜の後を追って、〜を求めて、〜を追求して
+  - [haunt](https://ejje.weblio.jp/content/haunt), (ハ|ホ)ーント
+    - 他動詞: 幽霊などが出現する、考えや思い出などが絶えずつきまとう
+      - haunt O(=幽霊が出そうな場所)
+      - haunt O(=思い出してしまう人)
+    - Assoc: ホーンテッドマンション
+  - [square off](https://en.wiktionary.org/wiki/square_off)
+    - 自動詞: 喧嘩の身構えをする、直接対決・対戦する、喧嘩や討論などの対決や対立の準備をする、
+      - イメージは、1対1で喧嘩の態勢を取って睨み合う図
+        - Ref: https://mickeyweb.info/archives/26399
+      - 由来は、拳闘の試合場や交渉の四角いテーブルから直前に人払いすること、らしい
+  - ChatGPT訳: 正義の主がこの地域を悩ませる悪魔を追跡するよう私たちに命じました。彼女と対決しました。私たちは負けました。
+- Cyrel: Talk to Andres if you want the details. I don't have it in me to recount the horror.
+  - [recount](https://ejje.weblio.jp/content/recount), ゥリ・キャウント
+    - 他動詞: 詳しく話す、物語る
+  - I don't have it in me to recount the horror の it は何を指している？
+    - この it は仮目的語または形式目的語で、後続に説明を任せるもの
+  - ChatGPT訳: 詳細を知りたいなら、アンドレスに話を聞いてください。私にはその恐怖を語る元気がありません。
+- Tav: How many did you lose?
+- Cyrel: Two. Both stalwarts of Tyr, sworn to uphold justice.
+  - [stalwart](https://ejje.weblio.jp/content/stalwart), スト↑ォー・ウォト
+    - 名詞: 特に政治的に信念の固い人
+  - [uphold](https://ejje.weblio.jp/content/uphold), アッ↑プ・ホゥールド
+    - 他動詞: 人や権利や行動などを支持する・維持する
+  - ChatGPT訳: 二人です。共にティルの勇士で、正義を守ることを誓っていました。
+- Tav: Let's see what you have to trade.
+- Cyrel: In Tyr's name.
+
+### 21, Eliasis - 16:08 - Trynn, Tav
+
+Andersのもう一人の仲間へ話しかけた
+
+- Trynn: If you want to go poking around in the cellar, be my guest. Plug your nose first though.
+  - [be my guest](https://en.wiktionary.org/wiki/be_my_guest#Verb)
+    - 自動詞: どうぞご自由にお使いください・お召し上がりください
+  - [poke around](https://en.wiktionary.org/wiki/poke_around)
+    - 自動詞: 雑な方法で何かを探す
+    - [poke](https://ejje.weblio.jp/content/poke), ポゥク
+      - 他動詞: 腕や指や棒などで突っつく・突く・小突く、鼻や棒を突きつける・突っ込む
+  - [plug](https://ejje.weblio.jp/content/plug), プラッグ
+    - 他動詞: 栓をする、塞ぐ、詰める
+  - ChatGPT訳: 地下室で探索したいなら、どうぞ。ただ、最初に鼻をつまんでね。
+- Tav: Why? What's down there?
+  - ChatGPT訳: どうして？ 何があるの？
+- Trynn: Corpse, half-rotted to mush. Must have been down there a tenday or more.
+  - [rotted](https://ejje.weblio.jp/content/rotted)
+    - rot - rotted - rotted
+      - なお、 rotten は形容詞
+    - [rot](https://ejje.weblio.jp/content/rot), ゥ(ラ|ロ)ット
+      - 自動詞: 腐る、腐敗する
+  - [mush](https://ejje.weblio.jp/content/mush), マ↑ッシュ
+    - 名詞: どろどろしたもの
+  - ChatGPT訳: 半分腐った死体があるよ。もう10日以上はそこにあるはずだ。
+- Tav: This is a nice place to hole up in. What is it?
+  - [hole up](https://en.wiktionary.org/wiki/hole_up#Verb)
+    - 自動詞: 隠れる(=hide)
+      - hole up in 場所 の用法が多い
+  - This is a nice place to hole up in (a nice place)
+  - ChatGPT訳: ここは隠れるにはいい場所だね。これは何？
+- Trynn: It _was_ a tollhouse. By the time we arrived, it was more like a slaughterhouse.
+  - [by the time](https://en.wiktionary.org/wiki/by_the_time#Conjunction)
+    - 接続詞: 将来何かが起こったとき(=when)
+  - [slaughterhouse](https://ejje.weblio.jp/content/slaughterhouse), スロォター・ハウス
+    - 名詞: 屠殺場
+  - ChatGPT訳: これは料金所だったんだ。僕たちが着いた時には、もう屠殺場みたいなものだった。
+- Trynn: There's more monsters than coin moving down this road.
+  - moving down this road は「道を下る」ではないの？
+    - down は前置詞としては「沿って」という意味もあり、ここでは副詞だがそちらの意味の方が近そう
+  - ChatGPT訳: この道を通るのは、コインよりもモンスターの方が多いんだ。
+- Tav: Tollhouses mean gold. Seen any around?
+  - ChatGPT訳: 関所は金を意味する。周りに見える？
+- Trynn: There's a locked door down the hatch. Doesn't look like anyone managed to get in.
+  - [manage](https://ejje.weblio.jp/content/manage), (マ|メ)ネージ
+    - 他動詞: どうにかして〜する、うまく〜する
+      - manage to Verb
+  - ChatGPT訳: ハッチを下ったところに鍵のかかったドアがある。誰も中に入れたようには見えない。
+- Trynn: If there's any gold left, that's where it'll be.
+  - ChatGPT訳: まだ金が残っているとしたら、そこにあるだろう。
+- Tav: _Leave_.
+
+### 21, Eliasis - 16:33 - Narrator
+
+何の状況で出現した文章かを忘れた
+
+- \*You picked a fight. The consequences are hardly surprising.\*
+  - [consequence](https://ejje.weblio.jp/content/consequence), コ↑ン・シクエンス
+    - 名詞: 続けて起こるまたは必然的な結果、成り行き、帰結
+  - [hardly](https://ejje.weblio.jp/content/hardly), ハァドリィ
+    - 副詞: ほとんど〜ない、〜であるとは言い難い
+  - ChatGPT訳: あなたが喧嘩を売った。その結果が驚くには値しないのは当然です。
+
+### 21, Eliasis - 17:11 - Karlach, Tav
+
+Karlachを仲間に入れるため、Campで話しかけた
+
+- Karlach: What's the story?
+  - ChatGPT訳: 話の内容は？
+- Tav: So - how did you end up fighting in the Blood War?
+  - ChatGPT訳: それで - どうやって血の戦争で戦うことになったの？
+- Karlach: Trust me, I'll tell you all about it - _after_ we take care of the goons on my tail.
+  - [take care of](https://en.wiktionary.org/wiki/take_care_of#Verb)
+    - 他動詞: 殺す、処理する、世話をする
+  - ChatGPT訳: 信じて。私の後を追っている悪党たちを片付けた後、全部話すよ。
+- Tav: About those paladins you want us to confront...
+  - [confront](https://ejje.weblio.jp/content/confront), (カ|コ)ン・フロント
+    - 他動詞: 対決させる、直面する
+      - confront O(=対決する人1) with {対決する人2}
+  - ChatGPT訳: あなたが私たちに対峙させたいと言っていたパラディンについて...
+- Karlach: Yeah! Let's go straight there. Whatever those fucks are getting up to, it's nothing good.
+  - [get up to](https://en.wiktionary.org/wiki/get_up_to#Verb)
+    - 他動詞: 特に禁止されていたり不適切なことを行う
+    - [up to](https://en.wiktionary.org/wiki/up_to#Preposition)
+      - 前置詞: 行っている(=doing), 巻き込まれている(=involved in)
+  - ChatGPT訳: そうだ！さっそく向かおう。あいつらが何をしているにせよ、良いことなんか一つもない。
+- Karlach: Just to say, by the way, they're not _really_ paladins. Lackeys of the archdevil playing dress-up as paladins of Tyr. No honour among devils.
+  - just to say
+    - イディオム: 付け加えると、話の途中ですが、たいしたことではないけど
+  - [by the way](https://en.wiktionary.org/wiki/by_the_way#Prepositional_phrase)
+    - 前置詞句: 現在の話題にとって中心的でも重要でもないことの表現、ちなみに、ところで、ついでながら
+    - 由来は古く、「道に沿って」が転じて「側面からの観察」になり、「ところで」になったらしい
+      - Ref: https://www.etymonline.com/jp/word/by
+    - = BTW
+  - [lackey](https://ejje.weblio.jp/content/lackey), ラ↑ァキィ
+    - 名詞: へいこらする子分、おべっか使い
+  - [dress-up](https://en.wiktionary.org/wiki/dress-up#Noun)
+    - 名詞: 様々な服を着て何かの振りをする子供の遊び
+  - Lackeys of the archdevil playing dress-up as paladins of Tyr. の動詞は何？
+    - おそらく、 Lackeys of the archdevil (are) playing dress-up as paladins of Tyr. と、 are が省略されているのではないか
+  - ChatGPT訳: ちなみに、本当のパラディンではないんだ。ティアのパラディンに扮しているだけの、大悪魔の手下たちさ。悪魔たちに名誉などない。
+- Tav: In your expert opinion, what's the best way to kill a devil?
+  - ChatGPT訳: あなたの専門的な意見で、悪魔を殺す最良の方法は何ですか？
+- Karlach: Depends on the type. Ice devils hate an inferno, but that's an easy one. Orthons love projectiles - what they don't love is getting their bombs lobbed right back in their faces.
+  - [inferno](https://ejje.weblio.jp/content/inferno), イン・フ↑ァーノ
+    - 名詞: 大火、地獄、地獄さながらの光景
+  - Orthon
+    - D&D用語,名詞: 巨大で凶暴な人形の悪魔、武具を使用する、Baatezuに仕える、常時苦痛を感じているが戦いの時だけそれが和らぐので戦いが好きという悲しい背景がある
+      - Ref: https://forgottenrealms.fandom.com/wiki/Orthon
+  - [projectile](https://ejje.weblio.jp/content/projectile), プロジェク・トォ
+    - 名詞: 投射物、発射体、弾、ロケット
+  - [lob](https://ejje.weblio.jp/content/lob), (ラ|ロ)ァー
+    - 他動詞: 弧を描くように投げる
+    - Assoc: テニスのロブ
+  - [right](https://ejje.weblio.jp/content/right), ゥレィト
+    - 副詞: まっすぐに、正確に
+  - ChatGPT訳: タイプによります。氷の悪魔は炎を嫌いますが、それは簡単な方です。Orthon（オーソン）は投射物が好きですが、彼らが好まないのは自分たちの爆弾が真っ向から投げ返されることです。
+- Karlach: Demons, on the other hand - every demon is absolutely singular. You can't _ever_ think you've got 'em typed out.
+  - [on the other hand](https://en.wiktionary.org/wiki/on_the_other_hand#Prepositional_phrase)
+    - 前置詞句: もう一方の観点から、他方では、これに反して
+  - [singular](https://en.wiktionary.org/wiki/singular#Adjective), スィ↑ン・ギュラァ
+    - 形容詞: 唯一無二の、個性的な、稀に見る、非凡な、奇妙な、珍しい、単数形の
+  - [out](https://ejje.weblio.jp/content/out), ア↑ゥト
+    - 副詞: 最後まで、すっかり、完全に
+    - コアイメージ: 内側から見た時は境界線の外に出ていくもの、外側から見た時は境界線からこちらに出てくるもの
+  - ChatGPT訳: 一方、デーモンは - すべてのデーモンは完全に独特です。あなたが彼らをタイプ化したと思ってもいけません。
+- Karlach: Sharp instincts, sharp weapons, and a knack for improvisation. That's the only way to survive 'em.
+  - [instinct](https://ejje.weblio.jp/content/instinct), イ↑ン・スティンクト
+    - 名詞: 直感、本能、勘
+  - [improvisation](https://ejje.weblio.jp/content/improvisation), イ↑ン・プロビ・ゼ↑イション
+    - 名詞: 即興、即座にやること、即席で作ったもの
+    - 動詞の improve には、直接はこのような意味はなさそう
+  - ChatGPT訳: 鋭い直感、鋭い武器、そして即興の才能。それが彼らを生き残る唯一の方法です。
+- Karlach: Anyway, what were we talking about?
+  - ChatGPT訳: とにかく、何の話をしていたっけ？
+- Tav: Come on, we're heading out.
+  - [head out](https://en.wiktionary.org/wiki/head_out)
+    - 自動詞: 先へ進む(=go on ahead)、出発する(=depart)、離れる(=leave)
+  - ChatGPT訳: さあ、出発しよう。
+- Karlach: Looks like your troop's all trooped up. You'll need to send someone packing if you want me to join.
+  - 先に同じ文章があったので、解説はそちらへ統合する
+- Tav: You can trade places with Wyll.
+  - ChatGPT訳: Wyllと交代できるよ。
+- Karlach: Let's hop!
+  - [hop](https://ejje.weblio.jp/content/hop), (ハ|ホ)ッ
+    - 自動詞: ウサギや鳥などがぴょんぴょん跳び回る、片足で跳ねる
+  - ChatGPT訳: さあ、行こう！
+
+### 21, Eliasis - 19:51 - Karlach, Tav
+
+Paladins of Tyrの面々を倒した直後に、Karlachの話が始まった
+
+- Karlach: Fuck them. Fuck _Zariel_. I won't go back. I'm never going back.
+  - ChatGPT訳: 彼らなんかにうんざりだ。ザリエルにもうんざり。戻らない。絶対に戻らない。
+- Karlach: And if any of mummy's little friends want to pick up where the others left off... they'll find nothing but a pile of ash.
+  - [mummy](https://ejje.weblio.jp/content/mummy), マ↑・ミィ
+    - 名詞: ミイラ、干からびたもの、やせこけた人、おかあちゃん
+    - 母もミイラも同じ綴りだったんだ... 本文では、おそらくZarielを指しているんだけど、どっちの意味だろう？
+  - [pick up](https://en.wiktionary.org/wiki/pick_up#Verb)
+    - 他動詞: 中断したことを再び始める(=resume)、再起動する(=restart)、引き継ぐ
+  - ChatGPT訳: もしもお母さんの小さな友達が他の人たちがやめたところを引き継ごうとしても... 彼らが見つけるのは灰の山だけだ。
+    - 「やめたところを引き継ぐ」の意味がやや不明瞭
+      - where が関係代名詞を目的語として取れる pick up の解釈が「引き継ぐ」くらいしかなさそうだから、直訳としては合ってそうだけども
+- Tav: Easy, Karlach. Those flames are getting _big_.
+  - ChatGPT訳: 落ち着いて、カーラック。その炎、大きくなってるよ。
+- Karlach: Not big enough. Now get out before you get hurt. _Now_.
+  - ChatGPT訳: 十分大きくない。今すぐ出て行って、怪我をしないうちに。今すぐに。
+  - この後、しばらくの間、Karlachが勝手に動き、炎を撒き散らしながら辺りを叩き壊し続けた
+
+### 21, Eliasis - 20:11 - Karlach, Tav
+
+Karlachがひとしきり暴れた後に話しかけた
+
+- Karlach: Felt good letting off a little steam after facing off with this ignots.
+  - [let off](https://en.wiktionary.org/wiki/let_off#Verb)
+    - 他動詞: 解放する、爆発する、飛び出す
+    - [let](https://ejje.weblio.jp/content/let), レット
+      - 他動詞: 液体や気体を出させる・漏らす
+  - ignot は一般的な単語ではなく、おそらくは ignorant の略
+    - [ignorant](https://ejje.weblio.jp/content/ignorant), イ↑グ・ノ・ラント
+      - 形容詞: 無学の、無知の、不作法な
+  - [face off](https://en.wiktionary.org/wiki/face_off#Verb)
+    - 他動詞: 対決する(=confront)
+    - [face](https://ejje.weblio.jp/content/face), フェイス
+      - 他動詞: ものが〜へ面する、人が〜へ向く、危難や災難へ立ち向かう
+  - ChatGPT訳: この無能な者と対峙した後で、少し蒸気を吹き出すのは気持ちが良かった。
+- Karlach: Granted the fire lasted a little longer than it should.
+  - [granted](https://en.wiktionary.org/wiki/granted#Adverb), グ(ラ|ア)ァンテッド
+    - 副詞: 対照的または競合する情報を述べる前にする承認や認識の表現、確かに
+      - Wiktionaryはこの分類だが、ChatGPTは接続詞と言ってた
+  - [last](https://ejje.weblio.jp/content/last), ラァスト
+    - 自動詞: 時間的に続く、持続する、存続する
+  - ChatGPT訳: 確かに、火は少し長く続いたかもしれない。
+- Tav: How could you withstand the heat?
+  - [withstand](https://ejje.weblio.jp/content/withstand), ウィズ・スタ↑ァンド
+    - 他動詞: 抵抗する、耐える
+  - ChatGPT訳: どうやってその暑さに耐えることができたのですか？
+- Karlach: Hear that? Infernal engine for a heart. Lets me burn as hot as the Hells. Seems to be running in overdrive since I left Avernus.
+  - [overdrive](https://en.wiktionary.org/wiki/overdrive#Noun), オ↑ゥーバー・ヂョラァイ
+    - 名詞: 活動が高まっている状態
+    - 本来は、少ない力で速度を出せるような状態にあるギアの設定のこと
+  - ChatGPT訳: 聞こえますか？地獄のように熱い、心臓の代わりに地獄のエンジンを持っています。アヴェルヌスを離れてから、オーバードライブで動いているようです。
+  - あれ、今いるところもAvernusではなかったっけ...?
+- Karlach: Won't be seeing my mechanic any time soon, so I'll just make the most of the extra heat. Just don't get too close 'til I've found a way to calm it down.
+  - [any time soon](https://en.wiktionary.org/wiki/any_time_soon#Adverb)
+    - 副詞: = soon
+  - [make the most of](https://en.wiktionary.org/wiki/make_the_most_of#Verb)
+    - 他動詞: 何かの価値を最大限に引き出す、何かから可能な限り多くの利益を出す
+    - 「〜の最大を作る」というイメージかな
+  - 'til = until
+  - ChatGPT訳: 私の整備士には会えそうにありませんので、余分な熱を最大限に活用することにします。落ち着かせる方法を見つけるまでは、あまり近づかないでください。
+- Tav: You have a mechanic for your heart?
+  - ChatGPT訳: あなたの心臓にメカニックがいるのですか？
+- Karlach: Wild, right? And believe it or not, I'm one of Zariel's _least_-mutilated pets.
+  - [wild](https://en.wiktionary.org/wiki/wild#Adjective), ワィルド
+    - 形容詞: やばい・すごい(=amazing, awesome)、信じられない(=unbelievable)
+  - [mutilate](https://ejje.weblio.jp/content/mutilate), ミューテレイト
+    - 他動詞: 損傷する、切断する、手足を切断する
+  - ChatGPT訳: 信じられないかもしれませんが、私はザリエルのペットの中で最も傷ついていない方の一人です。
+- Karlach: But it's a bit early in the game to be getting into tragic backstories. Let's save the scar-show for later, after we've worked up an appetite for tragedy.
+  - in the game
+    - イディオム: この状況で、現段階で
+      - ChatGPT以外に原典が見つからなかった、何となくイメージはできる
+  - [get into](https://en.wiktionary.org/wiki/get_into#Verb)
+    - 他動詞: ものの中へ移動して入る
+  - [tragic](https://ejje.weblio.jp/content/tragic), トラ↑ァ・ジェック
+    - 形容詞,限定用法: 悲劇的な、悲劇の
+  - [backstory](https://ejje.weblio.jp/content/backstory), バ↑ァック・ストォリィ
+    - 名詞: 生い立ち
+  - [scar](https://ejje.weblio.jp/content/scar), スカァ
+    - 名詞: 皮膚に残った傷跡、家具などの傷、心の傷
+  - [work up](https://en.wiktionary.org/wiki/work_up)
+    - 他動詞: 〜に興奮する(=excite), 〜を刺激・挑発する(=stir up), 〜を起こさせる(=raise)
+  - [appetite](https://ejje.weblio.jp/content/appetite), ア↑パタィト
+    - 名詞: 欲求、欲望、興味
+  - ChatGPT訳: でも、悲劇的なバックストーリーに入るには少し早いですね。悲劇に飢えた後で、傷の見せ合いをしましょう。
+- Karlach: Meanwhile, I'll need to find someone who can tune up my engine sooner rather than later. Believe me when I say this thing is _hot_.
+  - [meanwhile](https://ejje.weblio.jp/content/meanwhile), ミィ↑ン・ワィル
+    - 副詞: 2つのことが同時に起こる間に
+  - [tune up](https://en.wiktionary.org/wiki/tune_up#Verb)
+    - 他動詞: 性能を向上するためにエンジンなどを調整する、激しい運動の準備をする、演奏に備えて楽器を調律する
+    - [tune](https://ejje.weblio.jp/content/tune), チュ↑ゥン
+      - 他動詞: 調律する、調整する、一致・適合・調和させる
+  - ChatGPT訳: その間、私は早めにエンジンをチューニングしてくれる人を見つける必要があります。信じてください、このマシンは本当に熱いんです。
+- Karlach: The first time I faced down those 'paradins,' they let slip there was an infernal mechanic in the area. A tiefling. He might be able to stabilise things - if I can find him.
+  - [face down](https://en.wiktionary.org/wiki/face_down#Verb)
+    - 他動詞: 立ち向かう(=confront)
+  - 'paradins,' のカンマの位置は何？
+    - おそらくは、 'paradins', のTypoなのではないか
+  - [let slip](https://en.wiktionary.org/wiki/let_slip#Verb)
+    - 他動詞: 偶然や過ちなどで秘密を漏らす
+    - 動詞と動詞の組み合わせの句動詞！
+  - [stabilise](https://ejje.weblio.jp/content/stabilise), スティ(バ|ブ)・ラァイズ
+    - = stabilize
+    - [stabilize](https://ejje.weblio.jp/content/stabilize), スティ(バ|ブ)・ラァイズ
+      - 他動詞: 安定させる、固定させる
+  - ChatGPT訳: 最初にあの「パラディンズ」に立ち向かった時、この地域に地獄のメカニックがいると彼らがぽろっと言っていました。ティーフリングの。彼なら物事を安定させることができるかもしれません - もし見つけられたら。
+- Tav: Wonder if they meant Dammon - a tiefling weaponsmith.
+  - [wonder](https://ejje.weblio.jp/content/wonder), (ウ|ワ)ォンダァ
+    - 自動詞: 〜かと思う・不審に思う
+  - ChatGPT訳: 彼らがダモンのことを言っていたのかな - ティーフリングの武器職人。
+- Karlach: A weaponsmith, huh? Not sure if he's the guy, but I'd love to find out. A tune-up would do this rusty heart a world of good.
+  - do a world of good
+    - イディオム: 誰かをより幸せに・良くする
+  - ChatGPT訳: 武器職人、か。彼がその人かどうかはわかりませんが、確かめてみたいですね。チューンアップは、このさびついた心にとって非常に良いことでしょう。

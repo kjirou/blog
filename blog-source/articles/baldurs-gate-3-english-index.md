@@ -19,7 +19,7 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
 ### 本編
 
 - [1冊目](./baldurs-gate-3-english-part-1.html), [2冊目](./baldurs-gate-3-english-part-2.html), [3冊目](./baldurs-gate-3-english-part-3.html), [4冊目](./baldurs-gate-3-english-part-4.html), [5冊目](./baldurs-gate-3-english-part-5.html), [6冊目](./baldurs-gate-3-english-part-6.html), [7冊目](./baldurs-gate-3-english-part-7.html), [8冊目](./baldurs-gate-3-english-part-8.html), [9冊目](./baldurs-gate-3-english-part-9.html), [10冊目](./baldurs-gate-3-english-part-10.html)
-- [11冊目](./baldurs-gate-3-english-part-11.html), [12冊目](./baldurs-gate-3-english-part-12.html), [13冊目](./baldurs-gate-3-english-part-13.html), [14冊目](./baldurs-gate-3-english-part-14.html), [15冊目](./baldurs-gate-3-english-part-15.html), [16冊目](./baldurs-gate-3-english-part-16.html), [17冊目](./baldurs-gate-3-english-part-17.html)
+- [11冊目](./baldurs-gate-3-english-part-11.html), [12冊目](./baldurs-gate-3-english-part-12.html), [13冊目](./baldurs-gate-3-english-part-13.html), [14冊目](./baldurs-gate-3-english-part-14.html), [15冊目](./baldurs-gate-3-english-part-15.html), [16冊目](./baldurs-gate-3-english-part-16.html), [17冊目](./baldurs-gate-3-english-part-17.html), [18冊目](./baldurs-gate-3-english-part-18.html)
 
 ### その他
 
@@ -93,6 +93,8 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
       - BG用語
         - Baldur's Gate世界の用語、または、ゲームシステムの用語
     - その他
+      - Assoc
+        - 単語を覚えるための、連想できることの追記
       - ChatGPT訳
         - ChatGPT4へ本文を少なくとも文単位で渡して日本語訳したときの回答のコピー、こちらで手修正はしない
       - Ref
