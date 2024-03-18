@@ -75,3 +75,19 @@ Emerald Groveの高台に居て、近くまで寄ることができなかったT
   - [look forward to](https://en.wiktionary.org/wiki/look_forward_to#Verb)
     - 他動詞: 楽しみに待つ(=anticipate)、期待する(=expect)
   - ChatGPT訳: 楽しみにしています。
+
+### 21, Eliasis - 3:36 - Dammon, Karlach, Tav
+
+Karlachの胸の装置を調整してもらうために、Dammonの元へ訪れた
+
+- Dammon:
+- Karlach:
+- Karlach:
+- Dammon:
+- Karlach:
+- Dammon:
+- Karlach:
+- Dammon:
+- Dammon:
+- Dammon:
+- Karlach:
