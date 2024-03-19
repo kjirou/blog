@@ -257,3 +257,16 @@ Karlachへイベント会話が発生していたので、話しかけた
 ### 21, Eliasis - 5:28 - Shadowheart
 
 イベント発生後は編成中の仲間へ話しかけるようにした
+
+- Shadowheart: Karlach's temper is a sight to behold. She'll need to be careful, or that rage will burn her right out.
+  - [temper](https://ejje.weblio.jp/content/temper), テ↑ン・パー
+    - 名詞: 短気、かんしゃく、気分、機嫌、気性
+    - temperature の略で temper とは言わない、その時は temp
+  - [behold](https://en.wiktionary.org/wiki/behold#Verb), ビ↑・ホールド
+    - 他動詞: 見つめる、感謝の意味を込めて見る
+  - a sight to behold の意味は？
+    - 「見つめる価値がある」だが、意訳だと思う
+    - sight や behold 自体には、「価値がある」という意味はない
+  - ChatGPT訳: カーラックの気性は目を見張るものがある。彼女は注意しなければならない、その怒りは彼女をすぐに消耗させてしまうだろう。
+    - burn her right out は、物理的に「焼き尽くす」の方が正しそう
+      - Karlach のような特殊な事情がなければ、気分的に「消耗し尽くす」とぃう解釈になる
