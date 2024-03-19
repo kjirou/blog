@@ -270,3 +270,36 @@ Karlachへイベント会話が発生していたので、話しかけた
   - ChatGPT訳: カーラックの気性は目を見張るものがある。彼女は注意しなければならない、その怒りは彼女をすぐに消耗させてしまうだろう。
     - burn her right out は、物理的に「焼き尽くす」の方が正しそう
       - Karlach のような特殊な事情がなければ、気分的に「消耗し尽くす」とぃう解釈になる
+
+### 21, Eliasis - 5:29 - Gale
+
+仲間へ話しかけた
+
+- Gale: How can I help?
+- Tav: I was wondering, that condition of yours, _why_ does it require magic?
+- Gale: Think of it as... tribute. The kind a king might pay to a more powerful neighbour to avoid invasion.
+  - [tribute](https://ejje.weblio.jp/content/tribute), トリ・ビュート
+    - 名詞: 貢物、年貢、贈り物、捧げ物
+  - The kind (that) (a king ~ invasion).
+    - [invasion](https://ejje.weblio.jp/content/invasion), イン・ベ↑イジョン
+      - 名詞: 侵略、侵入、侵害
+  - ChatGPT訳: それを…贈り物だと思ってください。王様がより強力な隣国に侵略を避けるために支払うような。
+- Gale: As long as I pay there will peace. But should I ever stop, along comes a war.
+  - [peace](https://ejje.weblio.jp/content/peace), ピース
+    - 名詞: 平和、平穏、無事、安心、秩序、治安
+    - または形容詞、動詞の用法はない
+  - there will (be) peace
+  - should が if のようになるときの復習
+    - if S should = should I である、この時は「万が一そうなったら」という意味。仮定法の should という。
+    - if S should が「万が一」という意味を持つ理由は、調査したけどわからなかった
+      - should の「違うけど〜であるべき」が、 if でねじれてる説はあったが、理解できなかった
+        - Ref: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14107698479
+  - ChatGPT訳: 支払いが続けば平和が保たれます。しかし、もし支払いを止めたら、戦争がやってきます。
+- Gale: I can assure you the battlefield would extend well beyond the borders of my body alone.
+  - [alone](https://ejje.weblio.jp/content/alone), ア・ロォン
+    - 副詞: ただ〜だけ、単に〜だけ
+    - コアイメージ: 人やものが他のそれから離れて孤立している様
+  - [well](https://ejje.weblio.jp/content/well), ウェルゥ
+    - 副詞: かなり、ずっと
+  - ChatGPT訳: 私の体の境界を遥かに超える戦場になることを保証できます。
+- Tav: _Leave_.
