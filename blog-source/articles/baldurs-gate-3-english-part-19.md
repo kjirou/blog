@@ -217,3 +217,43 @@ Karlachの胸の装置を調整してもらうために、Dammonの元へ訪れ�
   - ChatGPT訳: バルダーズ・ゲートでまた会おう。私が自分の価値を証明できていれば、その時までには何か思いついているはずだ。
 - Dammon: Take care, Karlach. And hopefully the next time I see you, I'll have something promising to report. Pocket any infernal iron you find along the way, hmm?
   - ChatGPT訳: それでは気をつけて、カーラック。そして、次に会うときには、有望な報告ができることを願っている。途中で地獄の鉄を見つけたら、持ってきてくれるといいな、うん？
+
+### 21, Eliasis - 5:16 - Karlach, Tav
+
+Karlachへイベント会話が発生していたので、話しかけた
+
+- Karlach: Dammon's upgrade didn't cool me down, but it did juice me up.
+  - [juice up](https://en.wiktionary.org/wiki/juice_up)
+    - 他動詞: 充電する(=charge up)、みなぎらせる(=charge)
+  - ChatGPT訳: ダモンのアップグレードで涼しくはならなかったけど、エネルギーはみなぎってきたよ。
+- Karlach: I don't think I've ever felt more powerful.
+  - [ever](https://ejje.weblio.jp/content/ever), エ↑・ヴァ
+    - 副詞: かつて、これまでに
+      - 疑問文・否定文・比較級・最上級のときの用法
+        - 条件文なら「いつか」「いずれ」という未来を示す意味になる
+  - [think](https://ejje.weblio.jp/content/think), スィンク
+    - 他動詞: 予期する、予想する
+      - 通常は否定文での用法
+  - ChatGPT訳: こんなに力強く感じたことはなかったな。
+- Tav: We'll find more infernal iron and get you that second upgrade, too.
+  - ChatGPT訳: もっと地獄の鉄を見つけて、君にその二つ目のアップグレードを施そう。
+- Karlach: Sooner rather than later would be good. I feel like I'm burning _serious_ fuel.
+  - [serious](https://ejje.weblio.jp/content/serious), シリ・アス
+    - 形容詞: 深刻な、重大な、真面目な
+  - ChatGPT訳: 早ければ早いほどいい。本気で燃料を消費している感じがする。
+    - serious の「本気の」は、ここではおそらく「かなり多くの」の意味
+- Tav: Will you be all right?
+  - ChatGPT訳: 大丈夫かい？
+- Karlach: Oh fuck yes. I'm ready to burn all night.
+  - ChatGPT訳: ああ、もちろん。一晩中燃え尽きる準備はできてる。
+- Karlach: Speaking of, I could eat a giant badger. Is it almost time for dinner?
+  - [speaking of](https://en.wiktionary.org/wiki/speaking_of)
+    - 副詞: そういえば、関連して〜と言えば
+      - 通常は目的語をとって、 speaking of him で「そういえば彼といえばさー」、のように使う
+  - [badger](https://ejje.weblio.jp/content/badger), バ↑ァ・ジョ
+    - 名詞: アナグマ、アナグマの毛皮
+  - ChatGPT訳: それにしても、巨大なアナグマでも食べたい気分だ。もうすぐ夕食の時間かい？
+
+### 21, Eliasis - 5:28 - Shadowheart
+
+イベント発生後は編成中の仲間へ話しかけるようにした
