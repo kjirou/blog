@@ -303,3 +303,46 @@ Karlachへイベント会話が発生していたので、話しかけた
     - 副詞: かなり、ずっと
   - ChatGPT訳: 私の体の境界を遥かに超える戦場になることを保証できます。
 - Tav: _Leave_.
+
+### 21, Eliasis - 5:38 - Shadowheart
+
+仲間へ話しかけた
+
+- Shadowheart: All's well, I hope? Aside from the obvious?
+  - [aside from](https://en.wiktionary.org/wiki/aside_from#Preposition)
+    - 前置詞: 除いて(=excluding)、例外として(=with the exception of)
+    - [aside](https://ejje.weblio.jp/content/aside), ア・サァイド
+      - 副詞: 脇へ、傍へ、離れて
+  - [obvious](https://ejje.weblio.jp/content/obvious), オ↑ー・ッビアス
+    - 形容詞: 疑問の余地がないほど明らかな、明白な
+  - ChatGPT訳: 全て順調ですか？明らかなことを除いて。
+    - 前半は直訳で「全て順調なことを私は願っていますが、どうですか？」
+- Tav: There's something you're not telling me - I'm sure of it.
+- Shadowheart: I don't know what you mean.
+- Tav: That ruined Selûne statue - it made you hesitate.
+  - [ruined](https://ejje.weblio.jp/content/ruined), ルイント
+    - 形容詞: 破滅した、荒廃した、没落した
+  - [hesitate](https://ejje.weblio.jp/content/hesitate), ヘ(ズ|ジ)テイト
+    - 自動詞: ちゅうちょする、二の足をふむ
+  - ChatGPT訳: その破壊されたセルーネの像 - それがあなたを躊躇させました。
+- Shadowheart: It's nothing. Really.
+  - [nothing](https://ejje.weblio.jp/content/nothing), ナ↑ッスィング
+    - 代名詞: 何もない、少しもない
+  - ChatGPT訳: 何でもありません。本当に。
+- Tav: We have to be honest with each other. What is it you're keeping from me?
+  - [keep from](https://en.wiktionary.org/wiki/keep_from)
+    - 他動詞: 〜から秘密にする、〜へ秘密を作る
+      - keep from O(=秘密にする対象)
+  - ChatGPT訳: お互いに正直でなければなりません。何を私から隠しているのですか？
+- Charisma (Persuasion) Successful: Tav
+- Shadowheart:
+- Shadowheart:
+- Shadowheart:
+- Shadowheart:
+- Tav:
+- Shadowheart:
+- Shadowheart:
+- Shadowheart:
+- Shadowheart:
+- Shadowheart:
+- Tav:
