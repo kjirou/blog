@@ -80,14 +80,140 @@ Emerald Groveの高台に居て、近くまで寄ることができなかったT
 
 Karlachの胸の装置を調整してもらうために、Dammonの元へ訪れた
 
-- Dammon:
-- Karlach:
-- Karlach:
-- Dammon:
-- Karlach:
-- Dammon:
-- Karlach:
-- Dammon:
-- Dammon:
-- Dammon:
-- Karlach:
+- Dammon: Thought I sensed an infernal around here. But you aren't from Elturel. What's your story?
+  - ChatGPT訳: この辺に地獄の者がいると感じたよ。でも、お前はエルテュレル出身じゃないな。お前の話は何だ？
+- Karlach: I spent a good bit of time in the Hells. Enlisted against my will by the archdevil Zariel. Same as you, I suppose, if you're from Elturel.
+  - [good](https://ejje.weblio.jp/content/good), グ↑ゥド
+    - 形容詞: 強調の意味、かなり、相当に
+      - 形容詞に先行して副詞的に使う用法
+  - ChatGPT訳: 地獄でかなりの時間を過ごした。ザリエルという大悪魔に無理やり従軍させられたんだ。お前もエルテュレル出身なら、同じだろう。
+- Karlach: The devils were delighted when your city was swallowed up. I thought they had you for keeps. Glad you got out.
+  - [delight](https://ejje.weblio.jp/content/delight), ディ・ラ↑イト
+    - 他動詞: 〜を大いに喜ばせる・嬉しがらせる
+      - delight O(=人)
+  - [swallow](https://ejje.weblio.jp/content/swallow), スヮ・ロウ
+    - 他動詞: 飲食物をぐっと飲む・飲み込む
+  - [for keeps](https://en.wiktionary.org/wiki/for_keeps#Prepositional_phrase)
+    - 前置詞句: 永久に保持して、合意の元に受け取って
+      - keeps は名詞だが、この用法でしか使わない特例
+  - ChatGPT訳: お前の街が飲み込まれたとき、悪魔たちは喜んでいた。お前たちを完全に手中に収めたと思っていたよ。脱出できてよかった。
+- Dammon: I got lucky. It looks like you did too. And... you brought some infernal machinery with you.
+  - [machinery](https://ejje.weblio.jp/content/machinery), マ・シーヌァリィ
+    - 名詞: 機械、機構
+  - ChatGPT訳: 運が良かったね。君もそうみたいだね。そして…地獄の機械を連れてきたな。
+- Karlach: A little gift from Zariel. Keeps me burning hot.
+  - ChatGPT訳: ザリエルからの小さな贈り物だ。熱く燃えてる。
+    - Keeps me burning hot. は、直訳で「私を熱く燃やしている」
+- Dammon: _Very_ hot, by the smell of it. Might be burning out a piston ring - or leaking oil. Mind if I take a listen?
+  - [burn out](https://en.wiktionary.org/wiki/burn_out#Verb)
+    - 他動詞: 炎により破壊する
+    - 自動詞で「燃料がなくなって消える」もある
+  - [leak](https://ejje.weblio.jp/content/leak), リィク
+    - 他動詞: 水や空気を漏らす
+    - 自動詞で「漏る」と言う意味もある
+    - Assoc: リーク情報
+  - ChatGPT訳: 匂いからすると、本当に熱いな。ピストンリングが焼き切れてるか、オイルが漏れてるかもしれない。聞いてみてもいいかい？
+- Karlach: Be my guest. But don't get too close, or your eyes'll melt shut.
+  - [or](https://ejje.weblio.jp/content/or), オ↑ーァ
+    - 接続詞: さもなくば、さもないと
+      - 命令文の後に用いるときの微妙な意味の変化
+  - [melt](https://ejje.weblio.jp/content/melt), メゥト
+    - 自動詞: 溶ける
+      - 標準的には補語は取らない、本文は「溶け塞がる」のようなイメージ
+  - [shut](https://ejje.weblio.jp/content/shut), シ↑ャット
+    - shut - shut - shut
+    - 自動詞: ドアや窓が閉まる・塞がる
+  - ChatGPT訳: どうぞ。だけど、近づきすぎないで。目が溶けてしまうからな。
+- Dammon: Phew! You really _are_ burning up. Whoever put that engine together tried to house metallurgised demono-valves inside a ra-gnax alloy casement. _Very_ risky.
+  - [phew](https://ejje.weblio.jp/content/phew), ピウ
+    - 間投詞: 口笛に似たような音の表現、驚きを表す
+  - [burn up](https://en.wiktionary.org/wiki/burn_up#Verb)
+    - 自動詞: 過度に熱くなる
+  - metallurgised demono-valves, ra-gnax casement とは？
+    - Steel watcherというクリーチャーの工法や部品を指すよう
+      - Steel watcher
+        - BG用語,名詞: 命を吹き込まれた大きな金色の鎧の姿、Baldur's Gateで発見された、 infernal iron が使われている
+          - Ref: https://forgottenrealms.fandom.com/wiki/Steel_watcher
+    - 一般的に metallurgised という単語はないが、 metallurgical 「冶金学の」という単語が似ている
+  - [house](https://ejje.weblio.jp/content/house), ハァウス
+    - 他動詞: ものをしまう・収納する
+  - [alloy](https://ejje.weblio.jp/content/alloy), ア↑・ロイ
+    - 名詞: 合金
+  - [risky](https://ejje.weblio.jp/content/risky), ゥリィスキィ
+    - 形容詞: 危険な、冒険的な
+  - ChatGPT訳: ふう！本当に熱いな。そのエンジンを組み立てたやつは、メタル化されたデモノバルブをラグナックス合金のケースに収めようとした。非常にリスキーだ。
+    - オタクの早口だわ
+- Dammon: I might be able to help, but I'd need infernal iron. And a prayer that my hammer'll survive the work.
+  - ChatGPT訳: 助けられるかもしれないけど、地獄の鉄が必要だ。そして、私のハンマーが作業を生き延びることを祈る必要がある。
+- Dammon: That thing isn't meant to operate outside Avernus. I'm not sure how much longer it'll keep running, the way it's going.
+  - [mean](https://ejje.weblio.jp/content/mean), ミィン
+    - 他動詞: 〜することを意味する・意図する
+    - コアイメージ: 何かが何かを意味する
+  - [way](https://ejje.weblio.jp/content/way), ウェィィ
+    - 名詞: 方法、手段
+  - the way it's going とは？
+    - 「その方法が続くと」
+    - go は自動詞「なる」が現在進行形になると、「なり続く」つまり「続く」という意味になるんだと思う
+  - ChatGPT訳: その装置はアヴェルヌスの外で動かすために作られていない。今のままだと、どれくらい持つかわからない。
+- Karlach: Will you be able to turn down the temperature a little? Worried I'm gonna go in for a handshake and singe someone's arm off one of these days.
+  - [go in for](https://en.wiktionary.org/wiki/go_in_for#Verb)
+    - 他動詞: 参加する(=take part)、従事する(=engage)
+  - [singe](https://ejje.weblio.jp/content/singe), スィンジ
+    - 他動詞: 表面を焼く、焦がす、鳥や豚の毛焼きをする
+  - singe someone's arm off の off の意味は？
+    - ChatGPTによると、 singe は総じて軽く焼くイメージだが、 off をつけることで「対象を焼き落とす」ような、強調の意味になる
+  - ChatGPT訳: 温度を少し下げることはできる？いつか誰かと握手をする際に、相手の腕を焼きつけてしまうのではないかと心配だ。
+- Dammon: I'd worry about surviving the night first. But help one, help both: if we can cool you off, it'll stabilise your engine _and_ allow you to touch whomever you please.
+  - ChatGPT訳: まずは今夜生き延びることを心配したほうがいい。しかし、助けることは一つにつき二つの助けになる：君を冷やすことができれば、エンジンを安定させるだけでなく、好きな人に触れることもできるようになる。
+- Karlach: Hey soldier - I think we picked up some of that infernal iron already. What say you - should I give it to him?
+  - ChatGPT訳: やあ、兵士さん - もう、その地獄の鉄を手に入れたと思うんだ。どう思う？ 彼にそれを渡すべきかな？
+- Tav: Absolutely - let's see what he can do.
+  - ChatGPT訳: もちろん - 彼が何ができるか見てみよう。
+- Karlach: _Please_ let this work...
+  - ChatGPT訳: うまく行きますように...
+- Dammon: Mm. The weight of it. And that blaze of _chaos_. Can't imagine this where my heart should be. Must be quite the experience.
+  - [blaze](https://ejje.weblio.jp/content/blaze), ブレェイズ
+    - 名詞: 激しい炎、火炎、閃光、強い輝き
+  - [quite](https://ejje.weblio.jp/content/quite), クウェイト
+    - 副詞: 並外れた、大した
+      - quate {形容詞なしの名詞} の用法
+  - ChatGPT訳: うむ。その重みと、その混沌とした炎。心臓があるべき場所にこれがあるなんて想像もできない。なかなかの体験になるだろうね。
+- Dammon: Give me just a moment... and I think...
+  - ChatGPT訳: ちょっと待ってくれ…そして、私は思う…
+- Dammon: There. You'll have to install it, I'm afraid. I don't think there are thick enough gloves in all the realms to protect from that kind of heat.
+  - [I'm afraid so](https://en.wiktionary.org/wiki/I%27m_afraid_so#Phrase)
+    - 慣用句: 残念ながらそう思う、そうであることを残念に思う
+    - I'm afraid が「申し訳ありませんが」「恐れ入りますが」なのは、どちらかというと上記の意味が先にありそう
+      - 単に恐縮の意味ではなく、逆説の意味が含まれているから
+  - ChatGPT訳: そこだ。恐れ入るが、君がインストールしないといけない。その種の熱から守るのに十分な厚さの手袋が全ての領域にあるとは思えないんだ。
+- Karlach: That feels... _good_. I'm still burning hot as hell's hole, but I feel less... changeable. Cheers, mate.
+  - [changeable](https://ejje.weblio.jp/content/changeable), チェィンジャボゥ
+    - 形容詞: 変わりやすい、変えられる
+  - ChatGPT訳: それは…いい感じだ。まだ地獄の穴のように熱いけど、以前よりも…変わりやすくはない。乾杯、友よ。
+- Dammon: Pleasure. And as for the heat, I haven't got any solutions now, but I'm not giving up. Could be if the combustion chamber had its own insulation, or if we had some kind of enchanted coolant...
+  - [combustion chamber](https://en.wiktionary.org/wiki/combustion_chamber)
+    - 名詞: 熱機関内の密閉空間、燃焼室
+    - [combustion](https://ejje.weblio.jp/content/combustion), コン・バス・チョン
+      - 名詞: 燃焼
+    - [chamber](https://ejje.weblio.jp/content/chamber), チェィン・バ
+      - 名詞: 部屋、室、寝室、会議場、議会、議院
+  - [insulation](https://ejje.weblio.jp/content/insulation), インス・レ↑イション
+    - 名詞: 断熱材、絶縁体
+  - [enchant](https://ejje.weblio.jp/content/enchant), エン・チャァント
+    - 他動詞: 魔法をかける、魔法をかけたかのようにうっとりさせる
+  - [coolant](https://ejje.weblio.jp/content/coolant), ク↑ゥ・ラント
+    - 名詞: エンジンの冷却剤
+  - ChatGPT訳: 喜びだよ。そして、暑さに関しては今は解決策がないけれど、諦めてはいない。燃焼室が自身の断熱材を持っていたり、何らかの魔法の冷却剤があればいいのにね…
+- Dammon: Find me again in Baldur's Gate. If I'm worth my salt, I'll have figured something out by then.
+  - [worth one's salt](https://en.wiktionary.org/wiki/worth_one%27s_salt#Adjective)
+    - 形容詞: 特に自分の職業において有能な・熟達した、給料分だけの働きがある
+      - 由来は、塩が貴重な時代に、給料を塩で払っていたこと
+        - Ref: https://eikaiwa.weblio.jp/column/phrases/handy_english_phrases/idioms-of-salt#i-2
+    - Assoc: salary
+  - [figure out](https://en.wiktionary.org/wiki/figure_out#Verb)
+    - 他動詞: 解決策を見つける、理解するようになる、推測する(=deduce)
+    - [figure](https://ejje.weblio.jp/content/figure), フ↑ィ・ギュア
+      - 他動詞: 〜を彫刻や絵画や図形に表す
+  - ChatGPT訳: バルダーズ・ゲートでまた会おう。私が自分の価値を証明できていれば、その時までには何か思いついているはずだ。
+- Dammon: Take care, Karlach. And hopefully the next time I see you, I'll have something promising to report. Pocket any infernal iron you find along the way, hmm?
+  - ChatGPT訳: それでは気をつけて、カーラック。そして、次に会うときには、有望な報告ができることを願っている。途中で地獄の鉄を見つけたら、持ってきてくれるといいな、うん？
