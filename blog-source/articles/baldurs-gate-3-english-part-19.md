@@ -397,23 +397,120 @@ Karlachへイベント会話が発生していたので、話しかけた
     - 副詞: 少しも〜でない(=not in the slightest, not in the least)
   - ChatGPT訳: あなたにこれを隠していたことを、少しも後悔していないわ。
 - Shadowheart: Though perhaps that might change, if you can show an open mind.
+  - ChatGPT訳: それは変わるかもしれない、あなたが心を開いていることを示せば。
 - Tav: Let's see how open-minded I can be then: tell me more.
+  - ChatGPT訳: それでは、どれだけ心を開けるか見てみましょう：もっと教えてください。
 - Shadowheart: All right. As I said, Shar is my patron, my mistress. Goddess of darkness and loss.
+  - ChatGPT訳: わかりました。言った通り、Sharが私の守護者、私の女主人です。闇と喪失の女神です。
 - Shadowheart: I assume you've heard of her?
+  - ChatGPT訳: 彼女のことは聞いたことがありますか？
+    - 言う側は対象がある程度知識があると見込んでいる
 - Tav: Remind me.
+  - ChatGPT訳: 思い出させてください。
 - Shadowheart: My Lady Shar is the Nightsinger. The patron of darkness and loss.
+  - ChatGPT訳: 私の女神シャーは夜の歌姫です。暗闇と喪失の守護者です。
 - Tav: Fascinating. Please, continue.
+  - [fascinating](https://ejje.weblio.jp/content/fascinating), ファ↑ッシ・ニーティング
+    - 形容詞: すごく面白い、魅惑的な
+    - [fascinate](https://ejje.weblio.jp/content/fascinate), ファ↑ッスィ・ネイト
+      - 他動詞: 魅惑する、悩殺する
+      - Assoc: サガフロの術のファッシネイション
+  - ChatGPT訳: 興味深いです。どうぞ続けてください。
 - Shadowheart: Most fear the dark, like chilren, because in darkness they see their fears reflected.
+  - ChatGPT訳: 多くの人が子供のように暗闇を恐れます。なぜなら、暗闇の中で彼らは自分の恐怖を映し出しているからです。
 - Shadowheart: But Shar teaches us to step beyond fear. Beyond loss. In darkness we do not hide - we act.
+  - [step](https://ejje.weblio.jp/content/step), ステッ
+    - 自動詞: 一歩踏みだす、歩く、行く、進む
+      - 本文の to step beyond fear は、直訳で「恐怖を超える一歩を踏みだすこと」
+  - ChatGPT訳: しかしシャーは私たちに恐怖を超えること、喪失を超えることを教えます。暗闇の中で私たちは隠れません - 私たちは行動します。
 - Shadowheart: Pain. Hope. The promise of better days. All of these are heavy cloaks that bend our backs and burden our hearts.
+  - [bend](https://ejje.weblio.jp/content/bend), ベェ↑ンド
+    - 他動詞: 板や金属などの比較的硬いものを曲げる
+  - [back](https://ejje.weblio.jp/content/back), バァック
+    - 名詞: 背、背中
+  - [burden](https://ejje.weblio.jp/content/burden), (バ|ボ)ーデン
+    - 他動詞: 〜へ荷を負わせる、〜へ負担をかける
+      - burden O(=負わせる対象)
+  - ChatGPT訳: 痛み。希望。より良い日々の約束。これらすべては私たちの背を曲げ、心に重荷をかける重いマントです。
 - Shadowheart: We shed those cloaks. Before Shar we stand gloriously naked, beyond the vanities of mortals.
-- Tav:
-- Shadowheart:
-- Shadowheart:
-- Shadowheart:
-- Tav:
-- Shadowheart:
-- Shadowheart:
-- Shadowheart:
-- Tav:
+  - [shed](https://ejje.weblio.jp/content/shed), シェッド
+    - 他動詞: 衣服を脱ぎ捨てる、皮や毛や羽を自然に落とす、血や涙を流す・こぼす
+  - [gloriously](https://ejje.weblio.jp/content/gloriously), グロ↑リアスリィ
+    - 副詞: 栄光で、壮麗に、すばらしく
+    - [glory](https://ejje.weblio.jp/content/glory), (グ|ゴ)ォリィ
+      - 名詞: 栄光、名誉
+  - [naked](https://ejje.weblio.jp/content/naked), ネィキッ
+    - 形容詞: 裸の、裸体の、毛や鱗がない、無防備の
+  - [vanity](https://ejje.weblio.jp/content/vanity), ヴァニティ
+    - 名詞: 虚栄心、うぬぼれ、空虚、むなしさ
+  - ChatGPT訳: 私たちはそれらのマントを脱ぎ捨てます。シャーの前で、私たちは凡人の虚栄を超えた栄光に裸で立ちます。
+    - gloriously は naked を修飾しているので、「栄光に満ちた裸で立ちます」の方が正しい
+- Tav: How exactly do Shar worshippers turn people to their goddess?
+  - [turn](https://ejje.weblio.jp/content/turn), (タ|ト)ゥーン
+    - 他動詞: 人の心を他へ向けさせる
+      - turn O(=人)
+    - turn 自体に「信仰を変えさせる」「改宗させる」という意味まではない
+  - ChatGPT訳: シャール信者はどのようにして人々を自分たちの女神に向かわせるのですか？
+- Shadowheart: We tear down the lies the world is drunk on: the institutions they trust, the so-called gods they worship. The lives they cling to.
+  - [tear down](https://en.wiktionary.org/wiki/tear_down#Verb)
+    - 他動詞: 粉砕する・取り壊す(=demolish)
+  - [drunk](https://en.wiktionary.org/wiki/drunk#Adjective), (ド|デュ)ランク
+    - 形容詞: 過度のアルコール摂取により酔った・酩酊した、高揚した、大胆な
+    - [drink](https://ejje.weblio.jp/content/drink), (ド|デュ)リンク
+      - 他動詞: 飲み物を飲む、酒を飲む
+      - drink 自体に「酔う」という意味はない
+  - [institution](https://ejje.weblio.jp/content/institution), イン・スティ・ト↑ゥーション
+    - 名詞: 機関、学会、公共施設、制度、法令
+  - [cling](https://ejje.weblio.jp/content/cling), (カ|ク)リング
+    - 自動詞: 執着する、くっつく、手足でしがみつく
+    - Assoc: clinch
+  - ChatGPT訳: 私たちは、世界が酔っている嘘を壊します：彼らが信頼する機関、彼らが崇拝するいわゆる神々、彼らがしがみついている生活。
+- Shadowheart: We destroy false idols, topple corrupt organisations, fight heretics wherever they're found.
+  - [topple](https://ejje.weblio.jp/content/topple), タ↑ァッポォ
+    - 他動詞: 倒す、ぐらつかせる
+  - [corrupt](https://ejje.weblio.jp/content/corrupt), コ・ラ↑ァプト
+    - 形容詞: 道徳的に堕落した、不道徳な、邪悪な
+  - [heretic](https://ejje.weblio.jp/content/heretic), ヘ↑レティック
+    - 名詞: 異教徒、異端者、異説を唱える人
+  - [wherever](https://ejje.weblio.jp/content/wherever), ウェア・エヴァ
+    - 接続詞: 〜するならどこへでも・いつでも
+  - ChatGPT訳: 私たちは偽の偶像を破壊し、腐敗した組織を倒し、どこにいても異端者と戦います。
+- Shadowheart: There's often suffering - death even. Many people break before they embrace Shar's truths.
+  - [break](https://ejje.weblio.jp/content/break), ブレイク
+    - 自動詞: 壊れる、砕ける
+  - [embrace](https://ejje.weblio.jp/content/embrace), エン・ブレイス
+    - 他動詞: 教義などを取り入れる、申し出などに喜んで応ずる
+  - ChatGPT訳: 多くの場合、苦しみがあります - 死でさえ。多くの人々がシャールの真実を受け入れる前に壊れてしまいます。
+- Tav: I'd be lying if I said it didn't sound convincing. You should tell me more some time.
+  - [convincing](https://ejje.weblio.jp/content/convincing), (カ|コ)ン・ビン・シング
+    - 形容詞: 説得力がある、納得のいく、なるほどと思わせる
+    - [convince](https://ejje.weblio.jp/content/convince), (カ|コ)ン・ビンス
+      - 他動詞: 確信させる、納得させる
+  - some time は sometime と違うの？
+    - some time は「ある程度の時間」という時間の長さを指定していて、 sometime は時点、だから全然違う
+    - 本文で混乱したのは、時点が入りそうなところに時間の長さが入っているからで、これは「いつかある時間をとって」という約束のような意味になっている
+  - ChatGPT訳: 説得力があると言わずにはいられない。いつかもっと教えてほしい。
+  - 好感度がね、これを選ぶと上がるんや...
+- Shadowheart: You're wiser than most. Many people balk at our doctrine - it's the reason why we cherish secrecy.
+  - [balk](https://ejje.weblio.jp/content/balk), ボ↑ーク
+    - 他動詞: 人や行動を妨げる・妨害する
+    - Assoc: 野球のボーク
+  - [doctrine](https://ejje.weblio.jp/content/doctrine), ドォク・トリン
+    - 名詞: 教義、方針、理論、宗教や政治や学問上の主義
+  - [cherish](https://ejje.weblio.jp/content/cherish), チ↑ェリッシュ
+    - 他動詞: 大事にする、子供やものを可愛がる、望みや信仰や恨みなどを心に抱く
+  - ChatGPT訳: あなたは大多数より賢い。多くの人が私たちの教義に反発する - それが私たちが秘密を重んじる理由です。
+- Shadowheart: You've a habit of saying all the right things. Either you're very glib or we're kindred sprits.
+  - saying all the right things って何？
+    - ChatGPTによると、 all は形容詞の「すべての」で、それが自然と「状況に応じて正しいことを言う」になるとのこと
+    - 直訳だと「すべての正しいことを言う」という広すぎる意味になるので、 all の単語からその意味に至るイメージができなかった
+    - all には形容詞として「〜だけ」の意味もあるが、これもChatGPTには否定された
+  - [glib](https://ejje.weblio.jp/content/glib), グリッブ
+    - 形容詞: 口が達者な、口先だけの、うわべだけの、もっともらしい
+  - [kindred](https://ejje.weblio.jp/content/kindred), キ↑ン・ドレッド
+    - 形容詞,限定用法: 同性質の、血縁の
+  - ChatGPT訳: あなたはいつも適切なことを言う癖がある。あなたがとても巧みなのか、私たちが同じ心を持っているのか。
+- Shadowheart: Maybe both, knowing myself. But yes. Once we've saved ourselves, we can talk more on this.
+  - ChatGPT訳: 私自身を知っているからかもしれないけど、おそらく両方。でもはい。私たちが自分たちを救った後、もっとこの話をしましょう。
+- Tav: _Turn to other matters_.
 - Tav: _Leave_.
