@@ -333,9 +333,81 @@ Karlachへイベント会話が発生していたので、話しかけた
   - [keep from](https://en.wiktionary.org/wiki/keep_from)
     - 他動詞: 〜から秘密にする、〜へ秘密を作る
       - keep from O(=秘密にする対象)
+      - keep DO(=秘密にする内容) from IO(=秘密にする対象)
   - ChatGPT訳: お互いに正直でなければなりません。何を私から隠しているのですか？
 - Charisma (Persuasion) Successful: Tav
-- Shadowheart:
+- Shadowheart: You're not going to let this go, are you? You might wish you had...
+  - You might wish you had の意味は？
+    - 広くは wish 仮定法 という文法
+      - wish S V過去形: 今、文の状態であるなら
+        - wish 仮定法過去
+      - wish S V過去完了形: 過去のある時点で、文をしていれば
+        - wish 仮定法過去完了
+      - wish S would V: 万が一で文になれば
+        - 可能性の薄い時のみに使う
+      - Ref: https://eigo-box.jp/grammar/i-wish/
+    - 本文の you had は、過去完了の助動詞しかない状態なので、具体的な行動は示されていない
+      - おそらくは、 let this go が相当する
+    - 直訳だと「あなたはもしかしてある時点でそれをしていればと思うかもしれません」になる
+  - ChatGPT訳: あなたはこれを見逃すつもりはないのですね。後悔するかもしれませんよ...
+- Shadowheart: I worship Shar, the Mistress of the Night. It is my holy mission to oppose Selûne, her teachings and her followers.
+  - [mistress](https://ejje.weblio.jp/content/mistress), ミ↑ス・トレス
+    - 名詞: 一家の女主人、女教師、主婦
+      - master の女性版
+  - [mission](https://ejje.weblio.jp/content/mission), ミ↑ッション
+    - 名詞: 使命、任務、役目、一生の使命
+  - ChatGPT訳: 私は夜の女主人、シャーを崇拝しています。彼女の教えとその信者たちに反対することが、私の神聖な使命です。
+- Shadowheart: _Ngh_... it hurts...
+- Shadowheart: Now that you have the truth, please don't make a big fuss about it.
+  - [fuss](https://ejje.weblio.jp/content/fuss), フ↑ァス
+    - 名詞: 無用な騒ぎ、空騒ぎ
+  - ChatGPT訳: 今、真実を知ったからといって、大騒ぎしないでください。
+- Tav: You could have told me. How long were you going to keep this secret?
+  - ChatGPT訳: 教えてくれたらよかったのに。どれだけの間、この秘密を守るつもりだったの？
+- Shadowheart: Forever, ideally. And you assume too much about what I can and cannot tell.
+  - [assume](https://ejje.weblio.jp/content/assume), ア・スゥム
+    - 他動詞: 証拠はないが〜を事実だと思う・当然のことだと思う
+  - ChatGPT訳: 理想的には永遠にね。あなたは私が話せること、話せないことについて多くを仮定している。
+    - 後半の文意がわからない
+- Shadowheart: Secrecy is everything for Shar's children. It's our code, our creed, our shield.
+  - [secrecy](https://ejje.weblio.jp/content/secrecy), シ↑ー・クレ・スィ
+    - 名詞: 秘密、秘密の状態、秘密厳守
+  - [code](https://ejje.weblio.jp/content/code), コ↑ゥド
+    - 名詞: 規範、規則、法典
+  - [creed](https://ejje.weblio.jp/content/creed), クリ↑ィド
+    - 名詞: 信条、信念、主義
+    - Assoc: ASSASIN'S CREED
+  - ChatGPT訳: シャーの子どもたちにとって、秘密はすべて。それが私たちの規範、信条、盾です。
+- Shadowheart: I even keep secrets from myself - I had my memories suppressed, so that nothing I knew could be used against the Dark Lady. Once I prove myself, my memories will be restored.
+  - [suppress](https://ejje.weblio.jp/content/suppress), サ・プレ↑ス
+    - 他動詞: うめきやあくびや感情などを抑える・かみ殺す、反乱や暴動などを力によって鎮圧する・抑圧する
+  - [have](https://ejje.weblio.jp/content/have), ハァブ
+    - 他動詞: 〜を〜にする
+      - SVOCの文型
+  - [so that](https://en.wiktionary.org/wiki/so_that#Conjunction)
+    - 接続詞: 〜する目的のために(=in order that)、〜となるように(=in such a way that)、その結果(=with the result that)
+      - 基本的には目的を表現する
+  - (nothing (I knew)) could be used
+  - prove の意味は？
+    - 「〜の価値を証明する」という意味で使われているが、各種辞書にはその意味はない
+    - 意訳なのかと思ったが、ChatGPTによるとよくある使い方のよう
+  - ChatGPT訳: 私は自分自身からも秘密を守っている - 私が知っていることがダーク・レディに対して使われないように、記憶を抑制したの。自分の価値を証明したら、記憶は回復されるの。
+- Shadowheart: I'm not sorry I kept this from you. Not one bit.
+  - [not one bit](https://en.wiktionary.org/wiki/not_one_bit)
+    - 副詞: 少しも〜でない(=not in the slightest, not in the least)
+  - ChatGPT訳: あなたにこれを隠していたことを、少しも後悔していないわ。
+- Shadowheart: Though perhaps that might change, if you can show an open mind.
+- Tav: Let's see how open-minded I can be then: tell me more.
+- Shadowheart: All right. As I said, Shar is my patron, my mistress. Goddess of darkness and loss.
+- Shadowheart: I assume you've heard of her?
+- Tav: Remind me.
+- Shadowheart: My Lady Shar is the Nightsinger. The patron of darkness and loss.
+- Tav: Fascinating. Please, continue.
+- Shadowheart: Most fear the dark, like chilren, because in darkness they see their fears reflected.
+- Shadowheart: But Shar teaches us to step beyond fear. Beyond loss. In darkness we do not hide - we act.
+- Shadowheart: Pain. Hope. The promise of better days. All of these are heavy cloaks that bend our backs and burden our hearts.
+- Shadowheart: We shed those cloaks. Before Shar we stand gloriously naked, beyond the vanities of mortals.
+- Tav:
 - Shadowheart:
 - Shadowheart:
 - Shadowheart:
@@ -343,6 +415,5 @@ Karlachへイベント会話が発生していたので、話しかけた
 - Shadowheart:
 - Shadowheart:
 - Shadowheart:
-- Shadowheart:
-- Shadowheart:
 - Tav:
+- Tav: _Leave_.
