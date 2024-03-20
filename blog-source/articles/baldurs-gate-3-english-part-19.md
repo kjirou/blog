@@ -603,3 +603,56 @@ Karlachへイベント会話が発生していたので、話しかけた
   - ChatGPT訳: 私には最善を尽くします。しかし、秘密は私にとって根付いています。シャー様は、それを盾や鎧よりも大きな保護だと考えています。
 - Tav: _Turn to other matters_.
 - Tav: _Leave_.
+
+### 21, Eliasis - 7:37 - Karlach, Tav
+
+さらに仲間へ話しかけた
+
+- Karlach: What's on your mind?
+- Tav: How did you end up with such a contraption in your chest?
+  - [contraption](https://ejje.weblio.jp/content/contraption), コン・トラ↑ァップ・ション
+    - 名詞: 奇妙な仕掛け・機械
+  - [chest](https://ejje.weblio.jp/content/chest), チェスト
+    - 名詞: 胸、胸郭
+      - 肋骨や胸骨に囲まれた部分。なお、 breast は首や肩と腹の間の部分。
+  - ChatGPT訳: どうしてそんな装置を胸に持っているの？
+- Karlach: The year? Ten ere. The place? A sleepy little town called Baldur's Gate. Our hero? Karlach, a knock-kneed delinquent from the Outer City with everything to give and nothing to lose.
+  - [ere](https://ejje.weblio.jp/content/ere), エアー
+    - 前置詞: 〜の前に
+      - 古い英語、 before と似ている
+  - [knock-kneed](https://en.wiktionary.org/wiki/knock-kneed#Adjective)
+    - 形容詞: 膝が以上に接近して足が開いている状態、外反脛骨の
+      - 本文では、おそらくは痩せててガクガクしている様を表現しているのだと思う
+  - [delinquent](https://ejje.weblio.jp/content/delinquent), デ・リ↑ン・クエント
+    - 形容詞: 非行の、非行少年の、過失を犯した
+  - ChatGPT訳: 年は？10年前。場所？バルダーズ・ゲートという眠たい小さな町。私たちの英雄？アウターシティの膝がかくんと曲がった不良、カーラック。すべてを与え、失うものは何もなし。
+- Karlach: I was a kid looking for a way to fill my days and make some cash when I fell into the wrong crowd. Worked for a guy I respected. A lot. Turns out the feeling wasn't mutual.
+  - [fall](https://ejje.weblio.jp/content/fall), ファォル
+    - 自動詞: ある範囲に入る、ある立場や状態に置かれる
+  - [mutual](https://ejje.weblio.jp/content/mutual), ミュゥチュラル
+    - 形容詞: 相互の、共通の
+  - [turn out](https://en.wiktionary.org/wiki/turn_out#Verb)
+    - 他動詞: 結局〜になる(=end up)、結果として〜になる(=result)
+  - ChatGPT訳: 子供の頃、日々を過ごし、少しのお金を稼ぐ方法を探していた時に、間違った人たちと関わってしまいました。尊敬していた人のために働きました。とても。結局、その感情は相互のものではありませんでした。
+- Karlach: Through the jigs and the reels, he made a deal with Zariel behind my back. You know Zariel, right? Archdevil of Avernus?
+  - [between the jigs and the reels](https://en.wiktionary.org/wiki/between_the_jigs_and_the_reels#Prepositional_phrase)
+    - 前置詞句: 物事の紆余曲折があって、全ての混乱にも関わらず最終的には
+    - jigs も reels もアイルランドのダンスの様式を指す
+      - アイリッシュ・ダンスの明らかに混乱している様が由来らしい
+        - Ref: https://www.yourdictionary.com/between-the-jigs-and-the-reels
+      - アイリッシュ・ダンスとは、現在検索してヒットするのは競技用のものだが、元々は酒場でビールを飲みながらわちゃわちゃ踊るアレのよう
+  - ChatGPT訳: 一連の出来事を経て、彼は私の背後でザリエルと契約を結びました。ザリエルを知っていますか？アヴァーナスの大魔王です。
+- Karlach: She put this thing in my chest and set me to work. Well, to war. I learned quick how to stay alive. And the engine served me when it came to killing devils.
+  - [set](https://ejje.weblio.jp/content/set), セ↑ット
+    - 他動詞: 〜をさせる
+      - set O to Verb
+  - [war](https://ejje.weblio.jp/content/war), ウォァ
+    - 自動詞: 戦う、争う
+  - ChatGPT訳: 彼女は私の胸にこのものを入れ、働かせました。まあ、戦争に参加させたというべきでしょう。生き残る方法をすぐに学びました。そして、悪魔を殺す際には、このエンジンが私を助けました。
+- Karlach: Ten years of that. The stories I could tell.
+  - ChatGPT訳: そのような生活が10年間続きました。語れる話はたくさんあります。
+- Tav: You mentioned a boss who game you up to Zariel. Who was it?
+
+### 21, Eliasis - 8:10 - Karlach, Tav
+
+さらに仲間へ話しかけた
