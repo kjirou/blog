@@ -271,7 +271,7 @@ Karlachへイベント会話が発生していたので、話しかけた
     - burn her right out は、物理的に「焼き尽くす」の方が正しそう
       - Karlach のような特殊な事情がなければ、気分的に「消耗し尽くす」とぃう解釈になる
 
-### 21, Eliasis - 5:29 - Gale
+### 21, Eliasis - 5:29 - Gale, Tav
 
 仲間へ話しかけた
 
@@ -304,9 +304,9 @@ Karlachへイベント会話が発生していたので、話しかけた
   - ChatGPT訳: 私の体の境界を遥かに超える戦場になることを保証できます。
 - Tav: _Leave_.
 
-### 21, Eliasis - 5:38 - Shadowheart
+### 21, Eliasis - 5:38 - Shadowheart, Tav
 
-仲間へ話しかけた
+さらに仲間へ話しかけた
 
 - Shadowheart: All's well, I hope? Aside from the obvious?
   - [aside from](https://en.wiktionary.org/wiki/aside_from#Preposition)
@@ -512,5 +512,94 @@ Karlachへイベント会話が発生していたので、話しかけた
   - ChatGPT訳: あなたはいつも適切なことを言う癖がある。あなたがとても巧みなのか、私たちが同じ心を持っているのか。
 - Shadowheart: Maybe both, knowing myself. But yes. Once we've saved ourselves, we can talk more on this.
   - ChatGPT訳: 私自身を知っているからかもしれないけど、おそらく両方。でもはい。私たちが自分たちを救った後、もっとこの話をしましょう。
+- Tav: _Turn to other matters_.
+- Tav: _Leave_.
+
+### 21, Eliasis - 7:27 - Shadowheart, Tav
+
+さらに仲間へ話しかけた
+
+- Shadowheart: Lady of Sorrows guide us. Did you want something?
+  - Lady of Sorrows とは？
+    - おそらくは Shar のことを指しているが、 https://forgottenrealms.fandom.com/wiki/Shar にはなかった
+  - [sorrow](https://ejje.weblio.jp/content/sorrow), ソォロゥ
+    - 名詞: 悲しみ、悲痛
+  - ChatGPT訳: 悲しみの女神よ、私たちを導いてください。何か用ですか？
+- Tav: Why were you in pain before?
+  - ChatGPT訳: なぜ以前、痛みに苦しんでいたのですか？
+- Shadowheart: The wound on my hand. It never quite heals, and sometimes it causes terrible pain to rip through me. It's my burden though, from Lady Shar. I can feel her influence, somehow...
+  - [quite](https://ejje.weblio.jp/content/quite), クァ↑ィト
+    - 副詞: 完全に、すっかり、まったく
+  - [terrible](https://ejje.weblio.jp/content/terrible), テェリボゥ
+    - 形容詞: 実に嫌な、ひどい、恐ろしい
+  - [burden](https://ejje.weblio.jp/content/burden), (バ|ボ)ーデン
+    - 名詞: 重い荷物、義務や責任や心の重荷・負担
+  - [somehow](https://ejje.weblio.jp/content/somehow), サム・ハァウ
+    - 副詞: やや明らかではない方法または状態で、どうにか、どういうわけか、なぜか
+  - ChatGPT訳: 私の手の傷です。それは決して完全には治らず、時々それが私を貫くひどい痛みを引き起こします。それはしかし、シャー女神からの私の負担です。何となく彼女の影響を感じることができます…
+- Tav: Why would Shar subject you to such a thing?
+  - [subject](https://ejje.weblio.jp/content/subject), サブ・ジェックト
+    - 他動詞: 〜を嫌な目に合わせる
+  - ChatGPT訳: なぜSharはあなたにそんなことをさせるのか？
+- Shadowheart: I cannot say - not with what I can recall. But even then, it would not be for me to question her will. Lady Shar has her reasons.
+  - [then](https://ejje.weblio.jp/content/then), ゼェン
+    - 副詞: その時、その時は
+  - it would not be for me の be for me の意味は？
+    - 一般的には be for me は「私のためになる」
+    - ここでは意訳で、「私に適している」→「私の立場として適している」になっている
+    - 難しい、熟語などでもなさそう
+  - [question](https://ejje.weblio.jp/content/question), クェス・チョン
+    - 他動詞: 疑う、問題にする、疑義を唱える
+  - ChatGPT訳: 覚えていることでは言えませんが、それでも彼女の意志を疑うことは私の立場にはありません。Lady Sharには彼女なりの理由があります。
+- Tav: Is there anything I can do to help with it?
+- Shadowheart: I don't think so, but you're sweet to ask. Maybe just be patient the next time you see me wince or cry out - it'll pass quickly enough. It always does.
+  - [sweet](https://ejje.weblio.jp/content/sweet), スウィ↑ート
+    - 形容詞: 優しい、親切な
+  - Maybe の意味は？
+    - ただ我慢することがもしかしたら私の役に立つかもしれない、という意味
+  - [patient](https://ejje.weblio.jp/content/patient), ペェ↑イシェント
+    - 形容詞: 忍耐強い、我慢強い
+  - [wince](https://ejje.weblio.jp/content/wince), ウィンス
+    - 自動詞: 痛さや怖さにひるむ・たじろぐ・縮み上がる
+  - ChatGPT訳: そうだと思わないけど、尋ねてくれて嬉しいわ。次に私が痛みでうめき声をあげたり泣いたりするのを見たときに、ただ我慢してて。すぐに通り過ぎるから。いつもそうしてきた。
+- Shadowheart: Pain is sacred to followers of Lady Shar. Pain will give way to loss, and then to the peace of her eternal darakness. You can tolerate a great deal of suffering, so long as it has meaning.
+  - [sacred](https://ejje.weblio.jp/content/sacred), セイクリッド
+    - 形容詞: 神聖な
+  - [tolerate](https://ejje.weblio.jp/content/tolerate), トォウレェイト
+    - 他動詞: 我慢する、大目に見る
+  - [great deal](https://en.wiktionary.org/wiki/great_deal#Noun)
+    - 名詞: 大きな数・数量・程度
+    - deal 単体ではこのような意味はなく、 gread deal または good deal のみの用法
+  - [so long as](https://en.wiktionary.org/wiki/so_long_as#Phrase)
+    - 慣用句: 何らかの条件に応じて
+  - ChatGPT訳: 痛みはシャー様の信者にとって神聖なもの。痛みは損失に変わり、そして彼女の永遠の闇の平和へと変わる。意味がある限り、大きな苦しみに耐えることができる。
+- Tav: What causes it to hurt you?
+  - ChatGPT訳: それがあなたを傷つける原因は何ですか？
+- Shadowheart: It's difficult to say... sometimes I wonder if it's supposed to be guiding me, punishing me, testing me... but perhaps it's none of those. Perhaps it's completely random.
+  - [supposed](https://ejje.weblio.jp/content/supposed), サ・ポ↑ォズド
+    - 形容詞,叙述用法: 〜することになっている
+  - ChatGPT訳: 言いにくいです…時々、それが私を導いているのか、罰しているのか、試しているのか疑問に思います…でも、それらのどれでもないかもしれません。完全にランダムかもしれないです。
+- Shadowheart: I'd like to hope there's more to it than that - some meaning that Lady Shar will reveal to me, when the time is right. Until then, all I can do is endure.
+  - there's more to it than that
+    - イディオム: それだけではない、見た目以上のものがある
+  - [right](https://ejje.weblio.jp/content/right), ゥラィト
+    - 形容詞: 適切な、適当な
+  - [endure](https://ejje.weblio.jp/content/endure), エン・デューア
+    - 自動詞: 我慢する、持続する
+  - all I can do is endure は動詞が続いてるがどういう文法？
+    - (all I can do) is (to) endure
+    - be動詞の補語には原形不定詞を使うことがあるため
+  - ChatGPT訳: それよりもっと意味があることを願いたいです - 時が来たときにシャール様が私に明かしてくれる何か。それまでは、耐えるしかありません。
+- Tav: So you knew more than you were letting on before? I hope you'll be more honest in future.
+  - [let on](https://en.wiktionary.org/wiki/let_on#Verb)
+    - 自動詞: 意図せずまたは望みに反して明らかにする・示す
+  - ChatGPT訳: あなたは以前に見せかけていたよりも多くを知っていたのですね？今後はもっと正直になってくれることを願っています。
+- Shadowheart: I'll try my best. But secrecy is ingrained in me. Lady Shar considers it greater protection than any shield or armour.
+  - [ingrained](https://ejje.weblio.jp/content/ingrained), イン・グレィンド
+    - 形容詞: 習慣や考えが根深い・深く染み込んだ、生まれついての
+    - [ingrain](https://ejje.weblio.jp/content/ingrain), イン・グレィン
+      - 形容詞: 生染めの、地染めの
+      - 他動詞: 習慣や考えを深く染み込ませる
+  - ChatGPT訳: 私には最善を尽くします。しかし、秘密は私にとって根付いています。シャー様は、それを盾や鎧よりも大きな保護だと考えています。
 - Tav: _Turn to other matters_.
 - Tav: _Leave_.
