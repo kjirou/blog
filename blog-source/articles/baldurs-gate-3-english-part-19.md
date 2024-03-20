@@ -677,19 +677,53 @@ Karlachへイベント会話が発生していたので、話しかけた
     - 他動詞: 特に禁止されていたり不適切なことを行う
   - [above board](https://en.wiktionary.org/wiki/above_board#Prepositional_phrase)
     - 前置詞句: 公明正大な、偽りなく公然と
-  - with (people (I liked)) doing (work (I was good at))
+  - [good](https://ejje.weblio.jp/content/good), グ↑ゥッド
+    - 形容詞,叙述用法: 上手で、得意で
+      - 後に続く前置詞は、 at, in は技術、 on は特定の事、 with は扱うもの、に使う
+  - with (people (I liked)) doing (work (I was good at (work)))
   - ChatGPT訳: まあ、彼がやっていることが全部正当だと思っていたのは、私が若かっただけですね。知っていたことなんて何もない。いい仕事が見つかって、好きな人たちと一緒に、自分が得意なことをすることができました。
 - Karlach: Sometimes I'm jealous of that girl. Ugh, to feel so invincible again.
   - [jealous](https://ejje.weblio.jp/content/jealous), ジェラス
     - 形容詞: やきもちを焼く、嫉妬深い
   - ChatGPT訳: 時々、あの頃の自分が羨ましいです。ああ、またあんなに無敵だった感じを味わいたい。
 - Tav: What does that infernal engine do to you?
+  - ChatGPT訳: その劫火の機械はあなたに何をしますか？
 - Karlach: Gives me energy. Power. But you've seen it in action - _very_ hard to control.
+  - ChatGPT訳: エネルギーを与えてくれます。力を。でも、その動きを見たことがあるでしょう - 控えめに言っても制御が非常に難しいです。
 - Karlach: If I'm excited at all - angry, nervous, delighted, _enticed_... I burn hot. Hot enough to burn anyone who gets close.
-- Tav:
-- Karlach:
-- Karlach:
-- Karlach:
+  - [entice](https://ejje.weblio.jp/content/entice)
+    - 他動詞: 誘惑する、そそのかして〜させる
+  - ChatGPT訳: 少しでも興奮すると - 怒ったり、緊張したり、喜んだり、誘惑されたり... 私は熱くなります。近づく者を焼き尽くすほど熱く。
+- Tav: What's that been like?
+  - What's = What has
+  - [like](https://ejje.weblio.jp/content/like), ラ↑イク
+    - 形容詞,叙述用法: 似ていて
+  - ChatGPT訳: それはどんな感じ？
+- Karlach: Agonising! Gods! What I wouldn't give for a hug. A pat! Anything!
+  - [agonise](https://ejje.weblio.jp/content/agonise)
+    - = agonize
+    - [agonize](https://ejje.weblio.jp/content/agonize), ア↑ーガナイズ
+      - 自動詞: 苦しむ、悶える
+  - What I wouldn't give for a hug は何故否定形？
+    - 強調を意味する
+  - [pat](https://ejje.weblio.jp/content/pat), パ↑ッ
+    - 名詞: なでること、軽く叩くこと
+  - ChatGPT訳: 苦痛だよ！神よ！抱擁のためなら何を差し出さないだろうか。撫でられることでも、何でもいい。
+- Karlach: You've never met anyone so desperate for a hug as this one right here. Pathetic, perhaps, but true. It's my lot to bear, and I bear it badly.
+  - [desperate](https://ejje.weblio.jp/content/desperate), デ↑ス・ペレト
+    - 形容詞,叙述用法: 〜が欲しくてたまらなくて
+      - desperate for {対象}
+  - as this one right here の意味は？
+    - 直訳で「ちょうどここにいるひとりのように」
+  - [pathetic](https://ejje.weblio.jp/content/pathetic)
+    - 形容詞: 情けない、哀れな、軽蔑と哀れみが混ざった表現
+  - [lot](https://ejje.weblio.jp/content/lot), (ラ|ロ)ォット
+    - 名詞: 運命、運
+  - [badly](https://ejje.weblio.jp/content/badly), バ↑ァドリィ
+    - 副詞: 下手に、まずく
+  - ChatGPT訳: この私ほど抱擁を切望している人にはまだ会ったことがないだろう。情けないかもしれないが、本当のことだ。これが私の運命で、うまくは受け入れられていない。
+- Karlach: Ah well. Can't have it all, can you. Not today, at least.
+  - ChatGPT訳: まあ、仕方がない。全てを手に入れることはできない、少なくとも今日はね。
 
 ### 21, Eliasis - 8:10 - Karlach, Tav
 
