@@ -648,10 +648,48 @@ Karlachへイベント会話が発生していたので、話しかけた
       - set O to Verb
   - [war](https://ejje.weblio.jp/content/war), ウォァ
     - 自動詞: 戦う、争う
+  - [quick](https://ejje.weblio.jp/content/quick), クゥィック
+    - 副詞: 早く、素早く
+  - [come to](https://en.wiktionary.org/wiki/come_to#Verb)
+    - 自動詞: 偶然起こる(=happen), 降りかかる(=befall)
   - ChatGPT訳: 彼女は私の胸にこのものを入れ、働かせました。まあ、戦争に参加させたというべきでしょう。生き残る方法をすぐに学びました。そして、悪魔を殺す際には、このエンジンが私を助けました。
 - Karlach: Ten years of that. The stories I could tell.
   - ChatGPT訳: そのような生活が10年間続きました。語れる話はたくさんあります。
-- Tav: You mentioned a boss who game you up to Zariel. Who was it?
+- Tav: You mentioned a boss who gave you up to Zariel. Who was it?
+  - [mention](https://ejje.weblio.jp/content/mention), メ↑ン・ション
+    - 他動詞: 話に出す、言及する、簡単に述べる
+  - ChatGPT訳: Zarielにあなたを渡した上司のことを言っていましたが、それは誰ですか？
+- Karlach: Guy named Gortash. Politician. Inventor. One of these wheeler-dealer types who seems to have a finger in every pie.
+  - [politician](https://ejje.weblio.jp/content/politician), ポリティシャン
+    - 名詞: 政治家、政治屋
+  - [inventor](https://ejje.weblio.jp/content/inventor), イン・ベ↑ン・トゥァ
+    - 名詞: 発明家
+  - [wheeler-dealer](https://en.wiktionary.org/wiki/wheeler-dealer#Noun)
+    - 名詞: 悪徳なやり手、抜け目ない人物、策略家
+  - [have one's fingers in many pies](https://en.wiktionary.org/wiki/have_one%27s_fingers_in_many_pies#Verb)
+    - 自動詞: 多くの様々なことに関与する
+    - "have a finger in every pie"でWiktionaryを検索したら、この単語へリダイレクトした
+  - ChatGPT訳: Gortashという名前の男です。政治家。発明家。どんなことにも手を出しているような、いわゆる掛け持ち型の人物です。
+- Karlach: I guess I was naive to think everything he got up to was above board. What did I know? I saw a job - a good job - with people I liked doing work I was good at.
+  - [naive](https://ejje.weblio.jp/content/naive), ナ・イ↑ィーブ
+    - 形容詞: 特に若いために世間知らずの、初心な、騙されやすい
+  - [get up to](https://en.wiktionary.org/wiki/get_up_to#Verb)
+    - 他動詞: 特に禁止されていたり不適切なことを行う
+  - [above board](https://en.wiktionary.org/wiki/above_board#Prepositional_phrase)
+    - 前置詞句: 公明正大な、偽りなく公然と
+  - with (people (I liked)) doing (work (I was good at))
+  - ChatGPT訳: まあ、彼がやっていることが全部正当だと思っていたのは、私が若かっただけですね。知っていたことなんて何もない。いい仕事が見つかって、好きな人たちと一緒に、自分が得意なことをすることができました。
+- Karlach: Sometimes I'm jealous of that girl. Ugh, to feel so invincible again.
+  - [jealous](https://ejje.weblio.jp/content/jealous), ジェラス
+    - 形容詞: やきもちを焼く、嫉妬深い
+  - ChatGPT訳: 時々、あの頃の自分が羨ましいです。ああ、またあんなに無敵だった感じを味わいたい。
+- Tav: What does that infernal engine do to you?
+- Karlach: Gives me energy. Power. But you've seen it in action - _very_ hard to control.
+- Karlach: If I'm excited at all - angry, nervous, delighted, _enticed_... I burn hot. Hot enough to burn anyone who gets close.
+- Tav:
+- Karlach:
+- Karlach:
+- Karlach:
 
 ### 21, Eliasis - 8:10 - Karlach, Tav
 
