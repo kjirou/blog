@@ -728,3 +728,70 @@ Karlachへイベント会話が発生していたので、話しかけた
 ### 21, Eliasis - 8:10 - Karlach, Tav
 
 さらに仲間へ話しかけた
+
+- Karlach: What's on your mind?
+- Tav: It sounds like all we need to do to fix your engine is find some infernal iron.
+  - (all we need to do to fix your engine) is (find some infernal iron)
+    - ChatGPTによるとこういう区切りで、 find は動詞であるらしい
+    - なぜ find の節が許容されるのかはわかっていない
+  - ChatGPT訳: あなたのエンジンを修理するには、地獄の鉄を見つける必要があるようですね。
+- Karlach: Let's hope Dammon is as good as he seems. Once my engine's handled, I can focus on more important matters - tadpoles, cults, frosty pints...
+  - [handle](https://en.wiktionary.org/wiki/handle#Verb)
+    - 他動詞: 治療する(=treat),問題を処理する(=deal with)
+      - 特に「特定の方法で」という意味が含まれる
+  - [frosty](https://ejje.weblio.jp/content/frosty), フロォスティ
+    - 形容詞: 凍るような、霜の降りた
+  - [pint](https://ejje.weblio.jp/content/pint), パイント
+    - 名詞: 1パインとのビール
+  - ChatGPT訳: ダモンが本当に優れていることを願いましょう。私のエンジンが対処されたら、より重要な事柄に集中できます - おたまじゃくし、カルト、冷たいビール...
+- Tav: This isn't where I thought I'd end up. How about you?
+  - ChatGPT訳: これが私が終わると思っていた場所ではないです。あなたはどうですか？
+- Karlach: Funny you should ask. I was just thinking about what would've become of us without that nautiloid.
+  - [funny](https://ejje.weblio.jp/content/funny), フ↑ァ・ニィ
+    - 形容詞: 奇妙な、変な、おかしい、滑稽な
+  - [should](https://ejje.weblio.jp/content/should)
+    - 助動詞: 〜するとは
+    - コアイメージ: 達成されるべきことが未達
+      - Ref: https://eikaiwa.weblio.jp/column/study/english_study_skills/uses-of-should
+        - これを読んだけど、コアイメージから「〜するとは」になる展開がこじつけなので、あんまり役に立たない
+  - Funny (you should ask)
+  - [become of](https://en.wiktionary.org/wiki/become_of#Verb)
+    - 他動詞: 〜へ偶然または前触れなく起こる(=happen to, occur to)
+  - ChatGPT訳: 聞かれてみると面白いですね。ナウティロイドがなければ、私たちに何が起こったかをちょうど考えていました。
+- Karlach: I mean, I know where I'd be. Trapped in Avernus still, with the Blade of Frontiers on my tail. But what about you?
+  - I mean の意味がわからない
+    - 通常の補足説明や訂正をする文脈ではなさそう
+      - ChatGPTはこれを主張している
+    - 単なるフィラーなのかもしれない
+  - I know where I'd be. の意味は？
+    - I know where の where は、「状況」の方がChatGPTの訳より適切そう
+    - I'd be は仮定法過去、 I would be without that nautiloid を指している
+  - ChatGPT訳: 私はどこにいるか知っています。まだアヴェルヌスに閉じ込められていて、フロンティアの刃が私を追っている。でもあなたはどうですか？
+- Tav: I'd be in the middle of another adventure, blessedly free of any tadpole.
+  - [middle](https://ejje.weblio.jp/content/middle), ミドォ
+    - 名詞: 行為の最中、期間の中頃
+  - [blessedly](https://ejje.weblio.jp/content/blessedly), ブレェセドリィ
+    - 副詞: 幸いにも
+  - ChatGPT訳: 私は別の冒険の真っ最中にいるでしょう、幸いにもどんなオタマジャクシからも自由です。
+- Karlach: I can picture you getting mixed up in some outrageous shit. Giants, beholders, Thayans, the works.
+  - [mix up](https://en.wiktionary.org/wiki/mix_up#Verb)
+    - 自動詞: 混乱する
+    - 他動詞: 混乱させる(=confuse)、徹底的に混ぜ合わせる・組み合わせる
+    - 本文では、これらの意味が合わさったような意味で使われていそう
+  - [outrageous](https://ejje.weblio.jp/content/outrageous), アウト・レ↑イジャス
+    - 形容詞: 無法な、とっぴな、風変わりな
+  - [works](https://en.wiktionary.org/wiki/works#Noun_3), (ウ|ワ)ォクス
+    - 名詞: 全て(=everything), 利用可能な全て
+      - the を伴う
+  - ChatGPT訳: あなたが巨人、ビホルダー、セイアン人、その他もろもろの途方もないことに巻き込まれるのが目に浮かぶよ。
+- Karlach: Maybe once we've wrapped up the current shenanigans, we'll rest a bit and find some new heap of trouble to throw ourselves at.
+  - [wrap up](https://en.wiktionary.org/wiki/wrap_up#Verb)
+    - 他動詞: 終わりにする・完結する(=conclude)
+    - [wrap](https://ejje.weblio.jp/content/wrap), ゥラァップ
+      - 他動詞: 〜に包む
+  - [shenanigan](https://ejje.weblio.jp/content/shenanigan), シェン・エ↑ーニガン
+    - 名詞: いたずら、悪ふざけ
+  - [heap](https://ejje.weblio.jp/content/heap), ヒィプ
+    - 名詞: たくさんの〜、どっさりの〜
+      - a heap of {対象} または heaps of {対象}
+  - ChatGPT訳: たぶん、今回の騒動を一段落させたら、少し休んで、新たな厄介ごとに自ら飛び込んでいくんだろうね。
