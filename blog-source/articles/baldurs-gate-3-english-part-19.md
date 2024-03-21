@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-19
-lastUpdatedAt: "2024-03-17 14:37:05+0000"
+lastUpdatedAt: "2024-03-21 23:16:15+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 19冊目
@@ -129,6 +129,9 @@ Karlachの胸の装置を調整してもらうために、Dammonの元へ訪れ�
     - 間投詞: 口笛に似たような音の表現、驚きを表す
   - [burn up](https://en.wiktionary.org/wiki/burn_up#Verb)
     - 自動詞: 過度に熱くなる
+  - [put together](https://en.wiktionary.org/wiki/put_together#Verb)
+    - 他動詞: 組み立てる(=assemble), 構築する(=build), 建設する(=construct)
+  - (Whoever put that engine together)=S (tried)=V
   - metallurgised demono-valves, ra-gnax casement とは？
     - Steel watcherというクリーチャーの工法や部品を指すよう
       - Steel watcher
@@ -164,6 +167,9 @@ Karlachの胸の装置を調整してもらうために、Dammonの元へ訪れ�
     - ChatGPTによると、 singe は総じて軽く焼くイメージだが、 off をつけることで「対象を焼き落とす」ような、強調の意味になる
   - ChatGPT訳: 温度を少し下げることはできる？いつか誰かと握手をする際に、相手の腕を焼きつけてしまうのではないかと心配だ。
 - Dammon: I'd worry about surviving the night first. But help one, help both: if we can cool you off, it'll stabilise your engine _and_ allow you to touch whomever you please.
+  - I'd worry の意味は？
+    - would は単なる仮定の意味
+    - しかし主語が自分になっていて、直訳だと「私は心配するでしょう」、意訳で「あなたは心配した方がいい」になる
   - ChatGPT訳: まずは今夜生き延びることを心配したほうがいい。しかし、助けることは一つにつき二つの助けになる：君を冷やすことができれば、エンジンを安定させるだけでなく、好きな人に触れることもできるようになる。
 - Karlach: Hey soldier - I think we picked up some of that infernal iron already. What say you - should I give it to him?
   - ChatGPT訳: やあ、兵士さん - もう、その地獄の鉄を手に入れたと思うんだ。どう思う？ 彼にそれを渡すべきかな？
@@ -189,6 +195,8 @@ Karlachの胸の装置を調整してもらうために、Dammonの元へ訪れ�
 - Karlach: That feels... _good_. I'm still burning hot as hell's hole, but I feel less... changeable. Cheers, mate.
   - [changeable](https://ejje.weblio.jp/content/changeable), チェィンジャボゥ
     - 形容詞: 変わりやすい、変えられる
+  - [cheers](https://en.wiktionary.org/wiki/cheers#Interjection), チ↑アーズ
+    - 間投詞: 会社で飲む時に良く使われる乾杯の音頭
   - ChatGPT訳: それは…いい感じだ。まだ地獄の穴のように熱いけど、以前よりも…変わりやすくはない。乾杯、友よ。
 - Dammon: Pleasure. And as for the heat, I haven't got any solutions now, but I'm not giving up. Could be if the combustion chamber had its own insulation, or if we had some kind of enchanted coolant...
   - [combustion chamber](https://en.wiktionary.org/wiki/combustion_chamber)
@@ -230,10 +238,7 @@ Karlachへイベント会話が発生していたので、話しかけた
   - [ever](https://ejje.weblio.jp/content/ever), エ↑・ヴァ
     - 副詞: かつて、これまでに
       - 疑問文・否定文・比較級・最上級のときの用法
-        - 条件文なら「いつか」「いずれ」という未来を示す意味になる
-  - [think](https://ejje.weblio.jp/content/think), スィンク
-    - 他動詞: 予期する、予想する
-      - 通常は否定文での用法
+        - なお、条件文なら「いつか」「いずれ」という未来を示す意味になる
   - ChatGPT訳: こんなに力強く感じたことはなかったな。
 - Tav: We'll find more infernal iron and get you that second upgrade, too.
   - ChatGPT訳: もっと地獄の鉄を見つけて、君にその二つ目のアップグレードを施そう。
@@ -363,6 +368,7 @@ Karlachへイベント会話が発生していたので、話しかけた
     - 名詞: 無用な騒ぎ、空騒ぎ
   - ChatGPT訳: 今、真実を知ったからといって、大騒ぎしないでください。
 - Tav: You could have told me. How long were you going to keep this secret?
+  - tell - told - told
   - ChatGPT訳: 教えてくれたらよかったのに。どれだけの間、この秘密を守るつもりだったの？
 - Shadowheart: Forever, ideally. And you assume too much about what I can and cannot tell.
   - [assume](https://ejje.weblio.jp/content/assume), ア・スゥム
@@ -379,11 +385,11 @@ Karlachへイベント会話が発生していたので、話しかけた
     - Assoc: ASSASIN'S CREED
   - ChatGPT訳: シャーの子どもたちにとって、秘密はすべて。それが私たちの規範、信条、盾です。
 - Shadowheart: I even keep secrets from myself - I had my memories suppressed, so that nothing I knew could be used against the Dark Lady. Once I prove myself, my memories will be restored.
-  - [suppress](https://ejje.weblio.jp/content/suppress), サ・プレ↑ス
-    - 他動詞: うめきやあくびや感情などを抑える・かみ殺す、反乱や暴動などを力によって鎮圧する・抑圧する
   - [have](https://ejje.weblio.jp/content/have), ハァブ
     - 他動詞: 〜を〜にする
       - SVOCの文型
+  - [suppress](https://ejje.weblio.jp/content/suppress), サ・プレ↑ス
+    - 他動詞: うめきやあくびや感情などを抑える・かみ殺す、反乱や暴動などを力によって鎮圧する・抑圧する
   - [so that](https://en.wiktionary.org/wiki/so_that#Conjunction)
     - 接続詞: 〜する目的のために(=in order that)、〜となるように(=in such a way that)、その結果(=with the result that)
       - 基本的には目的を表現する
@@ -574,12 +580,19 @@ Karlachへイベント会話が発生していたので、話しかけた
     - 慣用句: 何らかの条件に応じて
   - ChatGPT訳: 痛みはシャー様の信者にとって神聖なもの。痛みは損失に変わり、そして彼女の永遠の闇の平和へと変わる。意味がある限り、大きな苦しみに耐えることができる。
 - Tav: What causes it to hurt you?
+  - [cause](https://ejje.weblio.jp/content/cause), カーズ
+    - 他動詞: 原因となる、引き起こす
   - ChatGPT訳: それがあなたを傷つける原因は何ですか？
 - Shadowheart: It's difficult to say... sometimes I wonder if it's supposed to be guiding me, punishing me, testing me... but perhaps it's none of those. Perhaps it's completely random.
   - [supposed](https://ejje.weblio.jp/content/supposed), サ・ポ↑ォズド
     - 形容詞,叙述用法: 〜することになっている
   - ChatGPT訳: 言いにくいです…時々、それが私を導いているのか、罰しているのか、試しているのか疑問に思います…でも、それらのどれでもないかもしれません。完全にランダムかもしれないです。
 - Shadowheart: I'd like to hope there's more to it than that - some meaning that Lady Shar will reveal to me, when the time is right. Until then, all I can do is endure.
+  - [would like](https://en.wiktionary.org/wiki/would_like#Verb)
+    - 他動詞: 欲しいと思う(=want), 強く望む(=desire)
+  - I'd like to hope は would like と hope で願望が二重になってない？
+    - 直訳だと「私は〜であれば良いと思うをことを欲している」で変
+    - 強調なのか他の何かなのかは、わからない
   - there's more to it than that
     - イディオム: それだけではない、見た目以上のものがある
   - [right](https://ejje.weblio.jp/content/right), ゥラィト
@@ -627,10 +640,10 @@ Karlachへイベント会話が発生していたので、話しかけた
     - 形容詞: 非行の、非行少年の、過失を犯した
   - ChatGPT訳: 年は？10年前。場所？バルダーズ・ゲートという眠たい小さな町。私たちの英雄？アウターシティの膝がかくんと曲がった不良、カーラック。すべてを与え、失うものは何もなし。
 - Karlach: I was a kid looking for a way to fill my days and make some cash when I fell into the wrong crowd. Worked for a guy I respected. A lot. Turns out the feeling wasn't mutual.
-  - [fall](https://ejje.weblio.jp/content/fall), ファォル
-    - 自動詞: ある範囲に入る、ある立場や状態に置かれる
   - [mutual](https://ejje.weblio.jp/content/mutual), ミュゥチュラル
     - 形容詞: 相互の、共通の
+  - [fall](https://ejje.weblio.jp/content/fall), ファォル
+    - 自動詞: ある範囲に入る、ある立場や状態に置かれる
   - [turn out](https://en.wiktionary.org/wiki/turn_out#Verb)
     - 他動詞: 結局〜になる(=end up)、結果として〜になる(=result)
   - ChatGPT訳: 子供の頃、日々を過ごし、少しのお金を稼ぐ方法を探していた時に、間違った人たちと関わってしまいました。尊敬していた人のために働きました。とても。結局、その感情は相互のものではありませんでした。
@@ -654,6 +667,10 @@ Karlachへイベント会話が発生していたので、話しかけた
     - 自動詞: 偶然起こる(=happen), 降りかかる(=befall)
   - ChatGPT訳: 彼女は私の胸にこのものを入れ、働かせました。まあ、戦争に参加させたというべきでしょう。生き残る方法をすぐに学びました。そして、悪魔を殺す際には、このエンジンが私を助けました。
 - Karlach: Ten years of that. The stories I could tell.
+  - I could tell で「たくさん」？
+    - ChatGPTによるとそうだとのこと。理由は聞いてみてもよくわからない。
+      - I could tell は「経験した」という意味に近いとのことだが、それがなぜ「たくさん」に繋がるのかが不明
+    - 自分が読むと、逆に「これしかない」になる。わからん。
   - ChatGPT訳: そのような生活が10年間続きました。語れる話はたくさんあります。
 - Tav: You mentioned a boss who gave you up to Zariel. Who was it?
   - [mention](https://ejje.weblio.jp/content/mention), メ↑ン・ション
@@ -691,7 +708,9 @@ Karlachへイベント会話が発生していたので、話しかけた
 - Karlach: Gives me energy. Power. But you've seen it in action - _very_ hard to control.
   - ChatGPT訳: エネルギーを与えてくれます。力を。でも、その動きを見たことがあるでしょう - 控えめに言っても制御が非常に難しいです。
 - Karlach: If I'm excited at all - angry, nervous, delighted, _enticed_... I burn hot. Hot enough to burn anyone who gets close.
-  - [entice](https://ejje.weblio.jp/content/entice)
+  - [at all](https://en.wiktionary.org/wiki/at_all#Adverb)
+    - 副詞: ゼロより大きい程度の量・程度・頻度で、少しでも、いつでも、どのような方法でも
+  - [entice](https://ejje.weblio.jp/content/entice), エン・タ↑イス
     - 他動詞: 誘惑する、そそのかして〜させる
   - ChatGPT訳: 少しでも興奮すると - 怒ったり、緊張したり、喜んだり、誘惑されたり... 私は熱くなります。近づく者を焼き尽くすほど熱く。
 - Tav: What's that been like?
@@ -751,9 +770,8 @@ Karlachへイベント会話が発生していたので、話しかけた
     - 形容詞: 奇妙な、変な、おかしい、滑稽な
   - [should](https://ejje.weblio.jp/content/should)
     - 助動詞: 〜するとは
-    - コアイメージ: 達成されるべきことが未達
       - Ref: https://eikaiwa.weblio.jp/column/study/english_study_skills/uses-of-should
-        - これを読んだけど、コアイメージから「〜するとは」になる展開がこじつけなので、あんまり役に立たない
+        - こんな意味もあるんだと思って読んでみたが、「達成されるべきことが未達」というコアイメージから「〜するとは」になる展開がこじつけのように見える
   - Funny (you should ask)
   - [become of](https://en.wiktionary.org/wiki/become_of#Verb)
     - 他動詞: 〜へ偶然または前触れなく起こる(=happen to, occur to)
