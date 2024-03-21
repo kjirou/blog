@@ -575,9 +575,9 @@ Barcus Wrootは、風車の羽の端へ括り付けられており、羽の回�
   - [admit](https://ejje.weblio.jp/content/admit), (ア|エ)ドミット
     - 他動詞: 〜だと認める
   - [mind](https://ejje.weblio.jp/content/mind), マァインド
-    - 他動詞: 〜であることを気にする・気にかける
+    - 自動詞: 気にする、嫌と思う、反対する
       - 通常は疑問文や否定文で使う
-      - 本文の Mind if ~ ? は、この意味で使う時の最も一般的な形
+      - 本文の Mind if ~ ? は、この意味で使う時の最も一般的な形で、 Do you mind if ~ の略
   - [a while](https://ejje.weblio.jp/content/a+while)
     - 副詞: しばらくの間
       - for a while でもほぼ同じ意味、若干期間が強調されるらしい
