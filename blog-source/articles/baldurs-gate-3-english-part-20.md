@@ -120,3 +120,31 @@ Goblin Campの見張りに話しかけられた
 - Tav: Whatever you say.
   - ChatGPT訳: 言うとおりにします。
   - 正門前へワープさせられる
+
+### 21, Eliasis - 16:56 - Sentinel Olak, Gale, Tav, Shadowheart
+
+- Sentinel Olak: Lookit, Klaw! Supper's here!
+  - [lookit](https://en.wiktionary.org/wiki/lookit#Interjection)
+    - 間投詞: 見て、参照して、聞いて、注意して
+  - ChatGPT訳: 見てくれ、Klaw！夕食が来たぞ！
+- Sentinel Olak: Unless you got another reason to be here, feck-shite.
+  - [feck](https://ejje.weblio.jp/content/feck), フェーック
+    - = fuck
+      - UKでの婉曲表現
+  - [shite](https://en.wiktionary.org/wiki/shite#Noun), シャイツ
+    - = shit
+      - UKでの婉曲表現
+  - ChatGPT訳: 他に用事がなければ、くそったれ。
+- Gale: Let's try to be diplomatic, shall we? Goblins don't come by the handfuls, but by the dozens.
+  - ChatGPT訳: 外交的に行こうじゃないか。ゴブリンは少数ではなく、大量にやってくる。
+- \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
+  - ChatGPT訳: 印が輝くが、何も感じない。あなたのイリシッドの力は休息を取るまで手の届かないところにある。
+- Tav: _Read the goblin's mind_.
+- Intelligence Successful: Tav
+- Sentinel Olak:
+- Tav:
+- Sentinel Olak:
+- Sentinel Olak:
+- Tav:
+- Sentinel Olak:
+- Sentinel Olak:
