@@ -92,3 +92,31 @@ Galeが持病を起こしていたので、話しかけた
     - 前置詞: 近い(=close, near)、近くの(=nearby)
   - ChatGPT訳: まだアイテムを消費する必要はないが、近くに置いておいてくれ。それほど長くはかからないだろう。
 - Tav: _Leave_.
+
+### 21, Eliasis - 16:50 - Sharp-Eye Snurd
+
+Goblin Campの見張りに話しかけられた
+
+- Sharp-Eye Snurd: Oi, thicko! This here's off-limits. Get to the main gate, or I'll plug you full o' arrows.
+  - [oi](https://en.wiktionary.org/wiki/oi#Interjection), オイ
+    - 間投詞: 誰かの注意を引く表現、 = hey
+  - [thicko](https://en.wiktionary.org/wiki/thicko#Noun), スィックオィ
+    - 名詞: ばか・うすのろ(=dimwit)、愚か者(=idiot)、頭の悪い人、理解の遅い人
+      - 相手を侮辱する意味
+  - [get to](https://en.wiktionary.org/wiki/get_to#Verb)
+    - 他動詞: 目的地へ到達する・到着する
+  - [plug](https://ejje.weblio.jp/content/plug)
+    - 他動詞: 弾丸を打ち込む、パンチを喰らわす
+  - ChatGPT訳: おい、バカ！ここは立ち入り禁止だ。正門に行け、さもないと矢でブチ抜くぞ。
+
+### 21, Eliasis - 16:54 - Sharp-Eye Snurd, Tav
+
+Goblin Campの見張りに話しかけられた
+
+- Sharp-Eye Snurd: Oi! Get down from there!
+  - [get down](https://en.wiktionary.org/wiki/get_down#Verb)
+    - 自動詞: 降りる(=come down)、下る(=descend)
+  - ChatGPT訳: おい！そこから降りろ！
+- Tav: Whatever you say.
+  - ChatGPT訳: 言うとおりにします。
+  - 正門前へワープさせられる
