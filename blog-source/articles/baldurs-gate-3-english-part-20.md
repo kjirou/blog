@@ -44,12 +44,29 @@ Galeが持病を起こしていたので、話しかけた
     - Assoc: 野球のリリーフ
   - ChatGPT訳: なんとなく、2つ目のアーティファクトは1つ目のような効果がありませんでした。それは多少不快感を和らげましたが、しかし私は恐れています、私の飢えがまだ完全には…ああ…
 - Tav: Gale? What's happening?
-  - ChatGPT訳: Gale? 何が起こってるの？
 - Gale: The magic isn't having the effect it should have. It's not like last time, like a ranstorm that quells a forest fire.
+  - なぜ、 having は「持つ」ではなく「発揮する」なのか？
+    - プレイヤーの自分からすれば、Galeに渡すアーティファクトの性能によりイベント内容が変わらないはずという推測があるので、魔法の品の性能側に問題がないことはわかっているから、「発揮する」とわかる
+    - しかし、ChatGPTが何故そちらを選んだのかは、わからない
+  - [quell](https://ejje.weblio.jp/content/quell), クゥェルゥ
+    - 他動詞: 反乱などを鎮める・鎮圧する
   - ChatGPT訳: 魔法が期待した効果を発揮していません。前回のようではありません、森林火災を鎮める雷雨のようには。
 - Gale: It merely drizzles. The embers still sizzle. The fire remains undefeated.
+  - [drizzle](https://ejje.weblio.jp/content/drizzle), デュリゾォ
+    - 名詞: 小雨、霧雨
+  - [ember](https://ejje.weblio.jp/content/ember), エ↑ン・バァ
+    - 名詞: 燃えさし、残り火
+  - [sizzle](https://ejje.weblio.jp/content/sizzle), シ↑ィ・ゾォ
+    - 自動詞: 揚げ物などがシューシュー・ジュージューいう
   - ChatGPT訳: ただの小雨です。燃えさしはまだジュージューと音を立てています。火は未だに打ち勝たれていません。
 - Gale: I'm not certain what's going on, but nothing good. Please, I need to think... I need to retrace my steps to a glade of calm and think.
+  - [retrace](https://ejje.weblio.jp/content/retrace), ゥリ・トレ↑イス
+    - 他動詞: 引き返す、後戻りする
+  - [glade](https://ejje.weblio.jp/content/glade), グ・レ↑ェィド
+    - 名詞: 森林の中の空き地
   - ChatGPT訳: 何が起こっているのか確信はありませんが、良いことではありません。お願い、考える時間が必要です…平穏の林間に戻って、考える時間が。
 - Gale: Thank you, for the artefact. A great deal of trouble it was to... A great deal of trouble indeed.
-  - ChatGPT訳: アーティファクトをありがとう。それを手に入れるのに、本当に大変な苦労を…確かに大変な苦労をしました。
+  - A great deal of trouble (it was to...)
+    - ChatGPTは to の後に「手に入れる」ような単語が来るのだと予測して、そう訳しているとのこと
+    - it was to Verb みたいな表現が、 it Verb と比べて、どう言う意味になるのかはわからない
+  - ChatGPT訳: アーティファクトをありがとう。それを…それを手に入れるのに、本当に大変な苦労をした。確かに大変な苦労をしたよ。
