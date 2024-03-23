@@ -250,7 +250,12 @@ Goblin Campの見張りに話しかけられた
 
 ### 21, Eliasis - 17:46 - Klaw
 
+ゴブリンの仲間のWorgへ話しかけた
+
 - Klaw: Rip ya. Rip ya fer yer giblets. Got thick giblets. Want 'em.
+  - Worg
+    - D&D用語,名詞: オオカミを大きくしたような魔獣、悪魔のような顔をしており、知性が高い
+      - Ref: https://forgottenrealms.fandom.com/wiki/Worg
   - ya = you
   - yer = your
   - [giblet](https://ejje.weblio.jp/content/giblet)
@@ -259,7 +264,76 @@ Goblin Campの見張りに話しかけられた
 
 ### 21, Eliasis - 17:46 - Small Klaw
 
+Goblinの仲間のWorgへ話しかけた
+
 - Small Klaw: Touch me 'n I'll bleed ye out.
   - ye = you
   - 'n = and
   - ChatGPT訳: 触れたら出血させてやる。
+
+### 21, Eliasis - 18:03 - Warlock Tud
+
+酒盛りをしているGoglinの一人へ話しかけた
+
+- Warlock Tud: Lookin' at a future True Soul, you are. Boss Ragzlin says I'm next in line!
+  - (you are) Lookin' at a future True Soul
+  - [in line](https://en.wiktionary.org/wiki/in_line#Adverb)
+    - 副詞: 順番待ちで、次々に
+  - ChatGPT訳: 将来の真の魂を見ているようだな。ボスのラグズリンが、私が次だって言っていたぞ！
+
+### 21, Eliasis - 18:04 - Devout Wasp, Tav
+
+酒盛りをしているGoglinの一人へ話しかけた
+
+- Devout Wasp: ... an' the gnoll gnawed 'er arm clean off. So much for the Flamin' Fist, eh?
+  - Flaming Fist
+    - D&D用語,名詞: Baldur's Gateを本拠地とする傭兵部隊、どちらかといえば秩序寄り
+      - Ref: https://forgottenrealms.fandom.com/wiki/Flaming_Fist
+  - [gnaw](https://ejje.weblio.jp/content/gnaw), ノ↑ーァ
+    - 他動詞: 噛み切る、堅いものをガリガリかじる
+  - [clean](https://ejje.weblio.jp/content/clean), クリィン
+    - 副詞: まったく、すっかり、きれいに
+  - [so much for](https://en.wiktionary.org/wiki/so_much_for#Phrase)
+    - 慣用句: 特に期待や予測に反する軽視や失望や諦めや無視の表現、こう言われてたけど違ったね、期待してたけど大したことなかったね
+  - ChatGPT訳: ...そして、グノールが彼女の腕をきれいにかじり取った。フレイミング・フィストはこれで終わりだね、え？
+- Tav: You saw a Flaming Fist? Where?
+- Devout Wasp: You ain't hear? We sacked Waukeen's Rest and left it to _burn_.
+  - [sack](https://ejje.weblio.jp/content/sack), サ↑ァック
+    - 他動詞: 占領軍が都市を略奪する、場所から貴重品を盗む
+  - ChatGPT訳: 聞いてないのか？ワウキーンズ・レストを襲って、焼き尽くしておいたんだ。
+- Devout Wasp: Drow flingin' magic, gnolls snappin' off heads. Inn's nothin' but a pile of ash by now.
+  - [fling](https://ejje.weblio.jp/content/fling), フリ↑ィング
+    - 他動詞: 物を勢いよく投げる
+  - [snap](https://ejje.weblio.jp/content/snap), スナ↑ップ
+    - 他動詞: パクリと噛みとる・噛む
+    - コアイメージ: パチリ・パン・ピシッ・ピシャリと鳴らす
+  - ChatGPT訳: ドロウが魔法を振りまき、グノールが頭をかみ切る。宿は今や灰の山だ。
+- Devout Wasp: _Glorious_.
+- Tav: Were there any survivors?
+- Devout Wasp: Buncha prisoners got towed to Moonrise. City snobs, mostly.
+  - buncha = bunch of
+  - [tow](https://ejje.weblio.jp/content/tow), ト↑ォウ
+    - 他動詞: 船や自動車をロープや鎖で牽引する、子供や犬を引っ張って行く
+  - [snob](https://ejje.weblio.jp/content/snob), ス(ノ|ナ)ァーブ
+    - 名詞: 自分の好きな学芸や趣味を至上のものと考える似非インテリ、通ぶる人、媚びへつらう俗物
+      - {好きな分野} snob で「〜に通ぶったやつ」の複合名詞になる
+  - ChatGPT訳: たくさんの囚人がムーンライズに引き渡されました。主に都会のお高くとまった人たちです。
+- Devout Wasp: But the Flamin' Fist? Pile of smokin' corpses.
+- Tav: Do you happen to know the way to Moonrise?
+  - [happen](https://ejje.weblio.jp/content/happen), ハ↑ァペン
+    - 自動詞: 偶然〜する
+      - happen to do
+  - ChatGPT訳: ムーンライズへの道をご存じですか？
+- Devout Wasp: You ain't know the broken road? Heh!
+  - ain't = do not
+  - ChatGPT訳: 壊れた道を知らないのかい？へっ！
+- Devout Wasp: I'll tell ya real slow-like so ya don't miss it:
+  - [miss](https://ejje.weblio.jp/content/miss)
+    - 他動詞: 狙ったものを取りそこなう・取り逃す、機会を逸する、聞き・見逃す、理解しそこなう、出席しそこなう
+  - ChatGPT訳: 本当にゆっくり教えてあげるから、見逃さないようにね：
+- Devout Wasp: _North_.
+- Tav: _Leave_.
+
+### 21, Eliasis - 18:09 - Sharp-Eye Sluck, Tav
+
+酒盛りをしているGoglinの一人へ話しかけた
