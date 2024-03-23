@@ -234,3 +234,32 @@ Goblin Campの見張りに話しかけられた
     - 名詞: 若者、青年、少年、男
   - ChatGPT訳: 仲間たちは公爵さえ捕らえた。それは祝うに値する。
 - Tav: _Leave_.
+
+### 21, Eliasis - 17:36 - Warrior Puce
+
+門番の一人であるGoblinへ話しかけた
+
+- Warrior Puce: Go on, then.
+
+### 21, Eliasis - 17:36 - Sentinel Olak, Tav
+
+再び話しかけた
+
+- Sentinel Olak Puce: What?
+- Tav: _Leave_.
+
+### 21, Eliasis - 17:46 - Klaw
+
+- Klaw: Rip ya. Rip ya fer yer giblets. Got thick giblets. Want 'em.
+  - ya = you
+  - yer = your
+  - [giblet](https://ejje.weblio.jp/content/giblet)
+    - 名詞: 臓物
+  - ChatGPT訳: お前を引き裂く。お前の内蔵を引き裂く。厚い内蔵を持っている。欲しいんだ。
+
+### 21, Eliasis - 17:46 - Small Klaw
+
+- Small Klaw: Touch me 'n I'll bleed ye out.
+  - ye = you
+  - 'n = and
+  - ChatGPT訳: 触れたら出血させてやる。
