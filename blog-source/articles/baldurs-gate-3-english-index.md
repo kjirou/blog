@@ -60,14 +60,16 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
         - Wiktionaryで Verb へ分類されていて、本文で自動詞として使われているもの
       - 他動詞
         - Wiktionaryで Verb へ分類されていて、本文で他動詞として使われているもの
+      - 助動詞
+        - Wiktionaryで Verb へ分類されていて、 auxiliary verb のタグが付与されているもの
+      - 動詞:
+        - Wiktionaryで Verb へ分類されていて、それ以上の分類が不明なもの
       - 形容詞
         - Wiktionaryで Adjective へ分類されているもの
       - 副詞
         - Wiktionaryで Adverb へ分類されているもの
       - 前置詞
         - Wiktionaryで Preposition へ分類されているもの
-      - 助動詞
-        - Wiktionaryで Verb へ分類されていて、 auxiliary verb のタグが付与されているもの
       - 接続詞
         - Wiktionaryで Conjunction へ分類されているもの
       - 間投詞

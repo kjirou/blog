@@ -123,7 +123,11 @@ Goblin Campの見張りに話しかけられた
 
 ### 21, Eliasis - 16:56 - Sentinel Olak, Gale, Tav, Shadowheart
 
+正門に行くと、門番に話しかけられた
+
 - Sentinel Olak: Lookit, Klaw! Supper's here!
+  - [sentinel](https://ejje.weblio.jp/content/sentinel), セ↑ン・ティ・ネウ
+    - 名詞: 歩哨、哨兵
   - [lookit](https://en.wiktionary.org/wiki/lookit#Interjection)
     - 間投詞: 見て、参照して、聞いて、注意して
   - ChatGPT訳: 見てくれ、Klaw！夕食が来たぞ！
@@ -136,15 +140,70 @@ Goblin Campの見張りに話しかけられた
       - UKでの婉曲表現
   - ChatGPT訳: 他に用事がなければ、くそったれ。
 - Gale: Let's try to be diplomatic, shall we? Goblins don't come by the handfuls, but by the dozens.
+  - [diplomatic](https://ejje.weblio.jp/content/diplomatic), ディプロ・マ↑ーティッ
+    - 形容詞: 外交的手腕のある、駆け引き上手な、外交官の
+  - [by](https://ejje.weblio.jp/content/by), バ↑ァイ
+    - 前置詞: 〜を単位にして
+      - by the {単位] の形
+  - [handful](https://ejje.weblio.jp/content/handful), ヘ↑ェンド・ホゥ
+    - 名詞: 少数、少量、ひと握り、手一杯
   - ChatGPT訳: 外交的に行こうじゃないか。ゴブリンは少数ではなく、大量にやってくる。
 - \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
+  - [reach](https://ejje.weblio.jp/content/reach), ゥリ↑ィチ
+    - 名詞: 手や腕などが届く範囲、簡単に行ける距離
   - ChatGPT訳: 印が輝くが、何も感じない。あなたのイリシッドの力は休息を取るまで手の届かないところにある。
 - Tav: _Read the goblin's mind_.
 - Intelligence Successful: Tav
+- Sentinel Olak: _This better not be Minthara's messenger. If the boss finds out I gave him a hard time, that's me done_.
+  - This (had) better not be
+  - [had better](https://en.wiktionary.org/wiki/had_better#Verb)
+    - 動詞: 〜するべきだ・あるべきだ(=should, must, ought to, need to)
+      - should よりも強く、差もないと大変なことになるぞ、という警告に近い意味
+    - S had better Verb原形 の形で使う
+    - 常に had である、時制はない
+    - 否定形は S had better not
+    - 疑問形は Had S better ~ ?
+    - 助動詞的だが、文法上はそうではないらしい
+    - 本文だと had が省略されているが、これが一般的なのかはわからない
+  - Minthara's messenger の意味は？
+    - 後の文でわかるが、これは Minthara へのメッセンジャーの意味だった
+    - ChatGPTによると、一般的には Minthara からのメッセンジャーを意味するが、文脈によっては Minthara へのメッセンジャーという解釈も可能であるとのこと
+  - [hard](https://ejje.weblio.jp/content/hard), ハ↑ァード
+    - 形容詞: 厳しい、冷酷な、苦しい、つらい
+  - [done](https://en.wiktionary.org/wiki/done#Adjective)
+    - 形容詞: おしまいな、終わった、成功の希望がなく、完了の見込みがなく
+      - Assoc: 日本語の「俺は終わりだ」が近そう
+  - ChatGPT訳: これがミンタラの使者だったらまずいな。もしボスが俺が彼に厳しくしたことを知ったら、俺のおしまいだ。
+  - 今までの他の対応と比べると大分紳士的だったから、逆に訳がわからなかった
+- Tav: I'm a messenger - here to see Minthara.
+  - ChatGPT訳: 私は使者です - ミンタラに会いに来ました。
+- Sentinel Olak: Ah, right! Beg pardon - gotta give all visitors the ol' squinty eye, y'know?
+  - gotta = have got to
+  - ol' = old
+    - ChatGPTによると、やや親しみを増す言い方らしい
+  - [squinty](https://ejje.weblio.jp/content/squinty), スクウィンティ
+    - 形容詞: やぶにらみの、斜視の
+  - y'know = you know
+  - ChatGPT訳: ああ、そうか！ すまない - すべての訪問者には、古い睨みをきかせないといけないんだよね？
+- Sentinel Olak: Go on in and have a drink for me, eh?
+  - ChatGPT訳: 入って、私の分も一杯飲んでくれよ、え？
+- Tav: Have you seen a druid named Halsin?
+- Sentinel Olak: Who? If he ain't none of us, and if he's here, he's down in the pits.
+  - ChatGPT訳: 誰？ここにいるなら、私たちの一員ではないし、彼がここにいるなら、彼は穴の中にいる。
+- Shadowheart: 'The pits'...? He couldn't be somewhere pleasant-sounding, could he? Better still be alive.
+  - [pleasant](https://ejje.weblio.jp/content/pleasant), プレ↑・ゼント
+    - 形容詞: 心地よい、快適な、楽しい、愉快な
+  - [sounding](https://ejje.weblio.jp/content/sounding), サ↑ァウンディング
+    - 形容詞: 音のする、鳴る、鳴り響く
+  - pleasant-sounding の意味は？
+    - 直訳だと「心地よい響きの」で、文意を考慮すると「もっと良い名前の」
+  - (Halsin) (had) Better still be alive.
+  - ChatGPT訳: 「穴」...？彼が何か心地よい場所にいることはできないのでしょうか？まだ生きていることを願います。
+- Tav:
+- Sentinel Olak:
+- Sentinel Olak:
 - Sentinel Olak:
 - Tav:
 - Sentinel Olak:
 - Sentinel Olak:
-- Tav:
-- Sentinel Olak:
-- Sentinel Olak:
+- Tav: _Leave_.
