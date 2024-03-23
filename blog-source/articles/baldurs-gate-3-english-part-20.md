@@ -199,11 +199,38 @@ Goblin Campの見張りに話しかけられた
     - 直訳だと「心地よい響きの」で、文意を考慮すると「もっと良い名前の」
   - (Halsin) (had) Better still be alive.
   - ChatGPT訳: 「穴」...？彼が何か心地よい場所にいることはできないのでしょうか？まだ生きていることを願います。
-- Tav:
-- Sentinel Olak:
-- Sentinel Olak:
-- Sentinel Olak:
-- Tav:
-- Sentinel Olak:
-- Sentinel Olak:
+- Tav: That noise coming from behind you: good or bad?
+  - [noise](https://ejje.weblio.jp/content/noise), ノ↑イズ
+    - 名詞: 騒音、雑音
+  - ChatGPT訳: その騒音はあなたの後ろから来ています：良いことですか、悪いことですか？
+- Sentinel Olak: Heh. Depends who you are.
+  - Depends who you are の意味は？
+    - 直訳だと、「それはあなたが誰であるかによります。」
+    - この後に言う襲撃先の利害関係者なら御愁傷様、みたいな感じなのかな？
+  - ChatGPT訳: へへ。誰にとってかによるな。
+- Sentinel Olak: We're celebratin' a raid. No better time in camp than this.
+  - ChatGPT訳: 我々は襲撃を祝っている。キャンプでこれ以上の良い時はない。
+- Sentinel Olak: Get yourself a bit of fun before it dries up.
+  - [dry](https://ejje.weblio.jp/content/dry), ヂョラァイ
+    - 自動詞: 乾く
+  - it dries up の意味は？
+    - 直訳で「それが乾き切ったら」だが比喩表現で、意図は「祝宴が終わる前に」
+  - ChatGPT訳: 楽しみが尽きる前に、少しは楽しんでいくといい。
+- Tav: A raid? On what?
+  - ChatGPT訳: 襲撃？何に？
+- Sentinel Olak: Ripped the guts outta Waukeen's Rest, we did. Inns are good fer guttin'.
+  - [rip](https://ejje.weblio.jp/content/rip), ゥリ↑ップ
+    - 他動詞: 〜を剥ぎ取る・裂き取る
+  - outta = out of
+  - Ripped the guts outta Waukeen's Rest の意味は？
+    - 直訳だと「Waukeen's Restから内蔵を剥ぎ取る」
+  - [inn](https://ejje.weblio.jp/content/inn), イ↑ン
+    - 名詞: 宿屋、階下で飲食店を兼ねた二階建ての小旅館
+  - [gut](https://ejje.weblio.jp/content/gut), ガ↑ット
+    - 他動詞: 魚や鳥のはらわたを抜く
+  - ChatGPT訳: 我々はワウキーンズ・レストをめちゃくちゃにした。宿屋は荒らすには良い場所だ。
+- Sentinel Olak: Lads even captured some duke. Worth celebratin', that is.
+  - [lad](https://ejje.weblio.jp/content/lad), ラァード
+    - 名詞: 若者、青年、少年、男
+  - ChatGPT訳: 仲間たちは公爵さえ捕らえた。それは祝うに値する。
 - Tav: _Leave_.
