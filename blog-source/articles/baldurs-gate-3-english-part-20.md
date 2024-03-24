@@ -276,6 +276,11 @@ Goblinの仲間のWorgへ話しかけた
 酒盛りをしているGoglinの一人へ話しかけた
 
 - Warlock Tud: Lookin' at a future True Soul, you are. Boss Ragzlin says I'm next in line!
+  - Warlock
+    - D&D用語,名詞: 魔法軽装戦士職、一種類の悪魔と契約できてそれに伴う能力が追加される
+      - Ref: https://w.atwiki.jp/dnd5ejpcomment/pages/17.html
+      - Ref: http://eternalsessionbreake.blog.fc2.com/blog-entry-38.html
+      - Ref: https://www.dndbeyond.com/classes/warlock
   - (you are) Lookin' at a future True Soul
   - [in line](https://en.wiktionary.org/wiki/in_line#Adverb)
     - 副詞: 順番待ちで、次々に
@@ -337,3 +342,33 @@ Goblinの仲間のWorgへ話しかけた
 ### 21, Eliasis - 18:09 - Sharp-Eye Sluck, Tav
 
 酒盛りをしているGoglinの一人へ話しかけた
+
+- Sharp-Eye Sluck: Tribe?
+  - [tribe](https://ejje.weblio.jp/content/tribe), チョラ↑ァイブ
+    - 名詞: 同一の血統と長を持ち群居する種族・部族、軽蔑な意味で連中・手合い
+  - 乾杯の仕草で語りかけられている
+- Tav: _Say nothing_.
+- Sharp-Eye Sluck: _Tribe_?
+- Tav: Tribe.
+- Sharp-Eye Sluck: _Tribe_.
+  - 「仲間に乾杯」みたいな意味なんだろうか
+
+### 21, Eliasis - 18:11 - Warlock Tud
+
+再び話しかけた
+
+- Warlock Tud: Blessin's be!
+  - [blessing](https://ejje.weblio.jp/content/blessing), ブレッスィング
+    - 名詞: 神からの恩恵、祝福、祝福の言葉
+
+### 21, Eliasis - 18:12 - Sharp-Eye Sluck
+
+再び話しかけた
+
+- Sharp-Eye Sluck: Tribe!
+
+### 21, Eliasis - 18:12 - Devout Wasp
+
+再び話しかけた
+
+- Devout Wasp: For the Absolute!
