@@ -464,3 +464,70 @@ Goblinの仲間のWorgへ話しかけた
     - 他動詞: 〜する余裕がある、〜しても差し支えない
       - afford to Verb
   - ChatGPT訳: 私たちのグループはそのアーティファクトを回収するために送られたの。今は私一人しか残っていない。失敗するわけにはいかないわ。
+
+### 21, Eliasis - 18:38 - Shadowheart, Tav
+
+イベントが発生したので、仲間へ話しかけた
+
+- Shadowheart: Shar's blessings upon you.
+- Tav: That artefact seems to be protecting us somehow. Do you still have it?
+  - ChatGPT訳: その遺物は何らかの形で私たちを守っているようですね。まだ持っていますか？
+- Shadowheart: Quite the understatement, but yes - I have it. And I'll guard it with my life.
+  - [understatement](https://ejje.weblio.jp/content/understatement), アンダァ・スティトメン
+    - 名詞: 控えめに言うこと
+  - ChatGPT訳: 控えめに言ってもそうですが、はい - 私がそれを持っています。そして、私の命をかけて守ります。
+- Tav: Curious, that you just happen to have an item that can protect us. How did you come by it?
+  - [curious](https://ejje.weblio.jp/content/curious), キュ↑ーリアス
+    - 形容詞: 不思議な、珍しい、好奇心をそそるような
+  - ChatGPT訳: 不思議ですね、ちょうど私たちを守れるアイテムを持っているとは。どうやってそれを手に入れたんですか？
+- Shadowheart: I was part of a group sent by my cloister. We were to take the artefact from the githyanki and bring it to Baldur's Gate, no matter the cost.
+  - ChatGPT訳: 私は修道院から派遣されたグループの一員でした。私たちはギスヤンキからアーティファクトを奪い、何が何でもバルダーズ・ゲートに持ち帰るよう命じられていました。
+  - Githから奪ったんか... Lae'zelが居たらひと揉めありそうだが、残念ながら居ないんや
+- Shadowheart: Though it turned out the cost was very steep. I was the only one of the group to survive - I took the artefact and fled... only to be ensnared by mind flayers before I could finish the mission.
+  - [turn out](https://en.wiktionary.org/wiki/turn_out#Verb)
+    - 他動詞: 結局〜になる(=end up), 結果として〜になる(=result)
+  - [steep](https://ejje.weblio.jp/content/steep), スティープ
+    - 形容詞: 法外な、途方もなく高い、急勾配の
+  - [ensnare](https://ejje.weblio.jp/content/ensnare), (イ|エ)ン・スネ↑ーア
+    - 他動詞: 罠にかける、誘惑する
+  - [only](https://ejje.weblio.jp/content/only)
+    - 接続詞: 〜さえなければ(=except), だが・しかし(=but)
+  - ChatGPT訳: しかし、その代償はとても大きなものでした。グループの中で生き残ったのは私だけでした - 私はアーティファクトを持って逃げました...しかし、任務を完了する前にマインドフレイヤーに捕らえられてしまいました。
+- Shadowheart: That's all I know. That's all I _need_ to know.
+- Tav: How can you go to all this trouble and not understand why?
+  - go to trouble
+    - イディオム: 苦労する、わざわざする
+    - go to trouble to で「苦労して〜する」「わざわざ〜する」
+  - [why](https://ejje.weblio.jp/content/why), ワ↑ァイ
+    - 名詞: 理由、わけ、原因
+  - ChatGPT訳: どうしてこんなに苦労しているのに、理由がわからないの？
+- Shadowheart: I told you already - I surrendered my memories, for the sake of the mission.
+  - [surrender](https://ejje.weblio.jp/content/surrender), (サ|ス)・レ↑ン・ダァ
+    - 他動詞: 自由や信念や希望や主義や職などを放棄する、要求や強制により引き渡す・手渡す
+  - ChatGPT訳: もう言ったでしょう - 私は任務のために記憶を捧げたの。
+- Shadowheart: Shar's secrets must be protected - duty demands it. Once I fulfil my mission, I can have my memories restored.
+  - [duty](https://ejje.weblio.jp/content/duty), デュ↑ゥ・ティ
+    - 名詞: 義務、本文、任務
+  - [fulfil](https://ejje.weblio.jp/content/fulfil), フッ・フィーュゥ
+    - 他動詞: 義務や職務を遂行する・果たす、要件を満たす
+  - ChatGPT訳: シャーの秘密は守らなければならない - 義務がそれを要求する。任務を果たせば、記憶を取り戻すことができる。
+- Tav: Admirable conviction, though I think I'd prefer to know what I was getting myself into.
+  - [admirable](https://ejje.weblio.jp/content/admirable), ア↑ードミボゥ
+    - 形容詞: 称賛に値する、立派な
+  - [conviction](https://ejje.weblio.jp/content/conviction), (カ|コ)ン・ビクション
+    - 名詞: 信念、確信、説得力、有罪の判決
+    - [convict](https://ejje.weblio.jp/content/convict), (カ|コ)ン・ビイクト
+      - 他動詞: 有罪と宣告する
+  - [get into](https://en.wiktionary.org/wiki/get_into#Verb)
+    - 他動詞: 物理的に〜の中へ移動する
+      - get into O(=入る先)
+      - get IO(=入れる対象) into DO(=入る先)
+  - ChatGPT訳: 立派な信念だね。でも、自分が何に巻き込まれているのか知っておきたいかな。
+- Shadowheart: That's not a luxury open to many people, us included. I have my faith to turn to instead. You should find something of your own.
+  - [luxury](https://ejje.weblio.jp/content/luxury), ラ↑ク・シュァリィ
+    - 名詞: 贅沢、驕り、高級品
+  - [turn to](https://en.wiktionary.org/wiki/turn_to#Verb)
+    - 他動詞: 困難や不快な状況を対処するために何かを始める・使う、頼る
+  - ChatGPT訳: それは多くの人にとって、私たちも含めて、開かれている贅沢ではない。代わりに私は自分の信仰に頼ることができる。あなたも自分の何かを見つけるべきよ。
+- Tav: _Let the matter drop_.
+- Tav: _Leave_.
