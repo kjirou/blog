@@ -372,3 +372,95 @@ Goblinの仲間のWorgへ話しかけた
 再び話しかけた
 
 - Devout Wasp: For the Absolute!
+
+### 21, Eliasis - 18:17 - Disembodied Voice, Shadowheart, Karlach, Tav
+
+続けてGoblin Campを散策していると、突然不思議な力の攻撃を受けて、パーティ全員が地面にひれ伏せさせられた
+
+- Disembodied Voice: **_Hear my voice. Obey my command_**.
+  - [disembodied](https://ejje.weblio.jp/content/disembodied), デ↑ィッセ・バァーディド
+    - 形容詞,限定用法: 姿の見えない人の
+  - [obey](https://ejje.weblio.jp/content/obey), オゥ・ベ↑ェイ
+    - 他動詞: 人に従う・服従する
+- \*The voice is irresistible. You recognise the overwhelming authority that you've used on others, only infinitely stronger, and turned against you...\*
+  - [irresistible](https://ejje.weblio.jp/content/irresistible), イ↑ル・レズィスタボゥ
+    - 形容詞: 力などに抵抗できない、感情などを抑えられない
+    - ir/regist/able
+  - [overwhelming](https://ejje.weblio.jp/content/overwhelming), オー・ヴァー・ウ↑ェルミング
+    - 形容詞: 圧倒的な、抵抗できない
+    - [overwhelm](https://ejje.weblio.jp/content/overwhelm), オー・ヴァー・ウ↑ェルンム
+      - 他動詞: 精神的に圧倒する、数や力で圧倒する
+      - helm を over する語源なのかと思ったら、全然違った
+        - Ref: https://www.etymonline.com/jp/word/overwhelm
+    - [infinitely](https://ejje.weblio.jp/content/infinitely), イ↑ン・フィニトリィ
+      - 副詞: 無限に、際限なく、非常に
+  - ChatGPT訳: その声は抗えない。他の人に使った圧倒的な権威を認識しているが、それが無限に強く、自分に向けられている...
+- \*Your vision clouds, leaving you in a dark, featureless shadowscape. Nothingness in every direction.\*
+  - [featureless](https://ejje.weblio.jp/content/featureless), フィ↑ーチャー・レス
+    - 形容詞: 特色がない、おもしろくない
+  - [nothingness](https://ejje.weblio.jp/content/nothingness), ナ↑ッ・シング・ネス
+    - 名詞: 無、空、非実在、空虚、虚無、無意味・無価値なもの、死
+  - ChatGPT訳: あなたの視界は曇り、暗く、特徴のない影の世界に残される。あらゆる方向が虚無。
+- \*Then, there are three figthres before you. An armoured male elf, exuding power and command. A handsome younger man with a quick, easy smile. And a pale young woman with even paler eyes...\*
+  - [exude](https://ejje.weblio.jp/content/exude), (イ|エ)グ・ズゥード
+    - 他動詞: 魅力などを発散する・表す、汗などを滲み出す
+  - [command](https://ejje.weblio.jp/content/command), コメ↑ェァンド
+    - 名詞: 支配力、指揮権、自制力
+  - [easy](https://ejje.weblio.jp/content/easy), イ↑ィーズィ
+    - 形容詞: 気分や態度がくつろいだ・ゆったりした、厳しくない、寛大な、甘い、気楽な
+  - [pale](https://ejje.weblio.jp/content/pale), ペ↑ィルゥ
+    - 形容詞: 青白い、青ざめた、薄い色の、弱い、活気がない
+  - ChatGPT訳: それから、3人の姿があなたの前に現れる。力と指揮を放つ装甲を着た男性エルフ。素早く、やさしい笑顔を浮かべるハンサムな若者。そして、青白い肌をした、さらに青白い目を持つ若い女性...
+- Disembodied Voice: **_These are my Chosen_**. **_They speak for me_**.
+  - speak に「代弁する」という意味はある？
+    - なさそう、意訳のよう
+  - ChatGPT訳: これらは私の選ばれし者たちだ。彼らは私の代弁者だ。
+- Disembodied Voice: **_Aid their search for the Prism, and you will be worthy to stand beside them. In my presence_**.
+  - ChatGPT訳: 彼らのプリズム探索を助けるのだ。そうすれば、私の存在下で、彼らのそばに立つに値する者となるだろう。
+  - この後に、Shadowheartが、自ら持っている謎のアーティファクトを使った
+- \*You feel energy pulsing from the artefact. Lifting the pain from you. Pushing the voice away.\*
+  - Lifting の lift の意味は？
+    - コアイメージ通りの「持ち上げる」からの意訳
+    - ただ、自動詞で「霧が晴れる」「表情が晴れる」、 lift up で「元気になる」、など他の用法で良い意味がある程度ある
+  - ChatGPT訳: あなたはそのアーティファクトからエネルギーが脈打っているのを感じます。あなたから痛みを取り除き、その声を遠ざけます。
+- Disembodied Voice: **_My power grows. My forces gather. The reckoning draws near..._**.
+  - [reckoning](https://ejje.weblio.jp/content/reckoning), ゥレ↑ック・ニング
+    - 名詞: 決算、精算
+    - [reckon](https://ejje.weblio.jp/content/reckon), ゥリ↑ケン
+      - 他動詞: 計算する、〜から起算する、推測する
+      - リコーと関係があるかと思ったら、全然違った
+  - [draw](https://ejje.weblio.jp/content/draw), デュラ↑ォ
+    - 自動詞: 引き寄せられるように近づく・やってくる
+  - ChatGPT訳: 私の力は増大する。私の軍勢は集まる。審判の時が近づく...
+- Shadowheart: Don't give me that look. I don't know what just happened any more than you do. We should keep going.
+  - ChatGPT訳: そのような顔をするな。君が知っているよりも、私にも何が起こったのかわからない。私たちは進むべきだ。
+- Karlach: Nice one, Shadowheart. That thing in your pocket seems powerful as hell.
+  - ChatGPT訳: ナイスワン、シャドウハート。君のポケットにあるそのものは、地獄のように強力に見える。
+- Tav: The vision... that voide - what was it?
+- Shadowheart: I think that was the Absolute speaking to us... but we managed to sheld ourselves. We should keep moving.
+  - [manage](https://ejje.weblio.jp/content/manage), (マ|メ)ネージ
+    - 他動詞: どうにかして〜する、うまく〜する
+      - manage to Verb
+  - [shield](https://ejje.weblio.jp/content/shield), シ↑ールゥド
+    - 他動詞: 保護する、かばう、隠す
+  - ChatGPT訳: 私たちに話しかけていたのはアブソルートだと思う...でも、私たちは自分たちを守ることができた。動き続けるべきよ。
+- Tav: Hold on - that artefact seemed to stop the voice. What is it?
+  - ChatGPT訳: 待って - そのアーティファクトが声を止めたみたいだけど、それは何？
+- Shadowheart: I don't know... not exactly. All I know is it's important I get it back to Baldur's Gate. At any cost.
+  - [at](https://ejje.weblio.jp/content/at), ア↑ァット
+    - 前置詞: 数量や対価や費用の表現、〜で、〜をかけて
+      - Example: at a good price
+    - 条件の表現もある、 at stake など
+  - ChatGPT訳: わからない...正確には。ただ、何としてもそれをバルダーズ・ゲートに持ち帰らなくてはならないことだけはわかってる。どんな犠牲を払ってもね。
+- Tav: What's in Baldur's Gate?
+- Shadowheart: My home - a cloister of Shar followers, hidden in the city.
+  - [cloister](https://ejje.weblio.jp/content/cloister), クロィ・スタァ
+    - 名詞: 修道院、隠遁生活
+  - ChatGPT訳: 私の家 - シャーの信者たちの隠れ家が街の中にあるの。
+- Shadowheart: A group of us were sent to retrieve the artefact. Now I'm the only one left. I can't afford to fail.
+  - [retrieve](https://ejje.weblio.jp/content/retrieve), ゥリ・トリ↑ィブ
+    - 他動詞: 取り戻す、回収する
+  - [afford](https://ejje.weblio.jp/content/afford), ア・フ↑ォーェド
+    - 他動詞: 〜する余裕がある、〜しても差し支えない
+      - afford to Verb
+  - ChatGPT訳: 私たちのグループはそのアーティファクトを回収するために送られたの。今は私一人しか残っていない。失敗するわけにはいかないわ。
