@@ -87,6 +87,8 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
         - 「形容詞」と併用する、表記は任意で片側しか用法がないものや意味が大きく変わるものに付与する
       - 前置詞句
         - Wiktionaryで Prepositional phrase へ分類されているもの
+      - 接尾辞
+        - Wiktionaryで Suffix へ分類されているもの
       - 慣用句
         - Wiktionaryで Phrase へ分類されているもの
       - イディオム
