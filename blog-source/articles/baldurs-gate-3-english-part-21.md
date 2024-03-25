@@ -107,3 +107,54 @@ Goblin族ではない人に話しかけた。
   - [decent](https://ejje.weblio.jp/content/decent), ディ↑ーセント
     - 形容詞: 社会的基準から見て見苦しくない・きちんとした
   - ChatGPT訳: 乾杯だね？ これらの小さなやつらがかなりまともな飲み物を手に入れたよ！
+
+### 21, Eliasis - 19:54 - Warrior Sul
+
+宴会中のGoblinのひとりへ話しかけた
+
+- Warrior Sul: This ale tastes like hobgoblin spit. Who's been pukin' in the barrel?
+  - [spit](https://ejje.weblio.jp/content/spit), スピ↑ット
+    - 名詞: つば、つばを吐くこと
+  - [puke](https://ejje.weblio.jp/content/puke), ピュゥク
+    - 自動詞: 食べたものを吐く
+  - ChatGPT訳: このエールはホブゴブリンの唾液みたいな味がする。誰が樽の中で吐いてたんだ？
+
+### 21, Eliasis - 19:54 - Sharp-Eye Aggy, Tav
+
+宴会中のGoblinのひとりへ話しかけた
+
+- Sharp-Eye Aggy: Awshh... drink's goin' straight through me...
+  - drink's goin' straight through me の意味は？
+    - 直訳だと「飲み物が私を直接通っていく」、意訳で「頻繁に尿に行きたくなる」
+  - ChatGPT訳: あーっ、飲んだお酒がすぐに効いてくる...
+- Tav: The only cure is drinking more - as fast as you can.
+- Sharp-Eye Aggy: That's the plan! We looted an entire inn - brought back enough booze to drown a dragon.
+  - [booze](https://ejje.weblio.jp/content/booze), ブゥース
+    - 名詞: 酒
+    - 動詞で「大酒を飲む」
+  - [drown](https://ejje.weblio.jp/content/drown), ドラ↑ァウン
+    - 自動詞: 溺死する
+  - to drown a dragon の意味は？
+    - 直訳で「ドラゴンをおぼれ死にさせるための」、意訳で「ドラゴンをおぼれさすほどの」、らしい
+  - ChatGPT訳: その通りだ！俺たちは一軒の宿を略奪して、ドラゴンが溺れるほどの酒を持ち帰ったんだ。
+- Sharp-Eye Aggy: Here's to them we nicked it off! Down one mug of ale for every throat we cut!
+  - [here's to](https://en.wiktionary.org/wiki/here%27s_to#Phrase)
+    - 慣用句: 〜のために乾杯！
+    - なお、 here's = here is だが、 here is としては使わない
+  - [nick](https://en.wiktionary.org/wiki/nick#Verb), ニック
+    - 他動詞: 盗む(=steal)
+  - Here's to them の them は何を指す？
+    - おそらくは、略奪に合った人々を指している
+  - ChatGPT訳: 奪った奴らに乾杯！切った喉ごとにエールのマグを一つ飲み干せ！
+
+### 21, Eliasis - 20:02 - Warrior Sul
+
+再び話しかけた
+
+- Warrior Sul: Oi. Watch you don't spill my beer, or I'll cur ya.
+  - [watch](https://ejje.weblio.jp/content/watch)
+    - 他動詞: 注意する、用心する、監視する
+    - コアイメージ: 一定期間、変化しそうなものが何か変化があるかと見守る
+  - [spill](https://ejje.weblio.jp/content/spill), スピルゥ
+    - 他動詞: 液体や粉などをこぼす
+  - ChatGPT訳: おい。私のビールをこぼさないように気をつけろ、さもなければお前を切り裂くぞ。
