@@ -83,3 +83,27 @@ lastUpdatedAt: "2024-03-24 23:04:05+0000"
 - Gribbo: C'mon, pigeon. Back to your cage.
 - Volo: _(Now look what you've done!)_
   - ChatGPT訳: （さあ、見てくれ！お前が何をしたか！）
+
+### 21, Eliasis - 19:51 - Brynna
+
+Goblin族ではない人に話しかけた。
+
+おそらくは、[Part 16](./baldurs-gate-3-english-part-16.md)に出現した道端の死体の仲間。  
+消したセーブのときに、既に瀕死の仲間と一緒に居た。
+
+- Brynna: It's good to be among allies, isn't it? The Absolute's blessings have brought so many together.
+  - ChatGPT訳: 味方の中にいるといいですよね。アブソリュートの祝福が多くの人々を一緒に連れてきました。
+
+### 21, Eliasis - 19:52 - Andrick
+
+先のBrynnaの仲間と思われる、Goblin族ではない人に話しかけた
+
+- Andrick: Bottoms up, eh? These little lads snagged some pretty decent drink!
+  - [bottoms up](https://en.wiktionary.org/wiki/bottoms_up)
+    - 間投詞: 乾杯！(=cheers)
+  - [snag](https://ejje.weblio.jp/content/snag)
+    - 他動詞: すばやくつかむ、靴下などにかぎ裂きを作る、妨げる
+    - コアイメージ: おそらくは名詞の「折れた後の枝株」「水中から先端が出て船の侵攻を妨げる倒木」だと思う
+  - [decent](https://ejje.weblio.jp/content/decent), ディ↑ーセント
+    - 形容詞: 社会的基準から見て見苦しくない・きちんとした
+  - ChatGPT訳: 乾杯だね？ これらの小さなやつらがかなりまともな飲み物を手に入れたよ！
