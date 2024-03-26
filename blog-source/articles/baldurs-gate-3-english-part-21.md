@@ -356,3 +356,21 @@ Goblinに追いかけられている鶏へ話しかけた
     - [soft](https://ejje.weblio.jp/content/soft), ソ↑ーフト
       - 形容詞: 弱々しい、男らしくない、優しい、柔和な
   - ChatGPT訳: それは柔らかいものだ。関わりたくない。
+
+### 21, Eliasis - 20:35 - Grat the Trader, Tav
+
+Goblinの商人へ話しかけた
+
+- Grat the Trader: You look like you got something jingling in your pocket.
+  - ChatGPT訳: あなたのポケットには何かが鳴っているように見えますね。
+- Grat the Trader: Lookin' to spend it?
+  - [looking](https://ejje.weblio.jp/content/looking), ル↑・キン
+    - 形容詞: 〜に見える、〜そうな顔をしている
+  - ChatGPT訳: それを使うつもりですか？
+- Tav: Quite the trove. How'd you get your hands on all this?
+  - [trove](https://en.wiktionary.org/wiki/trove#Noun), チュロ↑ォブ
+    - 名詞: 宝の山、貴重な発見物・埋蔵物(=treasure trove)
+  - ChatGPT訳: なかなかの宝物ですね。どうやって手に入れたんですか？
+- Grat the Trader: Nicked 'em off the dead, didn't I?
+- Tav: Let me see what you have.
+- Grat the Trader: Get movin'. I got other customers.
