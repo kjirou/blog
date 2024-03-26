@@ -326,7 +326,33 @@ Goblinに追いかけられている鶏へ話しかけた
 - Tav: _Read his thoughts._
 - Intelligence Successful: Tav
 - Tracker Klagga: _Some of these words are real pretty. But if the lads find out how much I enjoy it, they'll stick ME on the spit._
+  - [spit](https://ejje.weblio.jp/content/spit), スピ↑ット
+    - 名詞: 焼肉用の串、焼き串
+  - stick ME on the spit の意味は？
+    - 直訳だと「私を串に刺す」だが、ChatGPTによると比喩表現で、からかいや嘲笑の的になることを意味するらしい
   - ChatGPT訳: これらの言葉のいくつかは本当に美しいですね。でも、仲間たちが私がそれをどれだけ楽しんでいるか知ったら、彼らは私を串に刺しますよ。
 - Tav: Ah, you're a secret poetry-lover. How cute.
+  - ChatGPT訳: ああ、あなたは秘密の詩愛好家ですね。かわいいですね。
 - Tracker Klagga: Wot? It's a load of old bollocks... all this moons and stars rubbish. Embarrassin' is wot it is.
+  - [wot](https://en.wiktionary.org/wiki/wot#Adverb)
+    - 助動詞: = what
+  - a load of old bollocks
+    - イディオム: 何かが全く無意味な・馬鹿げている
+    - [load](https://ejje.weblio.jp/content/load), ロゥド
+      - 名詞: 山、どっさり、たくさん
+        - a load of または loads of で使う
+    - [bollock](https://ejje.weblio.jp/content/bollock)
+      - 名詞: 無意味、睾丸
+  - [rubbish](https://ejje.weblio.jp/content/rubbish)
+    - 名詞: ごみ、くず、がらくた
+  - [embarrassing](https://ejje.weblio.jp/content/embarrassing), エン・バ↑ァラ・スィング
+    - 形容詞: 恥の、当惑させるような、ばつが悪い、きまりが悪い
+    - [embarrass](https://ejje.weblio.jp/content/embarrass), エン・バ↑ァラス
+      - 他動詞: 人前で恥ずかしい思いをさせる
+  - ChatGPT訳: 何？それはくだらない古いナンセンスだ... この月や星のくだらない話。恥ずかしいことだ。
 - Tracker Klagga: It's soft-stuff. Don't want nothin' to do with it.
+  - soft-stuff の意味は？
+    - 直訳だと「柔らかいもの」、意訳で「感傷的・感情的・ロマンティックな内容や考え」
+    - [soft](https://ejje.weblio.jp/content/soft), ソ↑ーフト
+      - 形容詞: 弱々しい、男らしくない、優しい、柔和な
+  - ChatGPT訳: それは柔らかいものだ。関わりたくない。
