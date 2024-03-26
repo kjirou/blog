@@ -357,7 +357,7 @@ Goblinに追いかけられている鶏へ話しかけた
       - 形容詞: 弱々しい、男らしくない、優しい、柔和な
   - ChatGPT訳: それは柔らかいものだ。関わりたくない。
 
-### 21, Eliasis - 20:35 - Grat the Trader, Tav
+### 21, Eliasis - 21:21 - Grat the Trader, Tav
 
 Goblinの商人へ話しかけた
 
@@ -374,3 +374,46 @@ Goblinの商人へ話しかけた
 - Grat the Trader: Nicked 'em off the dead, didn't I?
 - Tav: Let me see what you have.
 - Grat the Trader: Get movin'. I got other customers.
+
+### 21, Eliasis - 23:12 - Bao'ek'nuk
+
+警備をしているBugbearへ話しかけた
+
+- Bao'ek'nuk: I ain't paid to talk. Keep walkin'.
+  - [pay](https://ejje.weblio.jp/content/pay), ペイ
+    - 他動詞: 報酬や賃金を支払う
+      - pay O(=払う内容)
+      - pay O(=払う対象)
+  - ChatGPT訳: 話すために金をもらっていない。歩き続けろ。
+
+### 21, Eliasis - 23:20 - Tracker Kirz
+
+CrusherというGoblinの話を聞いているGoblinへ話しかけた
+
+- Tracker Kirz: Shh, you should listen to Crusher. He's just... 'e can do anythin'.
+  - ChatGPT訳: シッ、クラッシャーの言うことを聞いた方がいい。彼はただ…彼は何でもできるんだ。
+
+### 21, Eliasis - 23:21 - Brawler Tiny
+
+CrusherというGoblinの話を聞いているGoblinへ話しかけた
+
+- Brawler Tiny: What're you starin' at? Think I'm small? Yer just a freak.
+  - yer = you
+  - ChatGPT訳: 何見てんの？ 小さいと思う？ お前がただの変わり者だよ。
+
+### 21, Eliasis - 23:21 - Sharp-Eye Breg
+
+CrusherというGoblinの話を聞いているGoblinへ話しかけた
+
+- Sharp-Eye Breg: You gotta... gotta listen to Crusher. 'E get's mad if you don't. MAD.
+  - 'E = He
+  - get's の意味は？
+    - ChatGPTによると、 "gets" の誤りとのこと
+  - [mad](https://ejje.weblio.jp/content/mad)
+    - 形容詞,叙述用法: 立腹する、腹を立てる
+      - 口語で用いる
+  - ChatGPT訳: 聞かなきゃ…クラッシャーの言うことを聞かないと。怒るんだから。本当に怒るんだから。
+
+### 21, Eliasis - 23:22 - Crusher, Brawler Tiny, Tav, Gale
+
+3人のGoblinたちへ話をしているGoblinへ話しかけた
