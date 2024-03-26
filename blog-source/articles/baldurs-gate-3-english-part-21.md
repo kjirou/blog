@@ -254,18 +254,79 @@ Goblinに追いかけられている鶏へ話しかけた
 見回りをしながら肉を焼いているGoblinへ話しかけた
 
 - Tracker Klagga: Enjoyin' the view? Lookin' tasty in these new breeches, ain't I?
+  - [breeches](https://ejje.weblio.jp/content/breeches), ブリィチィズ
+    - 名詞: ひざ上で止める男子用の半ズボン
+      - 複数形のみ
+    - 語源はフランス語
+    - [breech](https://ejje.weblio.jp/content/breech), ブリ↑ィチ
+      - 名詞: 銃尾、砲尾、底の部分
+        - 後ろから弾を込める穴の部分
+  - [tasty](https://ejje.weblio.jp/content/tasty), テイスティ
+    - 形容詞: 魅力的な
+  - ChatGPT訳: 景色を楽しんでるの？この新しいズボン、美味しそうに見えるでしょ？
 - Tav: They look quite fetching on you.
+  - [fetching](https://ejje.weblio.jp/content/fetching)
+    - 形容詞: 人目を惹く、魅惑的な
+  - ChatGPT訳: あなたにはとても似合っていますね。
 - Tracker Klagga: Proper stylish, ain't they? Nicked 'em off this dwarf we're cookin'.
+  - [proper](https://ejje.weblio.jp/content/proper), プ(ラ|ロ)↑ァ・パァ
+    - 形容詞: 目的や用途に合って適切な
+  - [stylish](https://ejje.weblio.jp/content/stylish), スタ↑ァィ・リッシュ
+    - 形容詞: 当世風の、粋な、おしゃれな
+  - [off](https://ejje.weblio.jp/content/off), オ↑フ
+    - 前置詞: 固定や付着したものから分離して
+  - ChatGPT訳: ちゃんとおしゃれでしょ？今料理してるドワーフから拝借したんだ。
 - Tav: The dwarf - did he have anything on him? Besides pants.
+  - on him の意味は？
+    - 「身につけているもの」
+  - ChatGPT訳: そのドワーフには何か持ち物がありましたか？パンツ以外で。
 - Tracker Klagga: Dunno. Woz already stripped down to his breeches when I got my hands on 'im.
+  - [dunno](https://en.wiktionary.org/wiki/dunno#Contraction), ドゥ・ノー
+    - 縮約形: = do not know, does not know
+  - [woz](https://en.wiktionary.org/wiki/woz#Verb)
+    - = was
+  - [strip down](https://en.wiktionary.org/wiki/strip_down#Verb)
+    - 自動詞: 服を全て脱ぐ
+    - [strip](https://ejje.weblio.jp/content/strip), ストリ↑ップ
+      - 他動詞: 外皮などをむく・はぐ、人を裸にする
+      - コアイメージ: 名詞の「細長い切れはし」という意味
+  - stripped down to his breeches の意味は？
+    - 「半ズボンになるまで服を脱がせる」
+  - [get one's hands on](https://en.wiktionary.org/wiki/get_one%27s_hands_on#Verb)
+    - 他動詞: 取る・得る(=get)、手にいれる・獲得する(=obtain)、確保する(=secure)
+  - ChatGPT訳: わからないよ。俺が手に入れた時にはすでにズボンだけだったからな。
 - Tracker Klagga: Had a coupla coins in the pockets and some daft poem. But that's all.
+  - [coupla](https://en.wiktionary.org/wiki/coupla#Contraction)
+    - 縮約形: = couple of
+    - [couple](https://en.wiktionary.org/wiki/couple#Noun), カ↑ッ・ポゥ
+      - 名詞: 少数
+        - 通常は「組になっている二つ・二人・一対」
+  - [daft](https://ejje.weblio.jp/content/daft), デァーフト
+    - 形容詞: ばかげた、まぬけな、気が触れた
+  - ChatGPT訳: ポケットには数枚のコインと、ばかげた詩があったけど、それだけだよ。
 - Tav: I love poetry - can I see?
+  - [poetry](https://ejje.weblio.jp/content/poetry), ポ↑ォエティ
+    - 名詞: 形式としての詩・韻文
+  - ChatGPT訳: 私は詩が好きです - 見ることはできますか？
 - Tracker Klagga: Sure you can. But a look's all yer gettin'.
+  - ChatGPT訳: もちろんです。でも、見るだけですよ。
 - Tracker Klagga: For all I know, this little roaster was some famous bard and you'll be sellin' his last words for a pretty penny.
+  - [for all one knows](https://en.wiktionary.org/wiki/for_all_one_knows)
+    - 前置詞句: 限られた知識を考慮して考えられて・推測できて
+  - [roaster](https://ejje.weblio.jp/content/roaster), ロゥ・スタァ
+    - 名詞: ロースト用の肉、焼く人、焼き鍋、ロースター
+  - [some](https://ejje.weblio.jp/content/some), サ↑ァンム
+    - 形容詞,限定用法: 不明や不特定なことの表現、何かの、どこかの
+  - [penny](https://ejje.weblio.jp/content/penny), ペ↑・ニィ
+    - 名詞: 金銭、ペニー貨、びた一文
+    - a pretty penny
+      - イディオム: かなりのお金
+  - ChatGPT訳: 私に言わせれば、この小さな焼き物は何か有名な詩人のもので、あなたは彼の最後の言葉を高額で売りさばくつもりかもしれませんね。
 - \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
 - Tav: _Read his thoughts._
 - Intelligence Successful: Tav
 - Tracker Klagga: _Some of these words are real pretty. But if the lads find out how much I enjoy it, they'll stick ME on the spit._
+  - ChatGPT訳: これらの言葉のいくつかは本当に美しいですね。でも、仲間たちが私がそれをどれだけ楽しんでいるか知ったら、彼らは私を串に刺しますよ。
 - Tav: Ah, you're a secret poetry-lover. How cute.
 - Tracker Klagga: Wot? It's a load of old bollocks... all this moons and stars rubbish. Embarrassin' is wot it is.
 - Tracker Klagga: It's soft-stuff. Don't want nothin' to do with it.
