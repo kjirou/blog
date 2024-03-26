@@ -203,16 +203,30 @@ Goblin族ではない人に話しかけた。
 宴会中のGoblinのひとりへ話しかけた
 
 - Sharp-Eye Mirg: Bloody arm is killin' me. 'Ere's to the best sedative there is - BOOZE.
+  - 'Ere's = Here's
   - [sedative](https://ejje.weblio.jp/content/sedative)
     - 形容詞: 鎮静作用の
+  - (Ere's to) (the best sedative there is)
+  - ChatGPT訳: この血だらけの腕がめちゃくちゃ痛い。乾杯、ここに最高の鎮痛剤があるんだ - 酒さ。
 
 ### 21, Eliasis - 20:19 - Tracker Puli, Tav
 
 宴会中のGoblinのひとりへ話しかけた
 
 - Tracker Puli: Hey... hey! You ain't roundin' me up for no raid. No way. I'm DRINKIN'!
+  - [round up](https://en.wiktionary.org/wiki/round_up#Verb)
+    - 他動詞: 人を呼び集める(=gather together)、集める(=collect)
+    - コアイメージ: 馬に乗って牛を集める図
+  - no raid の no の意味は？
+    - 二重否定になっているため、通常は肯定の意味になるが、ChatGPTによるとここでは強調とのこと
+  - [no way](https://en.wiktionary.org/wiki/no_way#Interjection)
+    - 間投詞: 強い拒絶の表現、絶対だめだ、とんでもない、ありえない
+    - 副詞で「決して〜ない」もある
+  - ChatGPT訳: おい...おい！俺を何かの襲撃に連れて行くなんてことはない。ダメだ。俺は飲んでるんだ！
 - Tav: Good for you. Bottoms up!
+  - ChatGPT訳: 良かったね。乾杯！
 - Tracker Puli: Yeaahhhh! 'Ere's to the Absholute!
+  - ChatGPT訳: イエー！「絶対者」に乾杯！
 
 ### 21, Eliasis - 20:29 - Dishevelled Chicken
 
@@ -229,6 +243,11 @@ Goblinに追いかけられている鶏へ話しかけた
 - Devout Mezzka: If you fancy playin', talk to Krolla.
   - [devout](https://ejje.weblio.jp/content/devout), デバ↑ウト
     - 形容詞: 信心深い、信者の
+  - [fancy](https://ejje.weblio.jp/content/fancy)
+    - 他動詞: 〜と思う、空想する
+    - 訳のような「好む」と言う意味はあまりなさそう
+  - ChatGPT訳: 遊びたいなら、クローラに話しかけて。
+  - この「遊び」は、後に出てくるニワトリを追い込むゲームのことを指す
 
 ### 21, Eliasis - 20:35 - Tracker Klagga, Tav
 
