@@ -158,3 +158,95 @@ Goblin族ではない人に話しかけた。
   - [spill](https://ejje.weblio.jp/content/spill), スピルゥ
     - 他動詞: 液体や粉などをこぼす
   - ChatGPT訳: おい。私のビールをこぼさないように気をつけろ、さもなければお前を切り裂くぞ。
+
+### 21, Eliasis - 20:03 - Warlock Gurk, Tav
+
+宴会中のGoblinのひとりへ話しかけた
+
+- Warlock Gurk: Grab a drink afore you see the priestess, mucker. The brandin' stings sumfin' proper.
+  - [afore](https://ejje.weblio.jp/content/afore), ア・フォェ
+    - 前置詞: 〜する前に
+  - [priestess](https://ejje.weblio.jp/content/priestess), プリ↑ィステス
+    - 名詞: 女司祭、巫女、キリスト教以外の尼僧
+  - [mucker](https://ejje.weblio.jp/content/mucker), マ↑ッカァ
+    - 名詞: 友人、知人、下品な人
+  - [brand](https://ejje.weblio.jp/content/brand), ブラ↑ァンド
+    - 他動詞: 焼き印を押す
+  - sumfin' = sumfink
+    - [sumfink](https://ejje.weblio.jp/content/sumfink)
+      - = something
+  - [proper](https://ejje.weblio.jp/content/proper), プロ・パー
+    - 副詞: ひどく、完全に、全く、礼儀正しく
+  - sumfin' proper の意味は？
+    - ChatGPTによると、 sumfin' は「焼き印が当てられたことによる痛み」を意味するとのこと
+  - ChatGPT訳: 司祭を見る前に飲み物を取っておくんだ、友よ。焼印はかなり痛むからな。
+- Tav: You let her burn you? Why?
+- Warlock Gurk: Mark of the Absolute, innit? Shows our devotion to 'er.
+  - [innit](https://en.wiktionary.org/wiki/innit#Contraction), イニット
+    - 縮約形: = isn't it
+      - 意味合いは ain't it の方に近い
+  - [devotion](https://ejje.weblio.jp/content/devotion), デ↑・ボゥ・ション
+    - 名詞: 献身、深い愛情
+  - ChatGPT訳: 絶対者の印だろ？彼女への献身を示すんだ。
+- Warlock Gurk: Makes it easier to decide who we kill and who we don't too - so best get a move on, eh?
+  - [best](https://ejje.weblio.jp/content/best)
+    - 副詞: 最も良く、いちばん
+      - 副詞のときは通常は the をつけない、口語などでつけることもある
+  - too の意味は？
+    - 「献身を示すし、敵味方の判別もできる」の「も」
+  - [get on](https://en.wiktionary.org/wiki/get_on#Verb)
+    - 他動詞: 動作を開始する
+  - ChatGPT訳: 誰を殺し、誰を殺さないかを決めやすくするためさ - だから急いで動くんだな？
+
+### 21, Eliasis - 20:03 - Sharp-Eye Mirg
+
+宴会中のGoblinのひとりへ話しかけた
+
+- Sharp-Eye Mirg: Bloody arm is killin' me. 'Ere's to the best sedative there is - BOOZE.
+  - [sedative](https://ejje.weblio.jp/content/sedative)
+    - 形容詞: 鎮静作用の
+
+### 21, Eliasis - 20:19 - Tracker Puli, Tav
+
+宴会中のGoblinのひとりへ話しかけた
+
+- Tracker Puli: Hey... hey! You ain't roundin' me up for no raid. No way. I'm DRINKIN'!
+- Tav: Good for you. Bottoms up!
+- Tracker Puli: Yeaahhhh! 'Ere's to the Absholute!
+
+### 21, Eliasis - 20:29 - Dishevelled Chicken
+
+Goblinに追いかけられている鶏へ話しかけた
+
+- Dishevelled Chicken: Escape!? Escape!
+  - [dishevel](https://ejje.weblio.jp/content/dishevel), ディ↑ッシェーボォ
+    - 他動詞: 振り乱す、しわくちゃにする
+
+### 21, Eliasis - 20:31 - Devout Mezzka
+
+見回りをしているGoblinへ話しかけた
+
+- Devout Mezzka: If you fancy playin', talk to Krolla.
+  - [devout](https://ejje.weblio.jp/content/devout), デバ↑ウト
+    - 形容詞: 信心深い、信者の
+
+### 21, Eliasis - 20:35 - Tracker Klagga, Tav
+
+見回りをしながら肉を焼いているGoblinへ話しかけた
+
+- Tracker Klagga: Enjoyin' the view? Lookin' tasty in these new breeches, ain't I?
+- Tav: They look quite fetching on you.
+- Tracker Klagga: Proper stylish, ain't they? Nicked 'em off this dwarf we're cookin'.
+- Tav: The dwarf - did he have anything on him? Besides pants.
+- Tracker Klagga: Dunno. Woz already stripped down to his breeches when I got my hands on 'im.
+- Tracker Klagga: Had a coupla coins in the pockets and some daft poem. But that's all.
+- Tav: I love poetry - can I see?
+- Tracker Klagga: Sure you can. But a look's all yer gettin'.
+- Tracker Klagga: For all I know, this little roaster was some famous bard and you'll be sellin' his last words for a pretty penny.
+- \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
+- Tav: _Read his thoughts._
+- Intelligence Successful: Tav
+- Tracker Klagga: _Some of these words are real pretty. But if the lads find out how much I enjoy it, they'll stick ME on the spit._
+- Tav: Ah, you're a secret poetry-lover. How cute.
+- Tracker Klagga: Wot? It's a load of old bollocks... all this moons and stars rubbish. Embarrassin' is wot it is.
+- Tracker Klagga: It's soft-stuff. Don't want nothin' to do with it.
