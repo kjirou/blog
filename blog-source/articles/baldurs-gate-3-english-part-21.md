@@ -479,9 +479,39 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 - Tav: _Scan his mind._
 - Intelligence Successful: Tav
 - Crusher: _Just wait. I'll be next in line to become a True Soul. Then nobody can stop me._
+  - ChatGPT訳: 待ってろ。俺が次に真の魂になる番だ。そうしたら、誰にも止められない。
 - Crusher: _I'll kick out that annoyin' hobgoblin. The priestess an' drow, too. An' everyone'll have t'obey me._
+  - t'obey = to obey
+  - ChatGPT訳: うるさいホブゴブリンを蹴り出す。司祭やドロウもだ。そして、みんなが俺に従わなきゃいけなくなる。
 - Tav: I know you're planning to take over. I wonder what your boss will think of that.
+  - [take over](https://en.wiktionary.org/wiki/take_over#Verb)
+    - 自動詞: 特に力によって支配する、簒奪する
+  - [wonder](https://ejje.weblio.jp/content/wonder)
+    - 他動詞: 〜かと好奇心を持って思う・知りたがる
+      - wonder {疑問詞} 文 の用法が多い
+  - ChatGPT訳: お前が乗っ取ろうとしているのは知ってる。お前のボスがそれをどう思うかな。
 - Crusher: What - how did you? _Tnak._ Fine.
+  - Tnak の意味は？
+    - おそらくはGoblinの言葉の悪態
+  - ChatGPT訳: 何だと - どうやって？了解だ。
 - \*His lips smack together wetly and leave a trail of saliva on your foot.\*
+  - [smack](https://en.wiktionary.org/wiki/smack#Verb_2)
+    - 自動詞: 唇を密着させてキスをして話す時に音を立てる
+    - コアイメージ: パチンやピシャリと音を立てる
+  - smack together の together の意味は？
+    - 対象へ、この場合はTavの靴へ、急激に接近している様子を表現している
+  - [wetly](https://ejje.weblio.jp/content/wetly)
+    - 副詞: 湿って、濡れて
+  - [saliva](https://ejje.weblio.jp/content/saliva), サ・ラ↑イバ
+    - 名詞: 唾液、唾
+  - ChatGPT訳: 彼の唇が湿った音を立てて合わさり、あなたの足に唾液の跡を残す。
 - Crusher: There. I dun it.
+  - dun = done
+    - I (have) done it
+  - ChatGPT訳: ほら、やったぞ。
 - Crusher: Arrogant _swine_.
+  - [arrogant](https://ejje.weblio.jp/content/arrogant), ア↑ァラガント
+    - 形容詞: 傲慢な、横柄な、尊大な
+  - [swine](https://ejje.weblio.jp/content/swine), スワ↑ァイン
+    - 名詞: 卑劣なやつ、嫌なやつ、豚
+  - ChatGPT訳: 傲慢な豚め。
