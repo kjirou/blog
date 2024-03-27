@@ -417,3 +417,71 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 ### 21, Eliasis - 23:22 - Crusher, Brawler Tiny, Tav, Gale
 
 3人のGoblinたちへ話をしているGoblinへ話しかけた
+
+- Crusher: ...thrashed 'is arm with my bare hands. Weaker than pixies, humans.
+  - [thrash](https://ejje.weblio.jp/content/thrash), スゥラ↑ァシュ
+    - 他動詞: 罰として棒や鞭などで打ちのめす・むち打つ、打ち負かす
+  - ChatGPT訳: ...自分の素手で彼の腕を叩きのめしたよ。ピクシー以下だ、人間は。
+- Brawler Tiny: Oh ho, you got 'im good!
+  - you got 'im good の意味は？
+    - Verb を対象へ効果的にやる、という口語のイディオム
+  - ChatGPT訳: おお、やったな！
+- Crusher: And who're you? 'Nother pest? Humans... think ya rule the world. Hah!
+  - [pest](https://ejje.weblio.jp/content/pest), (パ|ペ)↑スト
+    - 名詞: 害虫、害獣、厄介者
+  - ya = you
+  - [rule](https://ejje.weblio.jp/content/rule), ゥル↑オゥ
+    - 他動詞: 支配する、統治する
+  - ChatGPT訳: お前は誰だ？ 別の害虫か？ 人間... 世界を支配してると思ってるんだろ。はっ！
+- \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
+- Tav: Lot of assumptions here. I don't think I'm better than anyone else.
+  - [assumption](https://ejje.weblio.jp/content/assumption), ア・サ↑ンプション
+    - 名詞: 証拠もなく事実だと考える・決めてかかること、仮定、憶測
+  - ChatGPT訳: ここにはたくさんの仮定があります。私が誰よりも優れているとは思っていません。
+- Crusher: Everyone says that. And then they spit in our faces.
+- Crusher: But no more. Things're changin'. We got the Absolute on our side now.
+- Crusher: Ya better learn yer place.
+  - [place](https://ejje.weblio.jp/content/place), プレ↑イス
+    - 名詞: 立場、環境、境遇
+  - ChatGPT訳: 自分の立場を理解することを学んだ方がいい。
+- Crusher: Go on: kiss my foot.
+- Crusher: Or I'll wipe that nasty look right off yer face.
+  - [wipe](https://ejje.weblio.jp/content/wipe), ワ↑イプ
+    - 他動詞: ぬぐう、拭き取る
+  - [nasty](https://ejje.weblio.jp/content/nasty), ナ↑ァスティ
+    - 形容詞: ひどく嫌な、不快な、卑劣な
+  - [right](https://ejje.weblio.jp/content/right), ゥ(ラ|レ)イト
+    - 副詞: まったく、すっかり、完全に
+  - ChatGPT訳: さもなければ、その不快な表情を拭い去ってやる。
+- Gale: I feel I should warn you that the average goblin foot is host to some two dozen toe-curling diseases.
+  - [host](https://ejje.weblio.jp/content/host)
+    - 名詞: 寄生生物の宿主、客をもてなす主人役
+  - two dozen が単数形なのは何故？
+    - 標準的に、数の単位の前に数詞がつく時は、単位は単数形である。 hundred や thousand なども同様。
+  - toe-curling diseases の意味は？
+    - 直訳だと「足が曲がるような病気」、意訳で「非常に不快で嫌悪感のある病気」
+  - ChatGPT訳: 平均的なゴブリンの足が、約2ダースもの足を曲げる病気の宿主であることを警告しておくべきだと思います。
+- Tav: How about you kiss _my_ feet instead?
+- Charisma (Intimidation) Save Failed: Tav
+- Crusher: You want yer teeth knocked in? You ain't got nothin' on me. So kiss my foot.
+  - knock in
+    - イディオム: 〜を打ち込む、〜を打ち入れる
+      - Wiktionaryにはないが、他の日本語サイトの辞書にはある。句動詞として考えないと文法がおかしい。
+    - [knock](https://ejje.weblio.jp/content/knock), ノォ↑ック
+      - 他動詞: 強く打つ
+        - knock O(=対象)
+        - knock O(=対象) C(=強く打った後の対象の状態)
+  - You ain't got nothin' on me. の意味は？
+    - まず、 You have nothing on me. と考える
+    - [have nothing on someone](https://en.wiktionary.org/wiki/have_nothing_on_someone#Verb)
+      - 自動詞: 誰かに対して優位点や良い立場がない、誰かを告発するための証拠が不足している
+  - ChatGPT訳: 歯をへし折られたいのか？お前には何の勝算もない。だから俺の足にキスをしろ。
+- Tav: _Scan his mind._
+- Intelligence Successful: Tav
+- Crusher: _Just wait. I'll be next in line to become a True Soul. Then nobody can stop me._
+- Crusher: _I'll kick out that annoyin' hobgoblin. The priestess an' drow, too. An' everyone'll have t'obey me._
+- Tav: I know you're planning to take over. I wonder what your boss will think of that.
+- Crusher: What - how did you? _Tnak._ Fine.
+- \*His lips smack together wetly and leave a trail of saliva on your foot.\*
+- Crusher: There. I dun it.
+- Crusher: Arrogant _swine_.
