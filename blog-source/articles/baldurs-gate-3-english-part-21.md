@@ -553,6 +553,48 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 
 人の死体の前に集まっている3人のGoblinのひとりへ話しかけた
 
+- Eight: Stupid, dead bastard. Give him a good kickin' - he deserves it!
+  - ChatGPT訳: 馬鹿な、死んだ野郎。いい蹴りを入れてやれ - 彼にはそれがふさわしい！
+- Tav: What did he do to deserve that?
+  - ChatGPT訳: 彼がそれに値することをしたのは何ですか？
+- Eight: He killed my mum and dad! Made a bloody orphan of me.
+  - [orphan](https://ejje.weblio.jp/content/orphan), オ↑ゥフェン
+    - 名詞: 孤児、みなしご
+    - Assoc: 魔術師オーフェン
+  - ChatGPT訳: 彼は私の母と父を殺したんだ！私を血まみれの孤児にした。
+- Gale: Loss holds hands with grief - even among goblins.
+  - [hold hands](https://en.wiktionary.org/wiki/hold_hands#Verb)
+    - 自動詞: 二人以上の人が手を握り合う
+  - [grief](https://ejje.weblio.jp/content/grief), グリ↑ィフ
+    - 名詞: 死別や後悔や絶望による深い悲しみ、悲痛、悲しみのもと、悩みの種
+  - ChatGPT訳: 喪失は悲しみと手を取り合う - ゴブリンの中でも。
+- Tav: Sorry for your loss.
+  - ChatGPT訳: ご愁傷様です。
+- Eight: I ain't bothered about it. Better off without 'em. Stupid old geezers should've put up more of a fight.
+  - [bother](https://ejje.weblio.jp/content/bother), (ボ|バ)↑ーザァ
+    - 他動詞: 悩ます、うるさがらせる
+  - [better off](https://en.wiktionary.org/wiki/better_off)
+    - 形容詞: = well off
+    - [well off](https://en.wiktionary.org/wiki/well_off#Adjective)
+      - 形容詞: 特に金銭的に余裕があるなどの幸運な状況である、裕福な、より良い状態の
+      - Assoc: なぜ off なのに良い意味かというと、 come well off: 「よい出身の」から来ているという説がある
+        - Ref: https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1252464267
+  - [geezer](https://ejje.weblio.jp/content/geezer), ギ↑ー・ザァ
+    - 名詞: 風変わりな老人、変人
+  - ChatGPT訳: 気にしてないさ。それなしでよかった。愚かな老いぼれがもっと戦うべきだった。
+- Eight: Don't mean we can't enjoy puttin' the boot into his pricker-stick though.
+  - [pricker](https://ejje.weblio.jp/content/pricker), プリ↑ッ・カァ
+    - 名詞: きりなどの刺す道具
+  - pricker-stick の意味は？
+    - 単語としてはどこを探してもない、チンコのことかな...?
+  - Don't mean の意味は？
+    - 前述の両親が死んだことが、今こうして踏んでいることを楽しめない、ことは意味しない
+  - ChatGPT訳: でも、彼のくそったれを蹴り飛ばすのを楽しむことはできないわけじゃない。
+- Gale: Well... So much for my previous sentiment.
+  - [sentiment](https://ejje.weblio.jp/content/sentiment), セン・ティ・メント
+    - 名詞: 情緒、感情
+  - ChatGPT訳: まあ... 私の以前の感情について、それでおしまいだ。
+
 ### 21, Eliasis - 1:31 - Five
 
 人の死体の前に集まっている3人のGoblinのひとりへ話しかけた
