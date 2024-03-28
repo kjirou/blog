@@ -631,3 +631,18 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 - Eight: There is? Shite, let's go, guys, 'fore One realises.
   - 'fore = before
   - ChatGPT訳: うなのか？くそっ、行くぞ、みんな、Oneが気づく前に。
+
+### 21, Eliasis - 1:52 - Brawler Rancer
+
+見回りをしているGoblinへ話しかけた
+
+- Brawler Rancer: Tha's the that of it. Heh!
+  - ChatGPT訳: それがそれの全てだ。へっ！
+  - 意味がわからない、状況を忘れた
+
+### 21, Eliasis - 3:30 - Warlock Gurk
+
+少し前に話しかけた宴会中のGoblinへ、再度話しかけた
+
+- Warlock Gurk: Fink the Absolute wants me to 'ave another drink.
+  - ChatGPT訳: フィンク・ジ・アブソリュートは、私にもう一杯飲むように言っています。
