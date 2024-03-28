@@ -599,6 +599,35 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 
 人の死体の前に集まっている3人のGoblinのひとりへ話しかけた
 
+- Five: You could curdle worg-milk with that ugly mug.
+  - [curdle](https://ejje.weblio.jp/content/curdle), (ク|カ)↑ードォ
+    - 他動詞: 牛乳を固まらせる、恐怖で凝結させる
+  - [mug](https://ejje.weblio.jp/content/mug)
+    - 名詞: 顔、口、ごろつき、悪党
+  - ChatGPT訳: その醜い顔でワーグミルクを凝固させることができるぞ。
+  - あまり意味がわからない、単なる悪口なのかな？
+
 ### 21, Eliasis - 1:32 - Eight, Tav
 
 再度話しかけた
+
+- Eight: Oi, get off! I killed him - he's mine!
+- \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
+- Tav: _Read the child's mind._
+  - Detect Thoughts、便利すぎでは？
+- Intelligence Successful: Tav
+- Eight: _This meatbag might have nothin' but a few paper scraps, but I ain't gonna let no one get 'em._
+  - [scrap](https://ejje.weblio.jp/content/scrap), スクラッ
+    - 名詞: 切れ端、小片、断片、新聞などの切り抜き、鉄屑、少し
+  - ChatGPT訳: この肉の袋は紙切れしか持ってないかもしれないが、俺は誰にもそれを取らせやしねえ。
+- Eight: _If One comes braggin' about what she's found, at least I got somethin' to show her._
+  - One の意味は？
+    - おそらくは、同じ家族の長女
+  - [brag](https://ejje.weblio.jp/content/brag), ブラ↑(ァ|ェ)ーグ
+    - 自動詞: 自慢する
+  - ChatGPT訳: もしOneが何か見つけたって自慢しに来たら、少なくとも俺にも見せるものがある。
+- Tav: You're wasting your time with this one. There are corpses outside with far more loot.
+  - ChatGPT訳: この一件に時間を使っても無駄だ。外にはもっと多くの戦利品を持った死体がある。
+- Eight: There is? Shite, let's go, guys, 'fore One realises.
+  - 'fore = before
+  - ChatGPT訳: うなのか？くそっ、行くぞ、みんな、Oneが気づく前に。
