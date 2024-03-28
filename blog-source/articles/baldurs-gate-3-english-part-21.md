@@ -515,3 +515,48 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
   - [swine](https://ejje.weblio.jp/content/swine), スワ↑ァイン
     - 名詞: 卑劣なやつ、嫌なやつ、豚
   - ChatGPT訳: 傲慢な豚め。
+
+### 21, Eliasis - 1:11 - Four, Tav
+
+人の死体の前に集まっている3人のGoblinのひとりへ話しかけた
+
+- Four: You look like you think you're hard. Mess with us, and you'll end up like this bleeder.
+  - [hard](https://ejje.weblio.jp/content/hard), ハ↑ァド
+    - 形容詞: たくましい、頑丈な
+  - [mess](https://ejje.weblio.jp/content/mess), メ↑ス
+    - 他動詞: ぶん殴る、酷い目に合わす、乱雑にする、台無しにする
+  - ChatGPT訳: お前、自分が強いと思ってるみたいだな。俺たちとやり合ったら、この出血者みたいになるぞ。
+- Tav: Keep threatening me. See what happens.
+  - [threatening](https://ejje.weblio.jp/content/threatening), スレ↑ーテニン
+    - 形容詞: 脅す、脅迫する、空模様などが険悪な
+    - [threaten](https://ejje.weblio.jp/content/threaten), ス(リ|レ)↑テン
+      - 他動詞: 脅す、脅迫する
+  - ChatGPT訳: 脅してみろ。何が起こるか見てみよう。
+- Four: Oh, you're _real_ tough. Bullying a kid.
+  - [bully](https://ejje.weblio.jp/content/bully), (バ|ボ)↑リィ
+    - 他動詞: いじめる
+  - ChatGPT訳: おお、お前は本当に強いな。子供をいじめてさ。
+- Four: Sod off or I'll fetch my mum. She was tough as worg meat _before_ the Absolute came along.
+  - [sod off](https://en.wiktionary.org/wiki/sod_off#Verb)
+    - 自動詞: 立ち去る・消え失せる(=go away)
+    - [sod](https://ejje.weblio.jp/content/sod), サ↑ァーッド
+      - 名詞: ばかもの、厄介者
+  - came along の along の意味は？
+    - あんまりわからない、コアイメージは「沿って」「沿ったように進展・進歩して」
+    - the Absolute が出現したことを良いことだと捉えての「進展・進歩して」？
+  - ChatGPT訳: 消え失せろ、さもなければお袋を呼ぶぞ。絶対が来る前から、お袋はワーグの肉みたいにタフだった。
+- Four: Now... she could punch out a dragon!
+  - ChatGPT訳: 今では... ドラゴンだって殴り倒せる！
+  - この後のEightが両親が死んだということを言っているんだが、これはどう言う意味だろう？
+
+### 21, Eliasis - 1:21 - Eight, Tav, Gale
+
+人の死体の前に集まっている3人のGoblinのひとりへ話しかけた
+
+### 21, Eliasis - 1:31 - Five
+
+人の死体の前に集まっている3人のGoblinのひとりへ話しかけた
+
+### 21, Eliasis - 1:32 - Eight, Tav
+
+再度話しかけた
