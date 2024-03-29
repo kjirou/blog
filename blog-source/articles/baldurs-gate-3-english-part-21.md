@@ -645,4 +645,126 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 少し前に話しかけた宴会中のGoblinへ、再度話しかけた
 
 - Warlock Gurk: Fink the Absolute wants me to 'ave another drink.
+  - Fink の意味は？
+    - わからなかった
+    - 名詞で「密告者」や、動詞で「裏切る」、などの意味
   - ChatGPT訳: フィンク・ジ・アブソリュートは、私にもう一杯飲むように言っています。
+
+### 21, Eliasis - 3:32 - Krolla, Tav
+
+ニワトリを追うゲームを運営しているGoblinへ話しかけた
+
+- Krolla: Well now - you look like a tough'un. But 'ave you got smarts? Skill? _Guts?_
+  - tough'un = tough one
+  - [gut](https://ejje.weblio.jp/content/gut)
+    - 名詞: 勇気、根性
+      - 複数形で使う
+  - ChatGPT訳: さて、あなたはたくましそうだね。でも、賢さは？技術は？勇気は？
+- Tav: I can handle myself just fine.
+  - ChatGPT訳: 私は自分のことは十分に扱えるよ。
+- Krolla: No doubt, mate. But this ain't dragons, or demons, or anything else you might've faced. This...
+  - ChatGPT訳: 疑いの余地なし、相棒。でも、これはドラゴンや悪魔、あるいはあなたがこれまでに直面したかもしれない何か他のものではない。これは...
+- Krolla: ... this is chicken-chasin'.
+- Tav: Chicken-chasing? What?
+- Krolla: Only the greatest game since eggs sprouted legs, mate.
+  - eggs sprouted legs の意味は？
+    - わからない、直訳だと読んだ通り
+    - eggs with|on legs というキャラクターもしくはミームは海外にあるよう
+    - ChatGPTによると、「卵に足が生えると言うあり得ないことがあるくらい昔から」とのこと
+  - ChatGPT訳: 卵が足を生やした以来の最高のゲームだよ、相棒。
+- Krolla: You just gotta chase the chicken around the course and through the posts - but that ain't all.
+  - ChatGPT訳: コースを回ってポストを抜けていくだけじゃないんだ。チキンを追いかけるんだ。
+  - 実際の勝利条件はニワトリを追いかけて、奥にある一定の範囲まで移動させる必要がある。読み逃してたのかと思ったら、書いてないやんけ。
+- Krolla: Gotta do it quick, and _alone_ - any of your mates step in, you lose. Time runs out, you _lose_.
+  - ChatGPT訳: 早くやらないといけないし、一人でやらなきゃいけない - 仲間が手を出したら、お前は負け。時間切れになったら、負けだ。
+- Krolla: Sound easy? It _ain't_. Better contenders than you have been bested by the bird.
+  - [contender](https://ejje.weblio.jp/content/contender), (カ|コ)↑ンテンダ
+    - 名詞: 特にスポーツの競争者
+    - [contend](https://ejje.weblio.jp/content/contend), (カ|コ)ンテェンド
+      - 自動詞: 戦う、争う、論争する
+  - [best](https://ejje.weblio.jp/content/best), ベ↑スト
+    - 他動詞: 負かす、出し抜く
+  - ChatGPT訳: 簡単そうに聞こえる？そうじゃない。お前よりもっといい挑戦者たちがその鳥に打ち負かされてきたんだ。
+- Tav: Sounds fun. Count me in.
+  - [count in](https://en.wiktionary.org/wiki/count_in#Verb)
+    - 他動詞: 活動などに誰かを含める
+  - ChatGPT訳: 楽しそう。私も参加するよ。
+- Krolla: _Fun?_ Show a bit of respect, mate. This is serious business.
+  - serious business の意味は？
+    - 「重大な仕事」というよりは、「重要な事柄」と言う意味
+  - ChatGPT訳: 楽しい？少しは尊敬を示せよ、相棒。これは真剣な話だ。
+- Krolla: Besides - we gotta agree stakes before we begin, don't we?({不具合で読めないが 30 と表示されていた})
+  - [stake](https://ejje.weblio.jp/content/stake)
+    - 名詞: 賭け金、賞金
+      - 複数形で用いる
+  - ChatGPT訳: それに - 始める前に賭けの条件を決めなきゃならないだろ？
+- Tav: Sure, I'll place a bet. ({不具合で読めないが 30 と表示されていた})
+  - [bet](https://ejje.weblio.jp/content/bet)
+    - 名詞: 賭け、賭けた金
+  - place a bet の意味は？
+    - あまりわからん、まず「賭け」なのか「賭け金」なのかからわからない
+    - 「賭け」だとすると place に合わなそうで、「賭け金」だとすると a が付いているのがおかしそう
+  - ChatGPT訳: もちろん、賭けをするよ。
+- Krolla: We got the coin, we got the challenger - now we just need a crowd, eh?
+  - ChatGPT訳: お金も挑戦者もいる - 今はただ、観衆が必要だな？
+
+### 21, Eliasis - 3:57 - Krolla
+
+ゲーム終了後に話しかけた
+
+- Krolla: That's the game done. C'mere!
+  - C'mere = Come here
+
+### 21, Eliasis - 3:59 - Krolla, Tav
+
+再び話しかけた
+
+- Krolla: Well, _lookie here_. Seems like you know your way around the course.
+  - [lookie](https://en.wiktionary.org/wiki/lookie)
+    - = lookee
+    - [lookee](https://en.wiktionary.org/wiki/lookee#Noun)
+      - 名詞: 見られている人
+  - around の意味は？
+    - ここでは「コースに関して」という about みたいな意味、around 単体としてこの意味はない
+  - ChatGPT訳: おや、ここにいるとはね。コースをよく知っているようだね。
+- Tav: Hand over my winnings.
+  - [hand over](https://en.wiktionary.org/wiki/hand_over#Verb)
+    - 他動詞: 何かの所有を放棄して渡す、誰かを届ける(=deliver)
+  - [winning](https://ejje.weblio.jp/content/winning), ウ↑ィ・ニン
+    - 名詞: 賭けの儲け・賞金
+  - ChatGPT訳: 私の勝ち分を渡してください。
+- Krolla: Pardon, your _what_? Think you misunderstood, mate.
+  - ChatGPT訳: すみません、あなたの何をですか？誤解しているようですね、友人。
+- Krolla: Ain't no winnings, cos only a _goblin_ can win chicken-chase. Says so in the rules.
+  - cos = because
+  - [say](https://ejje.weblio.jp/content/say)
+    - 自動詞: 書かれている
+      - it says in {名詞} の用法
+  - ChatGPT訳: 勝ち分なんてないよ。ルールには、ゴブリンだけがチキンチェイスに勝てるって書いてあるからね。
+- \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*:
+- Tav: We're having fun. Why ruin it now?
+  - [ruin](https://ejje.weblio.jp/content/ruin), ルゥ↑ーイン
+    - 他動詞: 台無しにする、荒廃させる
+  - ChatGPT訳: 楽しんでいるんだ。なぜ今それを台無しにするの？
+- Charisma (Persuasion) Successful: Tav
+- Krolla: Hmm. All right. No need to get weepy over it, like. Here.
+  - [weepy](https://ejje.weblio.jp/content/weepy), ウィ↑ィピィ
+    - 形容詞: 涙ぐんだ、涙もろい
+  - [over](https://ejje.weblio.jp/content/over), オ↑ゥバァ
+    - 前置詞: 〜に関して
+  - [like](https://en.wiktionary.org/wiki/like#Particle), ラ↑イク
+    - 助詞: 遅延させるフィラーの表現
+  - ChatGPT訳: うーん、分かった。そう泣き言を言う必要はないね。はい、これ。
+  - 腹が立つイベントにわざわざ遭遇するために労力を払ったことになるので、イベントの造りがあんまり良さそうに見えない
+
+### 21, Eliasis - 4:07 - Krolla, Tav
+
+再び話しかけた
+
+- Krolla: Well if it ain't our fledgling chicken-chaser. Got a taste for the game now, do ya?
+  - [fledgling](https://ejje.weblio.jp/content/fledgling), フ↑レッズン
+    - 形容詞: 駆け出しの、未経験の
+    - [fledge](https://ejje.weblio.jp/content/fledge), フレ↑ェジ
+      - 自動詞: ひな鳥が巣立ちできる・羽毛が生えそろう
+  - ChatGPT訳: ほう、我らが新米チキンチェイサーじゃないか。もうゲームの味を占めたか？
+- Tav: _Leave._

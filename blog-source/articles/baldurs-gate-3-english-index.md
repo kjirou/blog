@@ -81,6 +81,7 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
           - Ref: https://ipa-mania.com/determiner/
       - 助詞
         - Wiktionaryで Particle へ分類されているもの
+        - 後置詞(Postposition)とも呼ばれる
       - 限定用法
         - 「形容詞」と併用する、表記は任意で片側しか用法がないものや意味が大きく変わるものに付与する
       - 叙述用法
