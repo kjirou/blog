@@ -1,12 +1,12 @@
 ---
 publicId: baldurs-gate-3-english-part-21
-lastUpdatedAt: "2024-03-24 23:04:05+0000"
+lastUpdatedAt: "2024-03-30 02:12:37+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 21冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
-- Goblin Campに入ったので探索中
+- Goblin Campに入ったので、探索をした
 
 ## 本編
 
@@ -125,7 +125,8 @@ Goblin族ではない人に話しかけた。
 
 - Sharp-Eye Aggy: Awshh... drink's goin' straight through me...
   - drink's goin' straight through me の意味は？
-    - 直訳だと「飲み物が私を直接通っていく」、意訳で「頻繁に尿に行きたくなる」
+    - 直訳だと「飲み物が私を直接通っていく」、今回は「すげぇ酔う」のよう
+    - 「頻繁に尿に行きたくなる」と言う意味もあるらしい
   - ChatGPT訳: あーっ、飲んだお酒がすぐに効いてくる...
 - Tav: The only cure is drinking more - as fast as you can.
 - Sharp-Eye Aggy: That's the plan! We looted an entire inn - brought back enough booze to drown a dragon.
@@ -176,7 +177,7 @@ Goblin族ではない人に話しかけた。
     - [sumfink](https://ejje.weblio.jp/content/sumfink)
       - = something
   - [proper](https://ejje.weblio.jp/content/proper), プロ・パー
-    - 副詞: ひどく、完全に、全く、礼儀正しく
+    - 副詞: ひどく、完全に、全く、適切に、礼儀正しく
   - sumfin' proper の意味は？
     - ChatGPTによると、 sumfin' は「焼き印が当てられたことによる痛み」を意味するとのこと
   - ChatGPT訳: 司祭を見る前に飲み物を取っておくんだ、友よ。焼印はかなり痛むからな。
@@ -292,6 +293,7 @@ Goblinに追いかけられている鶏へ話しかけた
       - コアイメージ: 名詞の「細長い切れはし」という意味
   - stripped down to his breeches の意味は？
     - 「半ズボンになるまで服を脱がせる」
+  - (The dwarf) Woz already stripped down
   - [get one's hands on](https://en.wiktionary.org/wiki/get_one%27s_hands_on#Verb)
     - 他動詞: 取る・得る(=get)、手にいれる・獲得する(=obtain)、確保する(=secure)
   - ChatGPT訳: わからないよ。俺が手に入れた時にはすでにズボンだけだったからな。
@@ -355,6 +357,8 @@ Goblinに追いかけられている鶏へ話しかけた
     - 直訳だと「柔らかいもの」、意訳で「感傷的・感情的・ロマンティックな内容や考え」
     - [soft](https://ejje.weblio.jp/content/soft), ソ↑ーフト
       - 形容詞: 弱々しい、男らしくない、優しい、柔和な
+  - Don't want nothin' の意味は？
+    - 二重否定で、標準的には「欲しくないものはない」で肯定になるが、ここでは否定の強調
   - ChatGPT訳: それは柔らかいものだ。関わりたくない。
 
 ### 21, Eliasis - 21:21 - Grat the Trader, Tav
@@ -362,6 +366,10 @@ Goblinに追いかけられている鶏へ話しかけた
 Goblinの商人へ話しかけた
 
 - Grat the Trader: You look like you got something jingling in your pocket.
+  - [jingle](https://ejje.weblio.jp/content/jingle), ジ↑ン・ゴォ
+    - 自動詞: チンチンやリンリンと鳴る・鳴りながら進む
+    - 他動詞で「鳴らす」という意味もある
+    - Assoc: ジングルベル
   - ChatGPT訳: あなたのポケットには何かが鳴っているように見えますね。
 - Grat the Trader: Lookin' to spend it?
   - [looking](https://ejje.weblio.jp/content/looking), ル↑・キン
@@ -472,9 +480,10 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
         - knock O(=対象)
         - knock O(=対象) C(=強く打った後の対象の状態)
   - You ain't got nothin' on me. の意味は？
-    - まず、 You have nothing on me. と考える
+    - ain't = have not
     - [have nothing on someone](https://en.wiktionary.org/wiki/have_nothing_on_someone#Verb)
       - 自動詞: 誰かに対して優位点や良い立場がない、誰かを告発するための証拠が不足している
+    - この二重否定も強調のよう
   - ChatGPT訳: 歯をへし折られたいのか？お前には何の勝算もない。だから俺の足にキスをしろ。
 - Tav: _Scan his mind._
 - Intelligence Successful: Tav
@@ -483,10 +492,11 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 - Crusher: _I'll kick out that annoyin' hobgoblin. The priestess an' drow, too. An' everyone'll have t'obey me._
   - t'obey = to obey
   - ChatGPT訳: うるさいホブゴブリンを蹴り出す。司祭やドロウもだ。そして、みんなが俺に従わなきゃいけなくなる。
+  - 言及している、 hobgoblin, the priestess, drow は、Goblinの3人のリーダーを指しているのかな？
 - Tav: I know you're planning to take over. I wonder what your boss will think of that.
   - [take over](https://en.wiktionary.org/wiki/take_over#Verb)
     - 自動詞: 特に力によって支配する、簒奪する
-  - [wonder](https://ejje.weblio.jp/content/wonder)
+  - [wonder](https://ejje.weblio.jp/content/wonder), ワ↑ァン・ダァ
     - 他動詞: 〜かと好奇心を持って思う・知りたがる
       - wonder {疑問詞} 文 の用法が多い
   - ChatGPT訳: お前が乗っ取ろうとしているのは知ってる。お前のボスがそれをどう思うかな。
@@ -593,7 +603,7 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 - Gale: Well... So much for my previous sentiment.
   - [sentiment](https://ejje.weblio.jp/content/sentiment), セン・ティ・メント
     - 名詞: 情緒、感情
-  - ChatGPT訳: まあ... 私の以前の感情について、それでおしまいだ。
+  - ChatGPT訳: まあ... 私の以前の感情にそんなに価値はなかったわけだ。
 
 ### 21, Eliasis - 1:31 - Five
 
@@ -614,7 +624,8 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 - Eight: Oi, get off! I killed him - he's mine!
 - \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
 - Tav: _Read the child's mind._
-  - Detect Thoughts、便利すぎでは？
+  - Detect Thoughts、有効時間がUntill Long Restだし、便利すぎでは？
+    - と、この時は思ったが、持続にはConcentrationの維持が必要だったので、それほどではなかった
 - Intelligence Successful: Tav
 - Eight: _This meatbag might have nothin' but a few paper scraps, but I ain't gonna let no one get 'em._
   - [scrap](https://ejje.weblio.jp/content/scrap), スクラッ
@@ -656,6 +667,8 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 
 - Krolla: Well now - you look like a tough'un. But 'ave you got smarts? Skill? _Guts?_
   - tough'un = tough one
+  - 'ave you got の意味は？
+    - have got = おおよそ have の構文、Part 3で調査済み
   - [gut](https://ejje.weblio.jp/content/gut)
     - 名詞: 勇気、根性
       - 複数形で使う
@@ -669,8 +682,8 @@ CrusherというGoblinの話を聞いているGoblinへ話しかけた
 - Krolla: Only the greatest game since eggs sprouted legs, mate.
   - eggs sprouted legs の意味は？
     - わからない、直訳だと読んだ通り
-    - eggs with|on legs というキャラクターもしくはミームは海外にあるよう
     - ChatGPTによると、「卵に足が生えると言うあり得ないことがあるくらい昔から」とのこと
+    - なお、 eggs with|on legs というキャラクターもしくはミームは海外にあるよう
   - ChatGPT訳: 卵が足を生やした以来の最高のゲームだよ、相棒。
 - Krolla: You just gotta chase the chicken around the course and through the posts - but that ain't all.
   - ChatGPT訳: コースを回ってポストを抜けていくだけじゃないんだ。チキンを追いかけるんだ。
