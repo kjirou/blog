@@ -82,17 +82,73 @@ lastUpdatedAt: "2024-03-30 02:12:37+0000"
     - ただ、それだと「全世界で」と言っているに等しいので、範囲が広すぎる気もする
       - 例えば、Forgotten Realmsのうちの一つの地域がFaerûn
   - ChatGPT訳: その「男」は、レルムズの名高い年代記作家、ヴォロサンプ・ゲダームだったんだ。
-- Booyahg Piddle: Year, he mentioned that. About a thousand times.
+- Booyahg Piddle: Yeah, he mentioned that. About a thousand times.
+  - [mention](https://ejje.weblio.jp/content/mention), メ↑ン・ション
+    - 他動詞: 言及する、軽く触れる、ちょっと触れる
+    - mention O(=内容) の形のみで O が言及先の人を取ることはない、人を明確にするときは mention to {人} O(=内容) の形
+      - 他動詞なのに O の前に to {人} が入っていいのか、と言う点については、それでも他動詞と呼ぶようだが、どういう文法なのかは不明
+        - suggest など、同様の形を取り得るものは多数ある
+  - [about](https://ejje.weblio.jp/content/about)
+    - 副詞: 約、およそ
+      - 後に数詞を伴う形
   - ChatGPT訳: うん、彼がそれについて言及したよ。約千回もね。
 - Booyahg Piddle: Don't matter how _famed_ he is; he's gonna end up as supper.
+  - [matter](https://ejje.weblio.jp/content/matter), マ↑ァ・トァ
+    - 自動詞: 問題となる、重要である
+    - 他動詞としての用法はない、だから、本文の how famed he is は従属節
+  - Don't matter は Doesn't matter ではないの？
+    - この文の主語は、前述の famed chronicler of the Realms を表現する it であるはず、それなら標準的には Doesn't が正しいはず
+    - ChatGPTによると、口語では非標準に Don't になることもあるとのこと
   - ChatGPT訳: 彼がどれだけ有名であろうとも、夕食になることに変わりはないよ。
 - Tav: What was so interesting about him?
-- Booyahg Piddle: He wanted to know if we felt any extra _booyang_ in the air since onvertin'.
+  - ChatGPT訳: 彼について何がそんなに面白かったの？
+- Booyahg Piddle: He wanted to know if we felt any extra _booyahg_ in the air since convertin'.
+  - ChatGPT訳: 私たちが転換して以来、空気の中に余計なブーヤーグを感じるかどうかを知りたがっていたんだ。
 - Tav: What's booyahg?
 - Booyahg Piddle: Magic. Them wot the Absolute chooses are brimmin' with it.
+  - wot = what
+  - [choose](https://ejje.weblio.jp/content/choose), チュ↑ゥーズ
+    - 他動詞: 選ぶ、選択する
+    - コアイメージ: いくつかの選択の中から好みのものを選ぶ
+      - なお、 select は多くの選択の中から考慮して選ぶ
+  - [brim](https://ejje.weblio.jp/content/brim), ブゥリ↑ン
+    - 自動詞: 一杯になる、溢れそうになる
+    - コアイメージ: 名詞の「コップや皿などくぼみのある器物の縁」「帽子のつば」
+  - ChatGPT訳: 魔法だよ。アブソリュートに選ばれた者たちは、それでいっぱいなんだ。
 - Booyahg Piddle: Priestess Gut and our boss Ragzlin, are fearsome powerful now. Same as that drow.
+  - [fearsome](https://ejje.weblio.jp/content/fearsome), フ↑ィア・サンム
+    - 形容詞: 恐ろしい
+  - Same as that drow の意味は？
+    - 「GutやRagzlinが強力であることと、と同様にdrowも強力」なのか「GutやRagzlinが、drowと同様に強力」なのかが混乱したので、整理しておく
+    - ここの暗黙的な主語は「GutやRagzlinが強力であること」という現象なので、少なくとも「GutやRagzlinが」がと言う主語にはならない
+  - ChatGPT訳: プリーステス・ガットと私たちのボス、ラグズリンは、今や恐ろしく強力だ。あのドロウも同じだ。
 - Tav: Could I see his manuscript?
+  - [manuscript](https://ejje.weblio.jp/content/manuscript), マ↑ニュ・スクリプト
+    - 名詞: 原稿、手稿、写本
+  - ChatGPT訳: 彼の原稿を見せてもらえますか？
 - Booyahg Piddle: I ain't finished with it! There's enough readin' here to last me a lifetime.
+  - [finish](https://ejje.weblio.jp/content/finish), フィ↑ニッシュ
+    - 自動詞: ものを使い終わる、〜の用を済ます
+      - finish with {名詞} の形、主に完了形になる
+  - ChatGPT訳: まだ終わってないよ！これだけ読むのに一生かかるわ。
 - \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
 - Tav: _Scan his mind._
 - Intelligence Successful: Tav
+- Booyahg Piddle: _This stuff ain't bad... but somebody who really knows the Absolute should be writin' Her story._
+  - [stuff](https://ejje.weblio.jp/content/stuff)
+    - 名詞: たわごと、馬鹿げた話、特定の内容を意味しない漠然としたもの・物質
+  - This stuff ain't bad の意味は？
+    - Booyahg Piddleは、後に「嘘の山」と表現しているのも合わせて、Voloの原稿については基本的に内容が良くないと思っている
+    - 「基本的に良くはないが、完全に悪くもない」くらいの意味
+  - ChatGPT訳: この内容悪くない...でも、本当に絶対者を知っている人が彼女の話を書くべきだ。
+- Tav: You're an authority on the Absolute - _you_ should be the one writing abount it.
+  - [authority](https://ejje.weblio.jp/content/authority), アッ・ソォ↑ーリティ
+    - 名詞: 権威者、大家
+  - ChatGPT訳: あなたが絶対者の権威です - あなたがそれについて書くべきです。
+- Booyahg Piddle: You're right! What does some bleedin' outsider know that I don't? I'll be famous!
+  - [bleeding](https://ejje.weblio.jp/content/bleeding), ブリーディン
+    - 形容詞: 強い不満の表現、ひどい、とてつもない
+      - この用法として = bloody
+  - ChatGPT訳: そうだね！何か外野が知ってることが俺に何が分からないっていうんだ？有名になるぞ！
+- Booyahg Piddle: And _nobody_ will remember this pack of lies.
+  - ChatGPT訳: そして、誰もこの嘘の山を覚えていない。
