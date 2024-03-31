@@ -241,10 +241,38 @@ Galeにイベント会話が発生していたので、話しかけた
   - muse の意味は？
     - 名詞で「インスピレーションの源」「古風な吟遊詩人」という意味はあるが、ここではギリシャ神話のミューズが相当しそう
   - ChatGPT訳: 彼女は私に現れ、彼女は私の教師となりました。時間が経つにつれて、彼女は私のミューズとなり、後には、私の恋人とさえなりました。
-- Tav:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
+- Tav: Are you telling me you made love to a goddess?
+  - ChatGPT訳: 神様と愛し合ったって言ってるの？
+- Gale: Oh yes.
+- Gale: We enjoyed each other's company - body, mind and soul. But even so, I desired more.
+  - [company](https://ejje.weblio.jp/content/company), カ↑ンパニィ
+    - 名詞: 連れ、交際、同伴
+  - [desire](https://ejje.weblio.jp/content/desire), ディ・ザ↑ァィア
+    - 他動詞: 強く望む、欲求する
+  - ChatGPT訳: 互いの存在を楽しんだんだ - 体も心も魂も。でも、それでも俺はもっと欲しかったんだ。
+- Gale: You see, no matter how powerful a wizard we mortals can become, we never scratch more than the surface of the Weave.
+  - [no matter](https://en.wiktionary.org/wiki/no_matter#Preposition)
+    - 前置詞: 〜にも関わらず(=regardless of, in spite of)
+  - how powerful a wizard we mortals can become の修飾関係は？
+    - how powerful a wizard を we mortals can become が修飾している
+    - 「我々凡人がなることができる程度の強力なウィザード」
+  - ChatGPT訳: ほら、我々凡人がどれだけ強力な魔法使いになれるとしても、ウィーブの表面をかすめること以上のことは決してできないんだ。
+- Gale: Mystra keeps us in check. There are boundaries she doesn't let us cross. Yet every time I was with her, I stood on the precipice, gazing into the wonders that lay beyond.
+  - [in check](https://en.wiktionary.org/wiki/in_check#Prepositional_phrase)
+    - 前置詞句: 制御下や拘束下にある
+  - [stood](https://ejje.weblio.jp/content/stood), スト↑ゥッド
+    - stand - stood - stood | standen
+  - [precipice](https://ejje.weblio.jp/content/precipice), プゥレセピス
+    - 名詞: 絶壁、崖、危機、危地
+  - [yet](https://ejje.weblio.jp/content/yet), イ↑ェット
+    - 接続詞: それにも関わらず、それなのに
+      - コアの「以前のある時期から現在未満のある時期まで」に逆説の意味を加えると、こう言う意味になりそうな気がする
+  - gazing into (the wonders that (lay beyond))
+  - ChatGPT訳: ミストラが私たちを制御している。彼女が越えさせない境界がある。でも彼女と一緒にいるたびに、私は崖っぷちに立っていて、その向こうにある驚異を見つめていたんだ。
+- Gale: I sought to cross her boundaries.
+  - ChatGPT訳: 彼女の境界を越えようとしたんだ。
+- Tav: How exactly did you try to cross those boundaries?
+- Gale: I tried to convince her. I pouted, I pleaded, I swore my ambition was only to serve her better. But she only smiled and told me to be contented.
+- Gale: As inconceivable as it seems to me now, I shared a bed with a goddess and yet I wasn't satisfied. So I sought to prove myself worthy to her instead.
+- Gale: We come now to the crux of my folly. Shall I share the story behind it, or would you rather head straight to its sordid finale?
 - Tav:
