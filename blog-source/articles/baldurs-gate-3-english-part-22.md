@@ -164,3 +164,87 @@ lastUpdatedAt: "2024-03-30 02:12:37+0000"
   - [boring](https://en.wiktionary.org/wiki/boring#Adjective), ボ↑ォリング
     - 形容詞: 退屈に苦しんでいる、つまらない、うんざりする
   - ChatGPT訳: 中に入らないで。中はつまらないです。
+
+### 21, Eliasis - 6:03 - Gale, Tav, Karlach
+
+Galeにイベント会話が発生していたので、話しかけた
+
+- Gale: My condition likes being ignored as little as I do. I must consume another artefact. And soon.
+  - being ignored の意味は？
+    - being は動名詞で、being {過去完了} で「〜されていること」
+  - ChatGPT訳: 私の状態は、私が無視されるのを嫌うのと同じくらい、別のアーティファクトを消費しなければならない。そして、すぐに。
+    - 前半をさらに直訳的にすると、「私の状態は無視されていることを、私が無視されていることを好まない程度に、好みません」
+- Tav: _Give Gale a magic artefact._
+- Gale: Thank you!
+- Gale: Good gods.
+  - [good God](https://en.wiktionary.org/wiki/good_God#Interjection)
+    - 間投詞: 驚きや怒りや恐怖の表現
+  - ChatGPT訳: なんてこった。
+- Gale: It hardly has any effect. Mystra have mercy on us all.
+  - [hardly](https://ejje.weblio.jp/content/hardly), ハ↑ァード・リィ
+    - 副詞: ほとんど〜でない、少しも〜がない
+    - コアイメージ: 形容詞の困難という意味から、困難なために成立が難しい
+  - Mistra, ミ↑ス・トラ
+    - D&D用語,名詞: 魔法の女神・全ての魔法の母、魔法に関する秩序を維持している、Karsus's FollyからWeaveを守った
+      - Ref: https://forgottenrealms.fandom.com/wiki/Mystra
+  - ChatGPT訳: ほとんど効果がありません。ミストラが我々全員に慈悲を。
+- Gale: Listen, I need to speak to you, to all of you. It would be unconscionable of me to remain silent.
+  - [unconscionable](https://ejje.weblio.jp/content/unconscionable), アン・カ↑ン・(チ|シ)ナボォ
+    - 形容詞: 非良心的な、不当な
+    - [conscionable](https://ejje.weblio.jp/content/conscionable), カ↑ン・(チ|シ)ナボォ
+      - 形容詞: 良心的な
+    - [conscience](https://ejje.weblio.jp/content/conscience), カ↑ン・シェンス
+      - 名詞: 良心、善悪の観念
+  - ChatGPT訳: 聞いてください、私はあなたに、あなたたち全員に話さなければなりません。黙っているのは不道徳です。
+- Tav: Go on. You're among friends.
+  - ChatGPT訳: 続けて。友達の中にいるんだから。
+- Gale: I might just be about to remedy that.
+  - [remedy](https://ejje.weblio.jp/content/remedy), ゥレ↑メディ
+    - 他動詞: 病気や傷を治療する・治す、改善する
+  - [about](https://ejje.weblio.jp/content/about), ア・バ↑ゥト
+    - 前置詞: 〜に取り掛かって、〜に従事して
+  - ChatGPT訳: 私はちょうどそれを解決しようとしているかもしれない。
+- Gale: You have to know who I was. You have to know who I really am.
+  - ChatGPT訳: あなたは私が誰であったかを知らなければなりません。本当の私が誰であるかを知らなければなりません。
+- Gale: What I am is a walking shadow of the promise I once held.
+  - ChatGPT訳: 私はかつて持っていた約束の影を歩むものです。
+- Gale: I'm what one might call a wizard prodigy, who from an early age could not only control the Weave, but compose it, much like a musician or a poet.
+  - [prodigy](https://ejje.weblio.jp/content/prodigy), プ(ラ|ロ)↑・デ・ズィ
+    - 名詞: 非凡な人、天才、神童
+  - [early](https://ejje.weblio.jp/content/early), (ア|エ)↑ーリィ
+    - 形容詞: 時間や時期的に早い
+  - who from an early age could not only control the Weave は could not なのに「制御できる」という肯定の意味なの？
+    - not only が、一つの副詞で「〜だけではなく」という意味になると考えるのが一番良さそう
+    - それに続いて、よくあるのが not only ~ but (also) の構文
+    - ただ、Wiktionaryには not only の登録はなく、下記のように but also まで含めた登録はあるがこれには説明がない
+      - [not only … but also](https://en.wiktionary.org/wiki/not_only_%E2%80%A6_but_also#Conjunction)
+        - 接続詞: （説明がない）
+    - では、 only 単体に否定文を肯定的にするとまでの用法があるのかというと、そこまでの機能はなさそう
+  - [poet](https://ejje.weblio.jp/content/poet), ポ↑ォエット
+    - 名詞: 詩人、歌人、詩心を持った人
+  - ChatGPT訳: 私は、若い頃からウィーブを制御するだけでなく、それを構成することができた、魔法使いの天才と呼ばれるかもしれないものです、まるで音楽家や詩人のように。
+- Gale: Such was my skill that it earned me the attention of the mother of magic herself. The Lady of Mysteries. The goddess Mystra.
+  - [that](https://ejje.weblio.jp/content/that)
+    - 接続詞: 〜なので〜
+      - such|so ~ that ~ の形、 that は省略されることもある
+  - [earn](https://ejje.weblio.jp/content/earn)
+    - 他動詞: 行為などが人に名声・信用などをもたらす
+      - S(=行為など) earn IO(=人) DO(=名声や信用など)
+  - the mother of magic herself の herself の意味は？
+    - 強調のための再帰代名詞、もしくは強調代名詞、と呼ばれる文法
+  - ChatGPT訳: そのようなものであった私の技能は、それが魔法の母自身、神秘の女性、女神ミストラの注意を私にもたらした。
+- Gale: She revealed herself to me and she became my teacher. In time, she became my muse, and later, even my lover.
+  - [reveal](https://ejje.weblio.jp/content/reveal), ゥリ・ビ↑ィーォオ
+    - 他動詞: 隠されていたものを露わにする・見せる・示す
+  - [in time](https://en.wiktionary.org/wiki/in_time#Prepositional_phrase)
+    - 前置詞句: 時間の経過と共に
+  - muse の意味は？
+    - 名詞で「インスピレーションの源」「古風な吟遊詩人」という意味はあるが、ここではギリシャ神話のミューズが相当しそう
+  - ChatGPT訳: 彼女は私に現れ、彼女は私の教師となりました。時間が経つにつれて、彼女は私のミューズとなり、後には、私の恋人とさえなりました。
+- Tav:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Tav:
