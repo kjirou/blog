@@ -152,3 +152,15 @@ lastUpdatedAt: "2024-03-30 02:12:37+0000"
   - ChatGPT訳: そうだね！何か外野が知ってることが俺に何が分からないっていうんだ？有名になるぞ！
 - Booyahg Piddle: And _nobody_ will remember this pack of lies.
   - ChatGPT訳: そして、誰もこの嘘の山を覚えていない。
+
+### 21, Eliasis - 5:50 - Guard Gurgon
+
+重要そうな施設につながる門の門番をしているHobgoblinへ話しかけた
+
+- Guard Gurgon: No go inside. Inside boring.
+  - [no](https://en.wiktionary.org/wiki/no#Particle), ノォ
+    - 助詞: 禁止や拒否や反対や否定の表現
+    - 本文の位置としては副詞だが、このような意味は助詞にしかなかった
+  - [boring](https://en.wiktionary.org/wiki/boring#Adjective), ボ↑ォリング
+    - 形容詞: 退屈に苦しんでいる、つまらない、うんざりする
+  - ChatGPT訳: 中に入らないで。中はつまらないです。
