@@ -270,9 +270,44 @@ Galeにイベント会話が発生していたので、話しかけた
   - gazing into (the wonders that (lay beyond))
   - ChatGPT訳: ミストラが私たちを制御している。彼女が越えさせない境界がある。でも彼女と一緒にいるたびに、私は崖っぷちに立っていて、その向こうにある驚異を見つめていたんだ。
 - Gale: I sought to cross her boundaries.
+  - [sought](https://ejje.weblio.jp/content/sought), ソ↑ァット
+    - seek - sought - sought
   - ChatGPT訳: 彼女の境界を越えようとしたんだ。
 - Tav: How exactly did you try to cross those boundaries?
+  - ChatGPT訳: 具体的にどのようにしてその境界を越えようとしたのですか？
 - Gale: I tried to convince her. I pouted, I pleaded, I swore my ambition was only to serve her better. But she only smiled and told me to be contented.
+  - [convince](https://ejje.weblio.jp/content/convince), (カ|コ)ン・ヴ↑ィンス
+    - 他動詞: 納得させる、確信させる
+    - 単語の意味としては「説得する」はなさそう、基本的には納得や確信させたい内容を伴う
+  - [pout](https://ejje.weblio.jp/content/pout), パ↑ウト
+    - 自動詞: すねる、口をとがらす、ふくれっつらをする
+  - [plead](https://ejje.weblio.jp/content/plead), プリ↑ィード
+    - 自動詞: 嘆願する、抗弁する、弁論する
+  - [content](https://ejje.weblio.jp/content/content), コォン・テ↑ント
+    - 他動詞: 満足させる、甘んじる
+      - content O(=人)
+  - ChatGPT訳: 彼女を説得しようとしました。私はすねたり、懇願したり、私の野望は彼女により良く仕えることだけだと誓いました。しかし、彼女は笑って、満足するようにと言っただけでした。
 - Gale: As inconceivable as it seems to me now, I shared a bed with a goddess and yet I wasn't satisfied. So I sought to prove myself worthy to her instead.
+  - [inconceivable](https://ejje.weblio.jp/content/inconceivable), イン・ケン・スィーバボゥ
+    - 形容詞: 想像も及ばない、信じ難い
+    - [conceive](https://ejje.weblio.jp/content/conceive), (カ|コ)ン・スィ↑ーブ
+      - 動詞: 〜と想像する・考える
+  - As inconceivable as it seems to me now の意味は？
+    - 直訳で「今私に思えるほどに信じがたい」
+    - 文脈上は「今となっては信じられない」の意味になりそうだが、なぜ上記がそれになるのかはわからなかった
+  - ChatGPT訳: 今となっては信じられないかもしれませんが、私は女神と同じベッドを共にしたにもかかわらず、満足できませんでした。だから、代わりに彼女に私が相応しいと証明しようとしました。
 - Gale: We come now to the crux of my folly. Shall I share the story behind it, or would you rather head straight to its sordid finale?
-- Tav:
+  - [folly](https://ejje.weblio.jp/content/folly), ファ↑ー・リィ
+    - 名詞: 愚行、愚挙、愚かさ
+  - [crux](https://ejje.weblio.jp/content/crux), クゥラ↑ックス
+    - 名詞: 要点、急所、南十字星
+  - [sordid](https://ejje.weblio.jp/content/sordid), ソ↑ォゥ・ディド
+    - 形容詞: 行為や人物が卑劣な・あさましい・さもしい、環境が汚い、くすんだ色
+  - [finale](https://ejje.weblio.jp/content/finale), フェ・ナ↑ァーリ
+    - 名詞: 大詰め、終局、終楽章、フィナーレ
+  - ChatGPT訳: 私の愚かさの要点に来ました。その背後にある話を共有しましょうか、それともその汚れた結末に直行しますか？
+- Tav: I'm intrigued. Tell me all.
+  - [intrigue](https://ejje.weblio.jp/content/intrigue), イ↑ン・チョリーグ
+    - 他動詞: 好奇心や興味をそそる
+      - intrigue O(=人)
+    - 主には、自動時で「陰謀や策謀を巡らす」、名詞で「陰謀、策謀」
