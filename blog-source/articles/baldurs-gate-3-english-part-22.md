@@ -384,7 +384,29 @@ Galeにイベント会話が発生していたので、話しかけた
   - ChatGPT訳: 「もしも」と私は考えた、「もしもこの長い時間の後、この失われた彼女の一部を女神に返すことができたら？」
 - Tav: What was the answer to that question?
 - Gale: The answer was to try, and the outcome was to fail.
+  - [outcome](https://ejje.weblio.jp/content/outcome), ア↑ウト・カンム
+    - 名詞: 結果、成果
+  - ChatGPT訳: 答えは試みることで、結果は失敗でした。
 - Gale: I was certain that this deed of raw power draped in romance would convince Mystra to take me by the hand and welcome me into her hitherto forbidden domains.
+  - [deed](https://ejje.weblio.jp/content/deed), デ↑ィード
+    - 名詞: 行為、行動
+  - [drape](https://ejje.weblio.jp/content/drape), ヂョレ↑イプ
+    - 他動詞: 衣服や掛け布を緩やかにかける・優美にまとう
+  - [romance](https://ejje.weblio.jp/content/romance), ゥロ・マ↑ンス
+    - 名詞: 小説的な事件、情事、中世騎士物語、伝記空想冒険小説、恋愛小説、ロマンチックな雰囲気、ロマンス
+  - [hitherto](https://ejje.weblio.jp/content/hitherto), ヒ↑トチュゥ
+    - 副詞: 今までは、従来
+  - ChatGPT訳: この原始的な力に満ちたロマンスに包まれた行為が、ミストラを納得させて彼女のこれまで禁じられていた領域に私を手に取り、迎え入れると確信していました。
 - Gale: I was mistaken.
+  - [mistaken](https://ejje.weblio.jp/content/mistaken), ミス・テェ↑ィクン
+    - 形容詞,叙述用法: 人が誤って・思い違いをして
 - Gale: I obtained the fabled book and took it into my study. As for what happened next...
+  - [fabled](https://ejje.weblio.jp/content/fabled), フ↑ェイボォ
+    - 形容詞: 伝説的な、物語や伝説に名高い
+  - [study](https://ejje.weblio.jp/content/study), スタ↑ディ
+    - 名詞: 書斎、研究室
+  - [as for](https://en.wiktionary.org/wiki/as_for#Preposition)
+    - 前置詞: 〜について(=about, regarding, concerning)
+  - ChatGPT訳: 伝説の本を手に入れ、私の書斎に持ち込みました。その次に起こったことは...
 - Gale: Here. Place your hand over my heart. Let me show you.
+  - ChatGPT訳: ここです。私の心臓の上に手を置いてください。見せてあげましょう。
