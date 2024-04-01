@@ -311,3 +311,30 @@ Galeにイベント会話が発生していたので、話しかけた
     - 他動詞: 好奇心や興味をそそる
       - intrigue O(=人)
     - 主には、自動時で「陰謀や策謀を巡らす」、名詞で「陰謀、策謀」
+- Gale: Very well. Here goes:
+- Gale: Once upon a very long time ago, a mighty lord lived in a tower. A flying tower, to be precise.
+  - [precise](https://ejje.weblio.jp/content/precise), プレ・サ↑ァイズ
+    - 形容詞: 明確な、的確な、正確な、精密な
+  - ChatGPT訳: とても昔の話、ある強大な領主が塔に住んでいました。正確には、飛ぶ塔です。
+- Gale: I'll save his history for another time, but the gist of it is that he sought to usurp the goddess of magic so that he could become a god himself.
+  - [save](https://ejje.weblio.jp/content/save), セ↑ィィブ
+    - 他動詞: 将来などのために取っておく
+      - save O(=取っておくもの)
+    - コアイメージ: 大切なものを失わないようにする、後で活かすための手をつけないで取っておく
+  - [gist](https://ejje.weblio.jp/content/gist), (ゲ|ギ)↑ェスト
+    - 名詞: 要点、要旨、骨子
+  - [usurp](https://ejje.weblio.jp/content/usurp), ユゥ・サ↑ァプ
+    - 他動詞: 取って代わる、王座や権力を奪う、横領する
+  - ChatGPT訳: 彼の歴史はまた別の機会に取っておきますが、要点は、彼が魔法の女神を打倒して自らが神になろうとしたことです。
+- Gale: He almost managed, but not quite, and his entire empire - Netheril - came crashing down around him as he turned to stone.
+  - [empire](https://ejje.weblio.jp/content/empire), (エ|イ)↑ン・パイア
+    - 名詞: 帝国、皇帝の統治、帝政
+  - Netheril, ネザリル
+    - D&D用語,名詞: 古代の人間を主とした魔法の帝国
+      - Ref: https://forgottenrealms.fandom.com/wiki/Netheril
+  - ChatGPT訳: 彼はほとんど成功しそうになりましたが、完全にはできず、彼が石に変わると同時に、彼の全帝国 - ネセリル - は彼の周りに崩壊しました。
+- Gale: The magic unleashed that day was phenomenal, roiling like the prime chaos that outdates creation.
+- Gale: Even the Weave itself could not withstand the onslaught. It fractured, then shattered, and all magic was lost to the mortal realms until the day Mystra returned.
+- Gale: She restored the Weave, reuniting all its scattered shareds. Or so I thought, until in the course of my studies I learned of a book. A Netherese tome in which a piece of the fractured Weave had been sealed beyond her reach.
+- Gale: 'What if', I thought, 'What if after all this time, I could return this lost part of herself to the goddess?'
+- Tav: What was the answer to that question?
