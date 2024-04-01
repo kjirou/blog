@@ -334,7 +334,57 @@ Galeにイベント会話が発生していたので、話しかけた
       - Ref: https://forgottenrealms.fandom.com/wiki/Netheril
   - ChatGPT訳: 彼はほとんど成功しそうになりましたが、完全にはできず、彼が石に変わると同時に、彼の全帝国 - ネセリル - は彼の周りに崩壊しました。
 - Gale: The magic unleashed that day was phenomenal, roiling like the prime chaos that outdates creation.
+  - [unleash](https://ejje.weblio.jp/content/unleash), ア↑ン・リィッシュ
+    - 他動詞: 感情や攻撃を浴びせる、解放する、犬の革紐を外す
+    - [leash](https://ejje.weblio.jp/content/leash), リィッシュ
+      - 名詞: 犬などをつないでおく革紐・鎖
+  - [phenomenal](https://ejje.weblio.jp/content/phenomenal), フェ・ノァ↑ー・メナル
+    - 形容詞: 驚異的な、異常な、自然現象の、五感で認知できる
+  - [roil](https://ejje.weblio.jp/content/roil), ロ↑ォイ
+    - 他動詞: 液体をかき乱して濁らせる
+  - [prime](https://ejje.weblio.jp/content/prime), プラァイム
+    - 形容詞: 最初の、主要な、第一等の
+  - [outdate](https://en.wiktionary.org/wiki/outdate#Verb)
+    - 他動詞: 時代遅れにさせる、陳腐化する
+  - outdates creation の意味は？
+    - 直訳だと「創造を時代遅れにする」で意味不明、ChatGPTは比喩と解釈して「〜より古い」という意訳をしている
+  - ChatGPT訳: その日に解き放たれた魔法は驚異的で、創造以前の混沌のように渦巻いていました。
 - Gale: Even the Weave itself could not withstand the onslaught. It fractured, then shattered, and all magic was lost to the mortal realms until the day Mystra returned.
-- Gale: She restored the Weave, reuniting all its scattered shareds. Or so I thought, until in the course of my studies I learned of a book. A Netherese tome in which a piece of the fractured Weave had been sealed beyond her reach.
+  - [withstand](https://ejje.weblio.jp/content/withstand), ウィス・ステ↑ァン
+    - 他動詞: 人や力や困難に抵抗する・逆らう
+  - [onslaught](https://ejje.weblio.jp/content/onslaught), オ↑ォン・スロゥト
+    - 名詞: 猛攻、猛攻撃
+  - [fracture](https://ejje.weblio.jp/content/fracture), フラ↑ァ・クチャァ
+    - 他動詞: 割る、破壊する、腕や骨などを折る・骨折する
+  - [shatter](https://ejje.weblio.jp/content/shatter), シ↑ャー・タァ
+    - 他動詞: 粉微塵に壊す、粉砕する
+  - all magic was lost to the mortal realms の to の意味は？
+    - 人間界から失ったので、 from とか of じゃないのかと思ったが、「失う」という作用の方向を決めているイメージ
+  - Mystra returned の returned は戻す？帰る？
+    - 自動詞で「元の状態に戻す」という意味はあるが、戻す対象は主語
+    - 目的語が省略された形と考えて、他動詞だとしても、「直す」よりは「元の持ち主に返す、返還する」という意味が強い
+    - なので、自動詞の「帰る」が一番合ってそう
+  - ChatGPT訳: ウィーブでさえもその猛攻に耐えることができず、裂けて、そして砕け、ミストラが帰ってくるその日まで、全ての魔法が人間界から失われました。
+- Gale: She restored the Weave, reuniting all its scattered shards. Or so I thought, until in the course of my studies I learned of a book. A Netherese tome in which a piece of the fractured Weave had been sealed beyond her reach.
+  - [reunite](https://ejje.weblio.jp/content/reunite), ゥリ・ユナ↑イト
+    - 他動詞: 再結合させる、再会する
+  - [shard](https://ejje.weblio.jp/content/shard), シャ↑ー
+    - 名詞: 破片
+  - Netherese
+    - D&D用語,名詞: Nether-eseで「ネザー人」、Netherilに住んでいた人間
+      - Ref: https://forgottenrealms.fandom.com/wiki/Netherese
+  - A Netherese tome in which a piece of the fractured Weave had been sealed の構造は？
+    - a piece of the fractured Weave had been sealed (in a Netherese tome)
+  - ChatGPT訳: 彼女はウィーブを復元し、散らばった全ての断片を再統合しました。少なくとも私はそう思っていました、私の研究の過程で、ある本のことを知るまでは。ミストラの手の届かない場所に砕けたウィーブの一片が封印されていたネセリスの書物です。
 - Gale: 'What if', I thought, 'What if after all this time, I could return this lost part of herself to the goddess?'
+  - [what if](https://en.wiktionary.org/wiki/what_if#Adverb)
+    - 副詞: 将来に対する提案や計画を行うときの表現、もし、もしも
+  - after all this time の意味は？
+    - 直訳だと「この全ての時間の後に」、「Mystraが長い時間をかけて修復した後に」ということだろうか、あまりわからない
+  - ChatGPT訳: 「もしも」と私は考えた、「もしもこの長い時間の後、この失われた彼女の一部を女神に返すことができたら？」
 - Tav: What was the answer to that question?
+- Gale: The answer was to try, and the outcome was to fail.
+- Gale: I was certain that this deed of raw power draped in romance would convince Mystra to take me by the hand and welcome me into her hitherto forbidden domains.
+- Gale: I was mistaken.
+- Gale: I obtained the fabled book and took it into my study. As for what happened next...
+- Gale: Here. Place your hand over my heart. Let me show you.
