@@ -409,4 +409,33 @@ Galeにイベント会話が発生していたので、話しかけた
     - 前置詞: 〜について(=about, regarding, concerning)
   - ChatGPT訳: 伝説の本を手に入れ、私の書斎に持ち込みました。その次に起こったことは...
 - Gale: Here. Place your hand over my heart. Let me show you.
-  - ChatGPT訳: ここです。私の心臓の上に手を置いてください。見せてあげましょう。
+- \*You feel the tadpole quiver as you realise Gale is letting you in.\*
+  - [quiver](https://ejje.weblio.jp/content/quiver), ク↑ゥィ・バァ
+    - 自動詞: 小刻みに揺れる・震える
+  - [let in](https://en.wiktionary.org/wiki/let_in#Verb)
+    - 他動詞: 誰かや何かを中へ入れる
+  - ChatGPT訳: あなたはゲイルがあなたを受け入れていることに気づくと、オタマジャクシが震えるのを感じます。
+- \*Into the dark.\*
+- \*You see through Gale's eyes, staring down the corridors of a dread memory. A book, bound, then suddenly opened.\*
+  - [corridor](https://ejje.weblio.jp/content/corridor), コ↑ォリ・ダァォ
+    - 名詞: ホテルやアパートで複数の部屋の入口ががある廊下・通路
+  - ChatGPT訳: あなたはゲイルの目を通して見て、恐ろしい記憶の廊下を見下ろしています。縛られた後、突然開かれた本。
+- \*Inside there are no pages, only a swirling mass of blackest Weave that pounces.\*
+  - [inside](https://ejje.weblio.jp/content/inside), イン・サ↑ァイド
+    - 副詞: 内部に、内側に
+  - [swirl](https://ejje.weblio.jp/content/swirl), スウ↑ォォロ
+    - 自動詞: 渦を巻く
+  - [mass](https://ejje.weblio.jp/content/mass), マ↑ァス
+    - 名詞: 一定の形のない大きな塊、密集、集団、多量、多数
+  - [pounce](https://ejje.weblio.jp/content/pounce), パ↑ウンス
+    - 自動詞: 急に飛びかかる、急襲する
+  - ChatGPT訳: 中にはページがなく、ただ最も黒く渦巻くウィーヴの塊が襲いかかります。
+- \*Its teeth, its claws, it's unstoppable as it digs through and becomes part of you. And gods, is it ever-hungry...\*
+  - [ever](https://ejje.weblio.jp/content/ever), エ↑ヴァ
+    - 副詞: いつも、常に
+      - 肯定文のときのみ
+      - 逆の意味じゃん... 過去もそうだから今後もそうみたいなのか
+    - コアイメージ: 過去に経験したタイムライン上のある一点の時点
+  - is it ever-hungry の意味は？
+    - 修辞疑問文による強調
+  - ChatGPT訳: その歯、その爪、それはあなたを通り抜け、あなたの一部となるのが止まりません。そして神よ、それはいつも飢えている...
