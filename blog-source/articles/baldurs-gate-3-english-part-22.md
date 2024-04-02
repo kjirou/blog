@@ -439,3 +439,45 @@ Galeにイベント会話が発生していたので、話しかけた
   - is it ever-hungry の意味は？
     - 修辞疑問文による強調
   - ChatGPT訳: その歯、その爪、それはあなたを通り抜け、あなたの一部となるのが止まりません。そして神よ、それはいつも飢えている...
+- Tav: How are you still alive?
+  - ChatGPT訳: どうしてまだ生きているの？
+- Gale: Thankfully, the moment I absorbed the fragment wasn't enough to kill me outright. It was only the beginning.
+  - [thankfully](https://ejje.weblio.jp/content/thankfully), (サ|タ)↑ァンク・フリィ
+    - 副詞: ありがたいことに、感謝して
+  - [outright](https://ejje.weblio.jp/content/outright), アウト・ゥラ↑イト
+    - 副詞: 即座に、すぐさま、徹底的に、公然と
+  - ChatGPT訳: 幸い、欠片を吸収した瞬間は、即死には至らなかったんだ。それはただの始まりだった。
+- Gale: The Netherese blight... this _orb_, for lack of a better word, is balled up inside my chest. And it needs to be fed.
+  - [blight](https://ejje.weblio.jp/content/blight), ブラ↑イト
+    - 名詞: 士気や希望をくじくもの、暗い影、障害となるもの、荒廃
+  - [lack](https://ejje.weblio.jp/content/lack), ラ↑ァック
+    - 名詞: 欲しいものの欠乏・不足・無さ
+      - want や need は lack の意味に加えて、差し迫った必要もあることを意味する
+  - [ball](https://ejje.weblio.jp/content/ball), ボ(ォ|ァ)ール
+    - 他動詞: 球にする、固める
+      - ball up の形が多い
+  - [fed](https://ejje.weblio.jp/content/fed), フェ↑ーッド
+    - feed - fed - fed
+  - ChatGPT訳: ネセレの災い…この玉、言葉が悪いが、僕の胸の中に丸まっている。そして、それは養われる必要がある。
+- Gale: As long I absorb traces of the Weave from potent enough sources, it remains quiet. Were it ever to fully destabilise, however...
+  - [potent](https://ejje.weblio.jp/content/potent), ポ↑ゥ・ウント
+    - 形容詞: 薬などが効能のある
+  - Were it ever to fully destabilise の構文は？
+    - If it were ever to fully destabilise の昔風・文学風の表現
+    - また it なのに were なのは仮定法過去の構文、Part 18へ書いた
+  - [destabilize](https://ejje.weblio.jp/content/destabilize)
+    - 他動詞: 不安定にする、動揺させる
+  - ChatGPT訳: 十分に強力な源からウィーヴの痕跡を吸収し続ける限り、それは静かに留まる。しかし、もし完全に不安定になったら…
+- Tav: Go on.
+- Gale: I will erupt.
+  - [erupt](https://ejje.weblio.jp/content/erupt), イィ・ラ↑プト
+    - 自動詞: 火山などが爆発する・噴火する、感情や暴動が突発する、人が怒りなどを爆発する
+- Gale: I don't know the exact magnitude of the eruption, but given my studies of Netherese magic, I'd say even a fragment as small as the one I carry...
+  - [magnitude](https://ejje.weblio.jp/content/magnitude), マ↑グニ・チュード
+    - 名詞: 大きさ、大きいこと、重要さ、重大
+  - ChatGPT訳: 爆発の正確な規模はわからないが、ネセレの魔法についての僕の研究を考えると、僕が持っているような小さな欠片でさえ…
+- Gale: It'd level a city the size of Waterdeep.
+  - [level](https://ejje.weblio.jp/content/level), レ↑ボゥ
+    - 他動詞: 平にする、ならす、水平にする、一様にする
+  - ChatGPT訳: ウォーターディープのような都市を平らにするだろう。
+- Tav:
