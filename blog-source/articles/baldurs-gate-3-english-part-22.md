@@ -480,4 +480,32 @@ Galeにイベント会話が発生していたので、話しかけた
   - [level](https://ejje.weblio.jp/content/level), レ↑ボゥ
     - 他動詞: 平にする、ならす、水平にする、一様にする
   - ChatGPT訳: ウォーターディープのような都市を平らにするだろう。
+- Tav: Is there nothing we can do?
+- Gale: We might chance upon a king's collection of magical artefacts around the corner. We might cross paths with a miracle round the bend. Then again - we might not.
+  - [chance upon](https://en.wiktionary.org/wiki/chance_upon#Verb)
+    - 他動詞: 偶然見つける
+    - [chance](https://ejje.weblio.jp/content/chance), チ↑ャァンス
+      - 自動詞: 偶然起こる、偶然会う
+  - [cross paths](https://en.wiktionary.org/wiki/cross_paths)
+    - 自動詞: 別々の旅の結果で同じ場所で偶然出会う、出会う
+  - [bend](https://ejje.weblio.jp/content/bend), ベ↑ェンド
+    - 名詞: 曲がり角、曲がること
+  - around と round の違いは？
+    - とりあえず、 around は副詞・前置詞、 round は形容詞・副詞・前置詞・その他、という品詞の違いがある
+    - そして、意味はあんまり変わらず、お互いに共有しているものもある。ごっちゃにしといても致命的ではなさそう。
+    - 辞書やブログ記事を読んで自分なりにまとめると、こう言う感じのよう
+      - around は、円や球体の動きの結果が焦点、「周辺に」「迂回して」
+      - round は、円や球体の動きそのものが焦点、「円の」「球体の」「回転して」
+  - ChatGPT訳: 角を曲がった先で、王の魔法の品々のコレクションに偶然出会うかもしれない。同様に、角を曲がったところで奇跡と偶然に道が交差するかもしれない。しかし、再び言うが、そうでない可能性もある。
+- Gale: All of this... It must feel like a betrayal. Say the word, and we'll part ways.
+  - ChatGPT訳: これは...裏切りのように感じるかもしれない。言葉をかければ、別れることもできる。
+- Tav: I would hear what the others say first.
+  - ChatGPT訳: 他の人たちの意見を聞いてからにしよう。
+- Karlach: If having dangerous, otherworldly objects stuck in your skin is wrong, then Gale and I _both_ have to go. We're not really splitting up, are we?
+  - ChatGPT訳: 危険で異世界の物体が皮膚に刺さっていることが間違っているなら、Galeと私も去らなければならない。本当に分かれるわけではないよね？
 - Tav:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
