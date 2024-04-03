@@ -498,14 +498,60 @@ Galeにイベント会話が発生していたので、話しかけた
       - round は、円や球体の動きそのものが焦点、「円の」「球体の」「回転して」
   - ChatGPT訳: 角を曲がった先で、王の魔法の品々のコレクションに偶然出会うかもしれない。同様に、角を曲がったところで奇跡と偶然に道が交差するかもしれない。しかし、再び言うが、そうでない可能性もある。
 - Gale: All of this... It must feel like a betrayal. Say the word, and we'll part ways.
+  - [betrayal](https://ejje.weblio.jp/content/betrayal), ビトレ↑イヤル
+    - 名詞: 裏切り、背信
+  - [part](https://ejje.weblio.jp/content/part), パ↑ァット
+    - 他動詞: 分ける、引き離す
   - ChatGPT訳: これは...裏切りのように感じるかもしれない。言葉をかければ、別れることもできる。
 - Tav: I would hear what the others say first.
   - ChatGPT訳: 他の人たちの意見を聞いてからにしよう。
 - Karlach: If having dangerous, otherworldly objects stuck in your skin is wrong, then Gale and I _both_ have to go. We're not really splitting up, are we?
+  - [otherworldly](https://ejje.weblio.jp/content/otherworldly), ア↑ザ・ウ↑(ァ|ォ)ールドリィ
+    - 形容詞: 別世界の、空想的な、来世の
+  - [split up](https://en.wiktionary.org/wiki/split_up#Verb)
+    - 自動詞: 一緒に居るのをやめる、グループから離れる
   - ChatGPT訳: 危険で異世界の物体が皮膚に刺さっていることが間違っているなら、Galeと私も去らなければならない。本当に分かれるわけではないよね？
-- Tav:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
+- Tav: We've come this far together and we'll continue on together. That is how it will be.
+  - this far の意味は？
+    - far は副詞で「遠く」、 this がそれを修飾して「この遠くまで」
+    - this が far を修飾するのは文法的にはおかしいが、一般的な表現であるとのこと
+  - continue on の on の意味は？
+    - 継続の意味、 go on と同じ
+  - That is (how it will be)
+  - ChatGPT訳: ここまで一緒に来たんだ。これからも一緒に進もう。そうなるんだ。
+- Gale: That is - a great relief. Oh, a great relief indeed!
+  - [relief](https://ejje.weblio.jp/content/relief), ゥリ・リ↑ーフ
+    - 名詞: 安心、安堵
+  - ChatGPT訳: それは...本当に安心だ。ああ、本当に安心したよ！
+- Gale: You truly are a soul that steels my own. From all my new-rallied heart I thank you.
+  - [steel](https://ejje.weblio.jp/content/steel), ステ↑ィールウ
+    - 他動詞: 鋼を被せる、鋼で刃をつける
+  - [rally](https://ejje.weblio.jp/content/rally), ゥラ↑ーリィ
+    - 他動詞: 目的のために呼び集める・結集する、精力を奮い起こす
+  - [heart](https://ejje.weblio.jp/content/heart), ハ↑ァト
+    - 名詞: 勇気、元気、気力
+  - ChatGPT訳: あなたは本当に私の心を強くしてくれる人だ。心から新たに集めた勇気で感謝するよ。
+- Gale: I thank you all. I understand if you stand against me. I'm humbled if you stand with me. Either way, I will do my best not to let you down.
+  - [humble](https://ejje.weblio.jp/content/humble), ハ↑ンボゥ
+    - 他動詞: 謙虚にする
+  - [let down](https://en.wiktionary.org/wiki/let_down#Verb)
+    - 他動詞: 失望させる
+  - I understand if you stand against me. I'm humbled if you stand with me. の意味は？
+    - わからない
+    - 直訳通りの意味以外はなさそう
+  - ChatGPT訳: 皆に感謝するよ。もし君たちが私に反対しても分かる。もし君たちが私と一緒に立ってくれたら感謝する。どちらにせよ、皆をがっかりさせないように最善を尽くす。
+- Gale: I stand at a precipice, but if you do not give up hope, neither shall I. I'll fight, I'll resist - as long as I can.
+  - [neither](https://ejje.weblio.jp/content/neither)
+    - 副詞: 〜もまた〜しない
+      - 否定の意味の文や節の後で、 neither を先頭で使う形のみ
+  - [shall](https://ejje.weblio.jp/content/shall), シャァル
+    - 助動詞: 強い決意や義務感できっと〜する
+      - 主語が1人称のときのみ
+  - ChatGPT訳: 私は崖っぷちに立っているが、もし君たちが希望を捨てないなら、私もそうしない。戦うよ、抵抗する - できる限り。
+- Gale: Now - even I am tired of the sound of my own voice. Let us venture forth.
+  - [venture](https://ejje.weblio.jp/content/venture), ベ↑ンチュァ
+    - 自動詞: 思い切って進む、危険を冒して進む
+  - [forth](https://ejje.weblio.jp/content/forth), フ↑ォァス
+    - 副詞: 前へ、見えるところへ
+  - ChatGPT訳: さあ - 今は自分の声もうんざりだ。さあ、先へ進もう。
+  - 過去イチで長い会話だった
