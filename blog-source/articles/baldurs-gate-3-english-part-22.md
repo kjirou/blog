@@ -694,3 +694,25 @@ Goblin達が去った後に、捕虜のHumanへ話しかけた
 - Liam: He j-just said some wizard called Lorroakan would reward us if we found it. That's all!
 - Tav: _Leave._
   - 後でAradinにところに戻ってみよう
+
+### 21, Eliasis - 10:49 - Torturer Spike
+
+先ほどLiamを拷問していたGoblinの内のひとりへ話しかけた
+
+- Torturer Spike: Bet ya couldn't make 'im sing either, could ya? I'd swear 'e was mute, if I hadn't heard 'im scream so much.
+  - [either](https://ejje.weblio.jp/content/either)
+    - 副詞: 〜もまたない
+      - 否定文で使うときのみ、 not ~ either = neither
+  - ChatGPT訳: お前も彼を歌わせることはできなかったろう？ 私がもし彼が叫ぶのを聞いていなかったら、彼が無言だと誓うだろう。
+  - 後半は文意がわからない
+
+### 21, Eliasis - 10:49 - Lookout Grush
+
+先ほどLiamを拷問していたGoblinの内のひとりへ話しかけた
+
+- Lookout Grush: I'm watchin' ya. Spike promised that any meat that falls off is mine.
+  - [lookout](https://ejje.weblio.jp/content/lookout), ルッカ↑ウト
+    - 名詞: 見張り、見張り所、用心、警戒
+  - Spike の意味は？
+    - 先のTorturer Spikeのこと
+  - ChatGPT訳: 見てるぞ。スパイクは約束した、落ちた肉は全部俺のものだって。
