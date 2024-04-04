@@ -636,3 +636,61 @@ Humanを磔にして拷問しようとしている、Goblinの二人組へ話し
     - all (of) the good (which) he has been
     - 直訳で「彼が居たことによる良さの全て」
   - ChatGPT訳: 彼を他の者たちと一緒にMoonriseに送るべきだった、彼がどれだけ役立ったか考えれば。
+
+### 21, Eliasis - 10:06 - Liam, Tav
+
+Goblin達が去った後に、捕虜のHumanへ話しかけた
+
+- Liam: P-please... please l-let me out! Th-there's no reason for this!
+  - reason の意味は？
+    - あまりわからない
+    - 単語の意味としては、いわゆる「理由」しかなさそう
+    - 「私はThe Groveのことは知らないから、拷問する理由がない」だろうか？
+  - ChatGPT訳: お願い... お願い、外に出して！これには理由がないんだ！
+- Tav: I came for the Nightsong. Where is it?
+- Liam: S-somewhere underneath the temple. There's a hidden p-passage.
+  - [underneath](https://ejje.weblio.jp/content/underneath), ア↑ンダー・ニィス
+    - 前置詞: 〜の下に
+    - コアイメージ: 隠れて真下に
+      - Assoc: neath 部分の語源は nether と同じらしい
+- Liam: B-Brian had instructions, but... the g-goblins got him. They - they said they'd e-eat him...
+  - [instruction](https://ejje.weblio.jp/content/instruction), イ↑ンスト・ラクション
+    - 名詞: 命令、指図、教え
+  - ChatGPT訳: ブライアンが指示を持っていたけど... ゴブリンに襲われたんだ。彼らは彼を食べると言った...
+- Liam: P-please, these shackles... I... I don't want to die!
+  - [shackle](https://ejje.weblio.jp/content/shackle), シ↑ャッコォ
+    - 名詞: 手枷、足鎖、拘束
+- Tav: One more question: what happened to the druid?
+- Liam: Halsin? I... I don't know. He changed into a bear, but... I lost sight of him. I don't know if he's s-still alive.
+  - [sight](https://ejje.weblio.jp/content/sight), サ↑イト
+    - 名詞: 見えること、視野、視界、風景
+  - ChatGPT訳: ハルシン？私... 私にはわからない。彼は熊に変わったけど... 彼を見失った。彼がまだ生きているかどうかわからない。
+- Liam: That's all I know! Please... g-get me out of here!
+- Tav: Relax. I'm not going to leave you here.
+- Liam: Th-thank you! Thank you so much!
+- Tav: _A simple tumbler lock. Make short work of it._
+  - [tumbler](https://ejje.weblio.jp/content/tumbler), タ↑ン・ブラァ
+    - 名詞: 錠前の種類のタンブラー、取っ手や足のない大コップ
+      - タンブラー錠は、鍵穴に鍵を差して回す普通の錠前、「タンブラー」自体は錠前の中で鍵の回転を邪魔するもののこと
+    - [tumble](https://ejje.weblio.jp/content/tumble), タ↑ン・ボォ
+      - 自動詞: 倒れる、転ぶ
+- Dexterity (SleightOfHand) Successful: Tav
+- \*The lock clicks and opens.\*
+  - [click](https://ejje.weblio.jp/content/click), クリ↑ィック
+    - 自動詞: カチリと音を立てる、カチリと音を立てて何かをする
+      - click: カチリと音を立てる
+      - click C: カチリと音を立てて何かをする
+- Liam: Thank you, I... I'd better go, before they catch us.
+  - I'd = I would もしくは I had 、ChatGPT曰くどちらもあり得るが意味は変わらないとのこと
+- Liam: I sh-should be able to make it to the grove on my own. They need to know they're in danger.
+  - ChatGPT訳: 私は一人で森へ行けるはずだ。彼らが危険にさらされていることを知らせなければならない。
+- Tav: What did the goblins want with you?
+- Liam: Th-the grove. To the east. They wanted to know where we came from. They'll k-kill everyone. Please... I need to warn them.
+  - ChatGPT訳: 森だよ。東にある。私たちがどこから来たのかを知りたがっていた。みんなを殺すだろう。お願い…私は彼らに警告しなければならない。
+  - 善人過ぎないか、この人
+- Tav: What does the Nightsong do, exactly?
+  - ChatGPT訳: ナイツソングは具体的に何をするの？
+- Liam: I don't know. The boss didn't say.
+- Liam: He j-just said some wizard called Lorroakan would reward us if we found it. That's all!
+- Tav: _Leave._
+  - 後でAradinにところに戻ってみよう
