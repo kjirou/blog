@@ -716,3 +716,33 @@ Goblin達が去った後に、捕虜のHumanへ話しかけた
   - Spike の意味は？
     - 先のTorturer Spikeのこと
   - ChatGPT訳: 見てるぞ。スパイクは約束した、落ちた肉は全部俺のものだって。
+
+### 21, Eliasis - 10:50 - Gale, Tav
+
+先にGaleのイベントが発生したため、話しかけた
+
+- Gale: Go ahead, I'm listening.
+- Tav: I was wondering about that 'mighty lord' you told me abouut in your story.
+- Gale: Ah, yes. Karsus.
+- Gale: Karsus was perhaps the most powerful wizard that ever lived. The-child-who-would=be=a=god, the elves called him.
+- Gale: And he tried. With a spell of his own devising he endeavoured to usurp in one fell swoop the poer of the goddess of magic.
+- Gale: Mystryl, she was called then. Imagine what it must have felt like. To be a god. To know yourself to be untouchable. To be mistaken.
+- Gale: As Karsus aimed his spell at her, she began to unravel, and with her, the entire Weave.
+- Gale: Too late did he realise what he had unleashed. It would have been the end of everything had not Mystryl sacrificed herself.
+- Gale: The goddess of magic is all magic. By dying, the entire Weave was lost, and the spell that challenged a god failed.
+- Gale: It was the end of Mystryl, the end of karsus, and the end of an entire civilisation.
+- Gale: As the-child-who-would-be-a-god was turned to stone, his empire came crashing down around him. The floating cities of Netheril were no more.
+- Gale: An event that came to be known as Karsus' Folly.
+- Tav:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Tav:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Gale:
+- Tav: _Leave._
