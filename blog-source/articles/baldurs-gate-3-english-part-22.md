@@ -722,17 +722,64 @@ Goblin達が去った後に、捕虜のHumanへ話しかけた
 先にGaleのイベントが発生したため、話しかけた
 
 - Gale: Go ahead, I'm listening.
-- Tav: I was wondering about that 'mighty lord' you told me abouut in your story.
+  - ChatGPT訳: どうぞ、聞いています。
+- Tav: I was wondering about that 'mighty lord' you told me about in your story.
+  - [wonder](https://ejje.weblio.jp/content/wonder), ワ↑ンダァ
+    - 自動詞: 知りたいと思う
+      - 主に進行形で使う
+  - ChatGPT訳: あなたの話で言っていたその「偉大なる主」について聞きたかったんです。
 - Gale: Ah, yes. Karsus.
-- Gale: Karsus was perhaps the most powerful wizard that ever lived. The-child-who-would=be=a=god, the elves called him.
-- Gale: And he tried. With a spell of his own devising he endeavoured to usurp in one fell swoop the poer of the goddess of magic.
+- Gale: Karsus was perhaps the most powerful wizard that ever lived. The-child-who-would-be-a-god, the elves called him.
+  - ChatGPT訳: カーサスはおそらく史上最も強力な魔法使いでした。神になる子供、とエルフたちは彼を呼んでいました。
+- Gale: And he tried. With a spell of his own devising he endeavoured to usurp in one fell swoop the power of the goddess of magic.
+  - [devise](https://ejje.weblio.jp/content/devise), デ・バ↑ァイズ
+    - 他動詞: 方法を工夫する・考案する・発明する
+  - [endeavour](https://ejje.weblio.jp/content/endeavour), イン・デーバァ
+    - 自動詞: 〜しようと努力する
+      - endeavour to Verb
+  - [one fell swoop](https://en.wiktionary.org/wiki/one_fell_swoop#Noun)
+    - 名詞: 多くのことを達成する一つの行動または出来事、一挙
+    - [fell](https://ejje.weblio.jp/content/fell), フェ↑ルゥ
+      - 形容詞: 残忍な、恐ろしい
+    - [swoop](https://ejje.weblio.jp/content/swoop), スウ↑ゥプ
+      - 名詞: 猛禽などの急降下、急襲
+  - ChatGPT訳: 彼は試みました。自ら考案した呪文で、一挙に魔法の女神の力を奪おうとしました。
 - Gale: Mystryl, she was called then. Imagine what it must have felt like. To be a god. To know yourself to be untouchable. To be mistaken.
+  - [then](https://ejje.weblio.jp/content/then), ゼェン
+    - 副詞: その時は
+  - Imagine what it must have felt like. の意味は？
+  - 「何を感じるべきかを想像してみてください」の方がわかりやすい、そしてその後に感じるべきことが羅列されている
+  - にしても、あまり前文とのつながりはわからない
+  - ChatGPT訳: 当時彼女はミストラルと呼ばれていました。それがどのような感覚だったか想像してみてください。神であること。自分が触れられない存在であると知ること。間違っているということ。
 - Gale: As Karsus aimed his spell at her, she began to unravel, and with her, the entire Weave.
+  - [unravel](https://ejje.weblio.jp/content/unravel), アン・ラ↑ーボォ
+    - 自動詞: 編み物などがほどける・ほぐれる
+  - ChatGPT訳: カーサスが彼女に向けて呪文を狙い定めた時、彼女は解け始め、彼女と共に、全てのウィーブも解け始めた。
 - Gale: Too late did he realise what he had unleashed. It would have been the end of everything had not Mystryl sacrificed herself.
+  - had not Mystryl sacrificed herself の意味は？
+    - 仮定法の倒置により、 if が省略されている
+    - 本来の語順は If Mystryl had not sacrificed herself
+      - if を削除し、疑問形にする
+    - if の内容が仮定法過去完了であるときなど、一部の状況だけで可能なよう
+  - ChatGPT訳: 彼が解き放ったものが何であるかを悟ったのは遅すぎました。ミストラルが自己犠牲を払わなければ、全ての終わりであったでしょう。
 - Gale: The goddess of magic is all magic. By dying, the entire Weave was lost, and the spell that challenged a god failed.
-- Gale: It was the end of Mystryl, the end of karsus, and the end of an entire civilisation.
+  - [challenge](https://ejje.weblio.jp/content/challenge), チャ↑ー・レンジ
+    - 他動詞: 挑戦する
+  - the spell (that challenged a god) failed
+  - ChatGPT訳: 魔法の女神は全ての魔法そのものです。彼女が死んだことで、全てのウィーブは失われ、神に挑戦した呪文は失敗に終わりました。
+- Gale: It was the end of Mystryl, the end of Karsus, and the end of an entire civilisation.
+  - [civilization](https://ejje.weblio.jp/content/civilization), シビ・リ・ゼ↑イション
+    - 名詞: 文明、文明生活、教化
+  - ChatGPT訳: ミストラルの終わり、カーサスの終わり、そして一つの文明の終わりでした。
 - Gale: As the-child-who-would-be-a-god was turned to stone, his empire came crashing down around him. The floating cities of Netheril were no more.
+  - [no more](https://en.wiktionary.org/wiki/no_more#Adjective)
+    - 形容詞: もう存在しない、死んでいる
+  - ChatGPT訳: 神になる子供が石に変わり、彼の帝国は彼の周りで崩壊しました。ネセリルの浮遊都市はもう存在しません。
 - Gale: An event that came to be known as Karsus' Folly.
+  - Karsus's Folly
+    - D&D用語,名詞: ゲームと表記が違う、この結果ゲーム内の魔法のレベルが10に制限されたよう
+      - Ref: https://forgottenrealms.fandom.com/wiki/Karsus%27s_Folly
+  - ChatGPT訳: この事件はカーサスの愚行として知られるようになりました。
 - Tav:
 - Gale:
 - Gale:
