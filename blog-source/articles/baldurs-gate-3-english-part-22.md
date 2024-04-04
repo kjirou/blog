@@ -555,3 +555,84 @@ Galeにイベント会話が発生していたので、話しかけた
     - 副詞: 前へ、見えるところへ
   - ChatGPT訳: さあ - 今は自分の声もうんざりだ。さあ、先へ進もう。
   - 過去イチで長い会話だった
+
+### 21, Eliasis - 9:21 - Tav
+
+Goblin Camp内の本拠地に裏口から入り、隠れながら探索中。
+
+Goblinの見張りにSneak Attackをしたら失敗して、見つかった
+
+- \*You're being arrested for assault. Judging by the look on this guard's face, you're getting off lightly.\*
+  - [arrest](https://ejje.weblio.jp/content/arrest), ア・ゥレ↑スト
+    - 他動詞: 人を〜の罪で逮捕する
+      - arrest O(=人) for {罪}
+  - [assault](https://ejje.weblio.jp/content/assault), ア・ソ↑ゥルト
+    - 名詞: 暴行、強襲
+  - [judge](https://ejje.weblio.jp/content/judge), ジャ↑ァッジ
+    - 他動詞: 判断する、見積もる、裁判する、判決する、非難する
+  - [get off](https://en.wiktionary.org/wiki/get_off#Verb)
+    - 自動詞: 刑罰を免れる
+  - [lightly](https://ejje.weblio.jp/content/lightly)
+    - 副詞: 軽く、静かに、敏捷に、穏やかに
+  - getting off lightly の lightly の意味は？
+    - get off 自体に「免れる」という意味があるが、それに lightly がついて「軽い罪で」になる
+    - get off だけだと罪が 0 なのが、 lightly がつくことで逆に少し罪になっているのが難しい
+  - ChatGPT訳: あなたは暴行の容疑で逮捕されています。この警備員の顔つきから判断すると、あなたは軽い処分で済んでいます。
+- _Attack._
+
+### 21, Eliasis - 9:38 - Torturer Spike, Liam, Tav
+
+Humanを磔にして拷問しようとしている、Goblinの二人組へ話しかけた
+
+- Torturer Spike: Poor lad. I could give ya peace, ya know.
+  - ChatGPT訳: 可哀想な少年よ。私はお前に平和を与えることができたんだぞ、知ってるか？
+- Torturer Spike: But nooo! Ya gotta keep silent, don'tcha? Where'd they flee to, ya stubborn RAT?
+  - don'tcha = don't you
+  - Where'd = Where did
+  - [stubborn](https://ejje.weblio.jp/content/stubborn), スタ・ボォーン
+    - 形容詞: 自分の考えを曲げずに頑固な・強情な、頑強な、扱いにくい
+  - ChatGPT訳: でもねぇ！黙ってなきゃいけないんだろ？どこに逃げた、頑固なクソ鼠め？
+- Liam: P-please, stop...
+- Torturer Spike: 'Ere to see yer friend, have ya? Come an' join 'im, if ya like.
+  - ChatGPT訳: 友達を見に来たのか？好きなら一緒に参加してもいいぞ。
+- \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
+- Tav: Why are you torturing him?
+  - [torture](https://ejje.weblio.jp/content/torture), ト↑ォー・チャー
+    - 他動詞: 拷問にかける、肉体的や精神的に非常な苦痛を与える
+    - Assoc: トーチャー・トルチュールって torture の英語読みとフランス語読みだったんだ
+- Torturer Spike: The git snuck in 'ere with 'is mates, lookin' for some forgotten thing. Said they ran to some kinda grove.
+  - [snuck](https://ejje.weblio.jp/content/snuck), スナァック
+    - sneak - sneaked | snuck - sneaked | snuck
+  - ChatGPT訳: の野郎は仲間と一緒にここに忍び込んだんだ。何か忘れられたものを探していると言っていた。彼らはどこかの林に走ったと言っていたな。
+  - Said をしたのは誰なんだろう？
+- Torturer Spike: 'E doesn't wanna tell us where it is, but he can't resist forever.
+  - ChatGPT訳: 彼はそれがどこにあるか教えたくないようだが、永遠に抵抗し続けることはできない。
+- Tav: _Read the goblin's thoughts._
+- Intelligence Successful: Tav
+- Torturer Spike: _No. NO! Why won't 'e speak?! The drow's gonna kill me if I can't make 'im talk!_
+- Tav: I'll take over - unless you want the drow to learn of your failures.
+  - [take over](https://en.wiktionary.org/wiki/take_over#Verb)
+    - 自動詞: さらに義務や責任を負う、引き継ぐ
+  - [want](https://ejje.weblio.jp/content/want), ワ↑ァント
+    - 他動詞: 人が〜することを望む
+      - learn O(=人) to Verb
+  - [learn](https://ejje.weblio.jp/content/learn), ラ↑ーンヌ
+    - 自動詞: 〜を聞いて知る
+      - learn of {事象}
+  - ChatGPT訳: 任せてくれ - お前の失敗をドロウに報告されたいなら、別だがな。
+- Torturer Spike: We do all the work an' you get to finish 'im?
+  - ChatGPT訳: 俺たちがこき使われて、お前が仕上げるのか？
+- Torturer Spike: Bah. Take 'im. Won't do ya any good. 'E just... screams.
+  - [bah](https://en.wiktionary.org/wiki/bah#Interjection), バァッ
+    - 間投詞: 軽蔑や嫌悪や機嫌の悪さの表現、ふん、ばかな
+  - [do](https://ejje.weblio.jp/content/do)
+    - 他動詞: 〜に利益や損害を与える・もたらす
+      - do IO(=人) DO(=内容)
+  - ChatGPT訳: ふん、持ってけ。どうせ何の役にも立たない。奴はただ…叫ぶだけだ。
+- Torturer Spike: Should've sent 'im to Moonrise with the rest, for all the good he's been.
+  - [for](https://ejje.weblio.jp/content/for), フ↑ォーァ
+    - 前置詞: 成果や行為などに対する返報として
+  - all the good he's been の意味は？
+    - all (of) the good (which) he has been
+    - 直訳で「彼が居たことによる良さの全て」
+  - ChatGPT訳: 彼を他の者たちと一緒にMoonriseに送るべきだった、彼がどれだけ役立ったか考えれば。
