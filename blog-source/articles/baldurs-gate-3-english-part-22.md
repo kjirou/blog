@@ -902,12 +902,56 @@ Galeのことの感想を聞くために、話しかけた。
     - we'll have to return to separate lives の語順が強調により変わったもの
   - ChatGPT訳: そうかもしれませんし、そうでないかもしれません。生き延びることができれば、私たちは別々の人生に戻るでしょう。私はバルダーズ・ゲートに行かなければなりません。
 - Shadowheart: There's someone waiting for me there. Someone I have to reach, as soon as possible.
-  - ChatGPT訳: そこには私ができるだけ早く会わなければならない人が待っています。非常に個人的で、非常に私的な知人です。
+  - [reach](https://ejje.weblio.jp/content/reach), ゥリ↑ィチ
+    - 自動詞: 目やものなどが達する・届く、手や腕が届く
+    - 他動詞には「連絡する」「到着する」という意味があるが、自動詞にはない、本文はやや意訳のよう
+  - ChatGPT訳: そこには誰かが私を待っています。できるだけ早く、私が会わなければならない人です。
 - Tav: Family? A friend? A lover?
 - Shadowheart: Let's just say it's a very personal, very private acquaintance.
+  - [let's say](https://en.wiktionary.org/wiki/let%27s_say)
+    - 慣用句: 仮説の導入の表現、〜と言っておく、〜ということにしておく
+    - どちらかというと let's just say で使割れることの方が多そう
   - ChatGPT訳: それは非常に個人的で、非常に私的な知人だと言っておきましょう。
 - Tav: How am I holding up in your estimations?
+  - [hold up](https://en.wiktionary.org/wiki/hold_up#Verb)
+    - 自動詞: 耐える、立ち向かう
+  - [estimation](https://ejje.weblio.jp/content/estimation), エスティ・メ↑イション
+    - 名詞: 評価、価値などの判断、尊重
   - ChatGPT訳: あなたの評価で私はどうですか？
 - Shadowheart: Does it even need to be asked? We're beyond me merely _liking_ you - I think I'm a different person, owing to you.
+  - We're beyond me merely liking you の構造は？
+    - あまりわからない
+    - 文意上は We're beyond (me merely liking you) と言う区切り方が適切そうだが、 me が目的格のまま文を埋め込んでいる理由がわからない
+    - ChatGPTによると、口語的な表現としてあるとのこと
+  - [owing](https://ejje.weblio.jp/content/owing), オ↑ゥイング
+    - 形容詞,叙述用法: 借りとなっていて、未払いで
+    - [owe](https://ejje.weblio.jp/content/owe), オ↑ォゥ
+      - 他動詞: 借りている
   - ChatGPT訳: 尋ねる必要がありますか？私たちは単にあなたを好きという段階を超えています - あなたのおかげで私は違う人間になったと思います。
 - Tav: _Turn to other matters._
+- Tav: I want to get to know you more, Shadowheart.
+- Shadowheart: You already know my biggest secrets. What more can you ask?
+- Tav: What drew you to Shar worship?
+- Shadowheart: She took me in when no one else would. Without her, I wouldn't be alive.
+  - [take](https://ejje.weblio.jp/content/take), テ↑イク
+    - 他動詞: 受け取る、受け入れる
+  - ChatGPT訳: 他に誰もいなかったとき、彼女が私を受け入れた。彼女がいなければ、私は生きていない。
+- Shadowheart: She is my Mother. She nurtures me, cares for me, loves me.
+  - [nurture](https://ejje.weblio.jp/content/nurture), ナ↑ァチュア
+    - 他動詞: 子供などを養育する・育てる、植物などを大事に育てる
+    - Assoc: 顧客のナーチャリング
+  - [care](https://ejje.weblio.jp/content/care), ケ↑ェアァ
+    - 自動詞: 病人や子供などの世話をする
+      - care for {対象}
+- Shadowheart: Don't believe the lies the Selûnites tell.
+  - Selûnites の意味は？
+    - Selûneを崇拝する人たちのこと、単数だと Selûnity
+- Tav: Tell me something about yourself besides Shar, besides tadpoles.
+- Shadowheart: What, besides my life's calling and the greatest problem I've ever faced...?
+  - ChatGPT訳: 何？私の生涯の呼びかけと、私がこれまで直面した最大の問題の他に...？
+- Shadowheart: Well... I like night orchids and can't swim. Is that the sort of thing you meant?
+  - ChatGPT訳: ええと...私は夜の蘭が好きで、泳げない。それがあなたが求めていた種類のことですか？
+- Tav: You'll have to point out night orchids to me if we ever pass some.
+  - ChatGPT訳: もし私たちが夜の蘭を通り過ぎることがあれば、私に指摘してください。
+- Shadowheart: It's a deal.
+  - ChatGPT訳: 取引成立です。
