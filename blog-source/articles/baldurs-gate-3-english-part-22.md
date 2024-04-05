@@ -500,6 +500,8 @@ Galeにイベント会話が発生していたので、話しかけた
 - Gale: All of this... It must feel like a betrayal. Say the word, and we'll part ways.
   - [betrayal](https://ejje.weblio.jp/content/betrayal), ビトレ↑イヤル
     - 名詞: 裏切り、背信
+    - [betray](https://ejje.weblio.jp/content/betray), ビィ・トレ↑ェイ
+      - 他動詞: 人や信頼を裏切る、約束を違える
   - [part](https://ejje.weblio.jp/content/part), パ↑ァット
     - 他動詞: 分ける、引き離す
   - ChatGPT訳: これは...裏切りのように感じるかもしれない。言葉をかければ、別れることもできる。
@@ -780,16 +782,65 @@ Goblin達が去った後に、捕虜のHumanへ話しかけた
     - D&D用語,名詞: ゲームと表記が違う、この結果ゲーム内の魔法のレベルが10に制限されたよう
       - Ref: https://forgottenrealms.fandom.com/wiki/Karsus%27s_Folly
   - ChatGPT訳: この事件はカーサスの愚行として知られるようになりました。
-- Tav:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
-- Tav:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
-- Gale:
+- Tav: So at that moment in time, all magic was gone?
+  - at that moment in time の意味は？
+    - at that moment は「その瞬間」意味で、 in time は慣用句ではなく単に「ある時間の中」という意味
+    - ChatGPTによると、似たような意味であり、強調しているとのこと
+  - ChatGPT訳: その時点で、すべての魔法がなくなっていたのですか？
+- Gale: For a spell.
+  - [spell](https://ejje.weblio.jp/content/spell), スペウ
+    - 名詞: しばらくの間、交代でやるひと仕事
+  - ChatGPT訳: しばらくの間だけです。
+- Gale: Mystryl was reborn as Mystra. Upon her return, the Weave returned with her.
+- Gale: Now, so many centuries later, I tried to follow in the footsteps of Karsus, not to destroy Mystra, but to prove my love for her.
+  - ChatGPT訳: 今、何世紀も後に、私はカーサスの足跡をたどろうとしましたが、ミストラを破壊するためではなく、彼女への愛を証明するためです。
+- Gale: I tried to control only a fraction of the magic that was unleashed that fateful day. I merely sought to return one tiny diamond to an imperfect crown.
+  - [fraction](https://ejje.weblio.jp/content/fraction), フラ↑ァ・クション
+    - 名詞: 破片、断片、ほんの少し、分数
+  - [fateful](https://ejje.weblio.jp/content/fateful), フェ↑イト・ホゥ
+    - 形容詞: 運命を決する、決定的な、不吉な運命をはらんでいる
+  - [imperfect](https://ejje.weblio.jp/content/imperfect), イン・パ↑ァ・フェクト
+    - 形容詞: 不完全な、不十分な
+  - ChatGPT訳: 私はその運命の日に解き放たれた魔法のごく一部を制御しようと試みました。私が望んだのは、不完全な王冠に小さなダイヤモンドを戻すことだけでした。
+  - to return one tiny diamond to an imperfect crown は、Mystraが修復し損ねたわずかなWeaveを取り戻すことを指してそう
+- Gale: Gale's Folly one might call it. History. Repetition. It's the way things go.
+  - [repetition](https://ejje.weblio.jp/content/repetition), ゥレ↑・ペ・テイション
+    - 名詞: 繰り返し、反復、復唱
+  - ChatGPT訳: ゲイルの愚行と呼ぶこともできます。歴史。繰り返し。物事が進む方法です。
+  - 状況がほぼ似てないので、これをKarsus's Follyに例えるのは、あんまり上手くないだろ
+- Tav: If you ever feel the Netherese magic overtaking you, what will you do?
+  - [overtake](https://ejje.weblio.jp/content/overtake), オ↑ゥ・バァ・テーイク
+    - 他動詞: 追いつく、追い越す、不意の災難が襲いかかる
+    - ChatGPTの訳で「乗っ取る」になっているのは意訳。ただ、それで合ってそう。一般的な意味としてはない。
+  - ChatGPT訳: ネザリースの魔法が自分を乗っ取りそうになったら、どうする？
+- Gale: If it should ever come to that, if I ever know I am no longer able to stop it, I will do anything I can to ensure no one but me pays for my mistakes.
+  - If it should の should は「万が一」の意味、Part 19でまとめた
+  - [no longer](https://en.wiktionary.org/wiki/no_longer#Adverb)
+    - 副詞: 過去に存在した状態や行為が今はないまたは継続できないことの表現、もはや〜がない・できない・してない
+  - ChatGPT訳: それがそうなるべき時がもし来たら、もし私がもうそれを止めることができないと知ったら、私の過ちで私以外の誰もが代価を払うことがないように、私にできることは何でもします。
+- Gale: I will find the remotest place on the surface of Faerûn, or perhaps far below in the depths of the Underdark.
+  - [remote](https://ejje.weblio.jp/content/remote), ゥリ・モ↑ウト
+    - 形容詞: 遠い、人里離れた
+  - [below](https://ejje.weblio.jp/content/below), ビィ・ロ↑ゥ
+    - 副詞: 下の方に、地下に
+  - ChatGPT訳: 私はフェイルーンの表面で最も遠い場所を見つけるか、またはもしかするとアンダーダークの深くに位置する遠い場所を見つけるでしょう。
+- Gale: I will await that death alone.
+  - ChatGPT訳: その死を一人で待つ。
+- Gale: I promise I will not betray your trust. You kept me by your side despite the menace that I am.
+  - [despite](https://ejje.weblio.jp/content/despite), デス・パ↑イト
+    - 前置詞: 〜にも関わらず
+    - in spite of より文語的、新聞などで用いられる
+  - [menace](https://ejje.weblio.jp/content/menace), メ↑(ネ|ナ)ス
+    - 名詞: 危険なもの、厄介な人、脅迫、威嚇
+    - Assoc: Star Wars: Episode I - The Phantom Menace
+  - ChatGPT訳: 貴方の信頼を裏切ることはないと約束する。私がもたらす脅威にも関わらず、貴方は私をそばに置いてくれた。
+- Gale: If worst comes to worst, I will be gone long before the curtain falls.
+  - [worst comes to worst](https://en.wiktionary.org/wiki/worst_comes_to_worst#Adverb)
+    - 副詞: 考えられる最悪の事態が発生したとき
+  - [long](https://ejje.weblio.jp/content/long), ロ↑ォング
+    - 副詞: ずっと
+      - 時を表す単語の前に置いて、ずっと前またはずっと後
+  - [curtain](https://ejje.weblio.jp/content/curtain), カ↑ー・テン
+    - 名詞: 幕、カーテン
+  - ChatGPT訳: 最悪の事態になったら、幕が閉じるずっと前に私は去っている。
 - Tav: _Leave._
