@@ -844,3 +844,70 @@ Goblin達が去った後に、捕虜のHumanへ話しかけた
     - 名詞: 幕、カーテン
   - ChatGPT訳: 最悪の事態になったら、幕が閉じるずっと前に私は去っている。
 - Tav: _Leave._
+
+### 21, Eliasis - 11:08 - Shadowheart, Tav
+
+Galeのことの感想を聞くために、話しかけた。
+
+また、ついでに、以前から発生している会話についても聞いた。
+
+- Shadowheart: So Gale's been walking around this whole time with some sort of magic bomb in his chest? I'm not normally one to begrudge someone their secrets, but _that's_ something I should know...
+  - [normally](https://ejje.weblio.jp/content/normally), ノ↑ー・マ・リィ
+    - 副詞: 普通は、普段は、標準的に、正常に
+  - [begrudge](https://ejje.weblio.jp/content/begrudge), ビ・クラ↑ァチ
+    - 他動詞: 出し渋る
+      - begrudge IO(=対象) DO(=もの)
+  - ChatGPT訳: つまり、Galeはずっと何らかの魔法の爆弾を胸に抱えて歩いていたということですか？普段は人の秘密を咎めることはありませんが、それは私が知るべきことです...
+- Tav: I want to talk about all that's happened to us.
+- Shadowheart: Fine. What's on your mind?
+- Tav: You must have thoughts about our little stowaways.
+  - [stowaway](https://ejje.weblio.jp/content/stowaway), スト↑ゥ・ワヘイ
+    - 名詞: 密航者、無賃乗客
+    - [stow](https://ejje.weblio.jp/content/stow), スト↑ウ
+      - 他動詞: ものを容器や場所へしまい込む・詰め込む・積む
+  - ChatGPT訳: 私たちの中に入った小さな侵入者たちについて、何か考えはあるだろう。
+- Shadowheart: Must I? Thinking about it won't help. We know what to do, so let's do it.
+  - ChatGPT訳: そうでしょうか？考えても仕方がない。何をすべきかは分かっているのだから、それを実行しましょう。
+- Shadowheart: Find a way to rid ourselves of these _things_.
+  - [rid](https://ejje.weblio.jp/content/rid), ゥリ↑ィ
+    - 他動詞: 人や場所から望ましくないものを取り除く・除去する
+      - rid O(=どこから) of {何を}
+  - ChatGPT訳: これらのものを取り除く方法を見つけるんだ。
+- Shadowheart: Personally, I think finding this 'Halsin' is our best bet.
+  - ChatGPT訳: 個人的には、この「ハルシン」を見つけるのが最善だと思っている。
+- Shadowheart: Or there's Ethel. Not that I'm keen to trust her.
+  - [keen](https://ejje.weblio.jp/content/keen), キ↑ィーン
+    - 形容詞: 熱心な、熱望して、切望して、鋭い、洞察力のある
+  - ChatGPT訳: あるいはエセルがいる。ただ、彼女を信用することに熱心ではないが。
+- Shadowheart: I'm not too hopeful that a gith crèche will actually prove our salvation, but worth keeping in mind.
+  - [salvation](https://ejje.weblio.jp/content/salvation), サウ・ベ↑ィ・ション
+    - 名詞: 救済、救い、救助、救済手段
+  - ChatGPT訳: ギスのクレッシュが実際に私たちの救いであることを証明することにあまり期待していないが、念頭に置いておく価値はある。
+- Tav: What will you do, if we actually manage to remove the tadpoles?
+- Shadowheart: I suppose we'd go our separate ways - not a slight on your company, of course.
+  - [separate](https://ejje.weblio.jp/content/separate), セ↑・パ・レェイト
+    - 形容詞,限定用法: 別々の、個々の
+  - [slight](https://ejje.weblio.jp/content/slight)
+    - 名詞: 軽視、軽蔑
+  - ChatGPT訳: もちろん、あなたの付き合いを軽んじているわけではありませんが、私たちはおそらく別々の道を歩むことになるでしょう。
+- Tav: No reason for us to not stay together if we get on well.
+  - to不定詞の否定として、 not の位置がおかしくない？
+    - 標準的には No reason for us not to stay together が正しい
+    - ChatGPTによると、間違いではないらしい
+  - [get on](https://en.wiktionary.org/wiki/get_on#Verb)
+    - 自動詞: 良い関係になる、仲良くなる、うまく何かをやる
+  - ChatGPT訳: うまくやっていけるなら、一緒にいる理由はないわけではありません。
+- Shadowheart: Perhaps, perhaps not. If we do survive, we'll have separate lives to return to. I need to get to Baldur's Gate.
+  - we'll have separate lives to return to の構造は？
+    - we'll have to return to separate lives の語順が強調により変わったもの
+  - ChatGPT訳: そうかもしれませんし、そうでないかもしれません。生き延びることができれば、私たちは別々の人生に戻るでしょう。私はバルダーズ・ゲートに行かなければなりません。
+- Shadowheart: There's someone waiting for me there. Someone I have to reach, as soon as possible.
+  - ChatGPT訳: そこには私ができるだけ早く会わなければならない人が待っています。非常に個人的で、非常に私的な知人です。
+- Tav: Family? A friend? A lover?
+- Shadowheart: Let's just say it's a very personal, very private acquaintance.
+  - ChatGPT訳: それは非常に個人的で、非常に私的な知人だと言っておきましょう。
+- Tav: How am I holding up in your estimations?
+  - ChatGPT訳: あなたの評価で私はどうですか？
+- Shadowheart: Does it even need to be asked? We're beyond me merely _liking_ you - I think I'm a different person, owing to you.
+  - ChatGPT訳: 尋ねる必要がありますか？私たちは単にあなたを好きという段階を超えています - あなたのおかげで私は違う人間になったと思います。
+- Tav: _Turn to other matters._
