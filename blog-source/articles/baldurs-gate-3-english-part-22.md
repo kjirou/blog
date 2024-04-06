@@ -950,8 +950,27 @@ Galeのことの感想を聞くために、話しかけた。
 - Shadowheart: What, besides my life's calling and the greatest problem I've ever faced...?
   - ChatGPT訳: 何？私の生涯の呼びかけと、私がこれまで直面した最大の問題の他に...？
 - Shadowheart: Well... I like night orchids and can't swim. Is that the sort of thing you meant?
+  - [orchid](https://ejje.weblio.jp/content/orchid), オ↑ー・キッ
+    - 名詞: ラン、ランの花
   - ChatGPT訳: ええと...私は夜の蘭が好きで、泳げない。それがあなたが求めていた種類のことですか？
 - Tav: You'll have to point out night orchids to me if we ever pass some.
+  - [point out](https://en.wiktionary.org/wiki/point_out#Verb)
+    - 他動詞: 指摘する、思い出させる、伝える
+  - [some](https://ejje.weblio.jp/content/some), サァンム
+    - 代名詞: あるもの、ある人たち
   - ChatGPT訳: もし私たちが夜の蘭を通り過ぎることがあれば、私に指摘してください。
 - Shadowheart: It's a deal.
+  - [it's a deal](https://en.wiktionary.org/wiki/it%27s_a_deal#Phrase)
+    - 慣用句: 特に価格に対して取引の同意を示す表現
   - ChatGPT訳: 取引成立です。
+- Tav:
+- Shadowheart:
+- Shadowheart:
+- Shadowheart:
+- Tav:
+- Tav:
+- Shadowheart:
+- Shadowheart:
+- Tav:
+- Shadowheart:
+- Tav: _Leave._
