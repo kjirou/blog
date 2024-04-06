@@ -1021,3 +1021,140 @@ Galeのことの感想を聞くために、話しかけた。
   - ChatGPT訳: まだよ - 私たちの瞬間を選びましょう。他の人たちが寝ていて、何の気晴らしもない静かな夜に、あなたのために来るわ。
   - Approvalが一段階上がっただけで、やたら話が進む
 - Tav: _Leave._
+
+### 21, Eliasis - 11:46 - Abdirak, Tav, Gale
+
+Goblin Camp内の一室に、邪教の神官らしき人物が居たので、話しかけた
+
+- Abdirak: Greetings, child. I've met few aside from goblins here.
+  - [greetings](https://en.wiktionary.org/wiki/greetings#Interjection), グリィティン
+    - 間投詞: こんにちは
+  - [few](https://ejje.weblio.jp/content/few), フュ↑ゥ
+    - 代名詞: 少数、少数しかない
+  - [aside from](https://en.wiktionary.org/wiki/aside_from#Preposition)
+    - 前置詞: 〜を除いて・例外として・別として、〜に加えて
+    - [aside](https://ejje.weblio.jp/content/aside), ア・サ↑ァイド
+      - 副詞: わきへ、かたわらに、ある目的のために別にして・とっておいて
+  - ChatGPT訳: 挨拶、子よ。ここで出会ったのはゴブリン以外にはほとんどいないな。
+- Intelligence (Religion) Save Failed: Tav
+- Abdirak: Ah, are you also here to assist with the prisoner?
+  - ChatGPT訳: ああ、君も囚人の支援に来たのか？
+- Tav: You mean the one they are _torturing_?
+  - ChatGPT訳: 彼らが拷問しているその人のことかい？
+- Abdirak: _Please_. The things they are doing to that man... so crude and primitive.
+  - [please](https://en.wiktionary.org/wiki/please#Adverb), プリ↑ィズ
+    - 副詞: 抗議の表現、イライラや焦りの表現、お願いだから
+  - [crude](https://ejje.weblio.jp/content/crude), クル↑ゥード
+    - 形容詞: 天然のままの、加工していない、未熟な、未完成の、雑な作りの、粗野な、下品な
+  - [primitive](https://ejje.weblio.jp/content/primitive), プリ↑ミ・ティーブ
+    - 形容詞: 原始の、初期の、未開の、素朴な、幼稚な、旧式の、根本の、基本の
+  - ChatGPT訳: 頼む。彼らがその男にしていること...とても原始的で野蛮だ。
+- Abdirak: I was invited to to teach them. I live for pain and its intricacies, you see, but alas...
+  - to to teach は誤字？
+    - ChatGPT曰く、誤字で良さそう
+  - [intricacy](https://ejje.weblio.jp/content/intricacy), イ↑ン・トリ・ケイ・スィ
+    - 名詞: 複雑な事柄・事情、複雑さ
+      - 複数形で使う時は、主に前者の意味
+  - [you see](https://en.wiktionary.org/wiki/you_see#Interjection)
+    - 間投詞: 話し手が聞き手に内容を理解してもらいたいことの表現、ねえ、いいですか
+  - ChatGPT訳: 私は教えるために招かれたんだ。私は痛みとその複雑さのために生きているんだが、残念ながら...
+- Abdirak: Pain without purpose is a terrible thing, wouldn't you agree?
+  - ChatGPT訳: 目的のない痛みはひどいものだと思わないか？
+- Tav: Who invited you? A goblin?
+- Abdirak: Yes. He's just over there. Between you and I, his claims of mastery over pain are _unfounded_.
+  - [claim](https://ejje.weblio.jp/content/claim), クレインム
+    - 名詞: 主張、断言、権利とみなしての要求・請求
+    - コアイメージ: 正しいことをして主張する、原義は「叫ぶ」
+  - [mastery](https://ejje.weblio.jp/content/mastery), マ↑ァス・チョ・リィ
+    - 名詞: 支配、熟達
+  - [over](https://ejje.weblio.jp/content/over), オ↑ゥ・バァ
+    - 前置詞: 〜に関して
+  - [unfounded](https://ejje.weblio.jp/content/unfounded), ア↑ン・ファウン・デト
+    - 形容詞: 根拠のない、理由のない
+  - ChatGPT訳: はい。ちょうどそこにいます。あなたと私の間で、彼の痛みの支配に関する主張は根拠がありません。
+  - 彼というのは、Torturer Spikeのことなのかな？
+    - 「ちょうどそこ」には居るが、「あなたと私の間」にはいないんだけど、これはゲーム上の調整が失敗しただけっぽい
+- Abdirak: Pain should be intimate and _loving_ - not violent and brutish. Alas, he...
+  - [intimate](https://ejje.weblio.jp/content/intimate), イ↑ン・ティ・メント
+    - 形容詞: 親密な、懇意な
+  - [loving](https://ejje.weblio.jp/content/loving), ラ↑・ビング
+    - 形容詞: 愛情のある、愛のこもった
+  - [violent](https://ejje.weblio.jp/content/violent), バ↑イオレント
+    - 形容詞: 暴力的な、乱暴な、自然現象や攻撃が激しい・猛烈な
+  - [brutish](https://ejje.weblio.jp/content/brutish), ブル↑ティッシュ
+    - 形容詞: 野卑な、残酷な、けだもののような
+  - ChatGPT訳: 痛みは親密で愛情のこもったものであるべきです - 暴力的で野蛮なものではありません。ああ、彼は...
+- Abdirak: Forgive me, but that look in your eyes - something terrible has happened to you.
+  - ChatGPT訳: 申し訳ありませんが、あなたの目にその表情を見た時 - 何かひどいことがあなたに起こったのですね。
+- Tav: Clever man. How did you know?
+- Abdirak: Because I see those same eyes when I look in the mirror, dear one.
+- Abdirak: We've all suffered in these dark times. It is little wonder you bear scars of pain and anguish.
+  - [wonder](https://ejje.weblio.jp/content/wonder), ワ↑ン(ダ|ド)ァ
+    - 名詞: 驚くべきこと、驚き、驚嘆するような不思議
+  - [anguish](https://ejje.weblio.jp/content/anguish), (ア|エ)↑ン・グィッシュ
+    - 名詞: 心身の激しい苦痛、苦悩
+  - ChatGPT訳: 私たちは皆、この暗い時代に苦しみました。痛みと苦悩の傷跡を持つのも不思議ではありません。
+- Abdirak: Please let me alleviate this pain.
+  - [alleviate](https://ejje.weblio.jp/content/alleviate), (ア|オ)・リ↑ービー・エィト
+    - 他動詞: 苦痛や苦悩を軽くする・緩和する
+  - ChatGPT訳: どうか、この痛みを和らげさせてください。
+- Tav: Why are you so interested?
+- Abdirak: Well - the Maiden of Pain, Loviatar, teaches us that pain is a most powerful and sacred sensation.
+  - [maiden](https://ejje.weblio.jp/content/maiden), メ↑イ・イン
+    - 名詞: 少女、乙女、処女
+  - Loviatar, ロヴィアタル
+    - D&D用語,名詞: 苦痛の邪悪な女神、拷問の達人、他の欲求はなく・計算高く・自身は苦痛に強いと自己完結している無敵の人、北欧神話の同名の人物が元のよう
+      - Ref: https://forgottenrealms.fandom.com/wiki/Loviatar
+  - ChatGPT訳: まあ、苦痛の乙女、ロヴィアターは、苦痛は最も強力で神聖な感覚であると教えてくれるんだ。
+- Abdirak: And should our pain delight her - should we _embrace_ such a gift - she will grant her most sacred of blessings.
+  - [embrace](https://ejje.weblio.jp/content/embrace), エン・ブレ↑イス
+    - 他動詞: 申し出などに喜んで応ずる、機会に乗ずる
+  - [grant](https://ejje.weblio.jp/content/grant), グラ↑ァント
+    - 他動詞: 人に〜を授ける
+      - grant IO DO
+      - grant O to {人}
+  - she will grant (her most sacred of blessings)=O
+  - ChatGPT訳: そして、もし私たちの苦痛が彼女を喜ばせるなら、私たちがそのような贈り物を受け入れるなら、彼女は最も神聖な祝福を授けてくれるだろう。
+- Abdirak: If you would permit it, I can show you first-hand.
+  - [first-hand](https://en.wiktionary.org/wiki/first-hand#Adverb)
+    - 副詞: 直接に(=directly)
+  - ChatGPT訳: もし許されるなら、私は直接見せてあげることができる。
+- Gale: Your hide, your choice. Not quite my cup of tea though.
+  - [cup of tea](https://en.wiktionary.org/wiki/cup_of_tea#Noun)
+    - 名詞: 自分に合ったもの・興味のあるもの
+  - ChatGPT訳: あなたの皮膚、あなたの選択。ただ、私の好みではないな。
+- Tav: All right, why not?
+- Abdirak: Oh, I have something _exquisite_ in mind.
+  - [exquisite](https://ejje.weblio.jp/content/exquisite), エクスクゥ↑イジット
+    - 形容詞: この上なく結構な・優れた、非常に美しい
+- Abdirak: Simply face the wall, and we can _begin_.
+
+### 21, Eliasis - 12:08 - Abdirak, Tav, Shadowheart
+
+AbdirakがTavを、鈍器で殴りながら話しかけていた
+
+- Abdirak: The pain you suffer will cleanse you - do not fight it.
+  - [suffer](https://ejje.weblio.jp/content/suffer), サ↑・ファ
+    - 他動詞: 苦痛や不快なことをこうむる・経験する、我慢する、辛抱する
+    - 自動詞だと、「苦しむ、悩む、傷がつく」になる
+  - The pain you suffer (the pain)
+  - ChatGPT訳: あなたが受ける痛みはあなたを清めるでしょう - それと戦わないでください。
+- Tav: _Try to hold back your cries._
+  - [hold back](https://en.wiktionary.org/wiki/hold_back#Verb)
+    - 自動詞: 抑える、控えめに行動する
+  - [cry](https://ejje.weblio.jp/content/cry), クラ↑ァイ
+    - 名詞: 叫び声
+- Constitution Save Failed: Tav
+- Abdirak: I heard you, dear one. Whimper, cry, beg - let it all out!
+  - [whimper](https://ejje.weblio.jp/content/whimper), ウィ↑ン・パー
+    - 自動詞: 子供などがしくしく泣く・すすり泣く
+  - [let out](https://en.wiktionary.org/wiki/let_out#Verb)
+    - 他動詞: 解放する(=release)、音を発する
+- Shadowheart: Don't wear him out entirely, priest. I might have use for him yet.
+  - [wear out](https://en.wiktionary.org/wiki/wear_out#Verb)
+    - 他動詞: 継続的や不注意な使用により役に立たなくなる・効果がなくなる
+  - [entirely](https://ejje.weblio.jp/content/entirely), エン・タ↑イア・リィ
+    - 副詞: 完全に、まったく
+  - [use](https://ejje.weblio.jp/content/use), ユウ↑ゥス
+    - 名詞: 利用法、役に立つこと
+  - ChatGPT訳: 彼を完全に疲れさせないでください、神官よ。彼がまだ私にとって役立つかもしれないので。
