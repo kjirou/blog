@@ -1158,3 +1158,26 @@ AbdirakがTavを、鈍器で殴りながら話しかけていた
   - [use](https://ejje.weblio.jp/content/use), ユウ↑ゥス
     - 名詞: 利用法、役に立つこと
   - ChatGPT訳: 彼を完全に疲れさせないでください、神官よ。彼がまだ私にとって役立つかもしれないので。
+
+### 21, Eliasis - 12:12 - Abdirak, Tav, Shadowheart
+
+AbdirakがTavを、さらに鈍器で殴りながら話しかけていた
+
+- Abdirak: Pain is proof that we live! Revel in it.
+  - [revel](https://ejje.weblio.jp/content/revel), ゥレ↑・ボゥ
+    - 自動詞: 大いに楽しむ、ふける、凝る、酒盛りする
+- Tav: _Take a deep breath and close your eyes._
+- Constitution Save Failed: Tav
+- Abdirak: Is that a moan I hear? _Delightful._
+  - [moan](https://ejje.weblio.jp/content/moan), モ↑ォーン
+    - 名詞: 苦痛や悲しみの呻き声、風邪などの唸り声、不平
+  - [delightful](https://ejje.weblio.jp/content/delightful), デ↑ィ・ライトフゥ
+    - 形容詞: 人に大きな喜びを与えるという意味で楽しい・愉快な・快適な
+    - 自分が喜ぶときは delighted
+- Shadowheart: Not the worst technique, priest. Good wrist movement, lots of enthusiasm...
+  - [wrist](https://ejje.weblio.jp/content/wrist), ゥリ↑スト
+    - 名詞: 手首、衣服の手首の部分
+  - [enthusiasm](https://ejje.weblio.jp/content/enthusiasm), エン・チュ↑ー・ジア(ズ|ザ)ム
+    - 名詞: 熱意、熱中、熱狂
+  - ChatGPT訳: 最悪の技術ではない、司祭。手首の動きが良く、熱意がたくさんあります...
+  - 何このイベント...
