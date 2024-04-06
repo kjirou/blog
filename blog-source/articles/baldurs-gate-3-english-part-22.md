@@ -1292,3 +1292,54 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
 - Gribbo: Here's the key. Pigeon's all yours.
   - ChatGPT訳: これが鍵だ。ハトは君のものだ。
   - 連れて帰れと言っているのに、君のものだ、と言っている意味がわからない
+
+### 21, Eliasis - 13:58 - Volo, Tav
+
+籠に捕らわれていたVoloを救出した
+
+- Volo: Ha-HA! Look at this - I'm quite saved!
+- Volo: A joy to see a familiar face in such a... precarious setting.
+  - [joy](https://ejje.weblio.jp/content/joy), ジ↑ョォイ
+    - 名詞: 喜び、嬉しさ
+  - [familiar](https://ejje.weblio.jp/content/familiar), ファ・ミリ・アァ
+    - 形容詞: 親しい、よく知っている、ありふれた、馴れ馴れしい
+  - [precarious](https://ejje.weblio.jp/content/precarious), プレ・キャ↑ァリアス
+    - 形容詞: 危険な、不確かな、不安定な、事情次第の
+  - [setting](https://ejje.weblio.jp/content/setting), セ↑・ティン
+    - 名詞: 小説や劇や映画などの背景・舞台装置、自然の環境
+- Volo: I guarantee the story of your daring rescue of my person will live on for aeons!
+  - [guarantee](https://ejje.weblio.jp/content/guarantee), ギャァラン・テ↑ィィ
+    - 他動詞: 商品などを保証する、保証人になる、請け合う
+  - [daring](https://ejje.weblio.jp/content/daring), デ↑ェァ・リング
+    - 形容詞: 大胆な、斬新な
+    - [dare](https://ejje.weblio.jp/content/dare), デ↑ェアァ
+      - 助動詞: あえて〜する、思い切って〜する
+  - [rescue](https://ejje.weblio.jp/content/rescue), ゥレ↑ス・キュゥ
+    - 名詞: 救出、救援
+  - my person が me でないのは？
+    - ChatGPTによると、自己を表現する上で距離を置くような文学的な表現
+  - [aeon](https://ejje.weblio.jp/content/aeon)
+    - = eon
+    - [eon](https://ejje.weblio.jp/content/eon), イ↑ー(エ|オ)ン
+      - 名詞: 無限に長い期間、永遠
+  - aeons が複数形なのは？
+    - ChatGPTによると、複数形にすることで、より永遠であることを表現している
+  - ChatGPT訳: あなたが私を大胆に救出する物語は、永遠に語り継がれることを保証するよ！
+- Tav: Get yourself to safety - and quick.
+  - [quick](https://ejje.weblio.jp/content/quick), クゥィック
+    - 副詞: 急いで、すぐに
+      - 通常は quickly を使う、文章のテンポを良くするために使うこともあるらしい
+  - ChatGPT訳: 安全な場所に行くんだ、そして急ぐんだ。
+- Volo: I intend to do just that. A trusty invisibility potion goes a long way in a place like this.
+  - [trusty](https://ejje.weblio.jp/content/trusty), トラ↑スティ
+    - 形容詞: 信頼できる
+  - [go a long way](https://en.wiktionary.org/wiki/go_a_long_way#Verb)
+    - 自動詞: かなりの時間の間で適切か役に立つ、大いに役立つ
+  - ChatGPT訳: そのつもりだよ。こんな場所では、信頼できる透明化のポーションが大いに役立つからね。
+- Volo: We mustn't tarry, but I'd hate for our friendship to end here. Please - won't you meet me, once we've both slipped the goblin yoke?
+- Tav: A fine mess you landed yourself in. How'd you get caught?
+- Volo: Why, by design, mi friend. How better to learn the ways of a people than to live among them?
+- Volo: I daresay the experiment has proven most fruitful, too. I'll be happy to share my findings... once we've found somewhere safe to parley.
+- Tav: Go to my camp. We'll talk thre, once we're both safe.
+- Volo: Smashing! Soon, my friend - soon we can share a flagon of something liquid and a tale of derring-do!
+- Volo: I'll slip away when the coast is clear. See you soon, my friend! I simply can't wait to pick your brain!
