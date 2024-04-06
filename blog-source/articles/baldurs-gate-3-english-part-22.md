@@ -1131,7 +1131,7 @@ Goblin Camp内の一室に、邪教の神官らしき人物が居たので、話
 
 ### 21, Eliasis - 12:08 - Abdirak, Tav, Shadowheart
 
-AbdirakがTavを、鈍器で殴りながら話しかけていた
+AbdirakがTavを、針付きの鈍器で殴りながら話しかけてきた
 
 - Abdirak: The pain you suffer will cleanse you - do not fight it.
   - [suffer](https://ejje.weblio.jp/content/suffer), サ↑・ファ
@@ -1161,7 +1161,7 @@ AbdirakがTavを、鈍器で殴りながら話しかけていた
 
 ### 21, Eliasis - 12:12 - Abdirak, Tav, Shadowheart
 
-AbdirakがTavを、さらに鈍器で殴りながら話しかけていた
+AbdirakがTavを、さらに殴りながら話しかけてきた
 
 - Abdirak: Pain is proof that we live! Revel in it.
   - [revel](https://ejje.weblio.jp/content/revel), ゥレ↑・ボゥ
@@ -1180,4 +1180,30 @@ AbdirakがTavを、さらに鈍器で殴りながら話しかけていた
   - [enthusiasm](https://ejje.weblio.jp/content/enthusiasm), エン・チュ↑ー・ジア(ズ|ザ)ム
     - 名詞: 熱意、熱中、熱狂
   - ChatGPT訳: 最悪の技術ではない、司祭。手首の動きが良く、熱意がたくさんあります...
-  - 何このイベント...
+
+### 21, Eliasis - 12:15 - Abdirak, Tav
+
+AbdirakがTavを、さらにさらに殴りながら話しかけてきた
+
+- Abdirak: You are doing so well - do not give in now!
+  - [give in](https://en.wiktionary.org/wiki/give_in#Verb)
+    - 自動詞: 諦める(=give up)、折れる、屈服する、敗北を認める、倒れる
+- Tav: _Grit your teeth and keep still._
+  - [grit](https://ejje.weblio.jp/content/grit), グリ↑ット
+    - 他動詞: 歯などをきしらせる
+    - 名詞で「機械などに入って害になる小さな砂」
+- Constitution Save Failed: Tav
+- Abdirak: You whimper so softly - so sweetly!
+
+### 21, Eliasis - 12:18 - Abdirak, Tav
+
+拷問が終わり、Abdirakが話しかけてきた
+
+- Abdirak: Sweet child, you bore the pain like a true believer.
+- Abdirak: I could feel Loviatar's pleasure with every sting of my scourge.
+- Abdirak: I am proud to have served you this penance.
+- Tav: It was an... interesting experience.
+- Abdirak: Interesting is an understatement, dear one.
+- Abdirak: Loviatar herself found your performance... inspiring. She has deemed you worthy of her blessing.
+- Abdirak: And on a personal note, thank you. That was positively _divine_.
+  - 純粋に強化になりそうな、瀕死で攻撃能力が強くなる能力を貰えたんだけど、3連続セービングスロー失敗が成功ってこと？
