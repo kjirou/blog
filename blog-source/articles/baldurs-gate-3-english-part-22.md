@@ -1238,3 +1238,57 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
     - 副詞: 明確に、まったく、断然、積極的に、建設的に
   - ChatGPT訳: そして個人的なメモとして、ありがとう。それはまさに神聖でした。
   - 純粋に強化になりそうな能力を貰えたんだけど、3連続セービングスロー失敗が成功ってこと？
+
+### 21, Eliasis - 13:42 - Gribbo, Tav
+
+捕まって籠に入っているVoloとそれを捕まえたGoblinが居て、そのGoblinの方へ話しかけた
+
+- Gribbo: Don't go botherin' my pigeon! He's _mine_.
+  - ChatGPT訳: 私のハトを邪魔するなよ！彼は私のものだ。
+  - 最初に会ったときに、Tavと会ったVoloが混乱して歌えなくなったことを前提にしている
+- Tav: So I see. Do you have plans for this 'pigeon'?
+  - ChatGPT訳: そう見えるね。その「ハト」に何か計画があるのかい？
+- Gribbo: Keep him safe. Listen to him coo. 'Til I gets hungry or some such.
+  - [coo](https://ejje.weblio.jp/content/coo), ク↑ゥ
+    - 名詞: 鳩の鳴き声、クークー
+  - 'Til = until
+  - ChatGPT訳: 守るんだ。クークー鳴くのを聞くんだ。お腹が空いたり何かするまでな。
+- Gribbo: What's it to ya?
+  - [what's it to you](https://en.wiktionary.org/wiki/what%27s_it_to_you#Phrase)
+    - 慣用句: 余計なお世話だ、それはあなたに関係ない、予防線を張る意図でなぜ知りたいのですか？・なぜ聞くのですか？
+- Tav: Your pet is actually a rather famous writer.
+- Gribbo: _Him?_
+- Gribbo: Nahhh.
+  - nah = no
+  - ChatGPT訳: うそだろ。
+- Tav: I hate to see such a lovely creature in a cage.
+  - ChatGPT訳: そんな素敵な生き物を檻の中に入れておくのは見たくないな。
+- Gribbo: Ehh, he don't mind. Keeps him safe from me mates! Raids make 'em rabid.
+  - Ehh の意味は？
+    - eh は辞書にあるが、この状況と合わなく、わからなかった
+  - [rabid](https://ejje.weblio.jp/content/rabid), ラ↑ァビット
+    - 形容詞: 狂気じみた、凶暴な、狂犬病の
+  - ChatGPT訳: えー、彼は気にしてないさ。仲間たちから守るためだ！襲撃は彼らを狂わせるからな。
+- Gribbo: Then _catch_ one on your own.
+  - ChatGPT訳: じゃあ、自分で捕まえてみろ。
+  - 前の文とのつながりが、あまりわからない
+- \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
+- Tav: He looks weak. Sick, even. He won't last long in there.
+  - ChatGPT訳: 彼は弱っている。病気でもあるようだ。その中にいたら長くはもたない。
+- Charisma (Deception) Successful: Tav
+- Gribbo: Take him for a jog, why don't ya. And don't let the lads snatch him up. No tellin' what they'll do to him.
+  - [jog](https://ejje.weblio.jp/content/jog), ジョ↑ォグ
+    - 名詞: 人や馬のゆるやかな速歩、ジョギング
+  - [snatch](https://ejje.weblio.jp/content/snatch), スナ↑ァッチ
+    - 他動詞: 強奪する、かっぱらう、ひったくる、人を誘拐する
+  - ChatGPT訳: 散歩に連れて行ってやれよ。そして、仲間たちが奪い取らないようにな。彼らが何をするか分からないからな。
+- Gribbo: Bring him back when he's all tuckered out.
+  - [tucker out](https://en.wiktionary.org/wiki/tucker_out)
+    - 自動詞: 疲れ果てる
+    - [tucker](https://ejje.weblio.jp/content/tucker), タ↑ッカァ
+      - 他動詞: 疲れさせる
+      - 名詞だと「縫い上げをする人」
+  - ChatGPT訳: 疲れ果てるまで連れて帰ってこい。
+- Gribbo: Here's the key. Pigeon's all yours.
+  - ChatGPT訳: これが鍵だ。ハトは君のものだ。
+  - 連れて帰れと言っているのに、君のものだ、と言っている意味がわからない
