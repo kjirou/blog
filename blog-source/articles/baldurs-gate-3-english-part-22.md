@@ -940,7 +940,7 @@ Galeのことの感想を聞くために、話しかけた。
   - [nurture](https://ejje.weblio.jp/content/nurture), ナ↑ァチュア
     - 他動詞: 子供などを養育する・育てる、植物などを大事に育てる
     - Assoc: 顧客のナーチャリング
-  - [care](https://ejje.weblio.jp/content/care), ケ↑ェアァ
+  - [care](https://ejje.weblio.jp/content/care), ケ↑ア
     - 自動詞: 病人や子供などの世話をする
       - care for {対象}
 - Shadowheart: Don't believe the lies the Selûnites tell.
@@ -963,14 +963,61 @@ Galeのことの感想を聞くために、話しかけた。
   - [it's a deal](https://en.wiktionary.org/wiki/it%27s_a_deal#Phrase)
     - 慣用句: 特に価格に対して取引の同意を示す表現
   - ChatGPT訳: 取引成立です。
-- Tav:
-- Shadowheart:
-- Shadowheart:
-- Shadowheart:
-- Tav:
-- Tav:
-- Shadowheart:
-- Shadowheart:
-- Tav:
-- Shadowheart:
+- Tav: Anything else you'd care to share?
+  - [care](https://ejje.weblio.jp/content/care), ケ↑ア
+    - 自動詞: 〜したいと思う
+      - care to Verb
+      - 否定・疑問・条件文で
+- Shadowheart: No. I can't.
+- Shadowheart: Quite literally, I mean. With my memories suppressed, I can't betray Shar's secrets... but I can't remember much of myself either.
+  - [literally](https://ejje.weblio.jp/content/literally), リ(テ|レ)ラリィ
+    - 副詞: 文字通りに、誇張なしに
+    - [literal](https://ejje.weblio.jp/content/literal), リ(テ|レ)ラル
+      - 形容詞: 文字通りの、言葉本来の意味の
+    - [either](https://ejje.weblio.jp/content/either), イ↑ーザァ
+      - 副詞: 〜もまた
+        - 通常は否定文で用いる
+  - ChatGPT訳: 文字通り、私の記憶が抑制されているため、シャーの秘密を裏切ることはできません...しかし、自分自身のこともあまり覚えていません。
+- Shadowheart: If I manage to return to Baldur's Gate and fulfil Shar's mission... then my memories will be restored.
+  - [fulfil](https://ejje.weblio.jp/content/fulfil), フッ・フィ↑ルゥ
+    - 他動詞: 義務や職務を果たす・遂行する、約束を履行する
+  - ChatGPT訳: もしバルダーズ・ゲートに戻り、シャーの任務を果たすことができれば...その時、私の記憶は回復するでしょう。
+- Tav: _Turn to other matters._
+- Tav: I can't help but feel you and I might have missed a chance to connect. _Truly_ connect.
+  - [can't help but](https://en.wiktionary.org/wiki/can%27t_help_but)
+    - = cannot but
+    - [cannot but](https://en.wiktionary.org/wiki/cannot_but#Verb)
+      - 他動詞: それ以外はできない
+    - but は接続詞のように見えるが、意味としては前置詞の「〜以外は」。これが文法上どうであるかは諸説あるよう。
+  - [connect](https://ejje.weblio.jp/content/connect), (カ|コ)・ネェ↑クト
+    - 自動詞: 二つのものが繋がる
+  - [truly](https://ejje.weblio.jp/content/truly), トゥ↑ー・リィ
+    - 副詞: 真実に、正しく、誠実に、正確に、強調として本当に・実に・まったく
+  - ChatGPT訳: あなたと私、本当に繋がるチャンスを逃したような気がします。本当に繋がるチャンスを。
+- Shadowheart: I think I know what you mean. There's an undeniable rapport, and yet we haven't made time for each other. Time alone.
+  - [undeniable](https://ejje.weblio.jp/content/undeniable), アン・デナ↑ァイ・アボゥ
+    - 形容詞: 否定できない、明白な、非の打ち所がない、素晴らしい
+  - [rapport](https://ejje.weblio.jp/content/rapport), ラ・ポ↑ァ
+    - 名詞: 一致や調和を目的とした関係
+  - Time alone の意味は？
+    - alone の単語の意味は、「孤立して」「一人の」という意味まで
+    - 意訳で、「他の人たちが介在しない、孤立した時間」という意味になっている
+  - ChatGPT訳: あなたの言うことはわかるわ。否定できない関係があるにも関わらず、私たちはお互いのための時間を作っていません。二人だけの時間を。
+- Shadowheart: Easily remedied, if you like. I know a place.
+  - [remedy](https://ejje.weblio.jp/content/remedy), ゥレ↑メティ
+    - 他動詞: 改善する、救済する、治療する
+  - Easily remedied の意味は？
+    - 過去分詞の分詞構文だが、未来のことを意味している
+    - ChatGPTによると、後述の if you like に合わせて未来の内容になっている、こういうこともあるとのこと
+  - ChatGPT訳: もしお望みなら、簡単に解決できるわ。私が知っている場所があるの。
+- Tav: I'd like that. Just lead the way.
+  - ChatGPT訳: それを聞いてうれしい。ただ、先導して。
+- Shadowheart: Not just yet - let's choose our moment. Some quiet night, when the others are asleep and there's no distractions, I'll come for you.
+  - [asleep](https://ejje.weblio.jp/content/asleep), ア・スリ↑ィプ
+    - 形容詞,叙述用法: 眠って、死んだように眠って
+      - 限定用法のときは sleeping を使う
+  - [distraction](https://ejje.weblio.jp/content/distraction), ディスト・ラ↑ァクション
+    - 名詞: 気が散ること、気を散らすこと、注意散漫、気晴らし、娯楽
+  - ChatGPT訳: まだよ - 私たちの瞬間を選びましょう。他の人たちが寝ていて、何の気晴らしもない静かな夜に、あなたのために来るわ。
+  - Approvalが一段階上がっただけで、やたら話が進む
 - Tav: _Leave._
