@@ -1200,10 +1200,41 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
 拷問が終わり、Abdirakが話しかけてきた
 
 - Abdirak: Sweet child, you bore the pain like a true believer.
+  - [bear](https://ejje.weblio.jp/content/bear)
+    - 他動詞: 痛みや苦痛などに耐える
 - Abdirak: I could feel Loviatar's pleasure with every sting of my scourge.
+  - [sting](https://ejje.weblio.jp/content/sting), ステ↑ィン
+    - 名詞: 刺すような痛み、激痛
+  - [scourge](https://ejje.weblio.jp/content/scourge), スカ↑ージ
+    - 名詞: 罰を与えるときに使う鞭、天罰
+  - ChatGPT訳: 私の鞭が振るう度に、ロヴィアターの喜びを感じることができました。
 - Abdirak: I am proud to have served you this penance.
+  - [serve](https://ejje.weblio.jp/content/serve), (サ|ス)↑ァーブ
+    - 他動詞: 人に〜の仕打ちをする
+      - serve IO(=人) DO(=内容)
+  - to have served って完了形のto不定詞？
+    - Yes
+  - [penance](https://ejje.weblio.jp/content/penance), ペ↑ネンス
+    - 名詞: 罪の償いのための苦行、懺悔
+  - ChatGPT訳: あなたにこの懺悔を施したことを誇りに思います。
 - Tav: It was an... interesting experience.
 - Abdirak: Interesting is an understatement, dear one.
+  - [understatement](https://ejje.weblio.jp/content/understatement), アンダァ・ステイトメン
+    - 名詞: 控えめな表現・言葉
 - Abdirak: Loviatar herself found your performance... inspiring. She has deemed you worthy of her blessing.
+  - [find](https://ejje.weblio.jp/content/find), ファーインド
+    - 他動詞: 〜が〜だと認める
+      - find O(=対象) C(=内容)
+  - [performance](https://ejje.weblio.jp/content/performance), (パ|ペ)・フ↑ォオ・マンス
+    - 名詞: 出来栄え、成績、行うこと、上演、機械の性能
+  - [inspiring](https://ejje.weblio.jp/content/inspiring), イン・スパイ↑アリング
+    - 形容詞: 感激させる、人を元気づける、鼓舞する
+  - [deem](https://ejje.weblio.jp/content/deem), デ↑ィーンム
+    - 他動詞: 〜を〜だと思う
+      - deem O(=人) C(=内容)
+  - ChatGPT訳: ロヴィアター自身があなたの行動を...触発的だと見なしました。彼女はあなたを彼女の祝福に値すると判断しました。
 - Abdirak: And on a personal note, thank you. That was positively _divine_.
-  - 純粋に強化になりそうな、瀕死で攻撃能力が強くなる能力を貰えたんだけど、3連続セービングスロー失敗が成功ってこと？
+  - [positively](https://ejje.weblio.jp/content/positively), パ↑・ゼティブリィ
+    - 副詞: 明確に、まったく、断然、積極的に、建設的に
+  - ChatGPT訳: そして個人的なメモとして、ありがとう。それはまさに神聖でした。
+  - 純粋に強化になりそうな能力を貰えたんだけど、3連続セービングスロー失敗が成功ってこと？
