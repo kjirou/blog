@@ -1516,3 +1516,19 @@ CampでVoloへ話しかけた
     - 他動詞: 問題を解決する、タスクを処理する、整理する、分類する
   - ChatGPT訳: しかしながら、私は特定の詳細を調査する必要があります。少し時間をください、そして私はこの小さな問題を解決できるようになります。
   - こいつ、サンプル欲しさに裏切ったりしないよな...?
+
+### 21, Eliasis - 15:08 - Volo, Tav
+
+再び話しかけた
+
+- Volo: Ah, my good fellow!
+- Volo: Quite the cosy set-up you have here. I'll just make myself comfortable - thank you so much.
+- Tav: Has your research turned up anything that might help with this parasite problem?
+  - [turn up](https://en.wiktionary.org/wiki/turn_up#Verb)
+    - 他動詞: 出現させる、検索などで見つける
+- Volo: Not yet, I'm afraid. But my expectations are very, _very_ high!
+  - [expectation](https://ejje.weblio.jp/content/expectation), エクス・ペク・テ↑イション
+    - 名詞: 期待、予想、期待されていること
+  - ChatGPT訳: 残念ながらまだです。でも、私の期待はとても、とても高いです！
+  - 微妙に意味がわからない、あなたの期待が高いことは返答になってない
+- Tav: _Leave._
