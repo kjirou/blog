@@ -1392,3 +1392,127 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
   - [pick someone's brain](https://en.wiktionary.org/wiki/pick_someone%27s_brain#Verb)
     - 自動詞: 知識のある人から情報を求める、質問する
   - ChatGPT訳: 海岸が安全になったら、こっそり逃げるつもりです。もうすぐ会いましょう、友よ！あなたの頭の中を探るのが待ち遠しいです！
+
+### 21, Eliasis - 14:26 - Volo, Tav
+
+CampでVoloへ話しかけた
+
+- Volo: Ah, my good fellow!
+  - [fellow](https://ejje.weblio.jp/content/fellow), フェ↑・ロゥ
+    - 名詞: 親しく呼びかける感じの君、男、やつ
+- Volo: Quite the cosy set-up you have here. I'll just make myself comfortable - thank you so much.
+  - [cosy](https://ejje.weblio.jp/content/cosy)
+    - = cozy
+    - [cozy](https://ejje.weblio.jp/content/cozy), コ↑ォゥ・ズィ
+      - 形容詞: 暖かくて居心地の良い、こぢんまりした、人がくつろいだ・打ち解けた
+      - Assoc: コージーコーナー
+  - [set-up](https://ejje.weblio.jp/content/set-up)
+    - 名詞: 構成、仕組み、組み立て、装置
+  - (the cosy set-up) (you have) here
+    - you have は「あなたが持っているこの」という意味
+  - ChatGPT訳: こちらはかなり居心地の良いセットアップをしている。私がくつろがせていただきます - ありがとうございます。
+- Volo: I was just settling in and reviewing my latest findings. Mind flayers, cultists, and of course, your esteemed company!
+  - [settle in](https://en.wiktionary.org/wiki/settle_in#Verb)
+    - 自動詞: 新しい場所として落ち着く
+    - [settle](https://ejje.weblio.jp/content/settle), セ↑トォ
+      - 自動詞: 決める、定住する、落ち着く
+      - コアイメージ: ふらふら移動していたものが、一定の場所へ落ち着く様
+  - [cultist](https://ejje.weblio.jp/content/cultist), カ(ウ|ル)ティスト
+    - 名詞: 宗教や流行の崇拝者・熱狂者
+  - [esteem](https://ejje.weblio.jp/content/esteem), エス・ティ↑ーンム
+    - 他動詞: 人や人格や物事などを尊重する・尊敬する
+  - ChatGPT訳: ちょうど落ち着いて、私の最新の発見を見直していました。マインドフレイヤー、カルティスト、そしてもちろん、あなた方の高貴な仲間です！
+- Tav: What do you know about mind flayers?
+- Volo: Why, I'm practically an expert. They've _tentacles_, you know. Quite shoking.
+  - [why](https://ejje.weblio.jp/content/why)
+    - 間投詞: 意外なことの表現、おや、まぁ、もちろん
+  - [practically](https://ejje.weblio.jp/content/practically), プラ↑ァクティカリィ
+    - 副詞: ほとんど〜も同然、実際的に、実用的に
+  - ChatGPT訳: ああ、私はほとんど専門家ですよ。触手があるんですよ。とてもショッキングです。
+- Volo: The druid Halsin had some kind of mind flayer specimen in a jar in his quarters. A replica, no doubt, but truly fascinating to see up close.
+  - [specimen](https://ejje.weblio.jp/content/specimen), スペ↑(ス|シ)メン
+    - 名詞: 標本、見本、変わった人
+  - [quarter](https://ejje.weblio.jp/content/quarter), クォ↑・タァ
+    - 名詞: 住居、軍事的な宿営・宿舎
+      - 複数形で用いる
+  - [replica](https://ejje.weblio.jp/content/replica), ゥレ↑・プリカ
+    - 名詞: 複製品、模写、原作者の行う複製、レプリカ
+  - [up close](https://en.wiktionary.org/wiki/up_close#Adverb)
+    - 副詞: とても近くで
+  - ChatGPT訳: ドルイドのハルシンが彼の部屋にマインドフレイヤーの標本を瓶に入れていました。疑いなくレプリカですが、間近で見るのは本当に魅力的でした。
+- Tav: And their parasites? Do you know anything about them?
+- Volo: As a matter of fact, I do. But why do _you_?
+  - [as a matter of fact](https://en.wiktionary.org/wiki/as_a_matter_of_fact#Prepositional_phrase)
+    - 前置詞句: 直前の話題を受けてより新しく驚かれるような情報を持っていることの表現、実際のところは、実は
+    - a matter of fact だけだと「事実の問題として」というそのままの意味になる
+  - ChatGPT訳: 実は、知っていますよ。でも、なぜあなたが知りたいのですか？
+- Tav: A mind flayer planted one of their larvae in my brain.
+  - [larvae](https://ejje.weblio.jp/content/larvae)
+    - larva - larvae
+    - [larva](https://ejje.weblio.jp/content/larva), ラ↑ァバ
+      - 名詞: 幼虫、幼生
+- Volo: That's quite impossible. You'd have undergone ceremorphosis by now.
+  - [undergone](https://ejje.weblio.jp/content/undergone), アン・ヂュァ・ゴーン
+    - undergo - undergone - undergone
+    - [undergo](https://ejje.weblio.jp/content/undergo), アン・ダァ・ゴゥ
+      - 他動詞: 変化などを経験する、検査や手術を受ける、苦難などに耐える
+  - ChatGPT訳: それは全く不可能です。あなたは今頃、セレモルフォーシスを経験しているはずです。
+- Tav: Ceremorphosis? Tell me more.
+- Volo: I can't attest to the specifics. But I do know that not long after insertion, the host (that's you) turns into a mind flayer.
+  - [attest](https://ejje.weblio.jp/content/attest), ア・テ↑ェスト
+    - 他動詞: 証明する、証言する
+  - [specific](https://ejje.weblio.jp/content/specific), スペ・ス↑ィ・フィック
+    - 名詞: 細目、詳細
+      - 複数形で用いる
+  - ChatGPT訳: 具体的なことは言えないけど、挿入後しばらくで、宿主（それがあなた）がマインドフレイヤーに変わることは知っている。
+- Volo: As there's not a tentacle on your head, I can only assume you haven't been infected.
+- Tav: If only your disbelief could alter facts.
+  - [if only](https://en.wiktionary.org/wiki/if_only#Conjunction)
+    - 接続詞: 事実に反することや希望的観測であることを仮定する表現、〜であればいいのに、過去の行為に対する後悔の表現、〜さえしていれば
+  - [disbelief](https://ejje.weblio.jp/content/disbelief), ディス・ビリィフ
+    - 名詞: 信じようとしないこと、疑惑
+  - [alter](https://ejje.weblio.jp/content/alter), ア↑(ウ|ル)・タァ
+    - 他動詞: 部分的に変える、家を改造する、衣服を作り替える、動物を去勢する
+    - 若干人為的・作為的・無理矢理な変更を意味する？
+  - ChatGPT訳: あなたの信じないことが事実を変えられるわけではない。
+- Volo: If what you say were true, you'd _be_ a mind flayer by now.
+- Volo: _You._ Infected by a mind flayer. It's ridiculous...
+  - [ridiculous](https://ejje.weblio.jp/content/ridiculous), ゥリ↑・ディキュラス
+    - 形容詞: ばかげた、ばかばかしい
+    - [ridicule](https://ejje.weblio.jp/content/ridicule), ゥリ↑・ディキュウ
+      - 他動詞: 嘲笑う、笑い者にする、ひやかす
+  - ChatGPT訳: あなたがマインドフレイヤーに感染するなんて、馬鹿げている...
+- Volo: ...isn't it?
+- Tav: Examine me. Find out for yourself.
+  - [examine](https://ejje.weblio.jp/content/examine), イグザ↑ーミン
+    - 他動詞: 調査する、検査する、審査する、考察する
+    - examine は厳しく行う、 research は新しい手法や科学的根拠で行う、 investigate は組織的に行う
+  - なぜ for yourself では、行動する人を示すのに for なのか？
+    - あまりわからない、「あなたにとってその方が良い」という意味も含まれているから？
+- Volo: Perhaps that's for the best. I'd be irresponsible not to debunk such a strange claim.
+  - that's for the best の for の有無で意味は変わる？
+    - for があることで、「最高に至るまでの道として」という意味、 for がないと単に「最高」になる
+  - [irresponsible](https://ejje.weblio.jp/content/irresponsible), イィレ・スパ↑ンシボゥ
+    - 形容詞: 当てにならない、無責任な、責任を負えない
+  - [debunk](https://ejje.weblio.jp/content/debunk)
+    - 他動詞: 人や制度や思想の正体を暴露する・すっぱぬく
+  - ChatGPT訳: たぶんそれが最善です。その奇妙な主張の正体を暴かなければ、私は無責任だと言えるだろう
+- Volo: If I just peer in your eye. I could quickly...
+  - ChatGPT訳: もし私があなたの目をじっと見たなら、私はすぐに...
+- Volo: Oh... my... dear... sweet... GODS!
+  - ChatGPT訳: ああ... 私の... 親愛なる... 神々よ！
+- Tav: I want rid of this thing by any means necessary.
+  - [means](https://ejje.weblio.jp/content/means), ミ↑ィンズ
+    - 名詞: 方法、手段
+      - 複数形も means
+    - 動詞の mean とは語源が異なるよう
+- Volo: If we managed it, we'd have a specimen of incredible rarity on our hands.
+  - ChatGPT訳: もし私たちがそれを管理できたなら、私たちの手には非常に珍しいサンプルがあることになるでしょう。
+- Volo: I'll need to research the particulars, however. Give me a bit of time, and I'll have this little issue sorted.
+  - [particular](https://ejje.weblio.jp/content/particular), ペテ↑ィキュラァ
+    - 名詞: 事の詳細、細目、明細
+    - 形容詞で「特有の、特にこの」の意味を、名詞も受けてそう
+  - [sort](https://en.wiktionary.org/wiki/sort#Verb), ソ↑ォト
+    - 他動詞: 問題を解決する、タスクを処理する、整理する、分類する
+  - ChatGPT訳: しかしながら、私は特定の詳細を調査する必要があります。少し時間をください、そして私はこの小さな問題を解決できるようになります。
+  - こいつ、サンプル欲しさに裏切ったりしないよな...?
