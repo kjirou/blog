@@ -1364,6 +1364,31 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
     - 「暮らすより学ぶ方が良いのはどうして？」、つまり「暮らす方が学ぶより良い」という意味の逆説的な修辞をしている
   - ChatGPT訳: なぜ、計画通りに、友よ。人々の生活の仕方を彼らの中で生活することよりもよく学ぶ方法はどうあるだろうか？
 - Volo: I daresay the experiment has proven most fruitful, too. I'll be happy to share my findings... once we've found somewhere safe to parley.
-- Tav: Go to my camp. We'll talk thre, once we're both safe.
+  - [daresay](https://en.wiktionary.org/wiki/daresay)
+    - = dare say
+  - too の意味は？
+    - 「〜も」の意味だとすると、わからない。他に良いことあったっけ？
+  - [parley](https://ejje.weblio.jp/content/parley), パ↑ァ・レェイ
+    - 自動詞: 談判する、交渉する
+  - ChatGPT訳: 実験は非常に実り多いものだったと言えますね。安全な場所で会話できるようになったら、私の発見を共有するのを楽しみにしています。
+- Tav: Go to my camp. We'll talk there, once we're both safe.
 - Volo: Smashing! Soon, my friend - soon we can share a flagon of something liquid and a tale of derring-do!
+  - [smashing](https://ejje.weblio.jp/content/smashing), スマァーッシィン
+    - 形容詞: 素晴らしい、素敵な、猛烈な
+  - [flagon](https://ejje.weblio.jp/content/flagon), フラ↑ァゲン
+    - 名詞: 柄と口と蓋付きの細い口瓶、ワインを売る大瓶
+  - [derring-do](https://en.wiktionary.org/wiki/derring-do#Noun)
+    - 名詞: 勇敢で冒険的でしばしば無謀な行動、絶望的な時の勇敢な行為
+    - [derring](https://en.wiktionary.org/wiki/derring#Adjective), デリン
+      - 形容詞: 大胆不敵な(=daring)、好戦的な
+  - ChatGPT訳: すばらしい！友よ、もうすぐ - もうすぐ私たちは何かの液体を飲みながら、大胆不敵な冒険の話を共有できるでしょう！
 - Volo: I'll slip away when the coast is clear. See you soon, my friend! I simply can't wait to pick your brain!
+  - [slip away](https://en.wiktionary.org/wiki/slip_away#Verb)
+    - 自動詞: 気づかれずに場所や集まりから離れる
+  - coast の意味は？
+    - わからない、標準的にこの場合は「沿岸、海岸、斜面」のような意味しかなさそう
+  - [simply](https://ejje.weblio.jp/content/simply), ス↑ィン・プリィ
+    - 副詞: 強調の表現、ただただ、まったく、事実上
+  - [pick someone's brain](https://en.wiktionary.org/wiki/pick_someone%27s_brain#Verb)
+    - 自動詞: 知識のある人から情報を求める、質問する
+  - ChatGPT訳: 海岸が安全になったら、こっそり逃げるつもりです。もうすぐ会いましょう、友よ！あなたの頭の中を探るのが待ち遠しいです！
