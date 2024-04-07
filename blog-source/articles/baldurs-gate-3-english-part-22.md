@@ -1337,8 +1337,32 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
     - 自動詞: かなりの時間の間で適切か役に立つ、大いに役立つ
   - ChatGPT訳: そのつもりだよ。こんな場所では、信頼できる透明化のポーションが大いに役立つからね。
 - Volo: We mustn't tarry, but I'd hate for our friendship to end here. Please - won't you meet me, once we've both slipped the goblin yoke?
+  - [tarry](https://ejje.weblio.jp/content/tarry), テ↑ァリィ
+    - 自動詞: 遅れる、手間取る、留まる
+    - 名詞で「タール質・状」
+  - [slip](https://ejje.weblio.jp/content/slip), スリ↑ップ
+    - 他動詞: 犬などが縛ったものを外す、追跡者などを振り切る
+  - [yoke](https://ejje.weblio.jp/content/yoke), ヨ↑ゥク
+    - 名詞: 支配、奴隷などの隷属、一対の牛を首のところでつなぐくびき
 - Tav: A fine mess you landed yourself in. How'd you get caught?
-- Volo: Why, by design, mi friend. How better to learn the ways of a people than to live among them?
+  - A fine mess の fine の意味は？
+    - 直訳で「立派な」だが、皮肉の表現
+  - [land](https://ejje.weblio.jp/content/land), ラ↑ァンド
+    - 他動詞: 人を困った状況に陥らせる
+      - land O(=人) in {状況}
+    - 動詞としてのコアイメージは「上陸する」のよう
+  - you landed yourself (A fine mess you)
+  - ChatGPT訳: あなたが自分で引き起こしたひどい混乱だね。どうやって捕まったの？
+- Volo: Why, by design, my friend. How better to learn the ways of a people than to live among them?
+  - [design](https://ejje.weblio.jp/content/design), デ・ザ↑ァイン
+    - 名詞: 計画、目的、意図、陰謀、下心
+  - [how](https://ejje.weblio.jp/content/how), ハ↑ァウ
+    - 副詞: 理由を尋ねる表現、どうして、なぜ
+  - [than](https://ejje.weblio.jp/content/than), (ザ|ゼ)ァン
+    - 接続詞: 比較対象の副詞節を導いて前者を勝たせる表現、〜よりも
+  - How better ~ than ~ ? の意味は？
+    - 「暮らすより学ぶ方が良いのはどうして？」、つまり「暮らす方が学ぶより良い」という意味の逆説的な修辞をしている
+  - ChatGPT訳: なぜ、計画通りに、友よ。人々の生活の仕方を彼らの中で生活することよりもよく学ぶ方法はどうあるだろうか？
 - Volo: I daresay the experiment has proven most fruitful, too. I'll be happy to share my findings... once we've found somewhere safe to parley.
 - Tav: Go to my camp. We'll talk thre, once we're both safe.
 - Volo: Smashing! Soon, my friend - soon we can share a flagon of something liquid and a tale of derring-do!
