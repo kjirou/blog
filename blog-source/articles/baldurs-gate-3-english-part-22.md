@@ -1,12 +1,12 @@
 ---
 publicId: baldurs-gate-3-english-part-22
-lastUpdatedAt: "2024-03-30 02:12:37+0000"
+lastUpdatedAt: "2024-04-09 02:14:54+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 22冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
-- {概要}
+- Goblin Campを探索中
 
 ## 本編
 
@@ -35,10 +35,13 @@ lastUpdatedAt: "2024-03-30 02:12:37+0000"
       - 否定疑問文と同じ構文だが、どちらになるかは文脈で決まる
     - 疑問文から平叙文になり、肯定と否定が逆転し、強い断定の意味が加わる
     - なお、本文は展開すると Is not that the truth! になる
-  - [now](https://ejje.weblio.jp/content/now), ナ↑ァウ
-    - 接続詞: 今や
+  - [proper](https://ejje.weblio.jp/content/proper), プラ↑ァパァ
+    - 副詞: 完全に、全く
+      - UKの方言
   - [stink](https://ejje.weblio.jp/content/stink), スティンク
     - 自動詞: 悪臭を放つ
+  - [now](https://ejje.weblio.jp/content/now), ナ↑ァウ
+    - 接続詞: 今や
   - ChatGPT訳: 本当にその通りです！ここに落ち着いてからは、本当に臭くなりました。
 - Booyahg Piddle: An' all that ruckus makes it hard to concentrate on reading.
   - [ruckus](https://ejje.weblio.jp/content/ruckus), ゥラ↑カス
@@ -69,7 +72,7 @@ lastUpdatedAt: "2024-03-30 02:12:37+0000"
 - Booyahg Piddle: I had a good chinwag with him though. Interestin' bloke.
   - [chinwag](https://ejje.weblio.jp/content/chinwag), チン・ワァグ
     - 名詞: おしゃべり
-    - chin-wag とも表記する
+    - chin-wag とも表記する。 chin は「顎」、 wag は「揺らす」。
   - ChatGPT訳: でも、彼とはよく話した。面白い奴だった。
 - Tav: That 'bloke' was Volothamp Geddarm, famed chronicler of the Realms.
   - [chronicler](https://ejje.weblio.jp/content/chronicler), クロ↑ー・ニクラァ
@@ -107,6 +110,8 @@ lastUpdatedAt: "2024-03-30 02:12:37+0000"
 - Tav: What's booyahg?
 - Booyahg Piddle: Magic. Them wot the Absolute chooses are brimmin' with it.
   - wot = what
+  - wot は who じゃないの？
+    - ChatGPT曰く、そういうこともあるとのこと
   - [choose](https://ejje.weblio.jp/content/choose), チュ↑ゥーズ
     - 他動詞: 選ぶ、選択する
     - コアイメージ: いくつかの選択の中から好みのものを選ぶ
@@ -130,18 +135,24 @@ lastUpdatedAt: "2024-03-30 02:12:37+0000"
   - [finish](https://ejje.weblio.jp/content/finish), フィ↑ニッシュ
     - 自動詞: ものを使い終わる、〜の用を済ます
       - finish with {名詞} の形、主に完了形になる
-  - ChatGPT訳: まだ終わってないよ！これだけ読むのに一生かかるわ。
+  - [reading](https://ejje.weblio.jp/content/reading), ゥリ↑ーディング
+    - 名詞: 読み物
+  - [last](https://ejje.weblio.jp/content/last), ラ↑ァスト
+    - 他動詞: ものがある期間間に合う
+      - last IO(=人) DO(=期間)
+      - last O(=期間)
+  - ChatGPT訳: 私はまだ終わっていない！ 一生分の読み物がここにはある。
 - \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
 - Tav: _Scan his mind._
 - Intelligence Successful: Tav
 - Booyahg Piddle: _This stuff ain't bad... but somebody who really knows the Absolute should be writin' Her story._
-  - [stuff](https://ejje.weblio.jp/content/stuff)
+  - [stuff](https://ejje.weblio.jp/content/stuff), スタ↑ッ
     - 名詞: たわごと、馬鹿げた話、特定の内容を意味しない漠然としたもの・物質
   - This stuff ain't bad の意味は？
     - Booyahg Piddleは、後に「嘘の山」と表現しているのも合わせて、Voloの原稿については基本的に内容が良くないと思っている
     - 「基本的に良くはないが、完全に悪くもない」くらいの意味
   - ChatGPT訳: この内容悪くない...でも、本当に絶対者を知っている人が彼女の話を書くべきだ。
-- Tav: You're an authority on the Absolute - _you_ should be the one writing abount it.
+- Tav: You're an authority on the Absolute - _you_ should be the one writing about it.
   - [authority](https://ejje.weblio.jp/content/authority), アッ・ソォ↑ーリティ
     - 名詞: 権威者、大家
   - ChatGPT訳: あなたが絶対者の権威です - あなたがそれについて書くべきです。
@@ -164,6 +175,7 @@ lastUpdatedAt: "2024-03-30 02:12:37+0000"
   - [boring](https://en.wiktionary.org/wiki/boring#Adjective), ボ↑ォリング
     - 形容詞: 退屈に苦しんでいる、つまらない、うんざりする
   - ChatGPT訳: 中に入らないで。中はつまらないです。
+  - 正門から入れないと思って、裏口から入ったんだけど、後で裏から回ったら空いてたので実は入れたのかな...
 
 ### 21, Eliasis - 6:03 - Gale, Tav, Karlach
 
@@ -204,9 +216,11 @@ Galeにイベント会話が発生していたので、話しかけた
   - [about](https://ejje.weblio.jp/content/about), ア・バ↑ゥト
     - 前置詞: 〜に取り掛かって、〜に従事して
   - ChatGPT訳: 私はちょうどそれを解決しようとしているかもしれない。
+  - 意味がわからない
 - Gale: You have to know who I was. You have to know who I really am.
   - ChatGPT訳: あなたは私が誰であったかを知らなければなりません。本当の私が誰であるかを知らなければなりません。
 - Gale: What I am is a walking shadow of the promise I once held.
+  - of the promise I once held (the promise)
   - ChatGPT訳: 私はかつて持っていた約束の影を歩むものです。
 - Gale: I'm what one might call a wizard prodigy, who from an early age could not only control the Weave, but compose it, much like a musician or a poet.
   - [prodigy](https://ejje.weblio.jp/content/prodigy), プ(ラ|ロ)↑・デ・ズィ
@@ -214,20 +228,21 @@ Galeにイベント会話が発生していたので、話しかけた
   - [early](https://ejje.weblio.jp/content/early), (ア|エ)↑ーリィ
     - 形容詞: 時間や時期的に早い
   - who from an early age could not only control the Weave は could not なのに「制御できる」という肯定の意味なの？
-    - not only が、一つの副詞で「〜だけではなく」という意味になると考えるのが一番良さそう
-    - それに続いて、よくあるのが not only ~ but (also) の構文
+    - not only が、一つの副詞として「〜だけではなく」という意味
+    - それを前提に、最も良くある形が not only ~ but (also) の構文
     - ただ、Wiktionaryには not only の登録はなく、下記のように but also まで含めた登録はあるがこれには説明がない
       - [not only … but also](https://en.wiktionary.org/wiki/not_only_%E2%80%A6_but_also#Conjunction)
         - 接続詞: （説明がない）
     - では、 only 単体に否定文を肯定的にするとまでの用法があるのかというと、そこまでの機能はなさそう
   - [poet](https://ejje.weblio.jp/content/poet), ポ↑ォエット
     - 名詞: 詩人、歌人、詩心を持った人
+  - I'm what (one ~ (a wizard prodigy)=(who ~)).
   - ChatGPT訳: 私は、若い頃からウィーブを制御するだけでなく、それを構成することができた、魔法使いの天才と呼ばれるかもしれないものです、まるで音楽家や詩人のように。
 - Gale: Such was my skill that it earned me the attention of the mother of magic herself. The Lady of Mysteries. The goddess Mystra.
-  - [that](https://ejje.weblio.jp/content/that)
+  - [that](https://ejje.weblio.jp/content/that), ザ↑ァット
     - 接続詞: 〜なので〜
       - such|so ~ that ~ の形、 that は省略されることもある
-  - [earn](https://ejje.weblio.jp/content/earn)
+  - [earn](https://ejje.weblio.jp/content/earn), (ア|エ)ーン
     - 他動詞: 行為などが人に名声・信用などをもたらす
       - S(=行為など) earn IO(=人) DO(=名声や信用など)
   - the mother of magic herself の herself の意味は？
@@ -254,8 +269,7 @@ Galeにイベント会話が発生していたので、話しかけた
   - [no matter](https://en.wiktionary.org/wiki/no_matter#Preposition)
     - 前置詞: 〜にも関わらず(=regardless of, in spite of)
   - how powerful a wizard we mortals can become の修飾関係は？
-    - how powerful a wizard を we mortals can become が修飾している
-    - 「我々凡人がなることができる程度の強力なウィザード」
+    - 標準的な語順にすると we mortals can become how powerful a wizard
   - ChatGPT訳: ほら、我々凡人がどれだけ強力な魔法使いになれるとしても、ウィーブの表面をかすめること以上のことは決してできないんだ。
 - Gale: Mystra keeps us in check. There are boundaries she doesn't let us cross. Yet every time I was with her, I stood on the precipice, gazing into the wonders that lay beyond.
   - [in check](https://en.wiktionary.org/wiki/in_check#Prepositional_phrase)
@@ -293,7 +307,7 @@ Galeにイベント会話が発生していたので、話しかけた
     - [conceive](https://ejje.weblio.jp/content/conceive), (カ|コ)ン・スィ↑ーブ
       - 動詞: 〜と想像する・考える
   - As inconceivable as it seems to me now の意味は？
-    - 直訳で「今私に思えるほどに信じがたい」
+    - 直訳で「今私にそう見えるほどに信じがたい」
     - 文脈上は「今となっては信じられない」の意味になりそうだが、なぜ上記がそれになるのかはわからなかった
   - ChatGPT訳: 今となっては信じられないかもしれませんが、私は女神と同じベッドを共にしたにもかかわらず、満足できませんでした。だから、代わりに彼女に私が相応しいと証明しようとしました。
 - Gale: We come now to the crux of my folly. Shall I share the story behind it, or would you rather head straight to its sordid finale?
@@ -354,6 +368,10 @@ Galeにイベント会話が発生していたので、話しかけた
     - 他動詞: 人や力や困難に抵抗する・逆らう
   - [onslaught](https://ejje.weblio.jp/content/onslaught), オ↑ォン・スロゥト
     - 名詞: 猛攻、猛攻撃
+    - [slaughter](https://ejje.weblio.jp/content/slaughter), スロ↑ォタァ
+      - 名詞: 虐殺、屠殺
+      - 他動詞: 虐殺する、屠殺する
+    - slaught と言う単語は一般的には無い
   - [fracture](https://ejje.weblio.jp/content/fracture), フラ↑ァ・クチャァ
     - 他動詞: 割る、破壊する、腕や骨などを折る・骨折する
   - [shatter](https://ejje.weblio.jp/content/shatter), シ↑ャー・タァ
@@ -361,15 +379,17 @@ Galeにイベント会話が発生していたので、話しかけた
   - all magic was lost to the mortal realms の to の意味は？
     - 人間界から失ったので、 from とか of じゃないのかと思ったが、「失う」という作用の方向を決めているイメージ
   - Mystra returned の returned は戻す？帰る？
-    - 自動詞で「元の状態に戻す」という意味はあるが、戻す対象は主語
-    - 目的語が省略された形と考えて、他動詞だとしても、「直す」よりは「元の持ち主に返す、返還する」という意味が強い
-    - なので、自動詞の「帰る」が一番合ってそう
+    - 自動詞の「帰る」が一番合ってそう
+    - 他の候補として、自動詞で「元の状態に戻す」という意味はあるが、戻す対象は主語
+    - また、目的語が省略された形と考えて、他動詞だとしても、「直す」よりは「元の持ち主に返す、返還する」という意味が強い
   - ChatGPT訳: ウィーブでさえもその猛攻に耐えることができず、裂けて、そして砕け、ミストラが帰ってくるその日まで、全ての魔法が人間界から失われました。
 - Gale: She restored the Weave, reuniting all its scattered shards. Or so I thought, until in the course of my studies I learned of a book. A Netherese tome in which a piece of the fractured Weave had been sealed beyond her reach.
   - [reunite](https://ejje.weblio.jp/content/reunite), ゥリ・ユナ↑イト
     - 他動詞: 再結合させる、再会する
   - [shard](https://ejje.weblio.jp/content/shard), シャ↑ー
     - 名詞: 破片
+  - until in the course of my studies I learned of a book の構造は？
+    - 標準的な語順に変換すると、 until I learned of a book in the course of my studies
   - Netherese
     - D&D用語,名詞: Nether-eseで「ネザー人」、Netherilに住んでいた人間
       - Ref: https://forgottenrealms.fandom.com/wiki/Netherese
@@ -392,10 +412,13 @@ Galeにイベント会話が発生していたので、話しかけた
     - 名詞: 行為、行動
   - [drape](https://ejje.weblio.jp/content/drape), ヂョレ↑イプ
     - 他動詞: 衣服や掛け布を緩やかにかける・優美にまとう
+    - 自動詞の用法はないが、本文ではそう使われている
   - [romance](https://ejje.weblio.jp/content/romance), ゥロ・マ↑ンス
     - 名詞: 小説的な事件、情事、中世騎士物語、伝記空想冒険小説、恋愛小説、ロマンチックな雰囲気、ロマンス
   - [hitherto](https://ejje.weblio.jp/content/hitherto), ヒ↑トチュゥ
-    - 副詞: 今までは、従来
+    - 副詞: これまで、今までは、従来は
+    - [hither](https://ejje.weblio.jp/content/hither), ヒ↑ター
+      - 副詞: ここへ、こちらへ
   - ChatGPT訳: この原始的な力に満ちたロマンスに包まれた行為が、ミストラを納得させて彼女のこれまで禁じられていた領域に私を手に取り、迎え入れると確信していました。
 - Gale: I was mistaken.
   - [mistaken](https://ejje.weblio.jp/content/mistaken), ミス・テェ↑ィクン
@@ -413,7 +436,7 @@ Galeにイベント会話が発生していたので、話しかけた
   - [quiver](https://ejje.weblio.jp/content/quiver), ク↑ゥィ・バァ
     - 自動詞: 小刻みに揺れる・震える
   - [let in](https://en.wiktionary.org/wiki/let_in#Verb)
-    - 他動詞: 誰かや何かを中へ入れる
+    - 他動詞: 誰かや何かを中へ入れる、招き入れる
   - ChatGPT訳: あなたはゲイルがあなたを受け入れていることに気づくと、オタマジャクシが震えるのを感じます。
 - \*Into the dark.\*
 - \*You see through Gale's eyes, staring down the corridors of a dread memory. A book, bound, then suddenly opened.\*
@@ -462,6 +485,9 @@ Galeにイベント会話が発生していたので、話しかけた
 - Gale: As long I absorb traces of the Weave from potent enough sources, it remains quiet. Were it ever to fully destabilise, however...
   - [potent](https://ejje.weblio.jp/content/potent), ポ↑ゥ・ウント
     - 形容詞: 薬などが効能のある
+  - [remain](https://ejje.weblio.jp/content/remain), ゥリ・メ↑イン
+    - 自動詞: 〜のままである、相変わらず〜である
+      - remain C
   - Were it ever to fully destabilise の構文は？
     - If it were ever to fully destabilise の昔風・文学風の表現
     - また it なのに were なのは仮定法過去の構文、Part 18へ書いた
@@ -479,6 +505,8 @@ Galeにイベント会話が発生していたので、話しかけた
 - Gale: It'd level a city the size of Waterdeep.
   - [level](https://ejje.weblio.jp/content/level), レ↑ボゥ
     - 他動詞: 平にする、ならす、水平にする、一様にする
+  - a city と the size of Waterdeep の名詞句が並んでいる？
+    - おそらくは、間の of が省略されている
   - ChatGPT訳: ウォーターディープのような都市を平らにするだろう。
 - Tav: Is there nothing we can do?
 - Gale: We might chance upon a king's collection of magical artefacts around the corner. We might cross paths with a miracle round the bend. Then again - we might not.
@@ -496,6 +524,9 @@ Galeにイベント会話が発生していたので、話しかけた
     - 辞書やブログ記事を読んで自分なりにまとめると、こう言う感じのよう
       - around は、円や球体の動きの結果が焦点、「周辺に」「迂回して」
       - round は、円や球体の動きそのものが焦点、「円の」「球体の」「回転して」
+  - [then again](https://en.wiktionary.org/wiki/then_again#Adverb)
+    - 副詞: 一方で、別の観点から、よく考えてみると、でもね
+      - 逆説の意味も少しありそう
   - ChatGPT訳: 角を曲がった先で、王の魔法の品々のコレクションに偶然出会うかもしれない。同様に、角を曲がったところで奇跡と偶然に道が交差するかもしれない。しかし、再び言うが、そうでない可能性もある。
 - Gale: All of this... It must feel like a betrayal. Say the word, and we'll part ways.
   - [betrayal](https://ejje.weblio.jp/content/betrayal), ビトレ↑イヤル
@@ -526,21 +557,25 @@ Galeにイベント会話が発生していたので、話しかけた
     - 名詞: 安心、安堵
   - ChatGPT訳: それは...本当に安心だ。ああ、本当に安心したよ！
 - Gale: You truly are a soul that steels my own. From all my new-rallied heart I thank you.
+  - [soul](https://ejje.weblio.jp/content/soul), ソ↑ォゥ
+    - 名詞: 手本、権化、化身
   - [steel](https://ejje.weblio.jp/content/steel), ステ↑ィールウ
     - 他動詞: 鋼を被せる、鋼で刃をつける
   - [rally](https://ejje.weblio.jp/content/rally), ゥラ↑ーリィ
     - 他動詞: 目的のために呼び集める・結集する、精力を奮い起こす
   - [heart](https://ejje.weblio.jp/content/heart), ハ↑ァト
     - 名詞: 勇気、元気、気力
-  - ChatGPT訳: あなたは本当に私の心を強くしてくれる人だ。心から新たに集めた勇気で感謝するよ。
+  - ChatGPT訳: あなたは本当に私の心を鋼のようにする魂です。全ての新しく集まった心から感謝します。
 - Gale: I thank you all. I understand if you stand against me. I'm humbled if you stand with me. Either way, I will do my best not to let you down.
   - [humble](https://ejje.weblio.jp/content/humble), ハ↑ンボゥ
     - 他動詞: 謙虚にする
-  - [let down](https://en.wiktionary.org/wiki/let_down#Verb)
-    - 他動詞: 失望させる
+  - [either way](https://en.wiktionary.org/wiki/either_way#Adverb)
+    - 副詞: 考えられる2つの状況の内で何が起こっても、どちらにせよ、いずれにせよ
   - I understand if you stand against me. I'm humbled if you stand with me. の意味は？
     - わからない
     - 直訳通りの意味以外はなさそう
+  - [let down](https://en.wiktionary.org/wiki/let_down#Verb)
+    - 他動詞: 失望させる
   - ChatGPT訳: 皆に感謝するよ。もし君たちが私に反対しても分かる。もし君たちが私と一緒に立ってくれたら感謝する。どちらにせよ、皆をがっかりさせないように最善を尽くす。
 - Gale: I stand at a precipice, but if you do not give up hope, neither shall I. I'll fight, I'll resist - as long as I can.
   - [neither](https://ejje.weblio.jp/content/neither)
@@ -551,6 +586,8 @@ Galeにイベント会話が発生していたので、話しかけた
       - 主語が1人称のときのみ
   - ChatGPT訳: 私は崖っぷちに立っているが、もし君たちが希望を捨てないなら、私もそうしない。戦うよ、抵抗する - できる限り。
 - Gale: Now - even I am tired of the sound of my own voice. Let us venture forth.
+  - even の意味は？
+    - 通常なら問題ないはずの自分の声すら疲れる、という強調
   - [venture](https://ejje.weblio.jp/content/venture), ベ↑ンチュァ
     - 自動詞: 思い切って進む、危険を冒して進む
   - [forth](https://ejje.weblio.jp/content/forth), フ↑ォァス
@@ -562,7 +599,9 @@ Galeにイベント会話が発生していたので、話しかけた
 
 Goblin Camp内の本拠地に裏口から入り、隠れながら探索中。
 
-Goblinの見張りにSneak Attackをしたら失敗して、見つかった
+Goblinの見張りにSneak Attackをしたら失敗して、見つかった。
+
+なお、隠れる必要はなかった模様。
 
 - \*You're being arrested for assault. Judging by the look on this guard's face, you're getting off lightly.\*
   - [arrest](https://ejje.weblio.jp/content/arrest), ア・ゥレ↑スト
@@ -601,7 +640,7 @@ Humanを磔にして拷問しようとしている、Goblinの二人組へ話し
 - Tav: Why are you torturing him?
   - [torture](https://ejje.weblio.jp/content/torture), ト↑ォー・チャー
     - 他動詞: 拷問にかける、肉体的や精神的に非常な苦痛を与える
-    - Assoc: トーチャー・トルチュールって torture の英語読みとフランス語読みだったんだ
+    - Assoc: トーチャー・トルチュールは torture の英語読みとフランス語読み
 - Torturer Spike: The git snuck in 'ere with 'is mates, lookin' for some forgotten thing. Said they ran to some kinda grove.
   - [snuck](https://ejje.weblio.jp/content/snuck), スナァック
     - sneak - sneaked | snuck - sneaked | snuck
@@ -627,7 +666,7 @@ Humanを磔にして拷問しようとしている、Goblinの二人組へ話し
 - Torturer Spike: Bah. Take 'im. Won't do ya any good. 'E just... screams.
   - [bah](https://en.wiktionary.org/wiki/bah#Interjection), バァッ
     - 間投詞: 軽蔑や嫌悪や機嫌の悪さの表現、ふん、ばかな
-  - [do](https://ejje.weblio.jp/content/do)
+  - [do](https://ejje.weblio.jp/content/do), ドュゥ
     - 他動詞: 〜に利益や損害を与える・もたらす
       - do IO(=人) DO(=内容)
   - ChatGPT訳: ふん、持ってけ。どうせ何の役にも立たない。奴はただ…叫ぶだけだ。
@@ -658,6 +697,7 @@ Goblin達が去った後に、捕虜のHumanへ話しかけた
 - Liam: B-Brian had instructions, but... the g-goblins got him. They - they said they'd e-eat him...
   - [instruction](https://ejje.weblio.jp/content/instruction), イ↑ンスト・ラクション
     - 名詞: 命令、指図、教え
+  - they'd = they would
   - ChatGPT訳: ブライアンが指示を持っていたけど... ゴブリンに襲われたんだ。彼らは彼を食べると言った...
 - Liam: P-please, these shackles... I... I don't want to die!
   - [shackle](https://ejje.weblio.jp/content/shackle), シ↑ャッコォ
@@ -754,6 +794,8 @@ Goblin達が去った後に、捕虜のHumanへ話しかけた
   - にしても、あまり前文とのつながりはわからない
   - ChatGPT訳: 当時彼女はミストラルと呼ばれていました。それがどのような感覚だったか想像してみてください。神であること。自分が触れられない存在であると知ること。間違っているということ。
 - Gale: As Karsus aimed his spell at her, she began to unravel, and with her, the entire Weave.
+  - aimed his spell at her の aimed の意味は？
+    - aim の単語の意味としては「狙う」しかないが、ここでは「撃つ」という意味で使われていそう
   - [unravel](https://ejje.weblio.jp/content/unravel), アン・ラ↑ーボォ
     - 自動詞: 編み物などがほどける・ほぐれる
   - ChatGPT訳: カーサスが彼女に向けて呪文を狙い定めた時、彼女は解け始め、彼女と共に、全てのウィーブも解け始めた。
@@ -857,6 +899,11 @@ Galeのことの感想を聞くために、話しかけた。
   - [begrudge](https://ejje.weblio.jp/content/begrudge), ビ・クラ↑ァチ
     - 他動詞: 出し渋る
       - begrudge IO(=対象) DO(=もの)
+    - 他動詞: 〜するのを嫌がる
+      - begrudge Verb-ing
+  - I'm not normally one to begrudge someone their secrets の意味は？
+    - begrudge が「出し渋る」だと文意がおかしく、「嫌がる」だと SVOO で使えない
+    - 両方が合わさって「出し渋ってたのを嫌がる」になっているか、「嫌がる」を SVOO に活用しているか
   - ChatGPT訳: つまり、Galeはずっと何らかの魔法の爆弾を胸に抱えて歩いていたということですか？普段は人の秘密を咎めることはありませんが、それは私が知るべきことです...
 - Tav: I want to talk about all that's happened to us.
 - Shadowheart: Fine. What's on your mind?
@@ -887,8 +934,9 @@ Galeのことの感想を聞くために、話しかけた。
 - Shadowheart: I suppose we'd go our separate ways - not a slight on your company, of course.
   - [separate](https://ejje.weblio.jp/content/separate), セ↑・パ・レェイト
     - 形容詞,限定用法: 別々の、個々の
-  - [slight](https://ejje.weblio.jp/content/slight)
+  - [slight](https://ejje.weblio.jp/content/slight), スラ↑イト
     - 名詞: 軽視、軽蔑
+    - 形容詞で「取るに足らない、くだらない」
   - ChatGPT訳: もちろん、あなたの付き合いを軽んじているわけではありませんが、私たちはおそらく別々の道を歩むことになるでしょう。
 - Tav: No reason for us to not stay together if we get on well.
   - to不定詞の否定として、 not の位置がおかしくない？
@@ -910,7 +958,7 @@ Galeのことの感想を聞くために、話しかけた。
 - Shadowheart: Let's just say it's a very personal, very private acquaintance.
   - [let's say](https://en.wiktionary.org/wiki/let%27s_say)
     - 慣用句: 仮説の導入の表現、〜と言っておく、〜ということにしておく
-    - どちらかというと let's just say で使割れることの方が多そう
+    - let's just say と just 込みで使うことの方が多そう
   - ChatGPT訳: それは非常に個人的で、非常に私的な知人だと言っておきましょう。
 - Tav: How am I holding up in your estimations?
   - [hold up](https://en.wiktionary.org/wiki/hold_up#Verb)
@@ -922,7 +970,7 @@ Galeのことの感想を聞くために、話しかけた。
   - We're beyond me merely liking you の構造は？
     - あまりわからない
     - 文意上は We're beyond (me merely liking you) と言う区切り方が適切そうだが、 me が目的格のまま文を埋め込んでいる理由がわからない
-    - ChatGPTによると、口語的な表現としてあるとのこと
+    - ChatGPTによると、口語的な表現として、 me が I の意味になる状況もあるとのこと
   - [owing](https://ejje.weblio.jp/content/owing), オ↑ゥイング
     - 形容詞,叙述用法: 借りとなっていて、未払いで
     - [owe](https://ejje.weblio.jp/content/owe), オ↑ォゥ
@@ -933,8 +981,12 @@ Galeのことの感想を聞くために、話しかけた。
 - Shadowheart: You already know my biggest secrets. What more can you ask?
 - Tav: What drew you to Shar worship?
 - Shadowheart: She took me in when no one else would. Without her, I wouldn't be alive.
+  - in の目的語は？
+    - ChatGPTによると、 in her home などの目的語が省略されているとのこと
   - [take](https://ejje.weblio.jp/content/take), テ↑イク
     - 他動詞: 受け取る、受け入れる
+  - [alive](https://ejje.weblio.jp/content/alive), ア・ラ↑ァイブ
+    - 形容詞,叙述用法: 生きて、活動して、活き活きした
   - ChatGPT訳: 他に誰もいなかったとき、彼女が私を受け入れた。彼女がいなければ、私は生きていない。
 - Shadowheart: She is my Mother. She nurtures me, cares for me, loves me.
   - [nurture](https://ejje.weblio.jp/content/nurture), ナ↑ァチュア
@@ -1011,6 +1063,9 @@ Galeのことの感想を聞くために、話しかけた。
     - ChatGPTによると、後述の if you like に合わせて未来の内容になっている、こういうこともあるとのこと
   - ChatGPT訳: もしお望みなら、簡単に解決できるわ。私が知っている場所があるの。
 - Tav: I'd like that. Just lead the way.
+  - I'd = I would
+  - I'd like that は would と like 両方が願望を意味するので、冗長ではない？
+    - would は like の意味をほどほどの強度に落とす役割になっている
   - ChatGPT訳: それを聞いてうれしい。ただ、先導して。
 - Shadowheart: Not just yet - let's choose our moment. Some quiet night, when the others are asleep and there's no distractions, I'll come for you.
   - [asleep](https://ejje.weblio.jp/content/asleep), ア・スリ↑ィプ
@@ -1212,8 +1267,8 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
   - [serve](https://ejje.weblio.jp/content/serve), (サ|ス)↑ァーブ
     - 他動詞: 人に〜の仕打ちをする
       - serve IO(=人) DO(=内容)
-  - to have served って完了形のto不定詞？
-    - Yes
+  - to have served you の構造は？
+    - to have served が完了形のto不定詞
   - [penance](https://ejje.weblio.jp/content/penance), ペ↑ネンス
     - 名詞: 罪の償いのための苦行、懺悔
   - ChatGPT訳: あなたにこの懺悔を施したことを誇りに思います。
@@ -1245,7 +1300,7 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
 
 - Gribbo: Don't go botherin' my pigeon! He's _mine_.
   - ChatGPT訳: 私のハトを邪魔するなよ！彼は私のものだ。
-  - 最初に会ったときに、Tavと会ったVoloが混乱して歌えなくなったことを前提にしている
+  - Voloとここで再会した時に、Voloが混乱して歌えなくなったことを前提にしている
 - Tav: So I see. Do you have plans for this 'pigeon'?
   - ChatGPT訳: そう見えるね。その「ハト」に何か計画があるのかい？
 - Gribbo: Keep him safe. Listen to him coo. 'Til I gets hungry or some such.
@@ -1266,6 +1321,8 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
 - Gribbo: Ehh, he don't mind. Keeps him safe from me mates! Raids make 'em rabid.
   - Ehh の意味は？
     - eh は辞書にあるが、この状況と合わなく、わからなかった
+  - me mates の me がおかしい？
+    - 口語や方言では me が my の意味で使われることもあるらしい
   - [rabid](https://ejje.weblio.jp/content/rabid), ラ↑ァビット
     - 形容詞: 狂気じみた、凶暴な、狂犬病の
   - ChatGPT訳: えー、彼は気にしてないさ。仲間たちから守るためだ！襲撃は彼らを狂わせるからな。
@@ -1274,6 +1331,8 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
   - 前の文とのつながりが、あまりわからない
 - \*The mark glows, but you feel nothing in response. Your illithid power is beyond reach until you rest.\*
 - Tav: He looks weak. Sick, even. He won't last long in there.
+  - [long](https://ejje.weblio.jp/content/long), ロ↑ォング
+    - 副詞: 長く
   - ChatGPT訳: 彼は弱っている。病気でもあるようだ。その中にいたら長くはもたない。
 - Charisma (Deception) Successful: Tav
 - Gribbo: Take him for a jog, why don't ya. And don't let the lads snatch him up. No tellin' what they'll do to him.
@@ -1281,6 +1340,8 @@ AbdirakがTavを、さらにさらに殴りながら話しかけてきた
     - 名詞: 人や馬のゆるやかな速歩、ジョギング
   - [snatch](https://ejje.weblio.jp/content/snatch), スナ↑ァッチ
     - 他動詞: 強奪する、かっぱらう、ひったくる、人を誘拐する
+  - No tellin' の意味は？
+    - 「言うことがない、できない」、つまり「予測できない」
   - ChatGPT訳: 散歩に連れて行ってやれよ。そして、仲間たちが奪い取らないようにな。彼らが何をするか分からないからな。
 - Gribbo: Bring him back when he's all tuckered out.
   - [tucker out](https://en.wiktionary.org/wiki/tucker_out)
@@ -1424,7 +1485,7 @@ CampでVoloへ話しかけた
   - ChatGPT訳: ちょうど落ち着いて、私の最新の発見を見直していました。マインドフレイヤー、カルティスト、そしてもちろん、あなた方の高貴な仲間です！
 - Tav: What do you know about mind flayers?
 - Volo: Why, I'm practically an expert. They've _tentacles_, you know. Quite shoking.
-  - [why](https://ejje.weblio.jp/content/why)
+  - [why](https://ejje.weblio.jp/content/why), ワ↑ァイ
     - 間投詞: 意外なことの表現、おや、まぁ、もちろん
   - [practically](https://ejje.weblio.jp/content/practically), プラ↑ァクティカリィ
     - 副詞: ほとんど〜も同然、実際的に、実用的に
@@ -1502,6 +1563,8 @@ CampでVoloへ話しかけた
 - Volo: Oh... my... dear... sweet... GODS!
   - ChatGPT訳: ああ... 私の... 親愛なる... 神々よ！
 - Tav: I want rid of this thing by any means necessary.
+  - I want (to get) rid of
+    - UKの口語上の非公式な省略
   - [means](https://ejje.weblio.jp/content/means), ミ↑ィンズ
     - 名詞: 方法、手段
       - 複数形も means
