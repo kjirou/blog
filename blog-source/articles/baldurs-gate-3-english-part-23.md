@@ -40,3 +40,57 @@ Selûneの石像を見たShadowheartがつぶやいた
     - 名詞の用法はない
     - Assoc: 昔あったWebサービスのLinger
   - ChatGPT訳: 大袈裟ではなく、そうね。必要以上にここには留まらない方がいい。
+
+### 21, Eliasis - 15:58 - Tracker Azak
+
+大広間に居るGoblinへ話しかけた
+
+- Tracker Azak: Leave me alone - ain't got time for chatter.
+  - ain't = have not
+  - [chatter](https://ejje.weblio.jp/content/chatter), チ↑ャートァ
+    - 名詞: くだらないおしゃべり
+      - chat と異なり、悪い意味
+
+### 21, Eliasis - 16:00 - Booyahg Shekt
+
+大広間に居るGoblinへ話しかけた
+
+- Booyahg Shekt: How you doin?
+  - doin = doing
+  - How (are) you doin?
+    - 現代でも are は省略されることがある
+  - how are you doing の意味は？
+    - 挨拶の意味の慣用句だが、似たような句がいくつかある
+      - how are you: 知り合いに使う、字面上は現時点の体調を確認する意味
+      - how are you doing: 知り合いに使う、字面上は最近何をしているかを確認する意味
+      - how do you do: 公式で使う固い感じ、字面上は最近何をしているかを確認する意味、初めましての挨拶に使う
+
+### 21, Eliasis - 16:01 - Warlock Greez, Tav
+
+大広間に居るGoblinへ話しかけた
+
+- Warlock Greez: Ain't polite to stare, worm-wart. If you ain't got the guts to get branded, clear off.
+  - [polite](https://ejje.weblio.jp/content/polite), パラィト
+    - 形容詞: 礼儀正しい、上品な、教養のある
+  - [wart](https://ejje.weblio.jp/content/wart), ウ↑ォッツ
+    - 名詞: いぼ、木のこぶ
+  - ChatGPT訳: じろじろ見るのは礼儀がなってないぞ、虫ケラ。刻印される勇気がないなら、どっか行け。
+- Tav: I'll be marked soon, don't worry.
+- Warlock Greez: Priestess'll sort you out. Only thing she likes more than prayin' is burnin' folk...
+  - ChatGPT訳: 僧侶がお前を世話するだろう。彼女が祈ることよりも好きなのは、人を焼くことだからな…
+
+### 21, Eliasis - 16:04 - Devout Muzul
+
+大広間に居るGoblinへ話しかけた
+
+### 21, Eliasis - 16:05 - Booyahg Shekt
+
+大広間に居るGoblinへ話しかけた
+
+### 21, Eliasis - 16:05 - Devout Mrak
+
+大広間に居るGoblinへ話しかけた
+
+### 21, Eliasis - 16:07 - Devout Muzul
+
+大広間に居るGoblinへ話しかけた
