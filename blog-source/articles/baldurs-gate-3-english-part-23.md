@@ -172,16 +172,45 @@ Selûneの石像を見たShadowheartがつぶやいた
     - 他動詞: もつれさせる、人を論争や混乱に巻き込む、事が紛糾する
   - ChatGPT訳: 彼女はあなたの心を探り、自分の思考であなたの思考を絡ませます。馴染みのある感覚です - 彼女もまた、寄生生物を持っています。
 - \*Darkness seems to swallow the temple, leaving you with a vision of the goblin priestess, receiving instruction from a handsome young man. One of the Chosen...\*
-  - ChatGPT訳:
+  - [swallow](https://ejje.weblio.jp/content/swallow), スワ↑ァーロゥ
+    - 他動詞: ぐっと飲み込む、波や群衆が何かを飲み込む
+  - ChatGPT訳: 闇が寺院を飲み込み、あなたにはゴブリンの女祭司が、選ばれし若き美男子から指示を受けているビジョンが残されます。
 - \*The vision dissolves away. You stand before the goblin priestess in the temple once again.\*
-  - ChatGPT訳:
+  - [dissolve](https://ejje.weblio.jp/content/dissolve), ディ・ザ↑ォブ
+    - 他動詞: 物質や物体を分解する
 - Tav: _Sever the connection._
-- \*Your mind brush against one another but are swiftly parted.\*
-  - ChatGPT訳:
-- True Soul Gut:
-- True Soul Gut:
-- Tav:
-- True Soul Gut:
-- True Soul Gut:
-- Tav:
-- True Soul Gut:
+  - [sever](https://ejje.weblio.jp/content/sever), セ↑ヴァ
+    - 他動詞: 無理矢理切断する、切り離す
+- \*Your minds brush against one another but are swiftly parted.\*
+  - [brush](https://ejje.weblio.jp/content/brush), ブラ↑ァッシュ
+    - 他動詞: さっと触れる、ブラシをかける
+  - ChatGPT訳: あなたたちの心が触れ合いますが、すぐに引き離されます。
+- True Soul Gut: Don't wanna get intimate in front of the novices? Fair enough. Got some weird shadows in your head.
+  - [novice](https://ejje.weblio.jp/content/novice), ナ↑ァヴィス
+    - 名詞: 初心者、未熟者、新信者
+  - [fair enough](https://en.wiktionary.org/wiki/fair_enough#Interjection)
+    - 間投詞: 誰かの話を止めるときの表現、けっこうだ
+  - ChatGPT訳: 新参者の前で親しげに振る舞いたくないの？それはそれでいい。頭の中には変な影がちらついてるね。
+  - 新参者って誰を指しているのだろう？パーティの仲間か他のGoblinか
+- True Soul Gut: Maybe I can help with that. Us True Souls got to look out for one another.
+  - [look out for someone](https://en.wiktionary.org/wiki/look_out_for_someone)
+    - 他動詞: 見守る、世話をする、保護する
+  - ChatGPT訳: その問題、僕が何とかできるかもしれないね。我々True Soulは互いに気を配らなくちゃ。
+- Tav: There's a creature inside my head. Can you help with that?
+- True Soul Gut: A _creature_? There's definitely something rotten in there.
+  - [definitely](https://ejje.weblio.jp/content/definitely), デ↑ェフィ・ニトリィ
+    - 副詞: 明確に、はっきりと、（否定の時に）絶対にない・断じてない
+    - [definite](https://ejje.weblio.jp/content/definite), デ↑ェフィ・ニィト
+      - 形容詞: 明確に限定された、一定の、確定的な
+  - [rotten](https://ejje.weblio.jp/content/rotten)
+    - 形容詞: とても嫌な、不愉快な、腐った
+  - ChatGPT訳: 生き物？間違いなくそこには何か腐ったものがあります。
+- True Soul Gut: Let me take a closer look. I ain't seen anything like this before.
+- Tav: Fine. Do what you can.
+  - ChatGPT訳: 分かりました。できることをしてください。
+- True Soul Gut: Let's deal with this in my chapel. It's private. Don't want this lot interfering with True Soul business.
+  - [deal with](https://en.wiktionary.org/wiki/deal_with#Verb)
+    - 他動詞: 誰かや何かに関して行動を起こす、処理する(=handle)
+  - [interfere](https://ejje.weblio.jp/content/interfere), イン・テュァ・フィァァ
+    - 自動詞: 人や物事が妨げる・邪魔をする、干渉する、口出しする
+  - ChatGPT訳: 私の礼拝堂で処理しましょう。ここはプライベートです。他の人たちがTrue Soulの事業に干渉するのは避けたいので。
