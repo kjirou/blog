@@ -254,4 +254,37 @@ Selûneの石像を見たShadowheartがつぶやいた
 - Roah Moonglow: No judgement, no right and wrong - just good deals and bad. That a problem for you?
   - ChatGPT訳: 判断も善悪もない - ただ良い取引と悪い取引があるだけだ。それが問題ですか？
 - Tav: No problem at all, Let me see your wares.
+  - at all の意味は？
+    - 慣用句の副詞としても存在しているが、そちらは「少しは」のような逆っぽい意味もある
+    - 本件では、単語それぞれの意味から捉えてよさそう
 - Roah Moonglow: Pleasure.
+  - どちらかと言うと、品揃えは良くなかった
+
+### 21, Eliasis - 17:29 - Roah Moonglow, Tav
+
+再び話しかけた
+
+- Roah Moonglow: Need something else?
+- Tav: _Leave._
+
+### 21, Eliasis - 17:30 - Yerle
+
+ある扉の門番をしているElf？へ話しかけた
+
+- Yerle: Nothing for you in there, mate.
+
+### 21, Eliasis - 17:30 - Erna
+
+ある扉の門番をしているElf？へ話しかけた
+
+- Yerle: Wouldn't go in there, 'less you fancy blowing your bones all the way to Baldur's Gate.
+  - Wouldn't の意味は？
+    - 願望の would の否定で「〜したいと思わない」、つまり「（お前は）そこへ入ろうと思わない」の意味
+    - 転じて、強い拒絶や禁止の意味
+  - 'less = unless
+  - [fancy](https://ejje.weblio.jp/content/fancy), ファァンスィ
+    - 他動詞: 〜することを好む
+      - fancy Verb-ing
+  - all the way の意味は？
+    - 「全ての道のりを」と言う意味、「バルダーズ・ゲートまで」を大仰に言ったよう
+  - ChatGPT訳: バルダーズ・ゲートまで骨を吹き飛ばされたくないなら、入るべきじゃないよ。
