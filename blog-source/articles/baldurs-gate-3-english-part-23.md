@@ -352,10 +352,26 @@ Selûneの石像を見たShadowheartがつぶやいた
   - last raid out の out の意味は？
     - out は「出来事の完了、終了時」の意味の副詞、なお、 raid は名詞
   - ChatGPT訳: このめちゃくちゃな状況見た？前回の襲撃で、フレーミング・フィストのヤツが俺の腕から大きな塊を奪ったんだ。
-- Tav: You're lucky to be alive. The Baldurian militia are firece warriors.
+- Tav: You're lucky to be alive. The Baldurian militia are fierce warriors.
+  - [militia](https://ejje.weblio.jp/content/militia), マ・リ・シャァ
+    - 名詞: 市民兵、民兵
+  - [fierce](https://ejje.weblio.jp/content/fierce), フィ↑ゥス
+    - 形容詞: 獰猛な、凶暴な、激しい、猛烈な
 - Sharp-Eye Nass: Fiercest thing about 'em was the wailing, 'til we put an end to it.
+  - [wail](https://ejje.weblio.jp/content/wail), ウェ↑ィァォ
+    - 自動詞: 痛みや苦しみで声を上げて泣き叫ぶ、泣いて悲しむ、不平を言う
   - ChatGPT訳: 熾烈だったのは彼らの悲鳴だけだった。それを我々が終わらせるまではな。
 - Sharp-Eye Nass: Ain't none can stand against us now. Not with the Absolute in our corner.
+  - 構文は？
+    - 大枠は、文頭の not が、否定ではなく強調の肯定の意味を示す構文
+      - 日本語で文法を探しても出てこない
+      - not ではなくて、 little とか否定的な単語も含むのかもしれない
+      - 2文続くことが多い
+    - Ain't none ではなく Not none ではないの？
+      - ain't none が口語でよく使われる組み合わせな一方で、 not none はないとのこと
+      - 通常の ain't の意味とも違いそうで、ChatGPT 曰く、 not の強調を除去すると No one can stand against us now になるとのこと
+  - the Absolute in our corner の corner の意味は？
+    - corner の単語の意味としては「角、隅」と言う意味しかない、「側、立場」のような意味なのは比喩表現
   - ChatGPT訳: もう誰も私たちに立ち向かうことはできない。絶対者が私たちの味方にいるからね。
 
 ### 21, Eliasis - 18:14 - Sharp-Eye Neem
