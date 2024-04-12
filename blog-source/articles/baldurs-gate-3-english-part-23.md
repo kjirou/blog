@@ -312,3 +312,52 @@ Selûneの石像を見たShadowheartがつぶやいた
     - 名詞: 穴、うつろ
     - 形容詞で「うつろの、凹んだ、こけた、音や声がうつろな・こもった」
   - ChatGPT訳: 血の匂い。命の匂い。それは大きな空洞の下の死の匂いとは異なる。
+
+### 21, Eliasis - 17:51 - Sharp-Eye Eef
+
+ある部屋に集まって会話をしている3人組のGoblinの一人へ話しかけた。
+
+その後に、それぞれのGoblinは離れて、それぞれの持ち場へ移動した。
+
+- Sharp-Eye Eef: Watch y' step down by the pens - worgies been getting fat on your kind lately.
+  - y' = your
+  - [watch one's step](https://en.wiktionary.org/wiki/watch_one%27s_step)
+    - 自動詞: 慎重に動く
+    - [watch](https://ejje.weblio.jp/content/watch), ワ↑ァーチ
+      - 他動詞: 注意する、気を付ける
+    - step には「足元」という意味はない
+  - [down](https://ejje.weblio.jp/content/down)
+    - 前置詞: 下方に
+  - down by the pens の意味は？
+    - 「下方にある囲いの近く」なのか「囲いの近くの下方」なのかがわからない
+  - [pen](https://ejje.weblio.jp/content/pen), ペ↑ン
+    - 名詞: 小さな囲い、動物を入れる檻
+      - pigpens など、複合語になることもある
+  - [lately](https://ejje.weblio.jp/content/lately), レ↑イト・リィ
+    - 副詞: 最近、近頃
+    - [late](https://ejje.weblio.jp/content/late), レ↑イト
+      - 形容詞: 遅れた、遅い、末期の、先の、前の、近年の
+      - 意味が多様
+  - ChatGPT訳: 囲いの近くでは足元に気をつけて。最近、あなたたちの仲間でウォーギーが太っているよ。
+
+### 21, Eliasis - 17:55 - Sharp-Eye Nass, Tav
+
+ある部屋に集まって会話をしている3人組のGoblinの一人へ話しかけた
+
+- Sharp-Eye Nass: Seen this mess? Flamin' Fist thuggo took a chunk outta me arm last raid out.
+  - thuggo = thug を愛嬌良く呼んだ形
+  - outta = out of
+  - me arm の意味は？
+    - me は my の意味で、非公式な口語上の風習
+  - last raid out の out の意味は？
+    - out は「出来事の完了、終了時」の意味の副詞、なお、 raid は名詞
+  - ChatGPT訳: このめちゃくちゃな状況見た？前回の襲撃で、フレーミング・フィストのヤツが俺の腕から大きな塊を奪ったんだ。
+- Tav: You're lucky to be alive. The Baldurian militia are firece warriors.
+- Sharp-Eye Nass: Fiercest thing about 'em was the wailing, 'til we put an end to it.
+  - ChatGPT訳: 熾烈だったのは彼らの悲鳴だけだった。それを我々が終わらせるまではな。
+- Sharp-Eye Nass: Ain't none can stand against us now. Not with the Absolute in our corner.
+  - ChatGPT訳: もう誰も私たちに立ち向かうことはできない。絶対者が私たちの味方にいるからね。
+
+### 21, Eliasis - 18:14 - Sharp-Eye Neem
+
+ある部屋に集まって会話をしている3人組のGoblinの一人へ話しかけた
