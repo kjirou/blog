@@ -214,3 +214,44 @@ Selûneの石像を見たShadowheartがつぶやいた
   - [interfere](https://ejje.weblio.jp/content/interfere), イン・テュァ・フィァァ
     - 自動詞: 人や物事が妨げる・邪魔をする、干渉する、口出しする
   - ChatGPT訳: 私の礼拝堂で処理しましょう。ここはプライベートです。他の人たちがTrue Soulの事業に干渉するのは避けたいので。
+
+### 21, Eliasis - 17:06 - Roah Moonglow, Tav
+
+おそらくはHalflingの？商人へ話しかけた
+
+- Roah Moonglow: That the jingle of coin I hear? You've timed it well, my friend.
+  - [time](https://ejje.weblio.jp/content/time), タ↑ァーイム
+    - 他動詞: 良い時機に合わせる、頃合いを見計らって行う
+  - ChatGPT訳: それは銭の音かな？タイミングがいいね、友よ。
+- Roah Moonglow: Already turned quite the profit today, so I'm feeling generous.
+  - [turn a profit](https://en.wiktionary.org/wiki/turn_a_profit)
+    - 自動詞: お金や物を得る、投資から収益を上げる
+    - turn が「変化する」で、「何らかの工夫や努力が収益へ変化した」という意味
+  - [generous](https://ejje.weblio.jp/content/generous), ジェ↑ネラス
+    - 形容詞: 気前の良い、寛大な
+  - ChatGPT訳: 今日はもうかなりの利益を上げたから、気前がいい気分だよ。
+- Intelligence (History) Successful: Tav
+- Not Found
+- Tav: You're no normal trader, are you? You're part of the Black Network.
+  - Zhentarim, ゼンタリム
+    - D&D用語,名詞: Faerûnにある大きな傭兵会社・商社、以前はBlack Networkと呼ばれていた、過去は悪事を生業としてきたが近年は合法的な活動を主としている
+      - Ref: https://forgottenrealms.fandom.com/wiki/Zhentarim
+  - ChatGPT訳: あなたは普通の商人ではないですよね？あなたはブラック・ネットワークの一員です。
+- Roah Moonglow: Half-right, sharp-eyes - a Zhent is a normal trader. Just a matter of what's for sale.
+  - ChatGPT訳: 半分正解だ、鋭い目をしているな - ゼントは普通の商人だ。ただ何を売るかが問題なだけだ。
+- Roah Moonglow: Weapons and other... _exotic_ goods, true enough. But most of all, we offer discretion.
+  - [exotic](https://ejje.weblio.jp/content/exotic), エ(ギ|グ)・ゾ↑ォーク
+    - 形容詞: 外来の、異国風の
+    - これが斜体になっているのはなぜだろう？「異界の危ない品」のような意味？
+  - true enough の意味は？
+    - 「相手の言ったことを少なくとも一部認める」という意味、イディオムとまでは言えなさそう
+    - 単語の意味としては、おそらく、形容詞「事実に即して正しい」と副詞「必要なだけ」の意味
+    - 武器や異国の品という通常の商品が扱わない商品は確かにそうだ、という文意
+  - [discretion](https://ejje.weblio.jp/content/discretion), ディス・クレ・ション
+    - 名詞: 思慮分別、慎重、裁量
+    - ChatGPT訳と異なる意味だが、ChatGPT曰く特にビジネス上ではその意味で使われるとのこと。 But からの文意があまりわからないので判断がつかない。
+  - ChatGPT訳: 武器や他の...異国の品々も確かに扱っている。でも何よりも、私たちは機密保持を提供する。
+- Roah Moonglow: No judgement, no right and wrong - just good deals and bad. That a problem for you?
+  - ChatGPT訳: 判断も善悪もない - ただ良い取引と悪い取引があるだけだ。それが問題ですか？
+- Tav: No problem at all, Let me see your wares.
+- Roah Moonglow: Pleasure.
