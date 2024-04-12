@@ -288,3 +288,27 @@ Selûneの石像を見たShadowheartがつぶやいた
   - all the way の意味は？
     - 「全ての道のりを」と言う意味、「バルダーズ・ゲートまで」を大仰に言ったよう
   - ChatGPT訳: バルダーズ・ゲートまで骨を吹き飛ばされたくないなら、入るべきじゃないよ。
+
+### 21, Eliasis - 17:37 - Gribbo
+
+以前Voloを捉えていたGoblinの配置が変わっていたので、再び話しかけた
+
+- Gribbo: Shove off.
+  - [shove off](https://en.wiktionary.org/wiki/shove_off)
+    - 自動詞: 去る(=leave)
+
+### 21, Eliasis - 17:44 - Narrator
+
+ネズミへ話しかけた
+
+- \*The foul stench of slaughter turns suddenly sweet through the rat's nose.\*
+  - [foul](https://ejje.weblio.jp/content/foul), ファ↑ウル
+    - 形容詞: 悪臭のある、むかつくような、不潔な、言葉や心が汚らわしい、卑劣な
+  - [stench](https://ejje.weblio.jp/content/stench), ステ↑ンチ
+    - 名詞: 悪臭
+  - ChatGPT訳: 鼠の鼻を通じて、屠殺の悪臭が突然甘く変わる。
+- \*Blood-smell. _Life_-smell. Not like the great hollow below, which smells only of death.\*
+  - [hollow](https://ejje.weblio.jp/content/hollow), (ハ|ホ)↑ロゥ
+    - 名詞: 穴、うつろ
+    - 形容詞で「うつろの、凹んだ、こけた、音や声がうつろな・こもった」
+  - ChatGPT訳: 血の匂い。命の匂い。それは大きな空洞の下の死の匂いとは異なる。
