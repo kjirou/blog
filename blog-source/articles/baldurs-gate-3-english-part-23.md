@@ -482,7 +482,7 @@ Selûneの石像を見たShadowheartがつぶやいた
 
 ### 21, Eliasis - 20:15 - Tracker Tizg
 
-詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+正門近くを警備中のGoblinのひとりへ話しかけた
 
 - Tracker Tizg: Smell that meat sizzlin'? Can't tell if it's the brandin' or the party - makin' me bloody 'ungry either way.
   - [sizzle](https://ejje.weblio.jp/content/sizzle), スィ↑ーゾォ
@@ -494,7 +494,7 @@ Selûneの石像を見たShadowheartがつぶやいた
 
 ### 21, Eliasis - 20:16 - Tracker Fezk
 
-詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+正門近くを警備中のGoblinのひとりへ話しかけた
 
 - Tracker Fezk: 'S good you ain't causin' trouble. Boss means business, now he's got the Absolute in his ear.
   - 'S = It's
@@ -507,7 +507,7 @@ Selûneの石像を見たShadowheartがつぶやいた
 
 ### 21, Eliasis - 20:18 - Warrior Nrog
 
-詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+正門近くを警備中のGoblinのひとりへ話しかけた
 
 - Warrior Nrog: Been boozin'? Won't make the brandin' go any easier - I tried.
   - [booze](https://ejje.weblio.jp/content/booze), ブ↑ゥーズ
@@ -519,7 +519,7 @@ Selûneの石像を見たShadowheartがつぶやいた
 
 ### 21, Eliasis - 20:19 - Warrior Trinzas, Tav
 
-詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+正門近くを警備中のGoblinのひとりへ話しかけた
 
 - Warrior Trinzas: Forgive the reception, eh, mate? Had some intruders a while back. Can't be too careful.
   - [reception](https://ejje.weblio.jp/content/reception), ゥリ・セ↑ェプ・ション
@@ -541,8 +541,26 @@ Selûneの石像を見たShadowheartがつぶやいた
 
 ### 21, Eliasis - 20:38 - Sharp-Eye Nozk
 
-詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+正門近くを警備中のGoblinのひとりへ話しかけた
+
+- Sharp-Eye Nozk: Thought you was my replacement, but noooo. Bet Mirg has drunk herself stupid.
+  - [drink](https://ejje.weblio.jp/content/drink), デュリ↑ン
+    - 他動詞: 〜が飲んで〜の状態に至る
+      - drink O(=Sと同じ人のoneself) C(=至る状態)
+  - ChatGPT訳: 君が私の代わりかと思ったけど、違ったな。ミルグはきっと酔っ払ってバカになってるよ。
+  - 何の話かわからない。Mirgという名称のGoblinはPart 21で出現ているが、関係がありそうな話はしていなかった。
 
 ### 21, Eliasis - 20:45 - Sharp-Eye Gruz
 
-詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+正門近くを警備中のGoblinのひとりへ話しかけた
+
+- Sharp-Eye Gruz: This ain't the party, mate - no foolin' around. Get back down.
+  - [fool around](https://en.wiktionary.org/wiki/fool_around#Verb)
+    - 自動詞: 時間を無駄にする、軽薄な行動をする
+    - [fool](https://ejje.weblio.jp/content/fool)
+      - 自動詞: ふざける、バカな真似をする、ぶらつく
+    - 訳の「冗談をする」と言う意味より、この慣用句の意味の方が適切そう
+  - Get back down の意味は？
+    - get badk の「戻れ」に down の「降りて」が加わった意味
+    - 梯子を登って、高台の見張りに話しかけた時の返答だった気がする
+  - ChatGPT訳: これはパーティーではない、相棒 - 冗談はなし。戻りなさい。
