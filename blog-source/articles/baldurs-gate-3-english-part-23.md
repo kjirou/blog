@@ -657,3 +657,40 @@ Goblin達の3人のリーダーの内の一人であるDrowが、配下と思わ
     - 名詞: 統御、支配、占有、しっかり捕えること、強い握り、把握力
   - ChatGPT訳: 彼女の心は集中しています。彼らが求める武器が彼らの手の届くところにあることを教団員に悟られてはならない。
   - the cultist が求める物が、Shadowheartのアーティファクトそのものを指しているのか、同種の同程度の有用性を持つアーティファクトを指しているのかがわからない！大事なところなのに...
+- Nightwarden Minthara: The thief whimpering in our dungeon tried to flee to their sanctuary.
+  - [whimper](https://ejje.weblio.jp/content/whimper), ウィ↑ン・パァ
+    - 自動詞: すすり泣く
+  - ChatGPT訳: 私たちのダンジョンで泣いているその泥棒は、彼らの聖域へ逃げようとしました。
+- Nightwarden Minthara: We will continue to remove parts of him until he tells us _exactly_ where it is.
+- Nightwarden Minthara: He's been resilient but he'll talk...
+  - [resilient](https://ejje.weblio.jp/content/resilient), ゥリ・ズ↑リエント
+    - 形容詞: 快活な、すぐ元気を回復する、はねかえる
+  - He's been resilient の意味は？
+    - 現在進行完了形なので、「快活であり続けている」
+  - ChatGPT訳: 彼は頑強ですが、話すでしょう…
+- \*She is seeking the grove you visited. Already, you feel her mind closing around yours.\*
+  - ChatGPT訳: 彼女はあなたが訪れた林を探しています。すでに、あなたは彼女の心が自分の心に迫ってくるのを感じています。
+- Tav: _Perhaps you can misdirect her... or kill her._
+  - [misdirect](https://ejje.weblio.jp/content/misdirect), ミス・デュィレ↑クト
+    - 他動詞: 人に道順や場所を間違って教える、宛名を間違える
+- Nightwarden Minthara: Speak, True Soul. The hunt must begin soon.
+  - ChatGPT訳: 話せ、真の魂よ。狩りは間もなく始まるべきだ。
+- Tav: I spoke to the prisoner. He told me everything.
+- Nightwarden Minthara: Tell me what you know. The Absolute will reward us with such power if we find this place.
+  - such power は何を指している？
+    - 直訳だと「それほどの力」で前述されていると読めるが、あまりわからない
+- Tav: _Place your finger on a patch of forest, far from the grove._
+  - [patch](https://ejje.weblio.jp/content/patch), パ↑ァチ
+    - 名詞: 一区画、耕作した小地面
+- Charisma (Deception) Successful: Tav
+- Nightwarden Minthara: _Fool._ You have fallen for his lies. We know that area well - there is nothing hidden there.
+- Nightwarden Minthara: We will have to do this the hard way. Scour the area and hunt them down, then report back to me.
+  - the hard way の意味は？
+    - ChatGPT曰く、「困難な方法で」という副詞句
+    - 前置詞を伴わない句が副詞句になるのは、一般的であるとのこと
+      - 例として、 Go home や morning などの時刻を示すものを挙げていた
+  - [scour](https://ejje.weblio.jp/content/scour), スカ↑ァワ
+    - 他動詞: 大急ぎで探し回る・漁り回る
+  - [hunt down](https://en.wiktionary.org/wiki/hunt_down#Verb)
+    - 他動詞: 何かを狩り捕まえるか殺す、迫害や暴力で破壊する
+  - ChatGPT訳: この問題を困難な方法で解決しなければなりません。その地域を徹底的に調査し、彼らを追い詰め、そして私に報告してください。
