@@ -632,7 +632,28 @@ Goblin達の3人のリーダーの内の一人であるDrowが、配下と思わ
   - [amongst](https://ejje.weblio.jp/content/amongst), ア・マ↑ングスト
     - = among
   - ChatGPT訳: アブソリュートが求めている武器があります。その憐れな者たちがそれを隠しているに違いありません。我々はそれを、死者と灰の中から見つけ出すでしょう。
-- \*\*
-- \*\*
-- \*\*
-- \*\*
+- \*Her excitement is palpable. She lingers on thoughts of victory, of unbelievers' blood spilled...\*
+  - [excitement](https://ejje.weblio.jp/content/excitement), エク・サ↑イト・メント
+    - 名詞: 興奮、心の動揺、興奮させるもの、刺激するもの
+  - [palpable](https://ejje.weblio.jp/content/palpable), パ↑ウ・パ・ボォ
+    - 形容詞: 明白な、明瞭な、触って知ることができる
+    - [palp](https://ejje.weblio.jp/content/palp)
+      - 名詞: 医師が指を使って身体の異常を感じる健康診断技術、触覚や味覚に使用される昆虫やクモなどの特定の動物の感覚器官、触肢
+  - [spill](https://ejje.weblio.jp/content/spill), スピ(ル|ウ)
+    - 他動詞: 血などを流す、液体や粉などをこぼす、馬や乗り物などが人を振り落とす
+  - ChatGPT訳: 彼女の興奮は明らかです。彼女は勝利の思い、信じない者たちの流れる血の思いにとどまっています...
+- \*...and of the weapon. She will seize it, in the Absolute's name.\*
+  - [seize](https://ejje.weblio.jp/content/seize), スィ↑ーズ
+    - 他動詞: 突然掴む、握る、乱暴に掴む、捕える
+  - ChatGPT訳: そして、その武器について。彼女は、絶対者の名のもとにそれを手に入れるでしょう。
+- \*You feel Shadowheart's anxiety. The weapon the Absolute seeks - it's the artefact that she carries. The same one that protected you as you entered the goblin camp.\*
+  - [anxiety](https://ejje.weblio.jp/content/anxiety), エン・ザ↑ィアティ
+    - 名詞: 心配、不安、心配の種、切望
+  - ChatGPT訳: 影の心の不安を感じます。絶対者が求める武器、それは彼女が持つ遺物です。それはあなたがゴブリンキャンプに入る際にあなたを守ったものと同じです。
+- \*Her mind focuses - the cultist cannot discover that the weapon they seek is within their grasp.\*
+  - [can](https://ejje.weblio.jp/content/can), キ↑ャァン
+    - 助動詞: 許可の表現、〜しても良い
+  - [grasp](https://ejje.weblio.jp/content/grasp), グラ↑ァスプ
+    - 名詞: 統御、支配、占有、しっかり捕えること、強い握り、把握力
+  - ChatGPT訳: 彼女の心は集中しています。彼らが求める武器が彼らの手の届くところにあることを教団員に悟られてはならない。
+  - the cultist が求める物が、Shadowheartのアーティファクトそのものを指しているのか、同種の同程度の有用性を持つアーティファクトを指しているのかがわからない！大事なところなのに...
