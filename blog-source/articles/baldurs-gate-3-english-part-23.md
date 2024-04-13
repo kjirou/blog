@@ -390,3 +390,44 @@ Selûneの石像を見たShadowheartがつぶやいた
         - IO へ範囲を指定するときは、広い範囲から一部のみを認めるような用法
   - ChatGPT訳: 新しいペットを見に行くのか？ 簡単には慣れなかったな、それは認めるよ。
   - 誰のことなんだろう？
+
+### 21, Eliasis - 18:32 - Skrut, Tav
+
+- Skrut: You see that eye wotsit floatin' about? Best hope it don't take a fancy to you...
+  - [wotsit](https://en.wiktionary.org/wiki/wotsit)
+    - = whatsit
+    - [whatsit](https://en.wiktionary.org/wiki/whatsit#Noun), ホワッ・シット
+      - 名詞: 忘れたり言うのが憚られたりするもの・あれ
+      - what is it が語源
+  - [best](https://ejje.weblio.jp/content/best)
+    - 副詞: 最も良く、一番
+  - [about](https://ejje.weblio.jp/content/about), ア・バ↑ァウト
+    - 副詞: あちこちに、あたりに
+  - ChatGPT訳: あの浮いている目玉を見るか？一番よいことを望むべきだ、それがお前に気に入られないことを...
+- Skrut: ... unless you like playin' hide an' seek when yer tryin' to take a dump.
+  - [take a dump](https://en.wiktionary.org/wiki/take_a_dump#Verb)
+    - 自動詞: 排便する(=defecate)
+  - ChatGPT訳: …トイレで用を足している最中に隠れんぼが好きなら別だが。
+- Tav: What is it?
+- Skrut: It's a floatin' _eye_, mate. What do you reckon? Bloody spyin' on us.
+  - [spy on](https://en.wiktionary.org/wiki/spy_on#Verb)
+    - 他動詞: 密かに監視する、監視下に置く
+  - ChatGPT訳: 浮いている目だよ、相棒。どう思う？私たちを監視しているんだ。
+- Skrut: The bigwigs at Moonrise like to 'be involved', the drow says.
+  - [bigwig](https://ejje.weblio.jp/content/bigwig), ビ↑ィッグ・ウィッグ
+    - 名詞: 大物、お偉方
+  - [involve](https://ejje.weblio.jp/content/involve), イン・バ↑ァゥブ
+    - 他動詞: 関係させる、巻き込む
+  - ChatGPT訳: ムーンライズの偉い人たちは「関与したがっている」とドロウは言っていた。
+- Skrut: Load o' trollop. Jus't don't trust us to do what we do best - killin' things.
+  - [trollop](https://ejje.weblio.jp/content/trollop)
+    - 名詞: ばかげたこと、自堕落な女、売春婦
+    - Wiktionaryを見ても上記の意味書いてなく、人名の固有名詞になっている。とにかく悪い意味の言葉とだけ認識するとよさそう。
+      - それに、 A load of {悪い言葉} または loads or {悪い言葉}s で、「ばかげた、くだらない、おかしい」のような意味になる用法
+  - ChatGPT訳: くだらない。ただ私たちが一番得意とすること、つまり殺すことを信用していないんだ。
+
+### 21, Eliasis - 19:29 - Tav
+
+### 21, Eliasis - 19:52 - Narrator
+
+### 21, Eliasis - 19:53 - Skrut
