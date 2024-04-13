@@ -694,3 +694,44 @@ Goblin達の3人のリーダーの内の一人であるDrowが、配下と思わ
   - [hunt down](https://en.wiktionary.org/wiki/hunt_down#Verb)
     - 他動詞: 何かを狩り捕まえるか殺す、迫害や暴力で破壊する
   - ChatGPT訳: この問題を困難な方法で解決しなければなりません。その地域を徹底的に調査し、彼らを追い詰め、そして私に報告してください。
+
+### 21, Eliasis - 23:57 - Rozzak
+
+Mintharaに詰められていたGoblinへ話しかけた
+
+- Rozzak: If you're here to help with the raid, talk to her ladyship. She's in charge.
+  - [ladyship](https://ejje.weblio.jp/content/ladyship), レ↑ィディ・シップ
+    - 名詞: Ladyの称号を持つ婦人の総称
+      - 二人称なら your ladyship 、三人称なら her ladyship になる
+      - ルールとしては、所有格 + 称号。その他の例は Her Mjesty が「女王閣下」、 His Royal Highness が「殿下」
+      - ここでいう "Lady" は称号として持つものらしい
+  - [in charge](https://en.wiktionary.org/wiki/in_charge#Adjective)
+    - 形容詞: 指揮や監督の責任がある、指示や制御の力のある
+    - [charge](https://ejje.weblio.jp/content/charge), チャ↑ァージ
+      - 名詞: 義務、責任、担当、命令、負担、料金、充電、突撃
+      - コアイメージ: 原義は「荷馬車に荷を詰む」、転じて「入れ物を満たす」「重い物で負荷をかける」
+  - ChatGPT訳: レイドの手伝いに来たのなら、奥様に話してください。彼女が責任者です。
+
+### 21, Eliasis - 23:58 - Nightwarden Minthara, Tav
+
+再び話しかけた
+
+- Nightwarden Minthara: I trust you have found the sanctuary? I hunger for battle.
+  - [trust](https://ejje.weblio.jp/content/trust), トラ↑スト
+    - 他動詞: 〜を確信して期待する
+  - ChatGPT訳: 聖域を見つけましたか？戦いを求めています。
+- Tav: How did a drow come to be commanding a tribe of goblins?
+  - ChatGPT訳: ドロウがどうしてゴブリンの部族の指揮を取ることになったのですか？
+- Nightwarden Minthara: They are flocking to the Absolute. In sufficient numbers, they are an effective force. Expendable and willing.
+  - [flock](https://ejje.weblio.jp/content/flock), フ(ロ|ラ)↑ック
+    - 自動詞: 群がる、集まる、群れをなして行く
+    - 名詞で「群れ」
+  - [expendable](https://ejje.weblio.jp/content/expendable), エクス・ペ↑ンダボゥ
+    - 形容詞: 消耗用の、消費される
+    - Assoc: EXPENDABLES
+    - [expend](https://ejje.weblio.jp/content/expend), エクス・ペ↑ェンド
+      - 他動詞: 時間や労力を費やす・消費する、使い切る
+  - [willing](https://ejje.weblio.jp/content/willing), ウィ↑リング
+    - 形容詞: やりたくないことでも求められると進んで行う、自発的な
+  - ChatGPT訳: 彼らはアブソリュートに引き寄せられています。十分な数が集まれば、彼らは有効な力になります。使い捨てが可能で、意欲的です。
+- Tav: _Leave._
