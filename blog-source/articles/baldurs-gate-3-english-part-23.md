@@ -377,3 +377,16 @@ Selûneの石像を見たShadowheartがつぶやいた
 ### 21, Eliasis - 18:14 - Sharp-Eye Neem
 
 ある部屋に集まって会話をしている3人組のGoblinの一人へ話しかけた
+
+- Sharp-Eye Neem: Headin' t'see our new pet? It didn't tame easy, I'll give it that.
+  - t'see = to see
+  - [tame](https://en.wiktionary.org/wiki/tame#Verb), テ↑インム
+    - 自動詞: 飼い慣らされる
+    - 動詞としては、通常は他動詞の「飼い慣らす」が主、形容詞の「飼い慣らされた」もある
+  - [give](https://ejje.weblio.jp/content/give)
+    - 他動詞: 事実であることを認める
+      - give IO(=認める範囲・先) DO(=認める内容)
+        - 今回は it が「ペット」で that が「容易に飼い慣らされなかったこと」のよう
+        - IO へ範囲を指定するときは、広い範囲から一部のみを認めるような用法
+  - ChatGPT訳: 新しいペットを見に行くのか？ 簡単には慣れなかったな、それは認めるよ。
+  - 誰のことなんだろう？
