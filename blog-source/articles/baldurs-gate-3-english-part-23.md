@@ -479,3 +479,70 @@ Selûneの石像を見たShadowheartがつぶやいた
     - 形容詞: 醜い、見苦しい、不快な、卑劣な、天候が荒れ模様な、物騒な
   - ChatGPT訳: 何をじろじろ見てるんだ？行け、ブサイク。
   - 毎回思うが、2回目を話しかけた時、1回目の会話より態度悪くなりすぎるだろ
+
+### 21, Eliasis - 20:15 - Tracker Tizg
+
+詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+
+- Tracker Tizg: Smell that meat sizzlin'? Can't tell if it's the brandin' or the party - makin' me bloody 'ungry either way.
+  - [sizzle](https://ejje.weblio.jp/content/sizzle), スィ↑ーゾォ
+    - 自動詞: 揚げ物などがジュージュー・シューシューする、焼けるように暑い、人が怒ってかっかとしている
+  - [tell](https://ejje.weblio.jp/content/tell), テェ(ウ|ル)
+    - 自動詞: わかる、見分ける
+      - can や could を伴うことが多い
+  - ChatGPT訳: その肉が焼ける匂いを感じるか？それが焼印なのかパーティーなのかは分からないが、どちらにせよ、非常にお腹が空いているとは言える。
+
+### 21, Eliasis - 20:16 - Tracker Fezk
+
+詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+
+- Tracker Fezk: 'S good you ain't causin' trouble. Boss means business, now he's got the Absolute in his ear.
+  - 'S = It's
+  - [mean business](https://en.wiktionary.org/wiki/mean_business#Verb)
+    - 自動詞: 特に反対の中で何かを達成するために真剣である
+  - he's = he has
+  - in his ear の意味は？
+    - 訳だと「直接に」だが、これは比喩表現
+  - ChatGPT訳: お前がトラブルを起こしてないのはいいことだ。ボスはビジネスを真剣に考えている。彼は今、アブソリュートから直接指示を受けている。
+
+### 21, Eliasis - 20:18 - Warrior Nrog
+
+詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+
+- Warrior Nrog: Been boozin'? Won't make the brandin' go any easier - I tried.
+  - [booze](https://ejje.weblio.jp/content/booze), ブ↑ゥーズ
+    - 自動詞: 大酒を飲む
+  - [any](https://ejje.weblio.jp/content/any), エ↑ニィ
+    - 副詞: 少しも〜ない
+      - 否定文で使う時の意味
+  - ChatGPT訳: 飲んでるのか？ブランディングが楽になるわけないぞ - 俺も試したことあるからな。
+
+### 21, Eliasis - 20:19 - Warrior Trinzas, Tav
+
+詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+
+- Warrior Trinzas: Forgive the reception, eh, mate? Had some intruders a while back. Can't be too careful.
+  - [reception](https://ejje.weblio.jp/content/reception), ゥリ・セ↑ェプ・ション
+    - 名詞: 応接、接待、歓迎、世間の反応、歓迎会、レセプション、受け取ること、受領、受理、入会
+  - [receipt](https://ejje.weblio.jp/content/receipt), ゥリ・シ↑ート
+    - 名詞: 領収書、レシート、受け取ること、領収
+    - 他動詞: 領収書を出す、領収書に署名する
+    - 間の i の有無が違うんだ
+  - ChatGPT訳: 受付の様子を許してくれるかな、友よ？少し前に侵入者がいたんだ。慎重になりすぎることはない。
+    - 正門入った直後に複数のGoblinが警備のために居る様子を、 the reception と言っている
+- Tav: Was there a druid among these intruders?
+- Warrior Trinzas: A druid? Can't be sure - got one of 'em chained up below, though. Just follow the hollerin'.
+  - chain up の意味は？
+    - 「つなぎ上げる・終える」という意味だと思う
+    - 慣用句はあるけど、本文には合わかった
+  - [holler](https://ejje.weblio.jp/content/holler), ホ(ォ|ァ)↑ラァ
+    - 自動詞: 叫ぶ、どなる、大声で言う、不平を言う
+  - ChatGPT訳: ドルイド？確かではないが、下に一人繋いである。ただ叫び声に従っていけばいい。
+
+### 21, Eliasis - 20:38 - Sharp-Eye Nozk
+
+詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
+
+### 21, Eliasis - 20:45 - Sharp-Eye Gruz
+
+詳細を忘れたが、おそらくは警備中のGoblinへ話しかけた
