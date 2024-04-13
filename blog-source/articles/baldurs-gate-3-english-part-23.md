@@ -564,3 +564,75 @@ Selûneの石像を見たShadowheartがつぶやいた
     - get badk の「戻れ」に down の「降りて」が加わった意味
     - 梯子を登って、高台の見張りに話しかけた時の返答だった気がする
   - ChatGPT訳: これはパーティーではない、相棒 - 冗談はなし。戻りなさい。
+
+### 21, Eliasis - 22:03 - Nightwarden Minthara, Rozzak, Tav
+
+Goblin達の3人のリーダーの内の一人であるDrowが、配下と思われるGoblinを詰めていた
+
+- Nightwarden Minthara: Your scouting party has not returned, and half of the intruders escaped your guards.
+  - [night](https://ejje.weblio.jp/content/night), ナ↑イト
+    - 形容詞: 夜の
+  - [warden](https://ejje.weblio.jp/content/warden), ウ↑ォァデン
+    - 名詞: 万人、学生寮などの管理人、監督官、監視員、刑務所長、古い学校の校長
+  - ChatGPT訳: あなたの偵察隊が戻ってこないし、侵入者の半数があなたの警備員から逃げた。
+- Rozzak: Sorry, mistress. We mucked up.
+  - [muck up](https://en.wiktionary.org/wiki/muck_up#Verb)
+    - 自動詞: しくじる、意図せず台無しにする
+      - [muck](https://ejje.weblio.jp/content/muck), マ↑ック
+        - 他動詞: 畑などへ肥料を施す
+        - 名詞: 肥やし、牛馬ふん、汚物
+- Nightwarden Minthara: Until their sanctuary is found, I will take something precious from you every hour that passes.
+  - [precious](https://ejje.weblio.jp/content/precious), プレ↑・シャス
+    - 形容詞: 時間や経験などの大切な、尊い、貴重な、高価な
+    - 名詞は「大事な人」
+    - Assoc: 「いとしいしと」の原語は my precious や precious to me
+  - ChatGPT訳: 彼らの聖域が見つかるまで、時間が経つごとにあなたから大切なものを取ります。
+- Nightwarden Minthara: A trinket... a tongue... a _limb_.
+  - [trinket](https://ejje.weblio.jp/content/trinket), トリ↑ン・ケット
+    - 名詞: 小さな装身具、小物、つまらないもの
+  - [limb](https://ejje.weblio.jp/content/limb), リ↑(ン|ム)
+    - 名詞: 肢体、手足や翼などの肢、四肢
+- Rozzak: I ain't no use without my limbs! The lads'll make the prisoner squeal soon enough, I swear!
+  - [squeal](https://ejje.weblio.jp/content/squeal), スクウィ↑ールゥ
+    - 自動詞: キーキーかん高い声をあげる、悲鳴を上げる、密告する
+  - ChatGPT訳: 僕の肢体がなければ何の役にも立ちません！仲間がもうすぐ囚人を話させるでしょう、誓います！
+- Nightwarden Minthara: Silence now, creature. Or I will silence you forever.
+- \*As she turns to you, her thoughts mingle with yours, a cold hand caressing your brain.\*
+  - [mingle](https://ejje.weblio.jp/content/mingle), ミ↑ンゴォ
+    - 自動詞: 〜に入り混じる
+      - mingle with {対象}
+    - Assoc: tangle が「もつれる、巻き込む」で字面と意味が似てる
+  - [caress](https://ejje.weblio.jp/content/caress), コォレ↑ェス
+    - 他動詞: 愛撫する、愛撫するかのように軽く触る
+- \*The chamber melts away to reveal a dark, endless nowhere. In it, you see a vision - the drow listens as a pale-eyed young woman whispers in her ear.\*
+  - [chamber](https://ejje.weblio.jp/content/chamber), チェ↑イン・バ
+    - 名詞: 室、会議所
+  - [nowhere](https://ejje.weblio.jp/content/nowhere), ノ↑ゥ・ウェァ
+    - 名詞: どことも知れぬ場所
+  - ChatGPT訳: 室が溶けて、暗くて無限の何もない場所が現れる。そこで、あなたは幻を見る - ドロウが、青白い目をした若い女性に耳打ちされるのを聞いている。
+- \*One of those the voice spoke of. One of the Chosen. The vision fades away...\*
+  - One of those は誰？ the voice は何？
+    - the voice は、おそらく以前にGoblin Campの入口で精神攻撃を受けた時の声を指す
+    - つまり、 one of those は a pale-eyed young woman のこと
+    - One of those (whom) the voice spoke of (whom)
+  - ChatGPT訳: 声が語った者の一人。選ばれた者の一人。幻は消え去る...
+- Nightwarden Minthara: A True Soul? Praise be. Are you here to join my hunt?
+  - [praise be](https://en.wiktionary.org/wiki/praise_be#Interjection)
+    - 間投詞: 感謝の意の表現
+    - [praise](https://ejje.weblio.jp/content/praise), プレ↑イーズ
+      - 他動詞: 称賛する、褒める
+- Tav: A hunt? Who's the target?
+- Nightwarden Minthara: Worshippers of a false god. Their existence is an insult to the Absolute's claim on this region.
+  - [insult](https://ejje.weblio.jp/content/insult), イ↑ン・サルト
+    - 名詞: 侮蔑、無礼、侮蔑行為
+  - ChatGPT訳: 偽りの神を崇拝する者たちです。彼らの存在は、この地域に対するアブソリュートの主張に対する侮辱です。
+- Nightwarden Minthara: There is a weapon the Absolute seeks - I'm sure those wretches have it hidden away there. We will find it, amongst the dead and the ashes.
+  - [wretch](https://ejje.weblio.jp/content/wretch), ゥレ↑ッチ
+    - 名詞: 哀れな人、惨めな人、恥知らず
+  - [amongst](https://ejje.weblio.jp/content/amongst), ア・マ↑ングスト
+    - = among
+  - ChatGPT訳: アブソリュートが求めている武器があります。その憐れな者たちがそれを隠しているに違いありません。我々はそれを、死者と灰の中から見つけ出すでしょう。
+- \*\*
+- \*\*
+- \*\*
+- \*\*
