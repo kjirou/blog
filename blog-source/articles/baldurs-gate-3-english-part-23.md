@@ -393,6 +393,8 @@ Selûneの石像を見たShadowheartがつぶやいた
 
 ### 21, Eliasis - 18:32 - Skrut, Tav
 
+魔法の機械のような浮遊した目玉があり、その近くにいるGoblinへ話しかけた
+
 - Skrut: You see that eye wotsit floatin' about? Best hope it don't take a fancy to you...
   - [wotsit](https://en.wiktionary.org/wiki/wotsit)
     - = whatsit
@@ -428,6 +430,52 @@ Selûneの石像を見たShadowheartがつぶやいた
 
 ### 21, Eliasis - 19:29 - Tav
 
+浮遊した魔法の目玉を調べた
+
+- \*The eye's glassy black surface reflects your gaze.\*
+  - [glassy](https://ejje.weblio.jp/content/glassy), グラ↑ァッスィ
+    - 形容詞: ガラス状の、ガラス質の、生気がない、どんよりとした
+  - ChatGPT訳: 目のガラスのように黒い表面があなたの視線を映し出しています。
+- Wisdom Successful: Tav
+- Not Found
+- Tav: _Reach out to the presence._
+  - [reach out](https://en.wiktionary.org/wiki/reach_out#Verb)
+    - 自動詞: 何かに手を伸ばす、手を前に伸ばす
+    - 「届く」と言う意味まで含むのかはわからない
+- \*You feel a brief, lurching connection. The sensation of falling into your own image, endlessly.\*
+  - [brief](https://ejje.weblio.jp/content/brief), ブリ↑ィフ
+    - 形容詞: 短時間の、手短な
+    - 本文の位置だと名詞だが、名詞だと「短い報告、指示、法律用語として訴訟事件・摘要」のような意味で異なる
+      - a brief moment | period のように後の名詞が省略されていそう
+  - [lurch](https://ejje.weblio.jp/content/lurch), ル(ゥ|ァ)チ
+    - 自動詞: 急に傾く、よろめく、よろめきながら進む
+  - [image](https://ejje.weblio.jp/content/image), イ↑・メージ
+    - 名詞: 鏡やレンズによって作られる像、心に浮かんだ映像、像
+  - ChatGPT訳: ふと、動揺する繋がりを感じます。自分の姿に無限に落ち込んでいく感覚です。
+- \*Confusion. Alarm. Then the presence withdraws - leaving a dull black mirror once more.\*
+  - [withdraw](https://ejje.weblio.jp/content/withdraw), ウィズ・ドロ↑ォク
+    - 自動詞: 引き下がる、引っ込む、軍隊が撤退する、脱退する
+    - 他動詞の「引き出す、引っ込める」が主
+  - [dull](https://ejje.weblio.jp/content/dull), ダ↑ァル
+    - 形容詞: 刃などが鈍い、愚鈍な、感覚が鈍い
+  - ChatGPT訳: 混乱。驚き。そしてその存在が引き下がり、再び鈍い黒い鏡が残ります。
+
 ### 21, Eliasis - 19:52 - Narrator
 
+再び浮遊した魔法の目玉を調べた
+
+- \*The eye doesn't seem to notice your presence.\*
+
 ### 21, Eliasis - 19:53 - Skrut
+
+再び話しかけた
+
+- Skrut: Whatcha staring at? Move along, ugly.
+  - [whatcha](https://en.wiktionary.org/wiki/whatcha)
+    - 縮約形: = what are you, what have you, what do you, what you
+  - [move along](https://en.wiktionary.org/wiki/move_along)
+    - 自動詞: 気を散らさずに続ける、他のことへ進む
+  - [ugly](https://ejje.weblio.jp/content/ugly), ア・グリィ
+    - 形容詞: 醜い、見苦しい、不快な、卑劣な、天候が荒れ模様な、物騒な
+  - ChatGPT訳: 何をじろじろ見てるんだ？行け、ブサイク。
+  - 毎回思うが、2回目を話しかけた時、1回目の会話より態度悪くなりすぎるだろ
