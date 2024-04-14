@@ -848,10 +848,12 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
   - [wait out](https://en.wiktionary.org/wiki/wait_out#Verb)
     - 他動詞: 最後まで待ち通す
   - ChatGPT訳: しかし、それら全員を無視だ。ここで待って、本当の神に祈ります。
-  - Brakkalは崖の上に吊るされてるので、すごく危険な場所なんだけど、というオチ
+  - 捕らえられていたのではなくて、自ら入ったんだ
 
 ### 21, Eliasis - 0:28 - Brakkal
 
 再び話しかけた
 
-- Brakkal:
+- Brakkal: You think this is funny? I'll be the one laughin' when things turn ugly. Safer in 'ere than out there.
+  - ChatGPT訳: 面白いと思っているのか？物事が悪くなったとき、笑っているのは私の方だ。ここは外よりも安全だ。
+  - Brakkalの居場所は崖の上に吊るされてるので、すごく危険な場所なんだけど、というオチ
