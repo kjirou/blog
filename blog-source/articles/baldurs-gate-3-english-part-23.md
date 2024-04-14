@@ -876,3 +876,58 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
   - ChatGPT訳: 狭い空間、石の壁が近くに寄り添うことへの憧れ。制約されること。安心すること。
 - \*There is a light here, in the tight space beneath the floor. Secret things that _shine_.\*
   - ChatGPT訳: 床の下の狭い空間に光がある。輝く 秘密のものたちがある。
+
+### 21, Eliasis - 0:36 - Warrior Plagg
+
+3人で固まって雑談しているGoblinの中の一人へ話しかけた
+
+- Warrior Plagg: Keep moving, 'less you're wanting a clubbing and drubbing.
+  - 'less = unless
+  - [club](https://ejje.weblio.jp/content/club), クラ↑ァブ
+    - 他動詞: こん棒で打つ
+  - [drubbing](https://ejje.weblio.jp/content/drubbing), ドラァ・ビン
+    - 名詞: 棒で打つこと、痛打、大敗
+    - [drub](https://ejje.weblio.jp/content/drub), ドラ↑ァブ
+      - 他動詞: 棒で続け様に打つ・殴る、痛撃を与える、大敗させる
+  - a clubbing and drubbing は後者の冠詞がない？
+    - 意味は a clubbing and a drubbing と同じ
+    - ChatGPT曰く、会話のリズムを保つために省略することもあるらしい
+  - ChatGPT訳: 動き続けな、そうでなければクラブで打たれるぞ。
+
+### 21, Eliasis - 0:36 - Tracker Nik-Nuk
+
+3人で固まって雑談しているGoblinの中の一人へ話しかけた
+
+- Tracker Nik-Nuk: Heh. Boss Ragzlin weren't lying when he said anyone could join the Absolute's ranks.
+  - [lie](https://ejje.weblio.jp/content/lie), ラ↑ァイ
+    - 自動詞: 嘘をつく、ものが人を惑わす
+  - when 前後の分の繋ぎがわからない？
+    - 訳より直訳にすると、「彼が参加できるといった」「時」「ボスは嘘をついていなかった」、になって、こちらの方が構造がわかりやすい
+  - ChatGPT訳: へへ。ボスのラグズリンが嘘をついていなかったな。誰でもアブソリュートの階級に参加できる。
+
+### 21, Eliasis - 0:37 - Sharp-Eye Crub
+
+3人で固まって雑談しているGoblinの中の一人へ話しかけた
+
+- Sharp-Eye Crub: You're either with the Absolute or against her. Ain't no in-between.
+  - [in-between](https://en.wiktionary.org/wiki/in-between#Adjective)
+    - 形容詞: どちらか一方ではなく、間に横たわって
+- ここにはThe Absolute派閥しか居なそうに見えるから選択肢がなさそうなんだが、どこかに居るんかな？
+
+### 21, Eliasis - 1:14 - True Soul Gut, Tav
+
+Gutの呼び出しに応じて向かった。
+
+流石に何かをやらせる気はないので、イベントが進行しないところまで会話を聞いた。
+
+- True Soul Gut: Ready to clear your head?
+- Tav: What exactly are you going to do?
+- True Soul Gut: Whatever the Absolute tells me to. Don't worry - She loves you. I can tell.
+  - ChatGPT訳: アブソリュートが教えてくれたことをするだけだよ。心配しないで - 彼女は君を愛しているよ。わかるから。
+- Tav: All right. I'm ready.
+- True Soul Gut: Don't want a crowd of gawpers. Everybody else needs to leave.
+  - [gawper](https://en.wiktionary.org/wiki/gawper)
+    - 名詞: gawp-er
+      - 「見物人」や「やじ馬」が近そう
+    - [gawp](https://ejje.weblio.jp/content/gawp), (ガ|バ)ゥ
+      - 自動詞: 口を開けてぽかんと見とれる
