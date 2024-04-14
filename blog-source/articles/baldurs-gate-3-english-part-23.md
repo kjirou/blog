@@ -735,3 +735,46 @@ Mintharaに詰められていたGoblinへ話しかけた
     - 形容詞: やりたくないことでも求められると進んで行う、自発的な
   - ChatGPT訳: 彼らはアブソリュートに引き寄せられています。十分な数が集まれば、彼らは有効な力になります。使い捨てが可能で、意欲的です。
 - Tav: _Leave._
+
+### 21, Eliasis - 0:13 - Brawler Gurd
+
+Goblinが吊るされた籠に捕らえられており、それを警備しているGoblinの内の一人へ話しかけた
+
+- Brawler Gurd: This ain't the party, pal. We're workin' here.
+  - [pal](https://ejje.weblio.jp/content/pal), (パ|ペ)↑ァル
+    - 名詞: 仲が良くない相手へお前・君、仲間、仲良し、友達
+    - Assoc: PALWORLD
+
+### 21, Eliasis - 0:14 - Sharp-Eye Zami
+
+Goblinが吊るされた籠に捕らえられており、それを警備しているGoblinの内の一人へ話しかけた
+
+- Sharp-Eye Zami: If I were you, I'd get my arse back to the party before somebody put me to work.
+  - [arse](https://ejje.weblio.jp/content/arse), アァス
+    - 名詞: 尻、肛門、ばか
+
+### 21, Eliasis - 0:15 - Warrior Clack
+
+Goblinが吊るされた籠に捕らえられており、それを警備しているGoblinの内の一人へ話しかけた
+
+- Warrior Clack: If yer close enough to talk with me, then yer too damn close.
+  - yer = you
+    - your としても使われる
+  - [then](https://en.wiktionary.org/wiki/then#Adverb), ゼ↑ェン
+    - 副詞: もしその場合は(=in that case)
+      - if と共に、接続詞的に用いる
+  - [damn](https://ejje.weblio.jp/content/damn), デ↑ェンム
+    - 副詞: すごく、ひどく、やけに
+  - ChatGPT訳: 俺と話ができるほど近ければ、お前は近すぎるんだ。
+
+### 21, Eliasis - 0:16 - Brawler Gurd
+
+- Brawler Gurd: Oh, bugger, off.
+  - [bugger off](https://en.wiktionary.org/wiki/bugger_off#Verb)
+    - 自動詞: 立ち去る、消える
+    - [bugger](https://ejje.weblio.jp/content/bugger), バ↑ドゥァ
+      - 他動詞: だめにする、故障させる、へとへとに疲れさせる、男色を行う
+
+### 21, Eliasis - 0:18 - Brakkal, Tav
+
+### 21, Eliasis - 0:28 - Brakkal
