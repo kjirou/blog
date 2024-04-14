@@ -769,6 +769,8 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
 
 ### 21, Eliasis - 0:16 - Brawler Gurd
 
+再び話しかけた
+
 - Brawler Gurd: Oh, bugger, off.
   - [bugger off](https://en.wiktionary.org/wiki/bugger_off#Verb)
     - 自動詞: 立ち去る、消える
@@ -777,4 +779,79 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
 
 ### 21, Eliasis - 0:18 - Brakkal, Tav
 
+奈落の上に吊り下げられた籠に捉えられている、Goblinへ話しかけた
+
+- Brakkal: Praise his ever-bleeding' axe, praise his throne of flamin' iron. Praise Maglubiyet!
+  - [ever](https://ejje.weblio.jp/content/ever)
+    - 副詞: いつも・常に(=always)
+  - ChatGPT訳: 彼の絶えず血を流す斧を讃えよ、彼の燃える鉄の玉座を讃えよ。マグルビエットを讃えよ！
+- Intelligence (Religion) Successful: Tav
+- Not Found
+- Brakkal: Tryin' to interrupt my prayers? Scared of a _real_ god? You're as gormless as the rest of 'em.
+  - [interrupt](https://ejje.weblio.jp/content/interrupt), イン・タァ・ラ↑ァプト
+    - 他動詞: 遮る、中断する、話の腰を折る、人の話などを中断させる
+  - [gormless](https://ejje.weblio.jp/content/gormless), ゴ↑ォム・レス
+    - 形容詞: 愚かな、頭の悪い
+  - ChatGPT訳: 私の祈りを邪魔しようとしているのか？本物の神を恐れているのか？お前も他の者たちと同じく無能だ。
+- Tav: How'd you land yourself in that cage?
+  - [land](https://ejje.weblio.jp/content/land)
+    - 他動詞: 〜に陥る
+    - land oneself
+  - ChatGPT訳: その檻にどうやって入ったんだ？
+- Brakkal: Cuz I'm loyal to Maglubiyet! Cuz I ain't havin' my 'ed turned by some upstart god!
+  - cuz = because
+  - [loyal](https://ejje.weblio.jp/content/loyal), ロ↑イヤル
+    - 形容詞: 忠実で、誠実で
+      - loyal to {対象}
+  - 'ed = head
+  - my 'ed の意味は？
+    - head の意味としては「思考や意思を司るものとしての頭」しかない、比喩表現
+  - [upstart](https://ejje.weblio.jp/content/upstart), ア↑ップ・スタァト
+    - 形容詞: 成り上がりの
+    - 同じ意味で名詞でも使える
+  - ChatGPT訳: マグルビエットに忠誠を誓っているからだ！新興の神に心を奪われるなどありえない！
+- Tav: I assume you mean the Absolute?
+- Brakkal: Year. My whole tribe's fallen for this shite. Traitorous bastards.
+  - [traitorous](https://ejje.weblio.jp/content/traitorous), チョレ↑イトレス
+    - 形容詞: 反逆罪の、裏切る、不忠な
+    - [traitor](https://ejje.weblio.jp/content/traitor), トレ↑イトォァ
+      - 名詞: 反逆者、裏切り者、売国奴
+  - ChatGPT訳: そうだ。私の部族全体がこのナンセンスに陥っている。裏切り者どもめ。
+- Brakkal: _The great Absolute brings us together. Drow and gnolls and goblins, all braidin' one another's hair._
+  - [bring together](https://en.wiktionary.org/wiki/bring_together)
+    - 他動詞: 一体感をもたらす、人々に一緒に何かをさせる
+  - [braid](https://ejje.weblio.jp/content/braid), ブレ↑ェィド
+    - 他動詞: 紐や髪などを編む・組む、お下げ髪にする
+    - Assoc: ゲームのBraid
+  - ChatGPT訳: 大いなるAbsoluteが私たちを一つにするんだ。ドロウとノールとゴブリンが、お互いの髪を編み合っている。
+- Brakkal: It's a load of shite!
+- Tav: You don't like your people mixing with outsiders?
+  - [mix](https://ejje.weblio.jp/content/mix), ミ↑ックス
+    - 自動詞: 人が他の人たちと親しくする・交際する、人が仲良くやって行く
+    - 他動詞の方は「混ぜる」と言う意味のみで、こちらの意味はない
+- Brakkal: Talkin' to you ain't I? I just don't believe in all this togetherness an' chumminess. Ain't natural.
+  - [togetherness](https://ejje.weblio.jp/content/togetherness), ト↑ゥ・ゲーザァ・ネス
+    - 名詞: 一体感、連帯感、親交、協調
+  - [chumminess](https://ejje.weblio.jp/content/chumminess), チャ↑ミンセェス
+    - 名詞: 仲良し
+    - [chummy](https://ejje.weblio.jp/content/chummy), チャ↑ミィ
+      - 形容詞: 仲の良い、仲良しの
+  - ChatGPT訳: あんたと話してるだろ？ この一体感や友情みたいなのは信じてない。自然じゃない。
+- Brakkal: It won't last. They'll be tearin' into each other soon enough.
+  - [tear into](https://en.wiktionary.org/wiki/tear_into#Verb)
+    - 他動詞: 激しい攻撃を受ける
+- Brakkal: But sod 'em all. I'll wait it out in 'ere, prayin' to a _real_ god.
+  - [sod](https://ejje.weblio.jp/content/sod)
+    - 他動詞: 呪う、罵る、困惑させる
+    - 「芝生」という意味もある
+    - 本文では、「奴ら全員くそったれだ」のように間投詞的に用いられていそう
+  - [wait out](https://en.wiktionary.org/wiki/wait_out#Verb)
+    - 他動詞: 最後まで待ち通す
+  - ChatGPT訳: しかし、それら全員を無視だ。ここで待って、本当の神に祈ります。
+  - Brakkalは崖の上に吊るされてるので、すごく危険な場所なんだけど、というオチ
+
 ### 21, Eliasis - 0:28 - Brakkal
+
+再び話しかけた
+
+- Brakkal:
