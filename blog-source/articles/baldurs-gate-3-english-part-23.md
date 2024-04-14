@@ -857,3 +857,22 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
 - Brakkal: You think this is funny? I'll be the one laughin' when things turn ugly. Safer in 'ere than out there.
   - ChatGPT訳: 面白いと思っているのか？物事が悪くなったとき、笑っているのは私の方だ。ここは外よりも安全だ。
   - Brakkalの居場所は崖の上に吊るされてるので、すごく危険な場所なんだけど、というオチ
+
+### 21, Eliasis - 0:32 - Narrator
+
+石畳の上で走り回っているネズミへ話しかけた
+
+- \*A longing for small spaces, stone walls hugging close. Confining. _Comforting._\*
+  - [longing](https://ejje.weblio.jp/content/longing), ロ↑ンギン
+    - 名詞: 憧れ、〜したいという切望
+  - [hug](https://ejje.weblio.jp/content/hug), ハッグ
+    - 自動詞: 抱き合う
+  - A longing for ((small spaces), (stone walls hugging close)).
+    - 壁で囲われた狭い空間のイメージ
+  - [confine](https://ejje.weblio.jp/content/confine), (カ|コ)ン・ファ↑ーイン
+    - 他動詞: 話題や発言を〜の範囲に限る・制限する、閉じ込める
+  - [comfort](https://ejje.weblio.jp/content/comfort), カ↑ン・フォート
+    - 他動詞: 安心させる、人を慰める、体を楽にする
+  - ChatGPT訳: 狭い空間、石の壁が近くに寄り添うことへの憧れ。制約されること。安心すること。
+- \*There is a light here, in the tight space beneath the floor. Secret things that _shine_.\*
+  - ChatGPT訳: 床の下の狭い空間に光がある。輝く 秘密のものたちがある。
