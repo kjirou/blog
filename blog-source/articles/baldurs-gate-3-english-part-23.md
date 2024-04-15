@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-23
-lastUpdatedAt: "2024-04-09 02:14:54+0000"
+lastUpdatedAt: "2024-04-15 23:02:56+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 23冊目
@@ -20,11 +20,12 @@ Selûneの石像を見たShadowheartがつぶやいた
   - [mingle](https://ejje.weblio.jp/content/mingle), ミ↑ィン・ゴゥ
     - 自動詞: 〜に入りまじる
       - mingle with {入る先}
+    - Assoc: tangle が「もつれる、巻き込む」で字面と意味が似てる
   - [horde](https://ejje.weblio.jp/content/horde), ホォァド
     - 名詞: 大群
       - a hode of または hodes of の用法で
   - ChatGPT訳: セルーン。まるでゴブリンの群れと交わるのが悪いことだけではないかのようだ。
-  - 他の神像が壊されている中で、なぜかセルーンの石像は壊されずにゴブリンの集団内に鎮座しており、それが異様であることを言っているのかもしれない
+  - 他の神像が壊されている中で、なぜかセルーンの神像は壊されずにゴブリンの集団内に鎮座している
 - Shadowheart: Let's do what we have to, then get out of here.
   - ChatGPT訳: やるべきことをやって、ここから出ましょう。
 - Tav: Not your usual haunt, I take it.
@@ -35,6 +36,10 @@ Selûneの石像を見たShadowheartがつぶやいた
     - 自動詞: 推測する(=supporse)
   - ChatGPT訳: いつもの場所じゃないと思うが。
 - Shadowheart: Quite the understatement, but yes. Let's not linger in this place any more than necessary.
+  - Let's not linger と使役動詞の否定はその位置に not なの？
+    - まず、イディオムとして Let's not があるので、少なくとも let's not に関してはそう
+    - 全体的にも、おそらくは準動詞の否定という文法に準拠しており、その位置に not で良さそう
+      - Ref: https://english-lab-japan.com/archives/3012
   - [linger](https://ejje.weblio.jp/content/linger), リ↑ンガァ
     - 自動詞: 居残る、後に残る、思い出や疑念や習慣や冬がなかなか去らない・消えない
     - 名詞の用法はない
@@ -100,7 +105,6 @@ Selûneの石像を見たShadowheartがつぶやいた
 - Devout Mrak: Make sure whoever we're stickin' it to knows we're doin' it for the Absolute.
   - Make sure / whoever we're stickin' it / to knows / we're doin' it for the Absolute.
   - ChatGPT訳: 私たちがそれを行っている相手が、私たちがアブソリュートのためにそれを行っていることを知るようにしなさい。
-  - 焼印を押される側の自分に言うべきではない文章だが、ここでは whoever ~ は結果的に you を意味しているのだろうか？
 
 ### 21, Eliasis - 16:07 - Devout Muzul
 
@@ -125,6 +129,7 @@ Selûneの石像を見たShadowheartがつぶやいた
   - ChatGPT訳: グット神官もあなたに触れる必要があります - 肉体に印を付けるために腕を差し出してください。
 - Tav: Why should I let you brand me?
 - True Soul Gut: Lets the faithful recognise one another quick-sharp. That way, nobody'll mess with you.
+  - Lets = Let's
   - [faithful](https://ejje.weblio.jp/content/faithful), フェ↑イス・ホゥ
     - 形容詞: 忠実な、誠実な
       - 特に、the形容詞の the faithful で「忠実な信者」の意味になる
@@ -161,6 +166,9 @@ Selûneの石像を見たShadowheartがつぶやいた
     - 他動詞: 計画や約束したことを実行する・続行する
     - [go through](https://en.wiktionary.org/wiki/go_through#Verb)
       - 自動詞: 何かの次の段階に進む
+  - I'd rather not は I wouldn't rather と意味は同じ？
+    - ChatGPT曰く、後者は意味が変わるし、自然な英語ではなく滅多に使わないとのこと
+    - なぜかは不明、 I would rather の組み合わせの時に不自然？
   - ChatGPT訳: 実は、これをやめたいんだ。
 - True Soul Gut: Maybe you don't need it. After all, you're special, ain't you? Like me.
   - ChatGPT訳: たぶん、君には必要ないんだろう。だって、君は特別だからね。僕と同じように。
@@ -238,6 +246,8 @@ Selûneの石像を見たShadowheartがつぶやいた
       - Ref: https://forgottenrealms.fandom.com/wiki/Zhentarim
   - ChatGPT訳: あなたは普通の商人ではないですよね？あなたはブラック・ネットワークの一員です。
 - Roah Moonglow: Half-right, sharp-eyes - a Zhent is a normal trader. Just a matter of what's for sale.
+  - Zhent
+    - D&D用語,名詞: Zhentarimの人
   - ChatGPT訳: 半分正解だ、鋭い目をしているな - ゼントは普通の商人だ。ただ何を売るかが問題なだけだ。
 - Roah Moonglow: Weapons and other... _exotic_ goods, true enough. But most of all, we offer discretion.
   - [exotic](https://ejje.weblio.jp/content/exotic), エ(ギ|グ)・ゾ↑ォーク
@@ -277,7 +287,7 @@ Selûneの石像を見たShadowheartがつぶやいた
 
 ある扉の門番をしているElf？へ話しかけた
 
-- Yerle: Wouldn't go in there, 'less you fancy blowing your bones all the way to Baldur's Gate.
+- Erna: Wouldn't go in there, 'less you fancy blowing your bones all the way to Baldur's Gate.
   - Wouldn't の意味は？
     - 願望の would の否定で「〜したいと思わない」、つまり「（お前は）そこへ入ろうと思わない」の意味
     - 転じて、強い拒絶や禁止の意味
@@ -311,7 +321,10 @@ Selûneの石像を見たShadowheartがつぶやいた
   - [hollow](https://ejje.weblio.jp/content/hollow), (ハ|ホ)↑ロゥ
     - 名詞: 穴、うつろ
     - 形容詞で「うつろの、凹んだ、こけた、音や声がうつろな・こもった」
+  - [smell](https://ejje.weblio.jp/content/smell), スメ↑(ル|ウ)
+    - 自動詞: 匂いや香りを発する・する
   - ChatGPT訳: 血の匂い。命の匂い。それは大きな空洞の下の死の匂いとは異なる。
+  - 後にわかるが、地下にはWorgが複数飼われており、それのことを言っている
 
 ### 21, Eliasis - 17:51 - Sharp-Eye Eef
 
@@ -328,17 +341,21 @@ Selûneの石像を見たShadowheartがつぶやいた
     - step には「足元」という意味はない
   - [down](https://ejje.weblio.jp/content/down)
     - 前置詞: 下方に
-  - down by the pens の意味は？
-    - 「下方にある囲いの近く」なのか「囲いの近くの下方」なのかがわからない
   - [pen](https://ejje.weblio.jp/content/pen), ペ↑ン
     - 名詞: 小さな囲い、動物を入れる檻
       - pigpens など、複合語になることもある
+  - down by the pens の意味は？
+    - 「下方にある囲いの近く」なのか「囲いの近くの下方」なのかがわからない
+  - [kind](https://en.wiktionary.org/wiki/kind#Noun), カァインド
+    - 名詞: グループ化できるような共通の性質をもつまとまり、家族
+    - 本文訳の「仲間」と言う意味は、直接はなさそう
   - [lately](https://ejje.weblio.jp/content/lately), レ↑イト・リィ
     - 副詞: 最近、近頃
     - [late](https://ejje.weblio.jp/content/late), レ↑イト
       - 形容詞: 遅れた、遅い、末期の、先の、前の、近年の
       - 意味が多様
   - ChatGPT訳: 囲いの近くでは足元に気をつけて。最近、あなたたちの仲間でウォーギーが太っているよ。
+  - 文意があまりわからない。仲間は食べさせられたからで過失ではないはず？皮肉なのかな。
 
 ### 21, Eliasis - 17:55 - Sharp-Eye Nass, Tav
 
@@ -389,7 +406,7 @@ Selûneの石像を見たShadowheartがつぶやいた
         - 今回は it が「ペット」で that が「容易に飼い慣らされなかったこと」のよう
         - IO へ範囲を指定するときは、広い範囲から一部のみを認めるような用法
   - ChatGPT訳: 新しいペットを見に行くのか？ 簡単には慣れなかったな、それは認めるよ。
-  - 誰のことなんだろう？
+  - ペットとは、Worgのことか、後にわかるがクマに化けたHalsinのことか、どちらかだと思う
 
 ### 21, Eliasis - 18:32 - Skrut, Tav
 
@@ -424,8 +441,8 @@ Selûneの石像を見たShadowheartがつぶやいた
 - Skrut: Load o' trollop. Jus't don't trust us to do what we do best - killin' things.
   - [trollop](https://ejje.weblio.jp/content/trollop)
     - 名詞: ばかげたこと、自堕落な女、売春婦
-    - Wiktionaryを見ても上記の意味書いてなく、人名の固有名詞になっている。とにかく悪い意味の言葉とだけ認識するとよさそう。
-      - それに、 A load of {悪い言葉} または loads or {悪い言葉}s で、「ばかげた、くだらない、おかしい」のような意味になる用法
+    - Wiktionaryを見ても上記の意味は書いてなく、人名の固有名詞になっている。とにかく悪い意味の言葉とだけ認識するとよさそう。
+      - A load of {悪い言葉} または loads or {悪い言葉}s で、「ばかげた、くだらない、おかしい」のような意味になる用法
   - ChatGPT訳: くだらない。ただ私たちが一番得意とすること、つまり殺すことを信用していないんだ。
 
 ### 21, Eliasis - 19:29 - Tav
@@ -524,10 +541,12 @@ Selûneの石像を見たShadowheartがつぶやいた
 - Warrior Trinzas: Forgive the reception, eh, mate? Had some intruders a while back. Can't be too careful.
   - [reception](https://ejje.weblio.jp/content/reception), ゥリ・セ↑ェプ・ション
     - 名詞: 応接、接待、歓迎、世間の反応、歓迎会、レセプション、受け取ること、受領、受理、入会
-  - [receipt](https://ejje.weblio.jp/content/receipt), ゥリ・シ↑ート
-    - 名詞: 領収書、レシート、受け取ること、領収
-    - 他動詞: 領収書を出す、領収書に署名する
-    - 間の i の有無が違うんだ
+    - [receipt](https://ejje.weblio.jp/content/receipt), ゥリ・シ↑ート
+      - 名詞: 領収書、レシート、受け取ること、領収
+      - 他動詞: 領収書を出す、領収書に署名する
+      - 間の i の有無が違うんだ
+  - Can't be too careful の意味は？
+    - 直訳で「私は注意しすぎる人になることはできない」
   - ChatGPT訳: 受付の様子を許してくれるかな、友よ？少し前に侵入者がいたんだ。慎重になりすぎることはない。
     - 正門入った直後に複数のGoblinが警備のために居る様子を、 the reception と言っている
 - Tav: Was there a druid among these intruders?
@@ -535,6 +554,10 @@ Selûneの石像を見たShadowheartがつぶやいた
   - chain up の意味は？
     - 「つなぎ上げる・終える」という意味だと思う
     - 慣用句はあるけど、本文には合わかった
+  - below の意味は？
+    - ここで言っている捕まえた one of them は、 hollering と言っているので、拷問を受けていた Liam の方を指していそう
+    - その場所は、奥まった場所にあるが、下方ではない。むしろちょっと上。
+    - below 自体には「奥に」と言う意味はなさそうで、わからない
   - [holler](https://ejje.weblio.jp/content/holler), ホ(ォ|ァ)↑ラァ
     - 自動詞: 叫ぶ、どなる、大声で言う、不平を言う
   - ChatGPT訳: ドルイド？確かではないが、下に一人繋いである。ただ叫び声に従っていけばいい。
@@ -557,7 +580,7 @@ Selûneの石像を見たShadowheartがつぶやいた
 - Sharp-Eye Gruz: This ain't the party, mate - no foolin' around. Get back down.
   - [fool around](https://en.wiktionary.org/wiki/fool_around#Verb)
     - 自動詞: 時間を無駄にする、軽薄な行動をする
-    - [fool](https://ejje.weblio.jp/content/fool)
+    - [fool](https://ejje.weblio.jp/content/fool), フ↑ゥォ
       - 自動詞: ふざける、バカな真似をする、ぶらつく
     - 訳の「冗談をする」と言う意味より、この慣用句の意味の方が適切そう
   - Get back down の意味は？
@@ -598,10 +621,6 @@ Goblin達の3人のリーダーの内の一人であるDrowが、配下と思わ
   - ChatGPT訳: 僕の肢体がなければ何の役にも立ちません！仲間がもうすぐ囚人を話させるでしょう、誓います！
 - Nightwarden Minthara: Silence now, creature. Or I will silence you forever.
 - \*As she turns to you, her thoughts mingle with yours, a cold hand caressing your brain.\*
-  - [mingle](https://ejje.weblio.jp/content/mingle), ミ↑ンゴォ
-    - 自動詞: 〜に入り混じる
-      - mingle with {対象}
-    - Assoc: tangle が「もつれる、巻き込む」で字面と意味が似てる
   - [caress](https://ejje.weblio.jp/content/caress), コォレ↑ェス
     - 他動詞: 愛撫する、愛撫するかのように軽く触る
 - \*The chamber melts away to reveal a dark, endless nowhere. In it, you see a vision - the drow listens as a pale-eyed young woman whispers in her ear.\*
@@ -609,6 +628,9 @@ Goblin達の3人のリーダーの内の一人であるDrowが、配下と思わ
     - 名詞: 室、会議所
   - [nowhere](https://ejje.weblio.jp/content/nowhere), ノ↑ゥ・ウェァ
     - 名詞: どことも知れぬ場所
+  - to reveal a ((dark, endless) nowhere)
+  - [listen](https://ejje.weblio.jp/content/listen), リ↑ッ・スン
+    - 自動詞: 意識して聞く・聞こうとする、従う
   - ChatGPT訳: 室が溶けて、暗くて無限の何もない場所が現れる。そこで、あなたは幻を見る - ドロウが、青白い目をした若い女性に耳打ちされるのを聞いている。
 - \*One of those the voice spoke of. One of the Chosen. The vision fades away...\*
   - One of those は誰？ the voice は何？
@@ -677,6 +699,10 @@ Goblin達の3人のリーダーの内の一人であるDrowが、配下と思わ
   - ChatGPT訳: 話せ、真の魂よ。狩りは間もなく始まるべきだ。
 - Tav: I spoke to the prisoner. He told me everything.
 - Nightwarden Minthara: Tell me what you know. The Absolute will reward us with such power if we find this place.
+  - [reward](https://ejje.weblio.jp/content/reward), ゥリ・ウォ↑ード
+    - 他動詞: 人に報いる
+      - reward O(=人)
+      - reward O(=人) with (=内容)
   - such power は何を指している？
     - 直訳だと「それほどの力」で前述されていると読めるが、あまりわからない
 - Tav: _Place your finger on a patch of forest, far from the grove._
@@ -771,7 +797,7 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
 
 再び話しかけた
 
-- Brawler Gurd: Oh, bugger, off.
+- Brawler Gurd: Oh, bugger off.
   - [bugger off](https://en.wiktionary.org/wiki/bugger_off#Verb)
     - 自動詞: 立ち去る、消える
     - [bugger](https://ejje.weblio.jp/content/bugger), バ↑ドゥァ
@@ -782,7 +808,7 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
 奈落の上に吊り下げられた籠に捉えられている、Goblinへ話しかけた
 
 - Brakkal: Praise his ever-bleeding' axe, praise his throne of flamin' iron. Praise Maglubiyet!
-  - [ever](https://ejje.weblio.jp/content/ever)
+  - [ever](https://ejje.weblio.jp/content/ever), エ↑ヴァ
     - 副詞: いつも・常に(=always)
   - ChatGPT訳: 彼の絶えず血を流す斧を讃えよ、彼の燃える鉄の玉座を讃えよ。マグルビエットを讃えよ！
 - Intelligence (Religion) Successful: Tav
@@ -794,7 +820,8 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
     - 形容詞: 愚かな、頭の悪い
   - ChatGPT訳: 私の祈りを邪魔しようとしているのか？本物の神を恐れているのか？お前も他の者たちと同じく無能だ。
 - Tav: How'd you land yourself in that cage?
-  - [land](https://ejje.weblio.jp/content/land)
+  - How'd = How did
+  - [land](https://ejje.weblio.jp/content/land), ラ↑ァーンド
     - 他動詞: 〜に陥る
     - land oneself
   - ChatGPT訳: その檻にどうやって入ったんだ？
@@ -830,6 +857,8 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
     - 自動詞: 人が他の人たちと親しくする・交際する、人が仲良くやって行く
     - 他動詞の方は「混ぜる」と言う意味のみで、こちらの意味はない
 - Brakkal: Talkin' to you ain't I? I just don't believe in all this togetherness an' chumminess. Ain't natural.
+  - [in all](https://en.wiktionary.org/wiki/in_all#Prepositional_phrase)
+    - 前置詞句: 全てを含んで・考慮して
   - [togetherness](https://ejje.weblio.jp/content/togetherness), ト↑ゥ・ゲーザァ・ネス
     - 名詞: 一体感、連帯感、親交、協調
   - [chumminess](https://ejje.weblio.jp/content/chumminess), チャ↑ミンセェス
@@ -841,7 +870,7 @@ Goblinが吊るされた籠に捕らえられており、それを警備して�
   - [tear into](https://en.wiktionary.org/wiki/tear_into#Verb)
     - 他動詞: 激しい攻撃を受ける
 - Brakkal: But sod 'em all. I'll wait it out in 'ere, prayin' to a _real_ god.
-  - [sod](https://ejje.weblio.jp/content/sod)
+  - [sod](https://ejje.weblio.jp/content/sod), ソァ↑ード
     - 他動詞: 呪う、罵る、困惑させる
     - 「芝生」という意味もある
     - 本文では、「奴ら全員くそったれだ」のように間投詞的に用いられていそう
