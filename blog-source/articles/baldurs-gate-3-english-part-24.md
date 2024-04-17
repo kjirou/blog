@@ -129,6 +129,76 @@ Goblin達の3人のボスの1人が、Mind Flayerの死体へ魔法を掛けて�
   - ChatGPT訳: ラグズリンの声で、あなたは尋ねる...
 - Tav: 'What were you doing in Faerûn?'
 - Dror Ragzlin: What were you doing in Faerûn?
-- \*\*
-- \*\*
-- \*\*
+- \*Ragzlin scowls, shocked by his own words, and a jolt shoots through your skull.\*
+  - [scowl](https://ejje.weblio.jp/content/scowl), スカ↑ゥル
+    - 自動詞: 怒ったり不機嫌で顔をしかめる・嫌な顔をする・にらみつける
+  - [jolt](https://ejje.weblio.jp/content/jolt), ジョ↑ォト
+    - 名詞: 精神的衝撃、驚き、ショック、急激な動揺、激しい上下動
+  - ChatGPT訳: ラグズリンは自分の言葉に驚き、顔をしかめます。そして、あなたの頭蓋骨を突き抜ける衝撃が走ります。
+  - なぜ、衝撃がTavの頭に発生するのだろう？
+- \*The creature speaks in visions - a swarm of githyanki dragon-riders, silver blades held high.\*
+  - [swarm](https://ejje.weblio.jp/content/swarm), スウ↑ォーム
+    - 名詞: ハチやアリなどの群れ、うじゃうじゃした群れ、大群、人や動物の群れ、大勢
+    - 他動詞で「群がる」の意味もある
+  - ChatGPT訳: その生き物は幻視で話します - ギシャンキのドラゴンライダーの群れが、銀色の剣を高く掲げています。
+- \*Control panels melting, flesh-pods spilled open.\*
+  - flesh-pods spilled open の意味は？
+    - (flesh-pods)=S (spilled)=V (open)=C 、「肉のカプセルが開きつつ中身がこぼれた」
+    - 通常は、 spilled は自動詞のとき補語を取らない
+  - ChatGPT訳: コントロールパネルが溶け、肉のカプセルが開かれます。
+  - そういうことを聞きたいんじゃないんだ
+- Dror Ragzlin: Gith on the hunt. They know something...
+  - ChatGPT訳: Gith が追っている。彼らは何かを知っている...
+- \*He is suspicious, confused by the question that fell from his lips. You proceed carefully...\*
+  - ChatGPT訳: その質問に対して疑念を抱き、困惑している。あなたは慎重に進む...
+- Tav: Why were the gith chasing that ship?'
+- Dror Ragzlin: Why were the gith chasing that ship?
+- \*You see dark tunnels lit by noxious pools of brine. The darkness spreads through the earth.\*
+  - [lit](https://ejje.weblio.jp/content/lit), リ↑ット
+    - light - lit | lighted - lit | lighted
+  - lit の意味は？
+    - 「池に反射する光により照らされている」
+  - [noxious](https://ejje.weblio.jp/content/noxious), ナ↑ァク・シャス
+    - 形容詞: 有害な、有毒な
+  - [brine](https://ejje.weblio.jp/content/brine), ブラ↑ァイン
+    - 名詞: 食品を保存するために大量の塩を入れた塩水
+  - ChatGPT訳: あなたは暗いトンネルを見ています。そのトンネルは塩水の有毒な池によって照らされています。暗闇が地球を覆っています。
+- \*The sky splits open, and nautiloids pour out of a void that consumes the stars.\*
+  - [consume](https://ejje.weblio.jp/content/consume), (カ|コ)ン・ス↑ゥーム
+    - 他動詞: 〜を食い飲み尽くす、火炎が焼き尽くす、浪費する
+  - ChatGPT訳: 空が裂けて、星々を飲み込む虚空からナウティロイドが溢れ出します。
+  - これ返答になってるのかな...?
+- Dror Ragzlin: What in the...?
+- \*Suspicion floods Ragzlin's mind. Your brain _howls_ as you force a final query into his throat.\*
+  - [howl](https://ejje.weblio.jp/content/howl), ハ↑ァゥゥ
+    - 自動詞: 犬やオオカミが遠吠えする、風がうなる、人が泣き喚く・怒号する
+  - ChatGPT訳: ラグズリンの心に疑念が溢れる。あなたは彼の喉に最後の質問を強引に押し込むと、あなたの脳が吠える。
+- Tav: 'Who is the Absolute?'
+- Dror Ragzlin: Who is... who...
+- Dror Ragzlin: You. You're no True Soul.
+- Tav: _Cast Detect Thoughts on him._
+- Intelligence Successful: Tav
+- Dror Ragzlin: _I won't take this disrespect lying down. I'm the boss! I'm the Absolute's_ Right Hand!
+  - [disrespect](https://ejje.weblio.jp/content/disrespect), ディス・リス・ペ↑クト
+    - 名詞: 無礼、失礼
+  - take this disrespect lying down の意味は？
+    - take=V (this disrespect)=O (lying down)=C
+    - lying down は直訳で「横たわったまま」、「そのままにする」の比喩表現
+      - lie down と言う慣用句はあるけど関係なさそう
+  - ChatGPT訳: この無礼を黙って受け入れるわけにはいかない。私がボスだ！私は絶対者の右腕だ！
+  - なお、斜体が Right Hand の直前で切れているのは、原文のまま
+- Tav: I would _never_ deceive the Absolute's Right Hand.
+- Dror Ragzlin: Right Hand, eh? Sounds like word's spreading!
+- Dror Ragzlin: You're right. You're a real True Soul. I felt it.
+  - 誤読ではなくて「疑われたけどお世辞で乗り切った」だけだよなぁ、こんな雑な展開ある？
+- \*The corpse collapses, silent once more.\*
+- Dror Ragzlin:
+- Dror Ragzlin:
+- Dror Ragzlin:
+- Dror Ragzlin:
+- Dror Ragzlin:
+- Dror Ragzlin:
+- Tav:
+- Dror Ragzlin:
+- Tav:
+- Dror Ragzlin:
