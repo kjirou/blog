@@ -188,9 +188,14 @@ Goblin達の3人のボスの1人が、Mind Flayerの死体へ魔法を掛けて�
   - ChatGPT訳: この無礼を黙って受け入れるわけにはいかない。私がボスだ！私は絶対者の右腕だ！
   - なお、斜体が Right Hand の直前で切れているのは、原文のまま
 - Tav: I would _never_ deceive the Absolute's Right Hand.
+  - [deceive](https://ejje.weblio.jp/content/deceive), デ・スィーブ
+    - 他動詞: 人を騙す・欺く
+  - ChatGPT訳: 絶対者の右腕を欺くなんて、私には絶対にできませんよ。
 - Dror Ragzlin: Right Hand, eh? Sounds like word's spreading!
+  - ChatGPT訳: 右腕、ね？言葉が広まってるみたいだ！
 - Dror Ragzlin: You're right. You're a real True Soul. I felt it.
-  - 誤読ではなくて「疑われたけどお世辞で乗り切った」だけだよなぁ、こんな雑な展開ある？
+  - ChatGPT訳: 君の言う通りだ。本当に真の魂だ。感じたよ。
+  - 疑われたけどお世辞で乗り切った展開ってこと？雑過ぎんか...
 - \*The corpse collapses, silent once more.\*
 - Dror Ragzlin:
 - Dror Ragzlin:
