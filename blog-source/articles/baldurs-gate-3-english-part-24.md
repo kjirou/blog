@@ -195,15 +195,259 @@ Goblin達の3人のボスの1人が、Mind Flayerの死体へ魔法を掛けて�
   - ChatGPT訳: 右腕、ね？言葉が広まってるみたいだ！
 - Dror Ragzlin: You're right. You're a real True Soul. I felt it.
   - ChatGPT訳: 君の言う通りだ。本当に真の魂だ。感じたよ。
-  - 疑われたけどお世辞で乗り切った展開ってこと？雑過ぎんか...
+  - 疑われたけどお世辞で乗り切った展開ってこと？
 - \*The corpse collapses, silent once more.\*
-- Dror Ragzlin:
-- Dror Ragzlin:
-- Dror Ragzlin:
-- Dror Ragzlin:
-- Dror Ragzlin:
-- Dror Ragzlin:
-- Tav:
-- Dror Ragzlin:
-- Tav:
-- Dror Ragzlin:
+- Dror Ragzlin: No. _No! I'm not done!_
+- Dror Ragzlin: Riddles, all of it. And nothing to show for the trouble but rotting squid meat.
+  - have nothing to show for
+    - イディオム: 〜の成果として何もない
+  - ChatGPT訳: 謎、それだけだ。苦労の末に得たものは腐ったイカの肉のみ。
+- Dror Ragzlin: Hmph. The damned drow was right. Can't let her get all the glory.
+  - ChatGPT訳: フン。その呪われたドロウが正しかった。彼女に全ての栄誉を奪われてはいけない。
+- Dror Ragzlin: Seems I ain't done with you. Report to the drow. Minthara's the name.
+  - ain't = am not
+    - have not でも通じそうだが、ChatGPT曰く違うとのこと
+  - [done](https://ejje.weblio.jp/content/done), ダ↑ァン
+    - 形容詞,叙述用法: 済んで、終了して、済ませて、終了して
+      - done with {済ませたこと}: 済ませて
+  - ChatGPT訳: まだ君との用事は終わっていない。ドロウのミンサラへ報告せよ。
+- Dror Ragzlin: She's mounting an attack on that blasted grove. Tell her you'll join her.
+  - [mount](https://ejje.weblio.jp/content/mount), マ↑ウント
+    - 他動詞: 戦闘や抗議などを準備する・開始する
+  - [blasted](https://ejje.weblio.jp/content/blasted), ブラ↑ァースト
+    - 形容詞,限定用法: のろわれた、ひどい、しなびた、希望などが打ちひしがれた、爆破された
+    - [blast](https://ejje.weblio.jp/content/blast), ブラ↑ァスト
+      - 名詞: らっぱなどのひと吹き、爆破
+      - 他動詞: らっぱなどを吹く、爆破する
+  - ChatGPT訳: 彼女がその呪われたグローブに攻撃を仕掛けている。彼女に合流すると伝えろ。
+- Tav: Can't you do your own dirty work?
+  - ChatGPT訳: 自分で汚れ仕事をできないのか？
+- Dror Ragzlin: Say that again? 'Cause I know I didn't just hear you refuse the Absolute.
+  - ChatGPT訳: もう一度言ってみろ？だって、絶対的存在を拒否したとは聞こえなかったぞ。
+  - あんまり意味がわからない。
+- Tav: Fine, fine. I'll talk to Minthara.
+  - ChatGPT訳: わかった、わかった。ミンタラと話すよ。
+- Dror Ragzlin: Falling in line. Just what I like to see.
+  - [fall in line](https://en.wiktionary.org/wiki/fall_in_line#Verb)
+    - 自動詞: より高い権威の規則に従う
+  - ChatGPT訳: 従順になる。それが俺が見たいことだ。
+
+### 21, Eliasis - 4:11 - Sharp-Eye Roo
+
+Ragzlinの周りにいるGoblinへ話しかけた
+
+- Sharp-Eye Roo: Dror Ragzlin's a True Soul. Lucky 'im, eh?
+
+### 21, Eliasis - 4:12 - Devout Cry
+
+Ragzlinの周りにいるGoblinへ話しかけた
+
+- Devout Cry: Boss put ya to work, eh?
+  - [put](https://ejje.weblio.jp/content/put), プ↑ゥト
+    - put - put - put
+    - 他動詞: 人を仕事などに就かせる
+      - put O(=人) to {名詞}
+  - ChatGPT訳: ボスはあなたに仕事をさせたのか？
+
+### 21, Eliasis - 4:12 - Warrior Huk
+
+Ragzlinの周りにいるGoblinへ話しかけた
+
+- Warrior Huk: Shh! Boss!
+
+### 21, Eliasis - 4:13 - Booyahg Gnat
+
+Ragzlinの周りにいるGoblinへ話しかけた
+
+- Booyahg Gnat: True Soul, eh? Ya look as plain as a turnip to' me.
+  - [turnip](https://ejje.weblio.jp/content/turnip), チ↑ャーニップ
+    - 名詞: カブ、カブの根
+  - to' = to you だが、それだと文法的におかしいので、 to の誤字のよう
+  - ChatGPT訳: 本当の魂か？お前はカブみたいに平凡に見えるな。
+
+### 21, Eliasis - 4:14 - Warlock Bolt
+
+Ragzlinの周りにいるGoblinへ話しかけた
+
+- Warlock Bolt: I'd do what he says. Ain't wanna make the boss any madder 'n he already is.
+  - ain't = do not 、do not で使われることは稀
+  - [any](https://ejje.weblio.jp/content/any), エ↑ニィ
+    - 副詞: 少しでも、いくらか
+      - 疑問文・否定文の時の意味
+  - 'n = and
+  - 'n he already is の意味は？
+    - この部分だけだと、「そして、彼は既に怒っている」
+    - 文全体の意味を解読すると、「少しでも怒らせたくない」 + 「彼はすでに怒っている」 = 「今以上怒らせたくない」
+  - ChatGPT訳: 彼の言うことを聞いた方がいい。ボスをこれ以上怒らせたくないからね。
+
+### 21, Eliasis - 4:15 - Narrator
+
+犯罪行為をしようとして、見つかった時に警告がでた
+
+- \*Not for communal use, it seems. Best show some respect - or some more cunning.\*
+  - [communal](https://ejje.weblio.jp/content/communal), カミュ↑ーナル
+    - 形容詞: 共有の、共用の、共同の、共同社会の
+    - [commune](https://ejje.weblio.jp/content/commune), カ↑・ミューンヌ
+      - 自動詞: 親しく交わる
+      - 名詞: 市町村自治体、地方自治体、地方自治体の住民、コミューン
+  - ChatGPT訳: 共同利用のためのものではないようだ。もっと敬意を示すべきだろう、あるいはもっと賢く行動するべきだ。
+
+### 21, Eliasis - 4:18 - Dror Ragzlin, Tav
+
+再び話した
+
+- Dror Ragzlin: What you needing now?
+- Tav: Goblins and drow, working together. But why?
+- Dror Ragzlin: The Absolute's got room for everyone long as you don't defy Her. And nobody's that stupid.
+  - long as = (as) long as
+  - [defy](https://ejje.weblio.jp/content/defy), ディ・ファ↑イ
+    - 他動詞: 年長者や命令などをものともしない・侮る・無視する・公然と反抗する
+  - ChatGPT訳: 「アブソリュート」は、彼女に逆らわなければ誰でも受け入れる。そして、そんな愚かな人はいない。
+- Dror Ragzlin: If the Absolute says to take orders from a drow, then we toe the mark, no questions.
+  - [toe the mark](https://en.wiktionary.org/wiki/toe_the_mark)
+    - = toe the line
+    - [toe the line](https://en.wiktionary.org/wiki/toe_the_line#Verb)
+      - 自動詞: 規則や慣例を遵守する
+      - [toe](https://ejje.weblio.jp/content/toe), ト↑ォウ
+        - 他動詞: 足先で触れる
+  - ChatGPT訳: アブソリュートがドロウに命令を受けるように言ったら、私たちは従うだけ。疑問はない。
+- Tav: I'm in need of a healer.
+- Dror Ragzlin: You look spiffy to me. What d'you need a healer for?
+  - [spiffy](https://ejje.weblio.jp/content/spiffy), スピ・フィ
+    - 形容詞: きちんとした、すばらしい、気の利いた
+- Tav: I'm closing some gaps in my group. Everyone needs a healer.
+  - [close](https://ejje.weblio.jp/content/close), クロ↑ォズ
+    - 他動詞: 隙間を塞ぐ・埋める
+  - [gap](https://ejje.weblio.jp/content/gap), ギャ↑ァップ
+    - 名詞: 壁などの割れ目・裂け目・隙間、年齢や意見の大きな隔たり・ずれ
+  - I'm closing some gaps in my group の意味は？
+    - 「メンバーの欠員を補充している」
+  - ChatGPT訳: 私のグループにいくつかの隙間を埋めています。誰もが癒し手を必要としています。
+- Dror Ragzlin: Well, let me know when you find one. Priestess Gut's better at causing pain than curing it.
+  - ChatGPT訳: 癒し手を見つけたら教えてくれ。プリーステス・ガットは痛みを引き起こすのが得意で、治すのは苦手だからね。
+- Tav: _Leave._
+
+### 21, Eliasis - 4:25 - Kagran, Tav
+
+再び話しかけた
+
+- Kagran: That was... intense. Wouldn't want to bump into that thing while it was still alive.
+  - [intense](https://ejje.weblio.jp/content/intense), イン・テ↑ンス
+    - 形容詞: 光や温度が激しい・強烈な、感情などが熱烈な・極端な、人が熱情的な
+    - [tense](https://ejje.weblio.jp/content/tense), テ↑ンス
+      - 形容詞: 綱などがぴんと張った、神経や感情が張り詰めた、緊張した、堅苦しい
+  - [bump into](https://en.wiktionary.org/wiki/bump_into#Verb)
+    - 他動詞: 偶然会う、衝突する
+  - ChatGPT訳: それは…激しかったね。あれがまだ生きているうちに遭遇したくないな。
+- Tav: But goblins give you no pause?
+  - [pause](https://en.wiktionary.org/wiki/pause#Noun), ポォァズ
+    - 名詞: ためらい(=hesitation)、疑い
+  - ChatGPT訳: でも、ゴブリンは気にならないの？
+- Kagran: Someone needs to keep an eye on these buggers.
+  - ChatGPT訳: 誰かがこのやつらを見張っていないといけないんだ。
+- Kagran: I don't make a habit of questioning the Absolute. Now quiet.
+  - [question](https://ejje.weblio.jp/content/question), クゥェ↑スチョン
+    - 他動詞: 疑う、問題とする
+  - Now quiet の意味は？
+    - 直訳だと「今は静かに」
+    - ChatGPTによると、話を打ち切る表現とのこと
+  - ChatGPT訳: 絶対者に疑問を抱く習慣はない。静かにしろ。
+  - 全体的に会話が唐突なように見えて、文意がわからない。
+
+### 21, Eliasis - 4:39 - Narvass
+
+再び話しかけた
+
+- Narvass: I wouldn't dawdle if I were you. I doubt True Soul Minthara has much patience left.
+  - [dawdle](https://ejje.weblio.jp/content/dawdle), ド↑ォードォ
+    - 自動詞: ぐずぐずする、のらくらする
+  - [patience](https://ejje.weblio.jp/content/patience), ペ↑ェィ・シェンツ
+    - 名詞: 忍耐、根気、辛抱強さ
+  - ChatGPT訳: 私なら急ぐでしょう。True Soul Mintharaがあとどれくらい忍耐を持っているか、疑問です。
+
+### 21, Eliasis - 4:43 - Narvass
+
+再び話しかけた
+
+- Narvass: A warning: do _not_ disappoint Minthara.
+  - [disappoint](https://ejje.weblio.jp/content/disappoint), ディス・ア・ポ↑ォイント
+    - 他動詞: 人を失望させる、計画などをだめにする
+  - ChatGPT訳: 警告：ミンサラを失望させないでください。
+
+### 21, Eliasis - 5:59 - Narrator
+
+ネズミへ話しかけた
+
+- \*You feel the rat twitching on the edge of panic - something waits in the great hollow below.\*
+  - [twitch](https://ejje.weblio.jp/content/twitch), トゥイ↑ッチ
+    - 自動詞: びくびくする、ひきつる
+    - Assoc: オンラインストリーミングサービスのTwitchの名称は、 twitch gameplay:「互いの反応を待つゲームの種類」 を由来にしているそうな
+      - Ref: https://en.wikipedia.org/wiki/Twitch_(service)#History
+      - Ref: https://en.wikipedia.org/wiki/Twitch_gameplay
+  - the rat twitching on the edge of panic の意味は？
+    - 直訳だと「パニックの縁でびくびくしている」、「パニックになりかけている」の比喩表現
+  - ChatGPT訳: あなたはネズミがパニックの瀬戸際でぴくぴくと動くのを感じます - 何かが大きな空洞の下で待っています。
+
+### 21, Eliasis - 6:17 - Warrior Plig
+
+休憩中の警備兵へ話しかけた
+
+- Warrior Plig: Steal somethin' or act the bollocks, will ya? I'm itching to throw someone in the brig. It'll be fun. I _promise_.
+  - [bollock](https://ejje.weblio.jp/content/bollock)
+    - 名詞: 睾丸
+    - 総じて「ひどいこと」のような意味のよう
+  - [itch](https://ejje.weblio.jp/content/itch), イ↑ィッチ
+    - 自動詞: 〜がしたくてむずむずする
+      - itch to Verb
+  - [brig](https://ejje.weblio.jp/content/brig), ブリッグ
+    - 名詞: 刑務所、艦内の営倉
+  - ChatGPT訳: 何か盗んだり、ばか騒ぎでもしろよ。誰かを牢に放り込むのが待ちきれないんだ。楽しいって、約束するよ。
+
+### 21, Eliasis - 6:31 - Beastmaster Zurk
+
+Worgやクマを監視中のGoblinへ話しかけた
+
+- Beastmaster Zurk: Hands off. This one's for the pups.
+  - [pup](https://ejje.weblio.jp/content/pup), パ↑ァプ
+    - 名詞: 子犬
+  - ChatGPT訳: 手を出すな。これは子犬のためだ。
+
+### 21, Eliasis - 6:32 - Butcher Vrak
+
+Worgやクマを監視中のGoblinへ話しかけた
+
+- Butcher Vrak: 'Ere to see the bear? Just follow the noise. Worgs 'ave been goin' crazy for it.
+  - [go crazy](https://en.wiktionary.org/wiki/go_crazy#Verb)
+    - 自動詞: 夢中になる(=go mad)、気が狂う(=go mad)、突然非合理的な行動をする
+  - ChatGPT訳: クマを見に来たのか？うるさい音に従っていけばいい。ワーグたちがそれに夢中になっているんだ。
+- Butcher Vrak: Just hope these scraps will satisfy the bunch when they're in this state.
+  - [scrap](https://ejje.weblio.jp/content/scrap), スクラ↑ァップ
+    - 名詞: 食べ残し、残り物
+      - 複数形で使う
+  - [bunch](https://ejje.weblio.jp/content/bunch), バ↑ァンチ
+    - 名詞: 群れ、一団
+  - ChatGPT訳: この状態のときに、この残り物で連中を満足させられるといいがな。
+
+### 21, Eliasis - 7:22 - Tav
+
+牢屋の壁に、穴を掘っている途中で力尽きた死体が挟まっていた
+
+- \*Decaying legs protrude from the hole - a failed escape, it seems.\*
+  - [decay](https://ejje.weblio.jp/content/decay), デケ↑ェイ
+    - 自動詞: 腐る、虫歯になる、質や体力が衰える
+  - [protrude](https://ejje.weblio.jp/content/protrude), プロ・トュ↑ード
+    - 自動詞: 突き出る、はみ出る
+- Tav: _Inspect the body._
+- Intelligence (Investigation) Save Failed: Tav
+- \*You notice the corpse is very dead, but that's all.\*
+- Tav: _Pull the body free._
+- \*The body comes loose, revealing a tunnel. Perhaps you can escapse where he failed.\*
+  - [loose](https://ejje.weblio.jp/content/loose), ル↑ゥーズ
+    - 形容詞: 拘束や束縛から解放されて
+  - ChatGPT訳: 体がずれてトンネルが現れました。もしかしたら、彼が失敗したところであなたは脱出できるかもしれません。
+
+### 21, Eliasis - 7:53 - Three, One, Brawler Birka, Cave Bear, Shadowheart
+
+牢獄に入れられたクマに対して、Goblin達が石を投げて遊んでいた。
+
+なお、ここではTavではなくShadowheartで話しかけている。
