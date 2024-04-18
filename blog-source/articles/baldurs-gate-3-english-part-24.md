@@ -451,3 +451,126 @@ Worgやクマを監視中のGoblinへ話しかけた
 牢獄に入れられたクマに対して、Goblin達が石を投げて遊んでいた。
 
 なお、ここではTavではなくShadowheartで話しかけている。
+
+- Three: See?! It squeled!
+  - [squeal](https://ejje.weblio.jp/content/squeal), スクウィ↑ール
+    - 自動詞: 子供などが苦痛や驚きや喜びなどでキーキー鳴く・悲鳴をあげる
+- One: Hit it again!
+- Brawler Birka: Keep yer hand steady, Three
+  - ChatGPT訳: お前の手を安定させろ、Three
+- Three: Hmph.
+- Cave Bear: \*Growl.\*
+- One: Again! Again! Make it squeal again!
+- Shadowheart: What the hells are you doing?
+  - [the hell](https://en.wiktionary.org/wiki/the_hell#Adverb)
+    - 副詞: 疑問詞や関係代名詞を悪口として強調する表現
+  - ChatGPT訳: 何をしているんだ、一体？
+- Brawler Birka: We're juicing it up. The beast came in here with those robbers. Killed Dink - and Mince, too.
+  - juicing it up の意味は？
+    - juice や juice up の意味に適切そうなものがなくてわからなかった。
+    - 字面からだと「我々が楽しんでいる」になりそうだけど、直後の文との関係が薄い
+  - [robber](https://ejje.weblio.jp/content/robber), ラ↑バァ
+    - 名詞: 泥棒、強盗
+    - [rob](https://ejje.weblio.jp/content/rob), ラ↑ァブ
+      - 他動詞: 人から強盗する・略奪する
+- Brawler Birka: Boss's thinkin' of servin' it to the worgs.
+- Three: _And_ it makes funny noises.
+- One: We made it squeal!
+- Three: Look, look, you'll see. Gimme that rock. I'll show ya!
+  - Gimme = Give me
+  - ChatGPT訳: 見て、見てくれ。この石をくれ。見せてやるから！
+- Shadowheart: How about a taste of your own medicine?
+  - a taste of one's own medicine
+    - イディオム: 他人に与えた不愉快を同種のことで報復される表現、自業自得、しっぺ返し
+  - ChatGPT訳: 自分の薬を味わってみるか？
+- Cave Bear: \*Roar!\*
+  - この後に牢屋の鉄格子がクマに押されて外れ、倒れたそれの下敷きになってBrawler Birkaが死亡する。その後にクマがゲストの仲間で戦闘開始。
+
+### 21, Eliasis - 10:01 - Halsin, Shadowheart
+
+先のCave BearはHalsinの化けた姿で、戦闘後に人の姿に戻り話しかけられた
+
+- Halsin: Pardon the viscera. One should cherish all of nature's bounty... but goblin guts are quite far down the list.
+  - [viscera](https://ejje.weblio.jp/content/viscera), ヴィ↑ッ・ソラ
+    - 名詞: 内臓、腸、はらわた
+  - Pardon the viscera の意味は？
+    - ChatGPT曰く、「内臓の話題を挙げてしまい申し訳ありません」の文意
+  - [cherish](https://ejje.weblio.jp/content/cherish), チェ↑リッシュ
+    - 他動詞: 愛情を込めて大事にする・可愛がる、望みや信仰や恨みなどを心に抱く
+  - [bounty](https://ejje.weblio.jp/content/bounty), バ↑ンティ
+    - 名詞: 惜しみなく与えられたもの、賜物、博愛、寛大、助成金
+  - goblin guts are quite far down the list の意味は？
+    - 「ゴブリンの内臓はリストのとても下にある」
+    - the list は「価値のあるものをその順に並べる一覧」の意味
+  - ChatGPT訳: 内臓には申し訳ないです。自然の恵みを大切にすべきですが...ゴブリンの内臓はかなり低い位置にあります。
+- Halsin: You aided a bear without knowing if it would savage you? A true friend of nature - or perhaps a lunatic.
+  - [aid](https://ejje.weblio.jp/content/aid), エィ↑ド
+    - 他動詞: 手助けする、手伝う
+      - help より形式的
+    - 名詞: 助力、救助
+  - [savage](https://ejje.weblio.jp/content/savage), サ↑ァ・ベッジ
+    - 他動詞: 暴れて噛みつく、猛烈に非難する
+    - 形容詞で「残忍な、獰猛な」
+    - Assoc: サベージ・ファイターみたいなやつ
+  - [lunatic](https://ejje.weblio.jp/content/lunatic), ル↑ゥ・ナ・ティック
+    - 名詞: 狂人、精神異常者、変人
+    - 形容詞: 狂気じみた、馬鹿げた、精神異常の
+  - ChatGPT訳: 熊を助けたのに、それが自分を襲うかどうかわからなかったのですね？本当に自然の友達ですね — あるいは、気が狂っているのかもしれません。
+- Halsin: Either way, I owe thanks. I am the druid Halsin.
+  - ChatGPT訳: どちらにせよ、感謝の意を表します。私はドルイドのハルシンです。
+- Shadowheart: Glad I could be of help.
+- Halsin: I must admit, I didn't expect anyone would come to my aid. Who in their right mind would infiltrate a goblin infested temple. Unless...
+  - [admit](https://ejje.weblio.jp/content/admit), (ア|エ)ド・ミット
+    - 自動詞: 認める、告白する
+  - I must admit の意味は？
+    - 直訳で「私は認めるべきだ」、意訳で「正直言って」
+  - [infiltrate](https://ejje.weblio.jp/content/infiltrate), イン・フィ↑ル・トレイト
+    - 他動詞: しみ込む・浸透する、物質や思想を染み込ませる
+  - [infest](https://ejje.weblio.jp/content/infest), イン・フェ↑ェスト
+    - 他動詞: 害虫や海賊が荒らす・横行する、害虫が動物などにたかる・寄生する
+  - ChatGPT訳: 本当に誰かが助けに来てくれるとは思っていませんでした。どうして正気のある人がゴブリンに満ちた寺院に潜入するんでしょうか。もしかして...
+- Halsin: ...Hrrm, That look in your eyes - I've seen it before. Are you feeling all right?
+  - That look in your eyes の意味は？
+    - 直訳だと「あなたの目の中の表情・顔つき」、少し意訳して「あなたの目の中の様子」になる？
+    - look は「表情、外見」という意味で、「見えるもの一般」という意味はない
+  - ChatGPT訳: ...うーん、その目の表情は前にも見たことがあります。大丈夫ですか？
+- Halsin: Oak Father preserve you, child... You're infected, aren't you? The mind flayers' spawn.
+  - [preserve](https://ejje.weblio.jp/content/preserve), プレ・ザ↑ァーブ
+    - 他動詞: 損傷や危険から保護する・守る、保存する、維持する
+  - [infect](https://ejje.weblio.jp/content/infect), イン・フェ↑クト
+    - 他動詞: 病気が人や傷口へ病気をうつす、感染させる、汚染する
+  - [spawn](https://ejje.weblio.jp/content/spawn), スポ↑ォーン
+    - 名詞: 魚やカエルなどの卵、うじゃうじゃいる子供
+- Halsin: But... somthing's _different_. You're aware of the monster inside you. You don't bow to the Absolute, like the True Souls do...
+  - [bow](https://ejje.weblio.jp/content/bow), バ↑ァウ
+    - 自動詞: 屈服する、従う
+      - bow to {従う対象}
+- Halsin: How is this possible...?
+- Shadowheart: I escaped from an illithid ship after being infected. Maybe the process was interrupted.
+- Halsin: Perhaps... but I wouldn't want to place all my faith in blind luck.
+  - [faith](https://ejje.weblio.jp/content/faith), フェ↑イス
+    - 名詞: 確信、信念
+  - [blind](https://ejje.weblio.jp/content/blind), ブラ↑ァインド
+    - 形容詞: 盲目の、目の不自由な、見通しが効かない、無計画な
+  - blind luck の意味は？
+    - 「完全な運」
+  - ChatGPT訳: たしかに…でも、私はただの幸運を信じるわけにはいかない。
+- Halsin: It's no coincidence that you found me here, I'll wager? You're after a cure for this parasite.
+  - [coincidence](https://ejje.weblio.jp/content/coincidence), コ・ゥイ↑ン・シ・デンス
+    - 名詞: 偶然の一致、同時発生すること
+    - [incidence](https://ejje.weblio.jp/content/incidence), イ↑ン・スィ・デンス
+      - 名詞: 出来事の発生・発生率、影響範囲
+      - [incident](https://ejje.weblio.jp/content/incident), イ↑ン・スィ・デント
+        - 名詞: 出来事、重大事件に発展する可能性がある事件
+  - [wager](https://ejje.weblio.jp/content/wager), ウェ↑ィ・ジャァ
+    - 他動詞: 金などを賭ける
+  - [after](https://ejje.weblio.jp/content/after), (エ|ア)↑ーフタァ
+    - 前置詞: 〜の後を追って、〜を求めて、〜を追求して
+  - ChatGPT訳: ここであなたに会ったのも偶然じゃない、賭けてもいい。この寄生虫の治療法を求めているんだろう？
+  - 結論として運命だってことになったら、つまらないなぁ...
+- Halsin:
+- Halsin:
+- Halsin:
+- Halsin:
+- Halsin:
+- Shadowheart:
