@@ -417,6 +417,8 @@ Worgやクマを監視中のGoblinへ話しかけた
 Worgやクマを監視中のGoblinへ話しかけた
 
 - Butcher Vrak: 'Ere to see the bear? Just follow the noise. Worgs 'ave been goin' crazy for it.
+  - [butcher](https://ejje.weblio.jp/content/butcher), ブ↑ッチャァ
+    - 名詞: 虐殺者、畜殺者、肉屋
   - [go crazy](https://en.wiktionary.org/wiki/go_crazy#Verb)
     - 自動詞: 夢中になる(=go mad)、気が狂う(=go mad)、突然非合理的な行動をする
   - ChatGPT訳: クマを見に来たのか？うるさい音に従っていけばいい。ワーグたちがそれに夢中になっているんだ。
@@ -568,9 +570,358 @@ Worgやクマを監視中のGoblinへ話しかけた
     - 前置詞: 〜の後を追って、〜を求めて、〜を追求して
   - ChatGPT訳: ここであなたに会ったのも偶然じゃない、賭けてもいい。この寄生虫の治療法を求めているんだろう？
   - 結論として運命だってことになったら、つまらないなぁ...
-- Halsin:
-- Halsin:
-- Halsin:
-- Halsin:
-- Halsin:
-- Shadowheart:
+- Halsin: I've been studying these parasites for a while now. Ever since I discovered these so-called True Souls are infected with them.
+  - ever since の意味は？
+    - since 単体と比べると、「ある時点以来」という意味は同じ
+    - ever since は、その時点が特別であったという意味を強調する
+  - ChatGPT訳: これらの寄生虫の研究をしばらくしています。これらいわゆる「真の魂」が感染していることを発見してからです。
+- Halsin: Someone is using very powerful magic to modify these tadpoles. They are using them to exert control over the infected.
+  - [exert](https://ejje.weblio.jp/content/exert), エグ・ザ↑ァト
+    - 他動詞: 力などを用いる・働かせる
+  - ChatGPT訳: 誰かがこれらのオタマジャクシを変更するために非常に強力な魔法を使っています。感染者に対してコントロールを行使するためです。
+- Halsin: I'm sorry to say, I can't undo that magic, which means I can't cure you. But that doesn't mean I can't help.
+  - ChatGPT訳: その魔法を解くことはできませんので、あなたを治すこともできませんが、それでも助けることはできます。
+- Halsin: I didn't find what I came here for - a way to remove the tadpoles - but I found the next best thing. I found out where they come from.
+  - I came here の品詞は？
+    - 基本的に come は自動詞としてしか「来る」の意味はない、つまり here は副詞
+  - find out と find の違いは？
+    - find は「物理的・抽象的なもの単に見つける」
+    - find out は「発見する」で新たな情報や真実を得るという意味が強い、探す行為を伴わない時にも使う
+  - ChatGPT訳: 私がここに来た目的、つまりタドポールを取り除く方法を見つけられませんでしたが、次善の策を見つけました。それらがどこから来るのかが分かりました。
+- Halsin: That must be where these enchantments are placed on them, and it's where you'll find your cure.
+  - place に「かける」の意味はある？
+    - ない。「置く」を比喩表現で使っている。
+  - ChatGPT訳: その場所でそれらに魔法がかけられているはずで、そこであなたの治療法を見つけることでしょう。
+- Shadowheart: Tell me what you've learned about the tadpoles' origins.
+  - [origin](https://ejje.weblio.jp/content/origin), オ↑ォリ・ズィン
+    - 名詞: 起源、源泉、発端、原因
+- Halsin: I overheard that the cultists are sending all of their captives to Moonrise Towers.
+  - [overheard](https://ejje.weblio.jp/content/overheard), オゥバァ・(ハ|ヘ)↑ァード
+    - overhear - overheard - overheard
+    - [overhear](https://ejje.weblio.jp/content/overhear), オゥバァ・ヒ↑ィーア
+      - 他動詞: 話し手に気づかれずにふと耳にする
+        - 偶然の意味が強い
+- Halsin: Innocents go in, True Souls come out. Given that all of these True Souls are infected, it has to be the source of this magic.
+  - [given that](https://en.wiktionary.org/wiki/given_that#Conjunction)
+    - 接続詞: 〜という事実を考慮して
+  - ChatGPT訳: 無実の者たちが入り、真の魂たちが出てくる。これらの真の魂がすべて感染していることから、この魔法の源泉であることは間違いない。
+- Halsin: If you want to find a cure, you must head there and discover how the tadpoles are being manipulated.
+  - [manipulate](https://ejje.weblio.jp/content/manipulate), メニピュレイト
+    - 他動詞: 人や市場や世論などを巧みに操作する・操る、機械や道具を巧みに操作する
+- Shadowheart: You seem to know a lot about this. Will you come with me to Moonrise?
+- Halsin: I wish I could, but there's still work I've yet to finish - blood I've yet to spill.
+  - ChatGPT訳: 行けたらいいのですが、まだ終わっていない仕事があります - まだ流していない血があります。
+- Halsin: I've no right to ask more of you... but if you could help me, I'd be free to join your journey to Moonrise.
+  - ChatGPT訳: あなたにもう頼む権利はありませんが…もし助けてくれるなら、ムーンライズへの旅に参加できます。
+- Halsin: I cannot allow these butchers to threaten my grove. The natural order must be protected.
+  - ChatGPT訳: 私はこの虐殺者たちが私の森を脅かすのを許すわけにはいきません。自然の秩序を守らなければなりません。
+- Shadowheart: All right. How do I help?
+- Halsin: My thanks. If you prevail, I'll owe you the debt of a lifetime.
+  - [prevail](https://ejje.weblio.jp/content/prevail), プリ・ヴェ↑イウ
+    - 自動詞: 打ち勝つ、勝る、優勢である、流行している
+  - [lifetime](https://ejje.weblio.jp/content/lifetime), ラ↑イフ・タァイム
+    - 名詞: 生涯、ものの寿命、存続期間
+  - ChatGPT訳: ありがとう。君が成功すれば、一生の借りができる。
+- Halsin: Rare is the beast that survives decapitation. Help me eliminate the drow Minthara, the hobgoblin Dror Ragzlin, and that perversion of a priestess, Gut.
+  - [decapitation](https://ejje.weblio.jp/content/decapitation), ディ・キャーピ・テイション
+    - 名詞: 斬首、打ち首
+    - [decapitate](https://ejje.weblio.jp/content/decapitate), ディー・キ↑ャーピテイト
+      - 他動詞: 特に処刑として人の首を切る
+      - [capitate](https://ejje.weblio.jp/content/capitate)
+        - 形容詞: 有頭の、部位の先端が頭状の
+  - [eliminate](https://ejje.weblio.jp/content/eliminate), (エ|イ)↑リミネイト
+    - 他動詞: 除去する、殺す
+  - ChatGPT訳: 首を切られても生き残る獣は稀だ。ドロウのミンサラ、ホブゴブリンのドロー・ラグズリン、そしてその邪悪な司祭、グットを排除する手伝いをしてくれ。
+- Halsin: They are the ones holding these parasites together. Remove them and nature will cure itself.
+  - [hold together](https://en.wiktionary.org/wiki/hold_together#Verb)
+    - 他動詞: 一緒に留まるようにする、束ねる
+  - ChatGPT訳: 彼らがこの寄生虫を束ねている。彼らを取り除けば、自然が自らを癒すだろう。
+- Shadowheart: I'll deal with this. You get to safety.
+  - ChatGPT訳: これは私が対処します。あなたは安全な場所へ行ってください。
+- Halsin: There is no safety. Not while this rot festers. Once it is cut out - once the grove is secure - then I shall leave.
+  - [fester](https://ejje.weblio.jp/content/fester), フェ↑ス・タァ
+    - 自動詞: 傷口などが膿む・ただれる
+  - ChatGPT訳: 安全な場所などありません。この腐敗が消え去るまでは。それが除去され、森が安全になれば、私も去ります。
+- Shadowheart: Follow me, then. Your bear form may prove useful.
+  - ChatGPT訳: 私について来てください。あなたの熊の形態は役に立つかもしれません。
+- Halsin: Be warned - my presence could make things more difficult... I can only restrain my bear form so much. I won't be able to help but attack goblins.
+  - [restrain](https://ejje.weblio.jp/content/restrain), ゥリ・ストレイン
+    - 他動詞: 感情や欲望を抑える・抑制する
+  - [so much](https://en.wiktionary.org/wiki/so_much#Adverb)
+    - 副詞: ある程度・範囲
+  - I can only restrain my bear form so much の意味は？
+    - 直訳で「私は私の熊の形態を抑えることはある程度だけできる」
+  - I won't be able to help but attack goblins の意味は？
+    - I won't be able to help but = I can't help but のよう
+    - can't help but
+      - イディオム: 〜せずにはいられない、〜すべきだ
+      - なお、Wiktionaryだと、 can't help but = cannot but になっていて、 cannot but の意味には「〜せずにはいられない」とまでは書いてない。書いてあるのは = have to まで。
+  - ChatGPT訳: 注意してください - 私がいると事態が難しくなるかもしれません... 私の熊の形態を抑えることはそれほどできません。ゴブリンを攻撃せずにはいられません。
+- Halsin: If I join you, we'll likely have to slaughter this entire place. You may want to use discretion when approaching the goblin leaders.
+  - [likely](https://ejje.weblio.jp/content/likely), ラ↑ィクリィ
+    - 副詞: たぶん、おそらく
+  - may want to
+    - イディオム: 丁寧な提案の表現、〜した方が良い
+    - might want to の方がより控え目、ビジネスだと might の方が多そう
+  - [discretion](https://ejje.weblio.jp/content/discretion), ディス・クレ・ション
+    - 名詞: 慎重、思慮分別、自由裁量
+  - ChatGPT訳: もし私があなたと一緒に行くなら、この場所全体を皆殺しにしなければならないかもしれません。ゴブリンのリーダーたちに近づくときは慎重に行動することをお勧めします。
+- Shadowheart: Stay here.
+- Halsin: May Silvanus guide your hand. Focus on the leaders - that's all it will take to restore the balance here.
+  - that's all の意味は？
+    - ここでは、「〜だけで十分である」という意味で使われている、おそらくはイディオムではない
+      - all は、おそらく名詞の「すべてのこと」という意味
+    - Wiktionaryに慣用句として載っているのは、「話を切り上げる表現、言いたいことは〜だけだ」のみだった
+  - ChatGPT訳: シルヴァヌスがあなたの手を導きますように。リーダーに焦点を当ててください - それだけでここはバランスが取り戻されます。
+
+### 21, Eliasis - 11:47 - Halsin, Tav, Shadowheart
+
+操作対象をTavへ切り替えて、再度話した
+
+- Halsin: The ringleaders have to die. The very natural order of things is in danger, thanks to them.
+  - [ringleader](https://ejje.weblio.jp/content/ringleader), ゥリ↑ング・リーダァ
+    - 名詞: 暴動などの首謀者、張本人
+  - [very](https://ejje.weblio.jp/content/very), ヴェ↑リィ
+    - 形容詞,限定用法: 強調の表現、まさしくその、ちょうどその、他ならない
+  - The very natural order の意味は？
+    - 「（あの非常に大事で侵されるべきではない）自然の秩序そのものが」というような意味
+  - ChatGPT訳: リングリーダーは死ななければなりません。彼らのおかげで、非常に自然な秩序が危険にさらされています。
+- Tav: Tell me what you know about Moonrise Towers.
+- Halsin: Travelling to Moonrise is no small task. Expect dangers like you've never seen before.
+  - [expect](https://ejje.weblio.jp/content/expect), エクス・ペ↑クト
+    - 他動詞: かなりの確信と根拠で事が起こることを期待する・予期する
+- Tav: What's so dangerous about it?
+- Halsin: To get to the Towers, you'll need to pass through a trerrible place - a _cursed_ place.
+- Halsin: This curse shrouds everyshings in shadow - you will not find life, light, or anything natural there.
+- Halsin: Any who linger are twisted by the curse; they become shadow beings - tormented, _dangerous_ souls.
+  - Any who linger are の Any は複数形？
+    - その通り、複数形でも使える
+  - [torment](https://ejje.weblio.jp/content/torment), トォメント
+    - 他動詞: 人を精神的や肉体的に苦しめる
+  - ChatGPT訳: 長く留まる者はその呪いによって歪められ、影の存在となる - 苦悩し、危険な魂となる。
+- Tav: The Absolute's forces can tolerate such a place?
+  - [tolerate](https://ejje.weblio.jp/content/tolerate), トァ↑レイト
+    - 他動詞: 我慢する、大目に見る、耐性がある
+- Halsin: So it seems, though I don't know how. You will have to choose your approach carefully.
+- Halsin: You could go overland - along the Risen Road or through the mountains. Easier at first, but you'll run into the shadow curse eventually.
+  - [overland](https://ejje.weblio.jp/content/overland), オ↑ゥバァ・ラァン
+    - 副詞: 陸路で、陸上で
+    - 形容詞でも使える
+  - [eventually](https://ejje.weblio.jp/content/eventually), イ・ベ↑ン・チュアリィ
+    - 副詞: 結局は、やがては、最終的には
+- Halsin: You could also go _under_. There is a tunnel somewhere in this very temple of Selûne. It leads to Moonrise Towers through the Underdark.
+  - ChatGPT訳: 地下を通る方法もあります。このセルーンの寺院にどこかにトンネルがあります。それがムーンライズ・タワーズへとつながるアンダーダークを通じています。
+- Halsin: Long ago, a man called Ketheric Thorm built a secret stronghold deep down there, before rallying a whole army of Dark Justiciars - Shar worthippers.
+  - [stronghold](https://ejje.weblio.jp/content/stronghold), ストロ↑ング・ホォーウド
+    - 名詞: 要塞、砦、拠点、本拠地
+  - [deep](https://ejje.weblio.jp/content/deep), ディ↑プ
+    - 副詞: 深く
+  - [rally](https://ejje.weblio.jp/content/rally), ゥラ↑ァリィ
+    - 他動詞: 呼び集める、結集する
+  - Dark Justiciars
+    - D&D用語,名詞: Sharのエリート信者による秘密結社または修道会、"justiciar"は古い言葉の高位の司法官
+  - ChatGPT訳: かつてケセリック・ソームという男がそこ深くに秘密の要塞を築き、シャーの信者であるダーク・ジャスティシャー全軍を集めた。
+- Shadowheart: Dark Justiciars? I must see for myself.
+  - [see for oneself](https://en.wiktionary.org/wiki/see_for_oneself)
+    - 自動詞: 疑わしいことを直接調べることで確認する、自分の目で確かめる
+    - 通常、 for oneself は「誰か自身のために」になる
+  - ChatGPT訳: ダーク・ジャスティシャーですか？自分の目で確かめなければ。
+- Halsin: Aradin and his lot were looking for a way down there - they were promised riches if they retrieved a relic called the Nightsong. But I think threre's more.
+  - [retrieve](https://ejje.weblio.jp/content/retrieve), ゥリ・トリ↑ィブ
+    - 他動詞: 取り戻す、回収する、救う、回復する
+  - ChatGPT訳: アラディンと彼の一派はそこへの道を探していた - 彼らはナイトソングと呼ばれる聖遺物を取り戻すことができれば富を約束されていた。しかし、それ以上のことがあると思う。
+- Halsin: From this stronghold, Ketheric's forces could access both the temple of Selûne and Moonrise Towers - but he was defeated before he could launch an attack.
+  - [launch](https://ejje.weblio.jp/content/launch), (ラ|ロ)↑ーンチ
+    - 他動詞: 攻撃などを始める、新造船を進水させる、ボートなどを水面に下ろす
+  - ChatGPT訳: この要塞から、ケセリックの軍はセルーネの神殿とムーンライズ・タワーズの両方にアクセスできたが、攻撃を開始する前に彼は敗れた。
+- Halsin: If you can find this place, I'll wager it will reveal a more direct path to Moonrise Towers, and may bypass the worst of the shadow curse.
+  - ChatGPT訳: この場所を見つけることができれば、ムーンライズ・タワーズへのより直接的な道が明らかになるだろうし、最悪の影の呪いを回避するかもしれないと賭ける。
+  - Selûne寺院(=Goblin Camp内の本拠地) -(地下の抜け穴)-> Underdark のどこかにある the stronghold -(何らかの方法)-> Moonrise、という図のよう？
+    - そんな2つの敵対拠点の急所になりそうな位置に砦を構築できるのか、の説明が全くないけども
+  - まとめると、3つの道がありそう
+    - 陸路
+      - Risen Roadを進む、最終的に the shadow curse の被害に遭う
+      - 山を抜ける
+    - 地下道
+      - Selûne寺院の隠し通路を発見し、Underdarkを抜けて the stronghold を発見し、そこでさらにMoonrizeへの道を発見する
+- Tav: So how do I find this underground route?
+  - [underground](https://ejje.weblio.jp/content/underground), ア↑ン・ダァ・グラウンド
+    - 形容詞,限定用法: 地下の、秘密の、前衛的な
+- Halsin: You'll need to pick up where Aradin left off - find the hidden entrance. It's somewhere in these ruins, from what I've heard.
+  - [pick up](https://en.wiktionary.org/wiki/pick_up#Verb)
+    - 他動詞: 再開する、再起動する
+  - from what I've heard の意味は？
+    - 直訳で「私が聞いた何かから」
+  - ChatGPT訳: アラディンが残したところから引き継ぐ必要がある - 隠された入り口を探すのだ。それはこの廃墟のどこかにあると聞いている。
+- Tav: I never thought I'd say this, but it sounds like the Underdark is the safer route.
+  - ChatGPT訳: 私がこんなことを言うとは思わなかったけど、アンダーダークが安全なルートのようだ。
+- Halsin: Anything is preferable to risking the shadow curse.
+  - [preferable](https://ejje.weblio.jp/content/preferable), プレ↑・ファ・ボゥ
+    - 形容詞: 〜より望ましい・好ましい、〜よりむしろ望ましい・好ましい
+  - [risk](https://ejje.weblio.jp/content/risk), ゥリ↑スク
+    - 他動詞: 失敗や危害を覚悟の上で行う、危うくする
+  - ChatGPT訳: 影の呪いを冒すリスクを避けることが何よりも望ましい。
+- Tav: What business do you have at Moonrise? You said you'd go there, if you could.
+  - ChatGPT訳: なぜムーンライズへ行こうと思っているのですか？もし行けるなら、そうすると言っていましたね。
+- Halsin: My business there began long ago, and has led to a lifetime of regret.
+  - [lead](https://ejje.weblio.jp/content/lead), リィ↑ード
+    - 自動詞: 道路などが至る・通じる・通る、結果としてなる
+  - ChatGPT訳: 私の用事は昔から始まり、一生の後悔につながっています。
+- Halsin: I helped overthrow Ketheric Thorm and his Dark Justiciars years ago. But I failed to prevent him from unleashing darkness across the region before he was defeated.
+  - [overthrow](https://en.wiktionary.org/wiki/overthrow#Verb), オゥバァ・スロゥ
+    - 他動詞: 特に武力によって政府などを打倒する
+  - [prevent](https://ejje.weblio.jp/content/prevent), プレ・ベ↑ェント
+    - 他動詞: 〜が〜しないように防ぐ
+      - prevent O(=人など) from Verb-ing
+  - ChatGPT訳: 数年前、ケセリック・ソームと彼のダーク・ジャスティシアーズを打倒する手助けをしました。しかし、彼が敗れる前に地域に闇を解き放つのを防げませんでした。
+- Halsin: I spent years researching the curse, trying to put an end to it. Nothing has worked - yet.
+  - ChatGPT訳: その呪いについて研究し、終わらせる方法を見つけようと何年も費やしました。まだ成功はしていません。
+- Halsin: If I could join you and get close to Moonrise, perhaps I could have both helped you find a cure for your infection and lifted the curse.
+  - [lift](https://ejje.weblio.jp/content/lift), リ↑フト
+    - 他動詞: 封鎖や包囲を解く
+  - ChatGPT訳: もしあなたと一緒に行動し、ムーンライズに近づければ、あなたが感染症の治療法を見つける手助けをし、その呪いを解除することもできたかもしれません。
+- Halsin: But the grove must come first, I'm afraid.
+  - [come first](https://en.wiktionary.org/wiki/come_first#Verb)
+    - 自動詞: 考慮すべき最も重要なことである
+  - ChatGPT訳: 残念ですが、グローブを最優先しなければなりません。
+- Tav: Is that why you went with Aradin? You thought he might uncover this route to Moonrise?
+- Halsin: Precisely. Then perhaps I could have done something about both the shadow curse and ceremorphosis aberrations.
+  - [precisely](https://ejje.weblio.jp/content/precisely), プレ・サ↑イス・リィ
+    - 副詞: 正確に、精密に、的確に
+    - [precise](https://ejje.weblio.jp/content/precise), プレ・サ↑ァイズ
+      - 形容詞: 正確な、精密な、正味の、的確な
+  - [aberration](https://ejje.weblio.jp/content/aberration), アバ・レ↑イ・シャン
+    - 名詞: 正道や常軌を外れること、脱線行為、生物的な異常、一時的な精神異常
+  - ChatGPT訳: 正確にはそうです。そうすれば、シャドウカースとセレモルフォシスの異常について何か対策ができたかもしれません。
+- Halsin: But in my eagerness, I put far too much faith in the abilities of Aradin and his band. We didn't even get close.
+  - [eagerness](https://ejje.weblio.jp/content/eagerness), イ↑ィ・ガァ・ネス
+    - 名詞: 熱心、熱望、切望、熱望すること
+  - ChatGPT訳: しかし、私の熱心さのあまり、アラディンと彼の一団に過剰な信頼を寄せてしまいました。私たちはそれに近づくことすらできませんでした。
+- Tav: I may live to regret this - or maybe I won't - but fine, I'll help you save the grove first.
+  - [live to regret](https://en.wiktionary.org/wiki/live_to_regret#Verb)
+    - 他動詞: 何かをすることを後悔する
+  - ChatGPT訳: この決断を後悔するかもしれないし、しないかもしれないが、まずは森を救う手助けをするよ。
+- Halsin: You will? Oak Father bless you. I'll be in your debt twice over if we succeed.
+  - [over](https://ejje.weblio.jp/content/over)
+    - 副詞: 繰り返して
+  - twice over の意味は？
+    - 「2回繰り返す」という意味、例えば read it twice over は「2回繰り返して読む」
+    - 「成功したら負債が2倍になる」ということ
+  - ChatGPT訳: 本当にそうしてくれるのか？オークファーザーが君を祝福するだろう。もし成功したら、私の借りは2倍になる。
+- Halsin: You know what's needed - the deaths of Dror Ragzlin, the drow Minthara, and the priestess, Gut. May nature guide you.
+  - ChatGPT訳: 必要なことはわかっているだろう - ドロア・ラグズリン、ドロウのミンサラ、そして司祭グットの死だ。自然が君を導いてくれるように。
+- Halsin: I could come and help you... but be warned - I won't be able to suppress my animal side. Subtlety will not be an option.
+  - [subtlety](https://ejje.weblio.jp/content/subtlety), サ↑・トルティ
+    - 名詞: 巧みさ、巧妙、鋭敏、微妙、名状しがたいこと
+  - ChatGPT訳: 君を助けに行くこともできるが...警告しておく。動物的な側面を抑えることはできない。細やかな対応は期待できない。
+- Tav: Stay here.
+- Halsin: May Silvanus guide your hand. Focus on the leaders - that's all it will take to restore the balance here.
+
+### 21, Eliasis - 13:48 - Warrior Druk
+
+詳細を忘れたが、どこかのGoblinへ話しかけた
+
+- Warrior Druk: Another outsider come to see the boss?
+  - ChatGPT訳: またボスに会いに来た外の者か？
+- Warrior Druk: Mind yer manners, now - or he'll throw ya in the pit.
+  - ChatGPT訳: 礼儀をわきまえて行動しろよ。そうじゃないと、お前を穴に放り込まれるぞ。
+
+### 21, Eliasis - 13:49 - Warrior Bez
+
+詳細を忘れたが、どこかのGoblinへ話しかけた
+
+- Warrior Bez: Unless you like big, bristin' hairy legs, I wouldn't go down there, mate. Tha's the spider pit.
+  - [bristling](https://en.wiktionary.org/wiki/bristling#Adjective)
+    - 形容詞: 剛毛がある
+    - [bristle](https://ejje.weblio.jp/content/bristle), ブリ↑ストウ
+      - 名詞: 動物の剛毛・荒毛、ブラシなどの剛毛状のもの
+      - 自動詞: 毛髪などが逆立つ、動物が毛を逆立てる、怒りで気色ばむ、密生する
+  - [hairy](https://ejje.weblio.jp/content/hairy), ヘ↑アリィ
+    - 形容詞: 毛深い、毛むくじゃらな、毛のような
+  - ChatGPT訳: 大きくて、むくむくの毛が生えた足が好きでなければ、あそこには行かない方がいいよ、相棒。あそこは蜘蛛の穴だ。
+
+### 21, Eliasis - 13:56 - Narrator
+
+詳細を忘れたが、触ってはいけないものに触って見咎められた時だったかもしれない
+
+- \*Tempers are rising. It's clear not everything you find is at your disposal.\*
+  - [temper](https://ejje.weblio.jp/content/temper), テ↑ン・パァ
+    - 名詞: 怒り、気質、気性
+  - [at someone's disposal](https://en.wiktionary.org/wiki/at_someone%27s_disposal)
+    - 前置詞句: いつでも利用者が適切と考える方法で利用できて
+    - [disposal](https://ejje.weblio.jp/content/disposal), ディス・ポ↑ォゥザル
+      - 名詞: 処分、処置
+  - ChatGPT訳: 怒りが高まっています。あなたが見つけたものがすべて使えるわけではないことが明らかです。
+
+### 21, Eliasis - 14:07 - Narrator
+
+詳細を忘れたが、誰かに先制攻撃を行った。おそらくは、Guts。
+
+- \*You picked a fight. The consequences are hardly surprising.\*
+  - [pick a fight](https://en.wiktionary.org/wiki/pick_a_fight#Verb)
+    - 自動詞: 意図的に誰かを争いに巻き込む、喧嘩を売る
+  - [consequence](https://ejje.weblio.jp/content/consequence), コ↑ン・シ・クエンス
+    - 名詞: 続けて怒ったり必然的な結果・成り行き、影響、重要性
+  - [hardly](https://ejje.weblio.jp/content/hardly), ハ↑ァド・リィ
+    - 副詞: ほとんど〜ではない、少しもない
+      - 否定に近い意味
+  - ChatGPT訳: あなたがけんかを売った。その結果は驚くべきものではない。
+
+### 21, Eliasis - 15:06 - Polma
+
+地下室で、先に進む道を封鎖しているGiantへ話しかけた
+
+- Polma: You. Not supposed to be here. Leave!
+  - [supposed](https://ejje.weblio.jp/content/supposed), サ・ポ↑ォウズド
+    - 形容詞,叙述用法: 〜することになっている
+  - ChatGPT訳: あなたはここにいるべきではありません。去ってください！
+
+### 21, Eliasis - 15:10 - Tav
+
+詳細を忘れた
+
+- \*You don't have permission to be here. You're about to be ejected.\*
+  - [about to](https://en.wiktionary.org/wiki/about_to#Phrase)
+    - 慣用句: まもなく〜が起こる
+      - about to Verb
+      - about 自体にこの意味はない
+  - [eject](https://ejje.weblio.jp/content/eject), イ・ジ↑ェックト
+    - 他動詞: 人を場所や地位から追い出す・追放する、放出・放射する、排出する
+  - ChatGPT訳: あなたはここにいる許可がありません。すぐに退出させられます。
+- Tav: My humble apologies. I shall remove myself immediately.
+  - [humble](https://ejje.weblio.jp/content/humble), ハ↑ン・ボゥ
+    - 形容詞: 卑下した意味でつまらない、謙遜な、控え目な
+  - ChatGPT訳: 謙虚なお詫びを申し上げます。すぐに退去いたします。
+
+### 21, Eliasis - 16:20 - Narrator
+
+詳細を忘れた
+
+- \*You took a life, now yours will be taken in turn. A fair exchange, perhaps.\*
+  - now の意味は？
+    - 「その結果として、今や」という意味
+    - now 単体としてはここまでの意味はない、「今」が転じたもののよう
+  - [in turn](https://en.wiktionary.org/wiki/in_turn#Prepositional_phrase)
+    - 前置詞句: 然るべき順序で、次から次へ、続けて
+  - ChatGPT訳: あなたは命を取った、だからあなたの命も取られる。それは公平な交換かもしれない。
+
+### 21, Eliasis - 16:52 - Tav
+
+詳細を忘れた
+
+- \*You attacked someone. Only the guards are allowed to do that, as this one is about to demonstrate...\*
+  - [demonstrate](https://ejje.weblio.jp/content/demonstrate), デ↑メン・ストレイト
+    - 他動詞: 実際にやってみせる、説明する
+  - ChatGPT訳: あなたは誰かを攻撃しました。これからこの警備員が示すように、それを許可されているのは警備員だけです...
+- Tav: _Attack._
+
+### 21, Eliasis - 17:42 - Narrator
+
+詳細を忘れた
+
+- \*Your violence hasn't gone unnoticed. It's about to be returned in kind.\*
+  - [unnoticed](https://ejje.weblio.jp/content/unnoticed), アン・ノ↑ゥティスド
+    - 形容詞: 気づかれていない、注意されない、顧りみられない
+  - [in kind](https://en.wiktionary.org/wiki/in_kind#Adverb)
+    - 副詞: 似たような方法で、同じ種類で、相互的な方法で
+  - ChatGPT訳: あなたの暴力は見逃されていない。それに見合う形で報復されるだろう。
