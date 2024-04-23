@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-24
-lastUpdatedAt: "2024-04-15 23:02:56+0000"
+lastUpdatedAt: "2024-04-24 02:29:34+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 24冊目
@@ -32,6 +32,9 @@ Goblin達の3人のボスの1人が、Mind Flayerの死体へ魔法を掛けて�
 
 - Dror Ragzlin: _Shuugaan, a shuulkac. O taash okec dor._
 - Dror Ragzlin: I command you, corpse: speak! Reveal truth to the Absolute!
+  - [reveal](https://ejje.weblio.jp/content/reveal), ゥリ・ビ↑ィョォ
+    - 他動詞: 隠されたものを〜へ見せる
+      - reveal O(=内容) to {人など}
   - ChatGPT訳: 死体よ、命令する。話せ！絶対者に真実を明かせ！
 - Dror Ragzlin: Nothing. Must be reading it wrong!
   - ChatGPT訳: 何もない。読み間違えているに違いない！
@@ -49,11 +52,15 @@ Goblin達の3人のボスの1人が、Mind Flayerの死体へ魔法を掛けて�
   - [glimpse](https://ejje.weblio.jp/content/glimpse), グリンプス
     - 他動詞: ちらりと見る
     - 名詞で「ひと目、ちらりと見ること」
-- \*The elf speaks of the hunt for a great wepon, and the rewards that will got to whoever finds it. The hobgoblin's eyes gleam hungrily.\*
+- \*The elf speaks of the hunt for a great weapon, and the rewards that will got to whoever finds it. The hobgoblin's eyes gleam hungrily.\*
   - the rewards that will got to whoever finds it の意味は？
     - おそらく、以下のいずれかが文章としては正しくて、誤字か省略をしている
       - the rewards that will be got to whoever finds it
       - the rewards that will go to whoever finds it
+  - [gleam](https://ejje.weblio.jp/content/gleam), グリ↑ィンム
+    - 自動詞: 感情などが目にちらりと現れる、かすかに光る
+  - [hungrily](https://ejje.weblio.jp/content/hungrily), ハ↑ン・グリ・リィ
+    - 副詞: 貪るように、熱心に、ひもじそうに
   - ChatGPT訳: エルフは偉大な武器の探索と、それを見つけた者に与えられる報酬について語ります。ホブゴブリンの目が欲望に輝きます。
 - Dror Ragzlin: If it isn't another True Soul.
 - \*He doesn't speak his next words, yet they still rattle your skull from within.\*
@@ -63,6 +70,8 @@ Goblin達の3人のボスの1人が、Mind Flayerの死体へ魔法を掛けて�
     - his next words を指す
   - [within](https://ejje.weblio.jp/content/within), ウィズィン
     - 副詞: 内に、中に、内部は
+  - from within の意味は？
+    - 前置詞句で、副詞として rattle your skull を修飾している
 - Dror Ragzlin: _You ever talk to a dead squid? Now's your chance._
   - Now の品詞は？
     - あくまで副詞、文法的に解釈するなら Now (it) is だと思うと良さそう
@@ -95,6 +104,8 @@ Goblin達の3人のボスの1人が、Mind Flayerの死体へ魔法を掛けて�
 - Dror Ragzlin: We find who killed it, and we find who took that weapon. So settle in.
   - settle in の意味は？
     - 訳の「じっくり取り組む」は比喩表現、単語の意味は「落ち着く、定住する」まで
+  - [and](https://ejje.weblio.jp/content/and), (エ|ア)ーンド
+    - 接続詞: 結果や理由を示す表現、〜だから、〜すると
   - ChatGPT訳: 誰がそれを殺したかを見つければ、その武器を持っていった人も見つかるでしょう。じっくりと取り組みましょう。
 - Tav: Then let the ceremony proceed.
   - [ceremony](https://ejje.weblio.jp/content/ceremony), セ↑レ・モ・ニィ
@@ -125,6 +136,7 @@ Goblin達の3人のボスの1人が、Mind Flayerの死体へ魔法を掛けて�
 - \*Ragzlin's mind reels, then calms. _He will speak as you command._\*
   - [reel](https://ejje.weblio.jp/content/reel), ゥリ↑ィォ
     - 自動詞: 眩暈がする、よろめく、よろめきながら歩く
+    - 「釣りのリール・巻き上げ機」とは異なる語源
 - \*With Ragzlin's voice, you ask...\*
   - ChatGPT訳: ラグズリンの声で、あなたは尋ねる...
 - Tav: 'What were you doing in Faerûn?'
@@ -443,6 +455,11 @@ Worgやクマを監視中のGoblinへ話しかけた
 - Intelligence (Investigation) Save Failed: Tav
 - \*You notice the corpse is very dead, but that's all.\*
 - Tav: _Pull the body free._
+  - [pull](https://ejje.weblio.jp/content/pull), プ↑ゥゥ
+    - 他動詞: 〜を引っ張って〜の状態にする
+      - pull O(=対象) C(=状態)
+  - [free](https://ejje.weblio.jp/content/free), フリィ
+    - 形容詞: 束縛のない、仕事から解放された
 - \*The body comes loose, revealing a tunnel. Perhaps you can escapse where he failed.\*
   - [loose](https://ejje.weblio.jp/content/loose), ル↑ゥーズ
     - 形容詞: 拘束や束縛から解放されて
@@ -531,11 +548,11 @@ Worgやクマを監視中のGoblinへ話しかけた
   - [infest](https://ejje.weblio.jp/content/infest), イン・フェ↑ェスト
     - 他動詞: 害虫や海賊が荒らす・横行する、害虫が動物などにたかる・寄生する
   - ChatGPT訳: 本当に誰かが助けに来てくれるとは思っていませんでした。どうして正気のある人がゴブリンに満ちた寺院に潜入するんでしょうか。もしかして...
-- Halsin: ...Hrrm, That look in your eyes - I've seen it before. Are you feeling all right?
+- Halsin: ...Hrrm. That look in your eyes - I've seen it before. Are you feeling all right?
   - That look in your eyes の意味は？
     - 直訳だと「あなたの目の中の表情・顔つき」、少し意訳して「あなたの目の中の様子」になる？
     - look は「表情、外見」という意味で、「見えるもの一般」という意味はない
-  - ChatGPT訳: ...うーん、その目の表情は前にも見たことがあります。大丈夫ですか？
+  - ChatGPT訳: うむ。その目の表情——以前にも見たことがある。調子はどうかね？
 - Halsin: Oak Father preserve you, child... You're infected, aren't you? The mind flayers' spawn.
   - [preserve](https://ejje.weblio.jp/content/preserve), プレ・ザ↑ァーブ
     - 他動詞: 損傷や危険から保護する・守る、保存する、維持する
@@ -543,7 +560,7 @@ Worgやクマを監視中のGoblinへ話しかけた
     - 他動詞: 病気が人や傷口へ病気をうつす、感染させる、汚染する
   - [spawn](https://ejje.weblio.jp/content/spawn), スポ↑ォーン
     - 名詞: 魚やカエルなどの卵、うじゃうじゃいる子供
-- Halsin: But... somthing's _different_. You're aware of the monster inside you. You don't bow to the Absolute, like the True Souls do...
+- Halsin: But... something's _different_. You're aware of the monster inside you. You don't bow to the Absolute, like the True Souls do...
   - [bow](https://ejje.weblio.jp/content/bow), バ↑ァウ
     - 自動詞: 屈服する、従う
       - bow to {従う対象}
@@ -582,7 +599,7 @@ Worgやクマを監視中のGoblinへ話しかけた
 - Halsin: I'm sorry to say, I can't undo that magic, which means I can't cure you. But that doesn't mean I can't help.
   - ChatGPT訳: その魔法を解くことはできませんので、あなたを治すこともできませんが、それでも助けることはできます。
 - Halsin: I didn't find what I came here for - a way to remove the tadpoles - but I found the next best thing. I found out where they come from.
-  - I came here の品詞は？
+  - I came here の here の品詞は？
     - 基本的に come は自動詞としてしか「来る」の意味はない、つまり here は副詞
   - find out と find の違いは？
     - find は「物理的・抽象的なもの単に見つける」
@@ -602,8 +619,12 @@ Worgやクマを監視中のGoblinへ話しかけた
       - 他動詞: 話し手に気づかれずにふと耳にする
         - 偶然の意味が強い
 - Halsin: Innocents go in, True Souls come out. Given that all of these True Souls are infected, it has to be the source of this magic.
+  - [innocent](https://ejje.weblio.jp/content/innocent), イ↑ノ・セント
+    - 名詞: 無邪気や純真な人、潔白な人、子供、お人好し、ばか
   - [given that](https://en.wiktionary.org/wiki/given_that#Conjunction)
     - 接続詞: 〜という事実を考慮して
+  - it has to be the source の意味は？
+    - 「それが源泉であるべき」
   - ChatGPT訳: 無実の者たちが入り、真の魂たちが出てくる。これらの真の魂がすべて感染していることから、この魔法の源泉であることは間違いない。
 - Halsin: If you want to find a cure, you must head there and discover how the tadpoles are being manipulated.
   - [manipulate](https://ejje.weblio.jp/content/manipulate), メニピュレイト
@@ -612,6 +633,9 @@ Worgやクマを監視中のGoblinへ話しかけた
 - Halsin: I wish I could, but there's still work I've yet to finish - blood I've yet to spill.
   - ChatGPT訳: 行けたらいいのですが、まだ終わっていない仕事があります - まだ流していない血があります。
 - Halsin: I've no right to ask more of you... but if you could help me, I'd be free to join your journey to Moonrise.
+  - [ask](https://ejje.weblio.jp/content/ask), ア↑ァスク
+    - 他動詞: 人に尋ねる・質問をする・依頼する
+      - ask O(=内容) of {人} = ask IO(=人) DO(=内容)
   - ChatGPT訳: あなたにもう頼む権利はありませんが…もし助けてくれるなら、ムーンライズへの旅に参加できます。
 - Halsin: I cannot allow these butchers to threaten my grove. The natural order must be protected.
   - ChatGPT訳: 私はこの虐殺者たちが私の森を脅かすのを許すわけにはいきません。自然の秩序を守らなければなりません。
@@ -631,12 +655,17 @@ Worgやクマを監視中のGoblinへ話しかけた
         - 形容詞: 有頭の、部位の先端が頭状の
   - [eliminate](https://ejje.weblio.jp/content/eliminate), (エ|イ)↑リミネイト
     - 他動詞: 除去する、殺す
+  - [perversion](https://ejje.weblio.jp/content/perversion), パ・バ↑ァジョン
+    - 名詞: 悪用、乱用、悪化、曲解
   - ChatGPT訳: 首を切られても生き残る獣は稀だ。ドロウのミンサラ、ホブゴブリンのドロー・ラグズリン、そしてその邪悪な司祭、グットを排除する手伝いをしてくれ。
 - Halsin: They are the ones holding these parasites together. Remove them and nature will cure itself.
   - [hold together](https://en.wiktionary.org/wiki/hold_together#Verb)
     - 他動詞: 一緒に留まるようにする、束ねる
   - ChatGPT訳: 彼らがこの寄生虫を束ねている。彼らを取り除けば、自然が自らを癒すだろう。
 - Shadowheart: I'll deal with this. You get to safety.
+  - [safety](https://ejje.weblio.jp/content/safety), セ↑イフティ
+    - 名詞: 安全、無事、銃の安全装置
+    - 本文の「安全な場所」というまでの意味は、基本的にはない
   - ChatGPT訳: これは私が対処します。あなたは安全な場所へ行ってください。
 - Halsin: There is no safety. Not while this rot festers. Once it is cut out - once the grove is secure - then I shall leave.
   - [fester](https://ejje.weblio.jp/content/fester), フェ↑ス・タァ
@@ -692,7 +721,7 @@ Worgやクマを監視中のGoblinへ話しかけた
     - 他動詞: かなりの確信と根拠で事が起こることを期待する・予期する
 - Tav: What's so dangerous about it?
 - Halsin: To get to the Towers, you'll need to pass through a trerrible place - a _cursed_ place.
-- Halsin: This curse shrouds everyshings in shadow - you will not find life, light, or anything natural there.
+- Halsin: This curse shrouds everythings in shadow - you will not find life, light, or anything natural there.
 - Halsin: Any who linger are twisted by the curse; they become shadow beings - tormented, _dangerous_ souls.
   - Any who linger are の Any は複数形？
     - その通り、複数形でも使える
@@ -787,7 +816,7 @@ Worgやクマを監視中のGoblinへ話しかけた
 - Tav: Is that why you went with Aradin? You thought he might uncover this route to Moonrise?
 - Halsin: Precisely. Then perhaps I could have done something about both the shadow curse and ceremorphosis aberrations.
   - [precisely](https://ejje.weblio.jp/content/precisely), プレ・サ↑イス・リィ
-    - 副詞: 正確に、精密に、的確に
+    - 副詞: 間投詞的に全くその通りという表現、正確に、精密に、的確に
     - [precise](https://ejje.weblio.jp/content/precise), プレ・サ↑ァイズ
       - 形容詞: 正確な、精密な、正味の、的確な
   - [aberration](https://ejje.weblio.jp/content/aberration), アバ・レ↑イ・シャン
@@ -802,7 +831,7 @@ Worgやクマを監視中のGoblinへ話しかけた
     - 他動詞: 何かをすることを後悔する
   - ChatGPT訳: この決断を後悔するかもしれないし、しないかもしれないが、まずは森を救う手助けをするよ。
 - Halsin: You will? Oak Father bless you. I'll be in your debt twice over if we succeed.
-  - [over](https://ejje.weblio.jp/content/over)
+  - [over](https://ejje.weblio.jp/content/over), オ↑ゥバァ
     - 副詞: 繰り返して
   - twice over の意味は？
     - 「2回繰り返す」という意味、例えば read it twice over は「2回繰り返して読む」
