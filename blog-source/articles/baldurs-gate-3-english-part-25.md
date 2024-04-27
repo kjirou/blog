@@ -241,7 +241,7 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 
 ### 21, Eliasis - 9:40 - Guex
 
-祝宴で避難民の一人へ話しかけた
+祝宴中の避難民の一人へ話しかけた
 
 - Guex: Think of it - no more caves, no more tents, no more running away.
   - ChatGPT訳: 考えてみてください。もう洞窟も、テントも、逃げることもありません。
@@ -250,7 +250,7 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 
 ### 21, Eliasis - 9:42 - Rolan, Cal, Tav, Lia
 
-祝宴で避難民と同じTieflingの冒険者の一団へ話しかけた
+祝宴で、避難民と同じTieflingの冒険者の一団へ近づいた
 
 - Rolan: Patience. Have you no respect for showmanship?
   - Patience の意味は？
@@ -270,10 +270,95 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
     - 間投詞: 注意を促す表現、見よ
 - Tav: _Clap._
 - Rolan: Adoring applause? You're too kind.
-  - ChatGPT訳: 熱烈な拍手？嬉しいですね。
+  - [adoring](https://ejje.weblio.jp/content/adoring), ア・トォリング
+    - 形容詞: 崇拝・熱愛する、愛情のこもった、ほれぼれとした
+    - [adore](https://ejje.weblio.jp/content/adore), ア・ド↑ォー
+      - 他動詞: 神をあがめる、崇拝する、憧れる、非常に好む
+  - [applause](https://ejje.weblio.jp/content/applause), アプ・ラ↑ァーズ
+    - 名詞: 拍手喝采、賞賛
+  - ChatGPT訳: 愛するような拍手？親切にも程がある。
 - Lia: Remember when he could barely cast that?
+  - [barely](https://ejje.weblio.jp/content/barely), ベ↑ァ・リィ
+    - 副詞: かろうじて、わずかに、ほとんど〜ない
+    - [bare](https://ejje.weblio.jp/content/bare), ベ↑アァ
+      - 形容詞: 本来あるべき覆いがない、裸の、露出した、事実がありのままの、素手の
   - ChatGPT訳: 彼がその魔法をかけるのがやっとだったころを覚えてる？
 - Cal: They grow up so fast.
+  - They の意味は？
+    - 「未成熟な子供たち」のような意味で使われている
   - ChatGPT訳: 早く成長するものだ。
 - Rolan: Never have I met such troglodytes. Now, pass the wine.
-  - ChatGPT訳: こんなトロールどもと会ったことがない。さあ、ワインを渡して。
+  - [troglodyte](https://ejje.weblio.jp/content/troglodyte), トラ↑ァ・グル・ダイ
+    - 名詞: 有史以前の洞窟に住む穴居人、隠者、世辞に疎い人
+  - ChatGPT訳: こんな古風で無作法な人たちと出会ったことがない。さあ、ワインを渡して。
+
+### 21, Eliasis - 9:46 - Cal
+
+冒険者の一団の中の一人へ話しかけた
+
+- Cal: Are Rolan and Lia _actually_ getting along? I know you cut down a horge of goblins, but is far more impressive.
+  - [impressive](https://ejje.weblio.jp/content/impressive), イン・プレ↑ッ・シヴ
+    - 形容詞: 印象的な、感銘を与える
+    - [impress](https://ejje.weblio.jp/content/impress), イン・プ↑レス
+      - 他動詞: 人に印象を与える
+  - [get along](https://en.wiktionary.org/wiki/get_along#Verb)
+    - 自動詞: 議論や問題を起こさずにうまく対話・共存する
+  - ChatGPT訳: ローランとリアは本当に仲良くやってるの？たくさんのゴブリンを倒したことは知ってるけど、それよりももっとすごいことだよね。
+
+### 21, Eliasis - 9:50 - Lia, Tav
+
+冒険者の一団の中の一人へ話しかけた
+
+- Lia: Look at them. How happy they are. We did that.
+  - ChatGPT訳: 見て。どれだけ幸せそうか。私たちがそれをやったのよ。
+- Tav: How about the three of you? Having fun?
+  - ChatGPT訳: あなたたち3人は楽しんでる？
+- Lia: Yeah. Don't tell Rolan, but his magic show might be the highlight. He's been doing them since we were little.
+  - [highlight](https://ejje.weblio.jp/content/highlight), ハイ・ラァィト
+    - 名詞: 最も興味のある事件、呼び物、ハイライト、最も明るい部分
+  - He's been doing them の意味は？
+    - 現在完了進行形なので、これまで続けているし、おそらくはこれから先も続くであろうという意味
+  - [little](https://ejje.weblio.jp/content/little), リ↑・トォ
+    - 形容詞: 若い、年少の
+  - ChatGPT訳: うん。ローランには内緒だけど、彼のマジックショーがハイライトかもしれない。私たちが小さいころからやってるの。
+- Lia: He'll make it big in Baldur's Gate. I know it.
+  - make it big と make it は補語も取れるの？
+    - make it 単体だと「成功する、やり遂げる」だが、補語でその詳細を渡すことも可能なよう
+  - ChatGPT訳: 彼はバルダーズ・ゲートで成功するわ。絶対に。
+
+### 21, Eliasis - 9:55 - Bex
+
+祝宴中の避難民の一人へ話しかけた
+
+- Bex: I need to dance!
+- Bex: Nope. No. I need to lie down.
+  - [nope](https://ejje.weblio.jp/content/nope), ノ↑ゥ
+    - 副詞: いや、いいえ
+    - Assoc: yep と対義
+  - ChatGPT訳: ううん。いや。横になる必要がある。
+
+### 21, Eliasis - 9:55 - Danis
+
+祝宴中の避難民の一人へ話しかけた
+
+- Danis: _Sharee!_ That's Infernal for 'cheers'.
+  - ChatGPT訳: 「シャリー！」これは地獄語で「乾杯」を意味します。
+- Danis: Or possibly 'turnip'.
+  - ChatGPT訳: または『カブ』の可能性もあります。
+
+### 21, Eliasis - 9:59 - Zevlor
+
+祝宴中の避難民の長へ話しかけた
+
+- Zevlor: You have no idea how good it feels to see these people smiling.
+  - [idea](https://ejje.weblio.jp/content/idea), アイ・ディ↑ア
+    - 名詞: 心に描く考え、思いつき、着想、考え方、思想、観念、意見、見解、直感、予感、空想
+      - thought は理性の比重が高く、 idea はそれより直感気味
+  - it feels は I feel ではないの？
+    - どちらも主観であることは同じだが、言及する内容が一般的なものだと考えられるか、個人的なものだと考えられるか、の点が異なる
+  - ChatGPT訳: これらの人々が笑顔でいるのを見るのがどれほど気持ちがいいか、あなたには想像もつかないでしょう。
+- Zevlor: The _singing_ we could probably do without, but even so. Thank you.
+  - [even so](https://en.wiktionary.org/wiki/even_so#Adverb)
+    - 副詞: 前の会話で言及したことにも関わらずという表現、それでも
+  - ChatGPT訳: 歌に関しては、なくてもいいかもしれませんが、それでも。ありがとう。
+  - 意味がわからない。この後に会ったことがない吟遊詩人の Alfira という人と話すが、もしかして何かのイベントをやっていないのかもしれない。
