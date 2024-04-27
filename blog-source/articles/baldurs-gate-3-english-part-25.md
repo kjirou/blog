@@ -362,3 +362,51 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
     - 副詞: 前の会話で言及したことにも関わらずという表現、それでも
   - ChatGPT訳: 歌に関しては、なくてもいいかもしれませんが、それでも。ありがとう。
   - 意味がわからない。この後に会ったことがない吟遊詩人の Alfira という人と話すが、もしかして何かのイベントをやっていないのかもしれない。
+
+### 21, Eliasis - 10:01 - Alfira, Tav
+
+祝宴中のTieflingの吟遊詩人へ話しかけた。
+
+個性があるのでイベント絡みのようだが、今までに会ったことがない。
+
+- Alfira: This might be the wine talking, but I'm feeling _inspired_. Thinking of writing my next song - about you.
+  - the wine talking の意味は？
+    - 直訳で「ワインが話していること」、比喩表現で「酒に酔っているせいで言っていること」
+  - [inspired](https://ejje.weblio.jp/content/inspired)
+    - 形容詞: 霊感に触発されて、実に見事な
+  - ChatGPT訳: これはワインが話しているかもしれないけれど、インスピレーションを感じているわ。次の曲をあなたについて書こうかなと思っているの。
+- Alfira: But I need an angle. Any ideas?
+  - [angle](https://ejje.weblio.jp/content/angle), エ↑ンゴォ
+    - 名詞: ものの見方
+  - ChatGPT訳: でも、角度が必要だわ。何かアイデアはある？
+- Tav: Not really. I'm not much of a bard.
+  - much の意味は？
+    - おそらくは、形容詞または代名詞の「多量（の）、たくさん（の）」で、 bard の側面がたくさん無いことを言っている
+  - ChatGPT訳: あまりないな。俺はバードじゃないからね。
+- Alfira: Oh, come _on_. There must be something!
+  - ChatGPT訳: おいでよ、何かあるでしょう！
+- Tav: Have you seen this body? It would be a crime not to sing about it.
+  - ChatGPT訳: この体を見たことがあるか？ これについて歌わないなんて犯罪だよ。
+- Alfira: One raunchy ballad, coming up!
+  - [raunchy](https://ejje.weblio.jp/content/raunchy), ゥランチィ
+    - 形容詞: エッチな、淫らな、猥褻な、不潔な
+    - [raunch](https://ejje.weblio.jp/content/raunch), ゥラチィ
+      - 名詞: 卑猥、下品、だらしなさ、薄汚さ
+  - [ballad](https://ejje.weblio.jp/content/ballad), バ↑ァラット
+    - 名詞: 民謡、物語、物語詩、バラッド
+  - [come up](https://en.wiktionary.org/wiki/come_up#Verb)
+    - 自動詞: 場所的や時間的に近づく(=approach)
+  - ChatGPT訳: ランチーなバラードを作るわ！
+
+### 21, Eliasis - 10:11 - Alfira
+
+再び話した
+
+- Alfira: Your song _was_ coming along. Then things began spinning... worry not, I shall return to it at first light!
+  - [come along](https://en.wiktionary.org/wiki/come_along#Verb)
+    - 自動詞: 進捗する、進歩する
+  - things began spinning の意味は？
+    - 直訳で「物事が回り始めた」で、「物事が混乱したりうまく進まなくなった」の比喩表現
+  - [first light](https://en.wiktionary.org/wiki/first_light#Noun)
+    - 名詞: 最初に光が現れる時間、夜明け
+  - ChatGPT訳: あなたの歌は順調に進んでいました。それから物事がくるくると回り始めましたが...心配しないでください、私は最初の光でそれに戻ります！
