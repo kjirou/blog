@@ -252,12 +252,28 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 
 祝宴で避難民と同じTieflingの冒険者の一団へ話しかけた
 
-- Rolan:
-- Cal:
-- Rolan:
-- Rolan:
-- Tav:
-- Rolan:
-- Lia:
-- Cal:
-- Rolan:
+- Rolan: Patience. Have you no respect for showmanship?
+  - Patience の意味は？
+    - 「もうやるから待ってくれ」ということ
+  - [showmanship](https://ejje.weblio.jp/content/showmanship), ショ↑ゥマン・シップ
+    - 名詞: ショーを魅力的に伝える能力、興業的手腕、演出上手
+  - ChatGPT訳: 忍耐してください。見せ場を大事にする気持ちはないのですか？
+- Cal: Having performance issues, Rolan?
+  - ChatGPT訳: パフォーマンスに問題があるのかい、Rolan？
+- Rolan: Hush, you. And...
+  - [hush](https://ejje.weblio.jp/content/hush), ハ↑ァッシュ
+    - 自動詞: 静かになる、黙る
+    - 他動詞: 静かにさせる、黙らせる
+  - ChatGPT訳: 黙っててくれ。そして...
+- Rolan: ...behold!
+  - [behold](https://ejje.weblio.jp/content/behold), バ・ホ↑ゥールド
+    - 間投詞: 注意を促す表現、見よ
+- Tav: _Clap._
+- Rolan: Adoring applause? You're too kind.
+  - ChatGPT訳: 熱烈な拍手？嬉しいですね。
+- Lia: Remember when he could barely cast that?
+  - ChatGPT訳: 彼がその魔法をかけるのがやっとだったころを覚えてる？
+- Cal: They grow up so fast.
+  - ChatGPT訳: 早く成長するものだ。
+- Rolan: Never have I met such troglodytes. Now, pass the wine.
+  - ChatGPT訳: こんなトロールどもと会ったことがない。さあ、ワインを渡して。
