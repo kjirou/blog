@@ -410,3 +410,31 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - [first light](https://en.wiktionary.org/wiki/first_light#Noun)
     - 名詞: 最初に光が現れる時間、夜明け
   - ChatGPT訳: あなたの歌は順調に進んでいました。それから物事がくるくると回り始めましたが...心配しないでください、私は最初の光でそれに戻ります！
+
+### 21, Eliasis - 10:13 - Lakrissa
+
+祝宴中の避難民の一人へ話しかけた
+
+- Lakrissa: Hope you're enjoying the night, hero. I certainly am. Cheers to many more like this.
+  - [certainly](https://ejje.weblio.jp/content/certainly), (サ|セ)ーテンリィ
+    - 副詞: 確かに、きっと間違いなく
+  - ChatGPT訳: 夜を楽しんでいるといいね、ヒーロー。私も楽しんでいるよ。これに似たもっと多くのものに対して乾杯
+
+### 21, Eliasis - 10:17 - Mol, Tav
+
+祝宴から離れたところに居る、避難民の一人へ話しかけた
+
+- Mol: You came through for us. That's a change from most adults I know.
+  - [come through](https://en.wiktionary.org/wiki/come_through#Verb)
+    - 自動詞: 誰かを失望させない様に約束を守る・履行する
+  - ChatGPT訳: あなたは私たちのために頑張ってくれました。それは私が知っているほとんどの大人とは違います。
+- Tav: Don't be so harsh on your elders.
+  - [harsh](https://ejje.weblio.jp/content/harsh), ハ↑ァーシュ
+    - 形容詞: 刺々しい、厳しい、ざらざらした、目障りや耳障りな
+  - ChatGPT訳: 年上の人たちにそんなに厳しくしないで。
+- Mol: I'm not. I'm glad they can celebrate before we've even got to the Gate.
+  - [celebrate](https://ejje.weblio.jp/content/celebrate), セ↑レブ・レェィト
+    - 自動詞: お祭り気分にひたる、陽気に遊ぶ
+  - ChatGPT訳: そうじゃない。私たちがゲートに到着する前に彼らが祝うことができるのが嬉しい。
+- Mol: Just like I'll be glad to be rid of them once we're there.
+  - ChatGPT訳: ちょうど私たちがそこに着いたら、彼らと離れるのが嬉しいと同じだ。
