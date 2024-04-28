@@ -584,3 +584,56 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - [stupor](https://ejje.weblio.jp/content/stupor), ステ↑ュ・パー
     - 名詞: ぼうっとすること、人事不省、まひ、昏睡
   - ChatGPT訳: ですが、私は気にかけます。そして、自分を酔い潰すことでそれを変えるつもりはありません。
+
+### 21, Eliasis - 11:48 - Karlach, Tav
+
+祝宴中に仲間の一人へ話しかけた
+
+- Karlach: Would you look at this place? All these people - happy because of us.
+  - ChatGPT訳: この場所を見てくれる？ これらの人々が全員、私たちのおかげで幸せだ。
+- Karlach: It's nice to be somewhere where good is still _possible_.
+  - [still](https://ejje.weblio.jp/content/still), スティ↑ルゥ
+    - 副詞: 今まで通り、まだ
+  - ChatGPT訳: 善がまだ 可能である 場所にいるのはいいことだ。
+- Karlach: And with good potations, too.
+  - [potation](https://ejje.weblio.jp/content/potation), ポ・テ↑イ・ション
+    - 名詞: 酒、飲酒、飲むこと
+  - ChatGPT訳: 良い飲み物もあるし。
+- Tav: Are you enjoying yourself?
+- Karlach: Fuck yes! I'm celebrating my freedom. And our friendship. And these folks' bright future besides.
+  - [besides](https://ejje.weblio.jp/content/besides)
+    - 副詞: そのうえ、なお
+  - ChatGPT訳: くそ、もちろんだ！ 自由を祝ってるんだ。それに、僕たちの友情や、この人たちの明るい未来もね。
+- Karlach: All I need now is a fire-retardant lover to get lost in 'til sunrise.
+  - [fire-retardant](https://en.wiktionary.org/wiki/fire-retardant#Adjective)
+    - 形容詞: 耐火性の、着火しにくい、非可燃性の
+    - [retardant](https://ejje.weblio.jp/content/retardant), ゥリ・タ↑ァ・デント
+      - 名詞: 化学反応を遅らせる物質、抑制剤
+  - [get lost](https://en.wiktionary.org/wiki/get_lost#Verb)
+    - 自動詞: 行方不明になる、道に迷う
+  - 'til = until
+  - ChatGPT訳: 今必要なのは、夜明けまで一緒にいてくれる耐火性の恋人だけだな。
+- Tav: Did you have parties like this in Avernus?
+  - ChatGPT訳: アヴェルヌスでこんなパーティーをやっていたの？
+- Karlach: Not so much. You spend the whole time avoiding swords and schemes. Plus people just get nastier as the night wears on.
+  - [you](https://ejje.weblio.jp/content/you), ユゥ
+    - 代名詞: 一般の人を総称する表現、人は誰でも
+  - [scheme](https://ejje.weblio.jp/content/scheme), スキ↑ィンム
+    - 名詞: 計画、案、陰謀、組織、体系
+  - [plus](https://ejje.weblio.jp/content/plus), プラ↑ァス
+    - 接続詞: その上、そしてまた
+  - [nasty](https://ejje.weblio.jp/content/nasty), ナ↑ァスティ
+    - 形容詞: ひどく嫌な、不快な、汚らわしい、卑劣な、意地の悪い、怒りっぽい、不機嫌な、淫らな、やっかいな
+    - Assoc: The Nasty Boys
+  - ChatGPT訳: あんまりね。ずっと剣や策略を避けて過ごす時間だったから。それに、夜が更けるにつれて人々はただより悪くなる。
+- Karlach: I tried to make friends at first. Learned my lesson fast. Better to keep to yourself in Hell.
+  - [lesson](https://ejje.weblio.jp/content/lesson), レ↑ッ・スン
+    - 名詞: 教訓、学課、けいこ
+  - [keep to oneself](https://en.wiktionary.org/wiki/keep_to_oneself)
+    - 自動詞: 他人との交流を意図的に避ける、内向的になる
+  - ChatGPT訳: 最初は友達を作ろうとしたんだ。でもすぐに教訓を学んだよ。地獄では自分のことだけを考えている方がいい。
+- Tav: Enjoy yourself tonight, Karlach.
+  - enjoy yourself
+    - イディオム: 楽しんでね
+- Karlach: You too, soldier.
+- Karlach: Enjoy yourself tonight. You've earned it.
