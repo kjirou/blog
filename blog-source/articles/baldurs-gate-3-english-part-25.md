@@ -562,4 +562,25 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 - Volo: I must deliberate. Go - enjoy your evening! I shall have work for you in the days to come.
   - [deliberate](https://ejje.weblio.jp/content/deliberate), ディ・リ↑ィビレイト
     - 自動詞: 熟考する、審議する
+  - I shall have work for you が「あなたのための仕事をする」にならないのはなぜか？
+    - ChatGPTに聞いたが、何がポイントでそうなるのかはわからなかった
   - ChatGPT訳: もう少し考えてみるよ。さあ、楽しい夜を過ごしてくれ！これからの日々で君に仕事を頼むことになるだろう。
+
+### 21, Eliasis - 11:40 - Ikaron, Tav
+
+祝宴中に喧騒から離れた場所でひとり悩んでいる避難民へ話しかけた
+
+- Ikaron: Look at them all, guzzling poison like we've the right to be happy.
+  - [guzzle](https://ejje.weblio.jp/content/guzzle), ガ↑ァゾォ
+    - 自動詞: 暴飲する、暴食する
+- Tav: We survived. That's always worth celebrating.
+  - ChatGPT訳: 私たちは生き残りました。それは常に祝う価値があります。
+- Ikaron: Not everyone. We lost people, and it's like they don't even care.
+- Ikaron: But I care. And I won't drink myself into a stupor to change that.
+  - [drink](https://ejje.weblio.jp/content/drink)
+    - 他動詞: 人が飲んで何かの状態に至る
+      - drink O(=人)
+        - 「人が酒に飲まれる」という表現がわかりやすいかも
+  - [stupor](https://ejje.weblio.jp/content/stupor), ステ↑ュ・パー
+    - 名詞: ぼうっとすること、人事不省、まひ、昏睡
+  - ChatGPT訳: ですが、私は気にかけます。そして、自分を酔い潰すことでそれを変えるつもりはありません。
