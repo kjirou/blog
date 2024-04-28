@@ -494,3 +494,72 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 - Halsin: Go on, enjoy yourself. Seek out some wine before it runs dry - there are a lot of thirsty people around here.
   - [thirsty](https://ejje.weblio.jp/content/thirsty), スァ↑スティ
     - 形容詞: のどが渇いた、のどを渇かせる、土地などが乾燥した
+
+### 21, Eliasis - 11:09 - Volo, Tav
+
+祝宴中のVoloへ話しかけた
+
+- Volo: Aha, there you are! Come now, settle in.
+  - [come](https://en.wiktionary.org/wiki/come#Interjection), カ↑ァンム
+    - 間投詞: 要求の前に使用する表現、さあ、きて
+  - ChatGPT訳: ああ、そこにいたか！さあ、ここに落ち着くんだ。
+- Volo: I do hope you have partaken of something bracing? This may well take us all night.
+  - [partaken](https://ejje.weblio.jp/content/partaken), パァー・テ↑イク
+    - partake - partook - partaken
+    - [partake](https://ejje.weblio.jp/content/partake), パァー・テ↑イク
+      - 自動詞: 食べる、飲む、共にする
+  - [bracing](https://ejje.weblio.jp/content/bracing), ブゥレ↑イ・スィング
+    - 形容詞: 元気をつける、清々しい
+    - [brace](https://ejje.weblio.jp/content/brace), ブレ↑イス
+      - 他動詞: つっかい棒を入れる、支える、足を踏ん張る、奮起する
+  - [take](https://ejje.weblio.jp/content/take), テ↑イク
+    - 他動詞: 人に時間や労力や金などを必要とする
+      - take O(=人) {副詞で内容} などの形
+  - ChatGPT訳: 何か元気の出るものを食べたかな？これは一晩中かかるかもしれないからね。
+- Tav: And by 'this', you mean...?
+- Volo: Why - your naming, quite obviously.
+  - ChatGPT訳: それはもちろん、お前の名付けだよ。
+- Volo: That ballad was but a crude preview, a frame without its crowning jewel - your _nom de guerre_.
+  - [but](https://ejje.weblio.jp/content/but), バ↑ァット
+    - 副詞: 単なる、ただの
+  - [crude](https://ejje.weblio.jp/content/crude), クルゥード
+    - 形容詞: 天然のままの、未加工な、粗製の、未熟な、未完成な
+  - [crowning](https://ejje.weblio.jp/content/crowning), クル↑ァーニン
+    - 形容詞: 最後を飾る、この上ない、頂上の、頂点の
+  - [nom de guerre](https://en.wiktionary.org/wiki/nom_de_guerre#Noun)
+    - = pseudonym
+    - フランス語
+    - [pseudonym](https://en.wiktionary.org/wiki/pseudonym#Noun), ス↑ゥー・デ・ネェム
+      - 名詞: 作家や映画スターが使用する架空の名前、ペンネーム
+  - ChatGPT訳: そのバラードは単なる粗末な予告編、重要な部分が欠けている——あなたの戦名だ。
+- Volo: Something iconic, but not too much of a mouthful. We don't want to exclude the common-folk, after all. I intend this tale to enrapture _all_.
+  - [iconic](https://ejje.weblio.jp/content/iconic), アイ・カ↑ーニック
+    - 形容詞: 偶像の、肖像の、アイコン的な
+  - [mouthful](https://ejje.weblio.jp/content/mouthful), マ↑ァウスホゥ
+    - 名詞: 長くて発音しにくい単語、ひと口分、ほんのひと口、少し
+      - コアイメージと逆転している意味になっている
+  - [enrapture](https://ejje.weblio.jp/content/enrapture), イン・ラ↑ァプチャ
+    - 他動詞: うっとりさせる、狂喜させる
+  - ChatGPT訳: 何か象徴的なものが良いですね、しかし長すぎるのは避けましょう。毕竟、一般の人々を排除したくはありませんから。私がこの物語で 全て を魅了するつもりです。
+- Tav: You have something in mind?
+- Volo: Far too much - this is the very problem. If you could set aside your many triumphs, carry out one _defining_ act...
+  - [triumph](https://ejje.weblio.jp/content/triumph), トラ↑イ・アンフ
+    - 名詞: 大手柄、大成功、勝利、制服、成功の喜び
+  - [defining](https://en.wiktionary.org/wiki/defining#Verb)
+    - 形容詞: 定義や区別するために必要な
+  - [carry out](https://en.wiktionary.org/wiki/carry_out#Verb)
+    - 他動詞: 実行する(=execute, perform)
+  - If you could ((set aside your many triumphs), (carry out one _defining_ act))
+  - ChatGPT訳: ありすぎるんだ - それが問題だ。あなたの多くの勝利を一時置いて、一つの決定的な行為を行うならば...
+- Volo: Not to belittle your achievements to date, of course! But besting a dragon, a giant, a _god_ perhaps... hmm.
+  - [belittle](https://ejje.weblio.jp/content/belittle), ビィ・リ↑ロォ
+    - 他動詞: みくびる、けなす、小さく見せる
+  - [to date](https://en.wiktionary.org/wiki/to_date#Prepositional_phrase)
+    - 前置詞句: 今まで(=until now)、現在まで
+  - [best](https://ejje.weblio.jp/content/best), ベ↑スト
+    - 他動詞: 勝る、打倒する
+  - ChatGPT訳: もちろん、今までの成果を小さく見るわけではないよ！でも、ドラゴンを倒すとか、巨人を、あるいは神を...ふむ。
+- Volo: I must deliberate. Go - enjoy your evening! I shall have work for you in the days to come.
+  - [deliberate](https://ejje.weblio.jp/content/deliberate), ディ・リ↑ィビレイト
+    - 自動詞: 熟考する、審議する
+  - ChatGPT訳: もう少し考えてみるよ。さあ、楽しい夜を過ごしてくれ！これからの日々で君に仕事を頼むことになるだろう。
