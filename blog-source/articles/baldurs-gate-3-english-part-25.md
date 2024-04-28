@@ -682,3 +682,61 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 - Gale: For now - please, enjoy the celebration. When it is done, I will show you all.
   - ChatGPT訳: 今は - どうぞ、お祭りを楽しんでください。終わったら、私がすべてを見せてあげます。
   - いわゆるロマンス系のイベントで、Approvalの値がHigh以上のGaleとShadowheartに発生しているよう。性別は関係なさそう。
+
+### 21, Eliasis - 12:19 - Shadowheart, Tav
+
+祝宴中に仲間の一人へ話しかけた
+
+- Shadowheart: Everyone seems to be in high spirits.
+  - [high spirits](https://en.wiktionary.org/wiki/high_spirits#Noun)
+    - 名詞: 高揚感、楽しさ、嬉しさ
+  - ChatGPT訳: 皆、とても上機嫌のようだね。
+- Shadowheart: I saw you with Gale. You two looked... cosy.
+  - [cozy](https://ejje.weblio.jp/content/cozy), コォ↑ゥズィ
+    - 形容詞: 打ち解けた、居心地の良い
+  - ChatGPT訳: ゲイルと一緒にいたのを見たよ。二人は…仲が良さそうだったね。
+- Shadowheart: Far be it from me to judge. Blood must still be running a little hot after everything.
+  - [far be it](https://en.wiktionary.org/wiki/far_be_it#Verb)
+    - 自動詞: 免責事項や予防線としての何かを考えてはいけない・起こってはいけない
+  - [blood](https://ejje.weblio.jp/content/blood), ブラ↑ァッド
+    - 名詞: 激情
+  - ChatGPT訳: 私が判断することではないけれど。全ての後で、まだ少し興奮しているのかもしれないね。
+- Shadowheart: Strange... you know who I never thought I'd find myself caring for?
+  - [find oneself](https://en.wiktionary.org/wiki/find_oneself#Verb)
+    - 自動詞: 自分がどの様な人間かや何を望んでいるかを知る・知ろうとする、自分に気付く、自分を発見する
+  - 全体的に構文が難しいので、解読したが、やっぱりあまりわからなかった
+    - (Do) you know who I never thought I'd find myself caring for (who)?
+    - あなたは誰だか知っていますか？ 私が一度も考えなかった私が自分自身で気にかけていることを気づいた気にかけている(誰か)を
+    - 疑問文の目的語は「私が気にかけている誰か」なのは確かそう。そしてそれの答えは desperate people... like those refugees のよう。
+    - find myself がないとわかりやすいんだけど
+  - ChatGPT訳: 不思議だ... 誰にこんなに気をかけるとは思わなかったか知ってる？
+- Tav: Me?
+- Shadowheart: Your words, not mine. But not what I mean.
+  - ChatGPT訳: あなたの言葉だ。でも、それは私の意味ではない。
+  - この意味もわからない
+- Shadowheart: I mean desperate people... like those refugees. Never gave them much thought. Certainly not that bunch in the grove.
+  - [desperate](https://ejje.weblio.jp/content/desperate), デ↑ス・パレト
+    - 形容詞: 事態や状況が絶望的な、自暴自棄な
+  - ChatGPT訳: 私が意味するのは、絶望的な人々... 例えばあの難民たち。今まで彼らについてあまり考えたことはなかった。確かにあのグローブの集団には。
+- Shadowheart: Yet we came through for them. We saved their lives. Odd.
+  - ChatGPT訳: でも、私たちは彼らのために何かを成し遂げた。彼らの命を救った。奇妙だ。
+- Tav: Are you worried Shar won't approve?
+  - ChatGPT訳: シャーが承認しないことを心配していますか？
+- Shadowheart: Something like that. I was taught to reject anything that distracted from Shar...
+  - [distract](https://ejje.weblio.jp/content/distract)
+    - 他動詞: 人から注意を逸らす、心を悩ます、気持ちを紛らわす
+    - 本文では目的語がないが、 attention などの言葉が省略されていそう
+  - I was taught to reject (anything that distracted (attention) from Shar)
+  - ChatGPT訳: そういうことです。シャーから注意をそらすものは全て拒否するよう教えられましたが…
+- Shadowheart: ...but there'll be time for penance later.
+  - ChatGPT訳: …でも、後で贖罪の時間はあります。
+- Shadowheart: Share a bottle with me?
+- Tav: Just a bottle?
+- Shadowheart:
+- Shadowheart:
+- Tav:
+- \*\*:
+- Tav:
+- Shadowheart:
+
+### 21, Eliasis - 13:19 - Shadowheart
