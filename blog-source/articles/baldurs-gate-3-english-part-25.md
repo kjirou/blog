@@ -681,3 +681,4 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - ChatGPT訳: ただし、それはお祭りが終わり、夜の静寂が回復された、より親密な環境で体験するのが最善です。
 - Gale: For now - please, enjoy the celebration. When it is done, I will show you all.
   - ChatGPT訳: 今は - どうぞ、お祭りを楽しんでください。終わったら、私がすべてを見せてあげます。
+  - いわゆるロマンス系のイベントで、Approvalの値がHigh以上のGaleとShadowheartに発生しているよう。性別は関係なさそう。
