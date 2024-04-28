@@ -438,3 +438,59 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - ChatGPT訳: そうじゃない。私たちがゲートに到着する前に彼らが祝うことができるのが嬉しい。
 - Mol: Just like I'll be glad to be rid of them once we're there.
   - ChatGPT訳: ちょうど私たちがそこに着いたら、彼らと離れるのが嬉しいと同じだ。
+
+### 21, Eliasis - 10:39 - Halsin, Tav
+
+祝宴中のHalsinへ話しかけた
+
+- Halsin: Go on now, don't waste a night like this talking to me. We'll have plenty of time together on the way to Moonrise.
+  - Go on の意味は？
+    - 文意上は「行きなさい、去なさい」だと思うが、Wiktionaryにはその意味がなく、「続ける、進行する」しかなかった
+    - ChatGPT曰く、「行く、去る」という意味もあるとのこと
+  - ChatGPT訳: さあ行きなさい、こんな夜を私と話して無駄にするな。ムーンライズへの道中、たっぷり時間があるからね。
+- Tav: I thought you might care to have a drink with me.
+  - [care](https://ejje.weblio.jp/content/care), ケ↑ェア
+    - 自動詞: 関心がある、気に掛ける
+  - ChatGPT訳: 一緒に飲み物をいただけると思いました。
+- Halsin: In truth, I rarely imbibe. The stuff goes right to my head. Before you know it, I'd be breaking into song or declaring love to the first person I laid eyes on.
+  - [imbibe](https://ejje.weblio.jp/content/imbibe), イン・バ↑ァー
+    - 自動詞: 飲む、吸収する
+    - 他動詞: 水分や養分を摂取する・吸収する、酒を飲む
+  - [before one knows it](https://en.wiktionary.org/wiki/before_one_knows_it#Phrase)
+    - 慣用句: 特に誰も予期しないときに急速に、気づいたら
+  - [break into](https://en.wiktionary.org/wiki/break_into#Verb)
+    - 他動詞: 突然始める
+  - [lay eyes on](https://en.wiktionary.org/wiki/lay_eyes_on#Verb)
+    - 他動詞: 見る(=see, look at)、ちらりと見る(=glimpse)
+  - ChatGPT訳: 実を言うと、私はめったにお酒を飲みません。すぐに頭に来てしまうんです。気がつけば歌を歌っていたり、目に入った最初の人に愛を告白していたりするでしょう。
+- Tav: I fail to see the problem.
+  - [fail](https://ejje.weblio.jp/content/fail), フェ↑ィルゥ
+    - 自動詞: 〜することができない
+      - fail to Verb
+  - ChatGPT訳: それが問題だとは思えませんね。
+- Halsin: Then you have never heard me singing. Which makes you _very_ fortunate.
+  - [fortunate](https://ejje.weblio.jp/content/fortunate), フォ↑ォ・チュ・ネイト
+    - 形容詞: 幸運な、幸せな
+  - ChatGPT訳: それでは、あなたは私が歌うのを聞いたことがないということですね。それは非常に幸運なことです。
+- Tav: Perhaps there's something else you'd rather do then...
+  - ChatGPT訳: それなら、他にやりたいことがあるのではないでしょうか…
+  - 前文とのつながりがわからない。
+- Halsin: I'm sure there are. You strike me as extremely... resourceful.
+  - [strike](https://ejje.weblio.jp/content/strike), ストラ↑イク
+    - 他動詞: 人の心を打つ・感心させる・感銘させる、人に印象付ける
+  - [extremely](https://ejje.weblio.jp/content/extremely), エクス・トリ↑ィーム・リィ
+    - 副詞: 極端に、極めて、とても
+    - [extreme](https://ejje.weblio.jp/content/extreme), エクス・トリ↑ィンム
+      - 形容詞: 極度の、非常な、極めて厳しい、過激な
+  - [resourceful](https://ejje.weblio.jp/content/resourceful), ゥリ・ソ↑ゥース・フゥ
+    - 形容詞: 機知や工夫に富む、よく気がつく、やりくり上手の
+  - ChatGPT訳: 確かにそうでしょう。あなたはとても…賢いと思います。
+- Halsin: But there are many grateful people here who want to spend time with you. I must not keep you all to myself. As enjoyable as that may be.
+  - [enjoyable](https://ejje.weblio.jp/content/enjoyable), イン・ジ↑ョイア・ボォ
+    - 形容詞: ものや経験が楽しい・愉快な
+  - as that may be の意味は？
+    - 少しイディオムめいていて、「前述のことがそうであるかもしれないとしても」という逆説的な意味を持つ
+  - ChatGPT訳: でもここにはあなたと時間を過ごしたいと思っている感謝している人々がたくさんいます。私一人があなたを独占してはいけません。それがどれほど楽しいかもしれないとしても。
+- Halsin: Go on, enjoy yourself. Seek out some wine before it runs dry - there are a lot of thirsty people around here.
+  - [thirsty](https://ejje.weblio.jp/content/thirsty), スァ↑スティ
+    - 形容詞: のどが渇いた、のどを渇かせる、土地などが乾燥した
