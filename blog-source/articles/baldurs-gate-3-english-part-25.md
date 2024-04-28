@@ -637,3 +637,47 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
     - イディオム: 楽しんでね
 - Karlach: You too, soldier.
 - Karlach: Enjoy yourself tonight. You've earned it.
+
+### 21, Eliasis - 12:04 - Gale, Tav
+
+祝宴中に仲間の一人へ話しかけた
+
+- Gale: Thank you.
+- Tav: I'm sure you're welcome.
+- Gale: There's that confidence I like.
+  - ChatGPT訳: そういう自信、私は好きよ。
+- Gale: I thank you for seeking me out. Amid all this merriment I wasn't sure we'd have a chance to speak this evening.
+  - [merriment](https://ejje.weblio.jp/content/merriment), メ↑ェ・レ・メント
+    - 名詞: 陽気な騒ぎ、陽気さ、歓楽
+  - ChatGPT訳: 今夜は話す機会があるかどうか確信が持てなかった中、私を探し出してくれてありがとう。
+- Gale: I was hoping you'd spare me a moment. There was something rather magical I wished to show you.
+  - [spare](https://ejje.weblio.jp/content/spare), スペ↑ァァ
+    - 他動詞: 人に時間や金などをを割く・与える
+      - spare IO(=人) DO(=内容)
+    - 他動詞: 惜しんで使わない、後に取っておく
+    - 名詞: 予備のもの
+  - ChatGPT訳: ちょっと時間を割いてくれると嬉しいのですが。あなたに見せたい、とても魔法のようなものがあります。
+- Tav: I like the sound of 'magical.' What do you have planned?
+  - ChatGPT訳: 「魔法」と聞くとわくわくしますね。何を計画しているのですか？
+- Gale: A lesson. And trust me when I say - few have experienced the pleasure I offer to teach.
+  - when I say の意味は？
+    - すぐに後述する few 以下の内容を「言う時」を指している
+  - [few](https://ejje.weblio.jp/content/few), フィ↑ゥ
+    - 代名詞: 数が少数しかない、少数の人・もの
+  - ChatGPT訳: 授業です。そして信じてください、私が教える喜びを体験した人は少ないです。
+- Gale: However, it's something best experienced in more intimate surrounds, once the revelry has ended, and the stillness of the night has been restored.
+  - [experience](https://ejje.weblio.jp/content/experience), イクス・ピ↑エリエンス
+    - 他動詞: 〜を経験する・体験する
+  - it's something best experienced の意味は？
+    - 修飾関係は it's something best (it is) experienced みたいな感じで、「それは経験されることが最も良い何か」
+  - [intimate](https://ejje.weblio.jp/content/intimate), イ↑ン・ティ・メント
+    - 形容詞: 親密な、深い
+  - [revelry](https://ejje.weblio.jp/content/revelry), ゥレ↑・ヴェ・リィ
+    - 名詞: 飲めや歌えの大騒ぎ、飲み騒ぎ
+    - [revel](https://ejje.weblio.jp/content/revel), ゥレ↑・ボゥ
+      - 自動詞: 大いに楽しむ、酒盛りする
+  - [stillness](https://ejje.weblio.jp/content/stillness), スティル・ネス
+    - 名詞: 静けさ、沈黙、静止
+  - ChatGPT訳: ただし、それはお祭りが終わり、夜の静寂が回復された、より親密な環境で体験するのが最善です。
+- Gale: For now - please, enjoy the celebration. When it is done, I will show you all.
+  - ChatGPT訳: 今は - どうぞ、お祭りを楽しんでください。終わったら、私がすべてを見せてあげます。
