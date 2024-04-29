@@ -732,11 +732,50 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - ChatGPT訳: …でも、後で贖罪の時間はあります。
 - Shadowheart: Share a bottle with me?
 - Tav: Just a bottle?
-- Shadowheart:
-- Shadowheart:
-- Tav:
-- \*\*:
-- Tav:
-- Shadowheart:
+- Shadowheart: Just a bottle. I think you have other plans afterwards - wouldn't want to keep you.
+  - [afterwards](https://ejje.weblio.jp/content/afterwards), ア↑・フタァ・ウォズ
+    - = afterward
+    - [afterward](https://ejje.weblio.jp/content/afterward), ア↑・フタァ・ウォード
+      - 副詞: 後で、以後
+  - ChatGPT訳: ただボトルだけ。その後の他の予定があると思うから、遅れさせたくないんだ。
+- Shadowheart: ...Well, maybe I would. But first come, first served.
+  - [first come, first served](https://en.wiktionary.org/wiki/first_come,_first_served#Phrase)
+    - 慣用句: 先着順で
+  - But の意味は？
+    - あんまりわからない、一つ前の会話に対して逆説なのはわかるが、 maybe I would に対して逆説なのはおかしそう
+    - 独り言っぽく言ってるのかな
+  - ChatGPT訳: ...まあ、多分遅れさせたいけど。でも最初に来た人が最初に受け取るんだ。
+- Tav: Maybe those plans could change, for the right person...
+  - [right](https://ejje.weblio.jp/content/right), ゥラ↑イト
+    - 形容詞: 適切な、適当な
+  - ChatGPT訳: その計画は、適切な人のためなら変わるかもしれないね…
+- \*Shadowheart says nothing, but the glimmer of interest in her eyes is unmistakable.\*
+  - [glimmer](https://ejje.weblio.jp/content/glimmer), グリ↑ィ・マァ
+    - 名詞: かすかな光、気配
+    - 自動詞: ちらちら光る
+    - [glim](https://en.wiktionary.org/wiki/glim#Noun), グリィム
+      - 名詞: 光、ろうそく、ランタン
+      - 古い言葉
+  - [unmistakable](https://ejje.weblio.jp/content/unmistakable), アン・ミス・テ↑イカボォ
+    - 形容詞: 間違いようがない、明白な
+  - ChatGPT訳: シャドウハートは何も言わないが、彼女の目には間違いなく興味の輝きがある。
+- Tav: I'll find you later, once the camp's asleep.
+  - [asleep](https://ejje.weblio.jp/content/asleep), ア・スリ↑ィプ
+    - 形容詞,叙述用法: 眠って、死んだ様になって、しびれて
+- Shadowheart: Best not keep me waitng. I'd prefer not to entertain myself...
+  - [entertain](https://ejje.weblio.jp/content/entertain), エントゥァ・テ↑イン
+    - 他動詞: 人を楽しませる
+  - ChatGPT訳: 待たせないで。自分で時間をつぶすのは好みじゃないから…
 
 ### 21, Eliasis - 13:19 - Shadowheart
+
+再び話しかけた
+
+- Shadowheart: Don't forget our little agreement. As soon as things quiet down here...
+  - [quiet down](https://en.wiktionary.org/wiki/quiet_down#Verb)
+    - 自動詞: 静かになる
+    - 他動詞: 静かにする
+    - UK では quieten を使うらしい
+  - [as soon as](https://en.wiktionary.org/wiki/as_soon_as#Conjunction)
+    - 接続詞: 現時点で、直後に
+  - ChatGPT訳: 私たちの小さな合意を忘れないで。ここが静かになったら…
