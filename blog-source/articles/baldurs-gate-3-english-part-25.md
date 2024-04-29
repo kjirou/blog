@@ -779,3 +779,110 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - [as soon as](https://en.wiktionary.org/wiki/as_soon_as#Conjunction)
     - 接続詞: 現時点で、直後に
   - ChatGPT訳: 私たちの小さな合意を忘れないで。ここが静かになったら…
+
+### 21, Eliasis - 13:36 - Astarion, Tav
+
+祝宴中に仲間の一人へ話しかけた
+
+- Astarion: You know, I never pictured myself as a hero.
+  - [picture](https://ejje.weblio.jp/content/picture), ピ↑ク・チュァ
+    - 他動詞: 想像する
+      - picture O(=想像されるもの) as {想像する内容}
+  - ChatGPT訳: ねえ、自分がヒーローになるとは思っていなかったよ。
+- Astarion: Never thought I'd be the one they toast for saving so many lives. And now that I'm here...
+  - [toast](https://ejje.weblio.jp/content/toast), ト↑ォウスト
+    - 他動詞: 〜のために祝杯を挙げる
+  - I'd be the one they toast (the one) for saving so many lives
+  - ChatGPT訳: 多くの命を救って称賛される人物になるとは思ってもみなかった。そして今、ここにいるけど...
+- Astarion: I hate it. This is awful.
+- Tav: Really? Saving lives is awful?
+- Astarion: We killed some goblins to save some tieflings. The tally of lives didn't change much.
+  - [tally](https://ejje.weblio.jp/content/tally), タ↑ァ・リィ
+    - 名詞: 勘定、計算、勘定書、計算書
+    - Assoc: 数を数えるのに横棒に縦線が4本入った記号を使うことがあり、それを tally という。日本の「正」の字に近い文化。
+- Astarion: But what do I get for all my hard work? A pat on the head and vinegar for wine.
+  - [pat](https://ejje.weblio.jp/content/pat), パ↑ァッ
+    - 名詞: なでること、軽く叩くこと、パタパタという音、軽い足音
+  - [vinegar](https://ejje.weblio.jp/content/vinegar), ビ↑ネガァ
+    - 名詞: 酢、食用酢
+  - ChatGPT訳: でも、私の一生懸命の労働に対して何が得られる？頭を撫でられて、ワインには酢。
+- Tav: _Take his bottle and try the wine._
+- \*It's a heavy, rich red - dry and sharp.\*
+  - ChatGPT訳: それは重くて豊かな赤ワイン - ドライで鋭い。
+- Astarion: See what I mean? Awful.
+  - ChatGPT訳: 分かるだろう？ひどい。
+  - これはAstarionがふざけているのか、嘘をついているのか、育ちがとてもいいのか、どう言うことなのだろう
+- Astarion: All I want is a little fun. Is that so much to ask?
+  - ChatGPT訳: 少し楽しみたいだけです。それがそんなに多くを求めていることでしょうか？
+- Tav: That had better not mean 'I want to kill something'.
+  - ChatGPT訳: それは「何かを殺したい」という意味ではないことを祈る。
+- Astarion: Not at all! I was hoping for companionship and - well, maybe a little death. Figuratively speaking.
+  - [companionship](https://ejje.weblio.jp/content/companionship), (コ|カ)ン・パ↑ーニオン・シップ
+    - 名詞: 仲間づきあい、交わり
+  - [figuratively](https://ejje.weblio.jp/content/figuratively), フィ↑ギュ・ラ・ティブリィ
+    - 副詞: 比喩的に
+    - [figurative](https://ejje.weblio.jp/content/figurative), フィ↑ギュ・ラ・ティブ
+      - 形容詞: 比喩的な、比喩や修飾の多い
+  - ChatGPT訳: まったくそういうわけではありません！仲間を求めていて、まあ、少しの死を望むかもしれません。比喩的にですが。
+- Astarion: Not with you, just to be clear.
+  - just to be clear の意味は？
+    - 若干イディオム気味に「念のためにはっきりしておくこと」
+  - ChatGPT訳: あなたと一緒に、というわけではないですよ。
+- Astarion: I mean, can you imagine? Urgh. No.
+  - ChatGPT訳: まあ、想像できますか？うーん、いや。
+  - 全体的に会話の内容はわかってない
+- Astarion: Anyway, don't let me keep you. I'm sure you have someone else to sniff around.
+  - [sniff around](https://en.wiktionary.org/wiki/sniff_around)
+    - 自動詞: 情報を探す、調査する
+    - [sniff](https://ejje.weblio.jp/content/sniff), スニ↑ッフ
+      - 自動詞: ふんふんかぐ、くんくんかぐ、鼻であしらう
+      - 他動詞: においをかぐ、かぎつける
+  - ChatGPT訳: とにかく、私があなたの時間を取らないようにしましょう。あなたには他に気になる人がいるでしょう。
+
+### 21, Eliasis - 13:45 - Wyll, Tav
+
+祝宴から外れて一人で居るWyllへ話しかけた
+
+- Wyll: Agh, Hells! I was hoping you wouldn't notice I was gone.
+  - ChatGPT訳: ああ、地獄だ！君が私がいなくなったことに気づかないでくれると思っていたよ。
+- Tav: Are you all right?
+- Wyll: Oh, I'm deeply proud of you. A touch less so of myself.
+  - [proud](https://ejje.weblio.jp/content/proud), プラ↑ァウド
+    - 形容詞: 誇って、自慢して
+      - proud of {名詞}
+  - [touch](https://ejje.weblio.jp/content/touch), タ↑ァチ
+    - 名詞: ちょっと、〜気味
+      - a touch で使う
+  - ChatGPT訳: ああ、私は君を深く誇りに思っている。自分のことは少し少ないけれども。
+- Wyll: In truth, I don't feel in a festive mood, and didn't want to cast a grey cloud over the night.
+  - [in truth](https://en.wiktionary.org/wiki/in_truth)
+    - 前置詞句: 実を言うと、実際は(=in fact)
+  - [festive](https://ejje.weblio.jp/content/festive), フェ↑ス・ティブ
+    - 形容詞: 祝祭の、お祝いの
+  - [mood](https://ejje.weblio.jp/content/mood), ムゥード
+    - 名詞: 気分、機嫌、〜しようとする気持ち
+  - ChatGPT訳: 実を言うと、お祭り気分じゃないんだ。そして、夜に暗い影を落としたくなかったんだ。
+- Wyll: Those people are still in danger. A thousand perils still threaten them.
+  - [peril](https://ejje.weblio.jp/content/peril), ペ↑・ラォ
+    - 名詞: けがや死に関わる様な大きな危険・危難
+- Wyll: They aren't ready to get on the road on their own.
+  - [get on](https://en.wiktionary.org/wiki/get_on#Verb)
+    - 他動詞: 時間をかけて処理する・対処する
+  - [road](https://ejje.weblio.jp/content/road), ゥロ↑ゥド
+    - 名詞: 〜への道
+      - the road で使う
+  - ChatGPT訳: 彼らは一人で道に出る準備ができていません。
+  - なお、避難民側はもう旅路は余裕みたいな雰囲気で、祝宴明けには全員消えている
+- Tav: You're right, but we need to give them hope.
+- Wyll: You're good at it. You've given me some just by being here.
+  - ChatGPT訳: それが得意だね。ここにいるだけで、少し希望をもらったよ。
+- Wyll: But off with you. This is your day! Have a dance. Enjoy the music.
+  - [off](https://ejje.weblio.jp/content/off), オォフ
+    - 自動詞: 出て行く、去る
+  - ChatGPT訳: でも行ってくれ。今日は君の日だ！踊りを楽しんで、音楽を楽しんで。
+- Tav: I wish you were there, but I'll respect your need for peace.
+- Wyll: Some time alone beneath the stars, and I'll be back to my old self. Promise.
+  - ChatGPT訳: 星の下で少しの時間を一人で過ごせば、また元の自分に戻るよ。約束する。
+- Wyll: Still - it's a night to remember. You've made sure of that.
+  - ChatGPT訳: それでも、忘れられない夜になるね。それを確実にしてくれたのは君だ。
+  - この後は祝宴を終了し、次の日になる
