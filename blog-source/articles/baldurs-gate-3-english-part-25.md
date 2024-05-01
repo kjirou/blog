@@ -1,6 +1,6 @@
 ---
 publicId: baldurs-gate-3-english-part-25
-lastUpdatedAt: "2024-04-24 02:29:34+0000"
+lastUpdatedAt: "2024-05-03 02:16:15+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 25冊目
@@ -71,6 +71,9 @@ Mintharaを倒したのでイベントがあるかと思い、再び話しかけ
   - [dart](https://ejje.weblio.jp/content/dart), ダ↑ァト
     - 自動詞: 投げ矢の様に飛んでいく・突進する
     - 他動詞: 視線や矢を放つ
+  - [warp](https://ejje.weblio.jp/content/warp), ウ↑ォプ
+    - 自動詞: 歪む、反る、心がひがむ
+    - 他動詞: 歪ませる、反らせる、報道などを歪曲する
   - [throb](https://ejje.weblio.jp/content/throb), スラ↑ァブ
     - 自動詞: 激しく動悸する、心臓が動く、どきどきする、震える、感動する
   - ChatGPT訳: このシンボルはあなたの目の下で動き回り、歪み、ねじれます。頭が痛むけれど、もう少しで理解できそうです。
@@ -111,7 +114,6 @@ Dror Ragzlinを攻撃した
     - 他動詞: 神聖や人の名声を汚す、汚す、不潔にする
     - [file](https://ejje.weblio.jp/content/file), ファ↑ィャ
       - 他動詞: やすりをかける、磨く、研ぐ
-      - defile とはあまり関係なさそう
 
 ### 21, Eliasis - 4:18 - Halsin, Tav
 
@@ -142,7 +144,7 @@ Goblinのリーダー達を全て倒したので、Halsinへ報告した
       - 前置詞: 〜の真ん中に、〜の真っ最中に
   - [bucolic](https://ejje.weblio.jp/content/bucolic), ビユ・カ↑ーリック
     - 形容詞: 牧歌的な、田園生活の、田舎風の
-  - amidst (more... bucolic surroundings than here)
+  - comes next (amidst (more... bucolic surroundings than here))
   - ChatGPT訳: そこでいくつかの事柄を見て回りますが、私たちは次に何をするか、ここよりももっと…田園的な環境の中で話し合うことができます。
 
 ### 21, Eliasis - 5:49 - Abdirak
@@ -244,6 +246,8 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 祝宴中の避難民の一人へ話しかけた
 
 - Guex: Think of it - no more caves, no more tents, no more running away.
+  - [tent](https://ejje.weblio.jp/content/tent), テ↑ント
+    - 名詞: テント、天幕、テント状のもの
   - ChatGPT訳: 考えてみてください。もう洞窟も、テントも、逃げることもありません。
 - Guex: We'll be in a city, with roads and markets... and _homes_.
   - ChatGPT訳: 市街地にいて、道や市場があり、そして家があります。
@@ -469,6 +473,9 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
       - fail to Verb
   - ChatGPT訳: それが問題だとは思えませんね。
 - Halsin: Then you have never heard me singing. Which makes you _very_ fortunate.
+  - [hear](https://ejje.weblio.jp/content/hear), ヒ↑ィャァ
+    - 他動詞: 〜が〜しているのが聞こえる
+      - hear O(=する人) Verb-ing
   - [fortunate](https://ejje.weblio.jp/content/fortunate), フォ↑ォ・チュ・ネイト
     - 形容詞: 幸運な、幸せな
   - ChatGPT訳: それでは、あなたは私が歌うのを聞いたことがないということですね。それは非常に幸運なことです。
@@ -524,6 +531,8 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
     - 副詞: 単なる、ただの
   - [crude](https://ejje.weblio.jp/content/crude), クルゥード
     - 形容詞: 天然のままの、未加工な、粗製の、未熟な、未完成な
+  - [frame](https://ejje.weblio.jp/content/frame), フレイム
+    - 名詞: 枠組み、構造、組織、額縁
   - [crowning](https://ejje.weblio.jp/content/crowning), クル↑ァーニン
     - 形容詞: 最後を飾る、この上ない、頂上の、頂点の
   - [nom de guerre](https://en.wiktionary.org/wiki/nom_de_guerre#Noun)
@@ -537,19 +546,22 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
     - 形容詞: 偶像の、肖像の、アイコン的な
   - [mouthful](https://ejje.weblio.jp/content/mouthful), マ↑ァウスホゥ
     - 名詞: 長くて発音しにくい単語、ひと口分、ほんのひと口、少し
-      - コアイメージと逆転している意味になっている
+      - 「長くて発音しにくい」と「ひと口」が逆の意味になっている
   - [enrapture](https://ejje.weblio.jp/content/enrapture), イン・ラ↑ァプチャ
     - 他動詞: うっとりさせる、狂喜させる
+    - [rapture](https://ejje.weblio.jp/content/rapture), ゥラ↑プ・チュァ
+      - 名詞: 有頂天、狂喜、歓喜
   - ChatGPT訳: 何か象徴的なものが良いですね、しかし長すぎるのは避けましょう。毕竟、一般の人々を排除したくはありませんから。私がこの物語で 全て を魅了するつもりです。
 - Tav: You have something in mind?
 - Volo: Far too much - this is the very problem. If you could set aside your many triumphs, carry out one _defining_ act...
+  - [set aside](https://en.wiktionary.org/wiki/set_aside#Verb)
+    - 他動詞: 勘定から除外する、無視する、省略する、目的のために何かを分離して予約する
   - [triumph](https://ejje.weblio.jp/content/triumph), トラ↑イ・アンフ
     - 名詞: 大手柄、大成功、勝利、制服、成功の喜び
   - [defining](https://en.wiktionary.org/wiki/defining#Verb)
     - 形容詞: 定義や区別するために必要な
   - [carry out](https://en.wiktionary.org/wiki/carry_out#Verb)
     - 他動詞: 実行する(=execute, perform)
-  - If you could ((set aside your many triumphs), (carry out one _defining_ act))
   - ChatGPT訳: ありすぎるんだ - それが問題だ。あなたの多くの勝利を一時置いて、一つの決定的な行為を行うならば...
 - Volo: Not to belittle your achievements to date, of course! But besting a dragon, a giant, a _god_ perhaps... hmm.
   - [belittle](https://ejje.weblio.jp/content/belittle), ビィ・リ↑ロォ
@@ -577,7 +589,7 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - ChatGPT訳: 私たちは生き残りました。それは常に祝う価値があります。
 - Ikaron: Not everyone. We lost people, and it's like they don't even care.
 - Ikaron: But I care. And I won't drink myself into a stupor to change that.
-  - [drink](https://ejje.weblio.jp/content/drink)
+  - [drink](https://ejje.weblio.jp/content/drink), デュリンク
     - 他動詞: 人が飲んで何かの状態に至る
       - drink O(=人)
         - 「人が酒に飲まれる」という表現がわかりやすいかも
@@ -601,7 +613,7 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - ChatGPT訳: 良い飲み物もあるし。
 - Tav: Are you enjoying yourself?
 - Karlach: Fuck yes! I'm celebrating my freedom. And our friendship. And these folks' bright future besides.
-  - [besides](https://ejje.weblio.jp/content/besides)
+  - [besides](https://ejje.weblio.jp/content/besides), ビィ・サ↑ァイズ
     - 副詞: そのうえ、なお
   - ChatGPT訳: くそ、もちろんだ！ 自由を祝ってるんだ。それに、僕たちの友情や、この人たちの明るい未来もね。
 - Karlach: All I need now is a fire-retardant lover to get lost in 'til sunrise.
@@ -664,10 +676,10 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
     - すぐに後述する few 以下の内容を「言う時」を指している
   - [few](https://ejje.weblio.jp/content/few), フィ↑ゥ
     - 代名詞: 数が少数しかない、少数の人・もの
-  - ChatGPT訳: 授業です。そして信じてください、私が教える喜びを体験した人は少ないです。
-- Gale: However, it's something best experienced in more intimate surrounds, once the revelry has ended, and the stillness of the night has been restored.
   - [experience](https://ejje.weblio.jp/content/experience), イクス・ピ↑エリエンス
     - 他動詞: 〜を経験する・体験する
+  - ChatGPT訳: 授業です。そして信じてください、私が教える喜びを体験した人は少ないです。
+- Gale: However, it's something best experienced in more intimate surrounds, once the revelry has ended, and the stillness of the night has been restored.
   - it's something best experienced の意味は？
     - 修飾関係は it's something best (it is) experienced みたいな感じで、「それは経験されることが最も良い何か」
   - [intimate](https://ejje.weblio.jp/content/intimate), イ↑ン・ティ・メント
@@ -698,6 +710,7 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 - Shadowheart: Far be it from me to judge. Blood must still be running a little hot after everything.
   - [far be it](https://en.wiktionary.org/wiki/far_be_it#Verb)
     - 自動詞: 免責事項や予防線としての何かを考えてはいけない・起こってはいけない
+    - 直訳で「遠くあるべき」になるのかな？
   - [blood](https://ejje.weblio.jp/content/blood), ブラ↑ァッド
     - 名詞: 激情
   - ChatGPT訳: 私が判断することではないけれど。全ての後で、まだ少し興奮しているのかもしれないね。
@@ -723,7 +736,7 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
 - Tav: Are you worried Shar won't approve?
   - ChatGPT訳: シャーが承認しないことを心配していますか？
 - Shadowheart: Something like that. I was taught to reject anything that distracted from Shar...
-  - [distract](https://ejje.weblio.jp/content/distract)
+  - [distract](https://ejje.weblio.jp/content/distract), ディス・トラァクト
     - 他動詞: 人から注意を逸らす、心を悩ます、気持ちを紛らわす
     - 本文では目的語がないが、 attention などの言葉が省略されていそう
   - I was taught to reject (anything that distracted (attention) from Shar)
@@ -829,6 +842,8 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
     - 若干イディオム気味に「念のためにはっきりしておくこと」
   - ChatGPT訳: あなたと一緒に、というわけではないですよ。
 - Astarion: I mean, can you imagine? Urgh. No.
+  - [I mean](https://en.wiktionary.org/wiki/I_mean#Particle)
+    - 助詞: 遅延フィラー、私が意図するのは
   - ChatGPT訳: まあ、想像できますか？うーん、いや。
   - 全体的に会話の内容はわかってない
 - Astarion: Anyway, don't let me keep you. I'm sure you have someone else to sniff around.
@@ -853,6 +868,8 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - [touch](https://ejje.weblio.jp/content/touch), タ↑ァチ
     - 名詞: ちょっと、〜気味
       - a touch で使う
+  - [less so](https://en.wiktionary.org/wiki/less_so#Adjective)
+    - 形容詞: 文脈上前に存在した形容詞より低い表現、それほどでもない
   - ChatGPT訳: ああ、私は君を深く誇りに思っている。自分のことは少し少ないけれども。
 - Wyll: In truth, I don't feel in a festive mood, and didn't want to cast a grey cloud over the night.
   - [in truth](https://en.wiktionary.org/wiki/in_truth)
@@ -882,6 +899,8 @@ Emerald Groveに戻ると、避難民の長から話しかけられた
   - ChatGPT訳: でも行ってくれ。今日は君の日だ！踊りを楽しんで、音楽を楽しんで。
 - Tav: I wish you were there, but I'll respect your need for peace.
 - Wyll: Some time alone beneath the stars, and I'll be back to my old self. Promise.
+  - [alone](https://ejje.weblio.jp/content/alone), ア・ロ↑ゥン
+    - 副詞: ひとりで、単独に
   - ChatGPT訳: 星の下で少しの時間を一人で過ごせば、また元の自分に戻るよ。約束する。
 - Wyll: Still - it's a night to remember. You've made sure of that.
   - ChatGPT訳: それでも、忘れられない夜になるね。それを確実にしてくれたのは君だ。
