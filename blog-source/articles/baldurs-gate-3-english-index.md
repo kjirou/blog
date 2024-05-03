@@ -20,7 +20,7 @@ lastUpdatedAt: "2024-03-05 01:36:14+0000"
 
 - [1冊目](./baldurs-gate-3-english-part-1.html), [2冊目](./baldurs-gate-3-english-part-2.html), [3冊目](./baldurs-gate-3-english-part-3.html), [4冊目](./baldurs-gate-3-english-part-4.html), [5冊目](./baldurs-gate-3-english-part-5.html), [6冊目](./baldurs-gate-3-english-part-6.html), [7冊目](./baldurs-gate-3-english-part-7.html), [8冊目](./baldurs-gate-3-english-part-8.html), [9冊目](./baldurs-gate-3-english-part-9.html), [10冊目](./baldurs-gate-3-english-part-10.html)
 - [11冊目](./baldurs-gate-3-english-part-11.html), [12冊目](./baldurs-gate-3-english-part-12.html), [13冊目](./baldurs-gate-3-english-part-13.html), [14冊目](./baldurs-gate-3-english-part-14.html), [15冊目](./baldurs-gate-3-english-part-15.html), [16冊目](./baldurs-gate-3-english-part-16.html), [17冊目](./baldurs-gate-3-english-part-17.html), [18冊目](./baldurs-gate-3-english-part-18.html), [19冊目](./baldurs-gate-3-english-part-19.html), [20冊目](./baldurs-gate-3-english-part-20.html)
-- [21冊目](./baldurs-gate-3-english-part-21.html), [22冊目](./baldurs-gate-3-english-part-22.html), [23冊目](./baldurs-gate-3-english-part-23.html), [24冊目](./baldurs-gate-3-english-part-24.html)
+- [21冊目](./baldurs-gate-3-english-part-21.html), [22冊目](./baldurs-gate-3-english-part-22.html), [23冊目](./baldurs-gate-3-english-part-23.html), [24冊目](./baldurs-gate-3-english-part-24.html), [25冊目](./baldurs-gate-3-english-part-25.html)
 
 ### その他
 
