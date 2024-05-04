@@ -42,3 +42,47 @@ lastUpdatedAt: "2024-05-03 02:16:15+0000"
   - [bestow](https://ejje.weblio.jp/content/bestow), ビィ・スト↑ゥ
     - 他動詞: 名誉や称号を授ける・贈る
   - ChatGPT訳: あなたの心がときめきます。この夜がどんな宝物をもたらすことでしょうか？
+
+### 22, Eliasis - 14:01 - Shadowheart, Tav
+
+夜中にShadowheartと会った
+
+- Shadowheart: You made it. Come here - sit with me.
+  - ChatGPT訳: 無事に来てくれたね。こっちに来て、一緒に座ろう。
+- Tav: What do you have in mind? Besides the bottle, that is.
+  - Besides the bottle の意味は？
+    - 直訳で「ボトルに加えて」「ボトルの他にも」
+    - besides は「〜を加えて」ではなくて「〜に対してさらに別の何かを加えて」である
+  - [that is](https://en.wiktionary.org/wiki/that_is#Adverb)
+    - 副詞: 説明の導入の表現、つまり(=that is to say)、言い換えれば(=in other words)
+    - 本文の意味がこれなのかは微妙にわからない
+  - ChatGPT訳: 何か考えているの？それともそのボトルだけ？
+- Shadowheart: Well, to begin, I think a toast is in order. Any suggestions?
+  - [in order](https://en.wiktionary.org/wiki/in_order#Adjective)
+    - 形容詞: 順番な、正しい順序の
+  - ChatGPT訳: まずは、乾杯から始めたいと思う。何か提案はある？
+- Tav: To us.
+- Shadowheart: Bold. What does 'us' entail?
+  - [entail](https://ejje.weblio.jp/content/entail), エン・テェ↑ィォ
+    - 他動詞: ある事態や行動を必然的に伴う・必要とする
+      - 本文は、直訳だと「「私たち」は必然的に何を伴うの？」になる
+  - ChatGPT訳: 大胆ね。「私たち」とは何を意味するの？
+- Shadowheart: I suppose I'll find out. To us.
+  - ChatGPT訳: まあ、わかるでしょう。私たちに。
+- Shadowheart: Now tell me something about yourself.
+- Shadowheart: And no tadpoles, dragons, marauding goblins, or anything like that. Something about _you_.
+  - [marauding](https://ejje.weblio.jp/content/marauding), (マ|モ)・ラァ↑ー・ディン
+    - 形容詞: 略奪する、襲撃する
+    - [maraud](https://ejje.weblio.jp/content/maraud), マ・ラァ↑ー
+      - 自動詞: 略奪する、襲撃する
+      - 他動詞: 略奪する、襲撃する
+      - 現代だと、戦争や紛争時に使われることが多い
+- Tav: Something about me? I'm surprised you cared.
+- Shadowheart: Fishing for blackmail material, that's all.
+  - ChatGPT訳: ただの恐喝材料を探してるだけよ。
+- Shadowheart: Go on - I insist.
+- Tav: _Share a little memory from growing up in Baldur's Gate._
+- Shadowheart:
+- Shadowheart:
+- Tav:
+- Charisma (Persuasion) Successful: Tav
