@@ -188,3 +188,31 @@ lastUpdatedAt: "2024-05-03 02:16:15+0000"
     - 形容詞: 前方への、前進の、向上する
     - 副詞: 前方へ、先へ、進んで
   - ChatGPT訳: では、進みましょう。またすぐに話すことでしょう。
+
+### 22, Eliasis - 15:13 - Halsin, Tav
+
+Campの中でHalsinと話した
+
+- Halsin: Oak father's blessings to you.
+- Tav: I have to ask - how do you know so much about the parasite?
+- Halsin: I studied one up close - closer than most would care to be to those things.
+  - [up close](https://en.wiktionary.org/wiki/up_close#Adverb)
+    - 副詞: とても近くで
+  - [care](https://ejje.weblio.jp/content/care), ケェーア
+    - 自動詞: 〜したいと思う
+      - care to Verb
+  - most would care to be to those things の意味は？
+    - 直訳で「大多数の人がそれらのものと居たいと思うだろう」だが、逆の意味らしい
+    - ChatGPTによると、 would care to が「〜したいと思うか（いやしたくないだろう）」というイディオムになり得るらしい、ただ辞書にはなく、日本語ブログでも発見できなかった
+  - ChatGPT訳: 私はそれを間近で研究しました。ほとんどの人がそのようなものに近づきたがらないほどに。
+- Halsin: A drow attacked me and I defended myself. Afterwards, I was able to examine the tadpole that emerged.
+  - ChatGPT訳: ドロウに襲われたので、私は自分を守りました。その後、現れたティドポールを調査することができました。
+- Halsin: Hideous - but fascinating. Like nothing else in nature, I'm glad to say.
+  - ChatGPT訳: 醜悪ですが、興味深い。自然には他に類を見ないもので、それを良しと思います。
+- Tav:
+- Halsin:
+- Tav:
+- Halsin:
+- Halsin:
+- Halsin:
+- Tav:
