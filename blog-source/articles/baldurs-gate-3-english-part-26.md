@@ -79,10 +79,77 @@ lastUpdatedAt: "2024-05-03 02:16:15+0000"
       - 現代だと、戦争や紛争時に使われることが多い
 - Tav: Something about me? I'm surprised you cared.
 - Shadowheart: Fishing for blackmail material, that's all.
+  - [fish](https://ejje.weblio.jp/content/fish), フィ↑ッシュ
+    - 自動詞: それとなく手に入れようとする、探す、誘って釣りだす、魚を捕らえる、釣りをする
+  - [blackmail](https://ejje.weblio.jp/content/blackmail), ブラ↑ァック・メイウ
+    - 名詞: ゆすり、恐喝、ゆすりや恐喝で得た金品
+    - 他動詞: 恐喝する、ゆする、恐喝して〜させる
   - ChatGPT訳: ただの恐喝材料を探してるだけよ。
 - Shadowheart: Go on - I insist.
+  - [insist](https://ejje.weblio.jp/content/insist), イン・スィ↑スト
+    - 自動詞: 強要する、要求する、反対されても主張する
+  - ChatGPT訳: さあ、どうぞ - 強く勧めるわ。
 - Tav: _Share a little memory from growing up in Baldur's Gate._
-- Shadowheart:
-- Shadowheart:
-- Tav:
+- Shadowheart: Seems like you truly know the city. I never got to explore it to my liking.
+  - [to one's liking](https://en.wiktionary.org/wiki/to_someone%27s_liking#Prepositional_phrase)
+    - 前置詞句: 心地よい状態や形で
+    - [liking](https://ejje.weblio.jp/content/liking), ラ↑ィキング
+      - 名詞: 好み、趣味
+  - ChatGPT訳: まるで本当にこの街を知っているようだね。私は思うように探索することができなかったけど。
+- Shadowheart: Don't stop now. Not just as things are getting interesting...
+  - just as の意味は？
+    - イディオム気味に、副詞で「ちょうどその時に・同時に」という意味
+    - as は接続詞の方の意味の「同時に」が転用されていそう
+  - ChatGPT訳: これからが面白くなるところだから、今は止まらないで。
+- Tav: Your turn - I insist. A little give and take is only fair.
+  - A little give and take is only fair の意味は？
+    - a little と only の意味がわからず、わからない
+    - only は ChatGPTにようると「ただ〜なだけ」という意味
+  - ChatGPT訳: 君の番だ - 強く言うよ。少しの与えることと受け取ることは公平だ。
 - Charisma (Persuasion) Successful: Tav
+- Shadowheart: Don't laugh... but I'm not quite sure I have anything to share.
+  - ChatGPT訳: 笑わないで…ですが、私は何も共有するものがあるかどうか本当に確信が持てません。
+- Shadowheart: When you worship Shar, secrecy is everything. We'll sacrifice our own memories when ordered to.
+  - when ordered to の目的語は？
+    - when ordered to (sacrifice our own memories) とのこと
+    - when は接続詞で、たぶん (it is) ordered to (sacrifice our own memories) が省略しない形での文になりそう
+    - 動詞を含めてto不定詞として目的語に取るときの to は、何か文法がありそうだけどわからなかった
+  - ChatGPT訳: シャールを信仰するとき、秘密はすべてです。命じられたら、自分の記憶さえも犠牲にします。
+- Shadowheart: A lot of the little things... they're lost to me right now.
+  - ChatGPT訳: たくさんの小さなことが...今は私には失われています。
+- Tav: Do you think your memories will ever come back?
+  - ChatGPT訳: あなたの記憶は戻ってくると思いますか？
+- Shadowheart: Perhaps, but please - enough about me. Sharing's bad for my complexion.
+  - [complexion](https://ejje.weblio.jp/content/complexion), (カ|コ)ン・プラ↑ァクション
+    - 名詞: 顔色、血色、顔の色つや、事態の様相
+  - ChatGPT訳: たぶんね。でも、もう私のことはいいの。話すのは私の肌に悪いのよ。
+- Shadowheart: There's still plenty of wine and the whole night ahead of us.
+  - ChatGPT訳: まだたくさんのワインがあるし、夜はこれからよ。
+- Shadowheart: Nearly light. The others will be awake soon...
+  - ChatGPT訳: もうすぐ明るくなるわ。他の人たちもすぐに起きるでしょう…
+- Tav: _Look into her eyes._
+- Shadowheart: What?
+- Tav: You're beautiful.
+- Shadowheart: I know.
+- Shadowheart: But you're sweet to notice.
+  - ChatGPT訳: でも、気付いてくれて嬉しい。
+- Shadowheart: Thank you for last night.
+- Tav: I hope there'll be more to come.
+  - [to come](https://en.wiktionary.org/wiki/to_come#Adjective)
+    - 形容詞: これから来る未来の、差し迫った未来の
+  - ChatGPT訳: これからも続くといいね。
+- Shadowheart: Me too.
+- Wisdom (Insight) Successful: Tav
+- Not Found
+- Tav: _Kiss her._
+- Shadowheart: That didn't hurt, did it?
+- Tav: No. Far from it.
+  - [far from it](https://en.wiktionary.org/wiki/far_from_it)
+    - 副詞: 想定されたこととは全く異なる結果に、とんでもない、断じてない
+  - ChatGPT訳: いや、全然。
+- Shadowheart: Good to know. For the future...
+  - ChatGPT訳: それは良かった。将来のためにね…
+- Shadowheart: Let's head back. If we must.
+  - If we must の意味は？
+    - 直訳で「もし我々がすべきなら」
+  - ChatGPT訳: 帰ろうか。仕方ないけど。
