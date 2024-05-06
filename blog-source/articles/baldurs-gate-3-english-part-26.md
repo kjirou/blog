@@ -153,3 +153,38 @@ lastUpdatedAt: "2024-05-03 02:16:15+0000"
   - If we must の意味は？
     - 直訳で「もし我々がすべきなら」
   - ChatGPT訳: 帰ろうか。仕方ないけど。
+
+### 22, Eliasis - 14:25 - Halsin, Tav
+
+詳細な状況を忘れたが、次の日になってHalsinへ話しかけたのだと思う
+
+- Halsin: I trust you enjoyed your evening? After all your efforts, it was well-deserved.
+  - [trust](https://ejje.weblio.jp/content/trust), トラ↑スト
+    - 他動詞: 〜を期待して確信する
+  - [deserved](https://ejje.weblio.jp/content/deserved), デ・ザ↑ァーブド
+    - 形容詞: 功罪に応じた、当然の報いの
+  - ChatGPT訳: 昨夜は楽しんでいただけましたか？あなたの努力にはそれがふさわしいです。
+- Halsin: It may be some time before you are afforded another such night - there is much to be done.
+  - [afford](https://ejje.weblio.jp/content/afford), ア・フ↑ォード
+    - 他動詞: 人が〜する余裕がある
+      - afford IO(=人) DO(=内容)
+  - It may be some time before you are afforded another such night の意味は？
+    - 「ある程度の時間が必要になるかもしれない」「の前に」「あなたがその様な夜を過ごす」
+    - つまり、楽しむ前には時間が存在する、ということ
+  - ChatGPT訳: 次にそういった夜を過ごせるのはしばらく先かもしれませんね。やるべきことがたくさんあります。
+- Halsin: Moonrise Towers beckons. I've told you all I know, and now I'll join your camp to help you face whatever's to come.
+  - [beckon](https://ejje.weblio.jp/content/beckon), ベ↑ケン
+    - 自動詞: 手招きする、合図する
+    - 他動詞: 手招きや身振りで人を招く・人へ合図する
+  - whatever's to come の意味は？
+    - whatever's = whatever is
+    - to come は come のto不定詞
+  - ChatGPT訳: ムーンライズタワーズが私たちを呼んでいます。私が知っていることはすべて話しました。これからはあなたのキャンプに加わり、これから来るものに立ち向かいましょう。
+- Halsin: With luck, and the Oak Father's blessings, we might actually survive. Are you ready?
+  - ChatGPT訳: 運とオークの父の祝福があれば、実際に生き残るかもしれません。準備はいいですか？
+- Tav: I am.
+- Halsin: Onward then. We'll speak soon, I'm sure.
+  - [onward](https://ejje.weblio.jp/content/onward), ア↑ァン・ウォード
+    - 形容詞: 前方への、前進の、向上する
+    - 副詞: 前方へ、先へ、進んで
+  - ChatGPT訳: では、進みましょう。またすぐに話すことでしょう。
