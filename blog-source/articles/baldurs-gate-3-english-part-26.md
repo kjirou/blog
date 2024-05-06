@@ -206,9 +206,48 @@ Campの中でHalsinと話した
     - ChatGPTによると、 would care to が「〜したいと思うか（いやしたくないだろう）」というイディオムになり得るらしい、ただ辞書にはなく、日本語ブログでも発見できなかった
   - ChatGPT訳: 私はそれを間近で研究しました。ほとんどの人がそのようなものに近づきたがらないほどに。
 - Halsin: A drow attacked me and I defended myself. Afterwards, I was able to examine the tadpole that emerged.
+  - afterward(=afterwards) と after の違いは？
+    - afterward は、どちらかというと「具体的な直後」を意味する
+    - なお、 afterward は副詞のみ
+  - [emerge](https://ejje.weblio.jp/content/emerge), イ・マ↑ァジ
+    - 自動詞: 暗闇や水中から出てくる・現れる、事実や問題が浮かび上がる、貧困から脱する
   - ChatGPT訳: ドロウに襲われたので、私は自分を守りました。その後、現れたティドポールを調査することができました。
 - Halsin: Hideous - but fascinating. Like nothing else in nature, I'm glad to say.
+  - Like nothing else in nature の意味は？
+    - 字面では読めるが、ちゃんと分解してみる
+    - like は前置詞で「〜のよう」、 the tadpole を修飾している
+    - nothing は代名詞で「何もない」
+    - else は副詞で nothing を強調している
+    - 「the tadpoleは」「他に何もないもの」「自然の中には」
+  - I'm glad to say
+    - イディオム: 嬉しいことに
+    - 本文でこれを言っている意図はあまりわからない。「こんなものが自然になくて良かった」なのだろうか。
   - ChatGPT訳: 醜悪ですが、興味深い。自然には他に類を見ないもので、それを良しと思います。
+- Tav: How will the grove fare without you?
+  - [fare](https://ejje.weblio.jp/content/fare), フェ↑ァ
+    - 自動詞: やっていく、暮らす
+      - 良し悪しの様態を示す副詞を伴うことが多い
+- Halsin: Hopefully. I've chosen a successor as First Druid - Francesca of the High Forest. I sent a bird to summon her.
+  - [hopefully](https://ejje.weblio.jp/content/hopefully), ホ↑ゥプ・フ・リィ
+    - 副詞: 希望を抱いて、有望に、たぶん、上手くいけば
+  - [successor](https://ejje.weblio.jp/content/successor), サク・セ・サァ
+    - 名詞: 後任、後継者
+  - ChatGPT訳: うまくいくでしょう。私は後継者としてファースト・ドルイドにフランチェスカ・オブ・ザ・ハイ・フォレストを選びました。彼女を呼ぶために鳥を送りました。
+- Tav: Who?
+- Halsin: Precisely! Who indeed? You do not know, and neither do any of the others.
+  - [neither](https://ejje.weblio.jp/content/neither)
+    - 副詞: 〜もまた〜しない
+      - 文の先頭に置かれ、続く文の 主語と動詞または助動詞の位置が逆になる
+  - You do not know, and neither do any of the others の意味は？
+    - 上記の neither の用法から、整理すると You do not know, and neither any of the others do の語順になる
+    - 「あなたは知らないし、他の誰も知らない」、 do は know を引き継いでいる
+  - ChatGPT訳: 正に！誰か、実に？あなたは知らないし、他の誰も知らない。
+- Halsin: The grove needs to move beyond the mistakes of the past. What it needs is an unknown quantity; an outsider who can enforce the Oak Father's teachings without bias.
+  - [bias](https://ejje.weblio.jp/content/bias), バ↑ァイアス
+    - 名詞: 偏見、先入観、傾向、性癖、布の裁ち目や縫い目の斜線、偏り
+  - ChatGPT訳: グローブは過去の過ちを乗り越える必要があります。必要なのは未知の量です；偏見なしにオークファーザーの教えを施行できる外部者。
+- Halsin: This is why I chose Francesca. She will restore simplicity and purity to the grove in my absence.
+  - ChatGPT訳: だからこそ、私はフランチェスカを選んだのです。彼女なら、私がいない間にグローブに単純さと純粋さを取り戻してくれるでしょう。
 - Tav:
 - Halsin:
 - Tav:
