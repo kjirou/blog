@@ -248,10 +248,57 @@ Campの中でHalsinと話した
   - ChatGPT訳: グローブは過去の過ちを乗り越える必要があります。必要なのは未知の量です；偏見なしにオークファーザーの教えを施行できる外部者。
 - Halsin: This is why I chose Francesca. She will restore simplicity and purity to the grove in my absence.
   - ChatGPT訳: だからこそ、私はフランチェスカを選んだのです。彼女なら、私がいない間にグローブに単純さと純粋さを取り戻してくれるでしょう。
+- Tav: Very shrewd of you.
+  - [shrewd](https://ejje.weblio.jp/content/shrewd), シュルゥ↑ード
+    - 形容詞: 鋭い、賢い、洞察力のある、抜け目ない
+  - ChatGPT訳: あなたは非常に抜け目がないですね。
+- Halsin: Contrary to how some think of us, we druids can play politics when necessary.
+  - [contrary](https://ejje.weblio.jp/content/contrary), (カ|コ)↑ン・トラァ・リィ
+    - 形容詞: 正反対の、逆の、不利な
+  - [some](https://ejje.weblio.jp/content/some), サァンム
+    - 名詞: ある人たち
+      - 本文では複数形として扱われている
+  - [politics](https://ejje.weblio.jp/content/politics), パ↑ァリ・ティ・クス
+    - 名詞: 政治、政治学
+    - [politic](https://ejje.weblio.jp/content/politic), パ↑ァ・リ・ティック
+      - 形容詞: 思慮のある、ずるい、政治上の
+  - ChatGPT訳: 一部の人が私たちを考えるのとは対照的に、私たちドルイドも必要があれば政治を行うことができます。
+- Tav: This shadow curse you spoke of... surely it can't be _that_ bad.
+  - ChatGPT訳: あなたが話していたこの影の呪い…それほど酷いものではないでしょう。
+  - なぜ否定から入っているのかがわからない。こんな言い方は今まで似なかったと思う。
+- Halsin: It's had the whole region around Moonrise Towers in a chokehold of darkness and despair for years now.
+  - [chokehold](https://ejje.weblio.jp/content/chokehold)
+    - 名詞: 抑制するような抱え込み、ある人や状況に対する徹底した支配力、絞め技
+  - ChatGPT訳: それは何年もの間、ムーンライズタワーズ周辺の地域を暗闇と絶望で締め付けてきました。
+- Halsin: Those who remained are shadow-cursed. If you don't die at their hands, then you become one of them.
+  - ChatGPT訳: 残った人々は影に呪われています。彼らの手で死ななければ、あなたも彼らの一員になります。
+- Halsin: We have to get to Moonrise, but the less time we spend in its blighted surrounds, the better.
+  - [blighted](https://ejje.weblio.jp/content/blighted)
+    - 形容詞: 荒廃した、いまいましい、しおれた、ひどい
+  - ChatGPT訳: ムーンライズに行かなければなりませんが、その荒廃した周辺で過ごす時間は少ない方が良いです。
+- Tav: What about this secret stronghold in the Underdark? You must know more.
+  - ChatGPT訳: このアンダーダークの秘密の要塞についてどうですか？もっと知っているはずです。
+- Halsin: Precious little, but I'm quite certain it can still be found.
+  - [precious little](https://en.wiktionary.org/wiki/precious_little)
+    - 代名詞: ほとんど何もない
+    - [precious](https://ejje.weblio.jp/content/precious), プレ↑・シャス
+      - 形容詞: ものが貴重な・高価な、時間などが大切な・無駄にできない、凝った、気取った
+      - 副詞: すこぶる、ひどく
+  - [certain](https://ejje.weblio.jp/content/certain), スァー・テン
+    - 形容詞: 確信して、確実な、一定の
+  - ChatGPT訳: ほとんど知りませんが、まだ見つかると確信しています。
+- Halsin: Aradin was convinced there was a hidden entrance in the temple of Selûne - I'd start there.
+  - [convinced](https://ejje.weblio.jp/content/convinced), ケン・ビンスト
+    - 形容詞: 確信を抱いた、信念のある
+    - [convince](https://ejje.weblio.jp/content/convince), (ケ|コ)ン・ビンス
+      - 他動詞: 人に〜を確信させる
+        - convince IO(=人) DO(=内容)
+  - ChatGPT訳: アラディンはセルーネの寺院に隠された入口があると確信していました - そこから始めるべきだと思います。
 - Tav:
 - Halsin:
-- Tav:
 - Halsin:
+- Halsin:
+- Tav:
 - Halsin:
 - Halsin:
 - Tav:
