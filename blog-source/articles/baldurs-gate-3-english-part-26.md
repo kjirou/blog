@@ -294,11 +294,100 @@ Campの中でHalsinと話した
       - 他動詞: 人に〜を確信させる
         - convince IO(=人) DO(=内容)
   - ChatGPT訳: アラディンはセルーネの寺院に隠された入口があると確信していました - そこから始めるべきだと思います。
-- Tav:
-- Halsin:
-- Halsin:
-- Halsin:
-- Tav:
-- Halsin:
-- Halsin:
-- Tav:
+- Tav: Seems like you feel responsible for this shadow curse somehow...
+  - [responsible](https://ejje.weblio.jp/content/responsible), ゥリ・スパ↑ン・スィボゥ
+    - 形容詞: 責任があって、原因があって、人や仕事や地位が責任のある、信頼できる
+  - [somehow](https://en.wiktionary.org/wiki/somehow#Adverb), サム・ハァウ
+    - 副詞: 何らかの形や手段で、未知の方法で、どうにかして
+  - ChatGPT訳: あなたがこの影の呪いに何かしらの責任を感じているようですね…
+- Halsin: Well... there's hardly anyone left to share the responsibility with. Few who witnessed the fall of Moonrise still draw breath.
+  - [witness](https://ejje.weblio.jp/content/witness), ウィ↑ット・ネス
+    - 他動詞: 目撃する、見る、証人として〜へ署名する、〜の証拠となる
+    - 名詞: 目撃者、証人、参考人
+  - draw breath
+    - イディオム: 息をする、生きている
+  - ChatGPT訳: ええ…責任を共有できる人がほとんど残っていません。ムーンライズの滅びを目撃した者はほとんど息をしていません。
+- Halsin: What Ketheric Thorm unleashed is not something that nature can undo by itself. I must do what I can.
+  - ChatGPT訳: ケテリック・ソームが解き放ったものは、自然だけでは元に戻せないものです。私にできることをしなければなりません。
+- Halsin: I studied the shadow curse for years. But to truly understand it - and stop it - I must reach its source.
+  - ChatGPT訳: 影の呪いについて何年も研究しました。しかし、本当に理解し、それを止めるためには、その源にたどり着かなければなりません。
+- Tav: Do you know how the shadow curse can be stopped?
+- Halsin: Perhaps, but we'll need to get closer before I can put my theory into practice.
+  - [theory](https://ejje.weblio.jp/content/theory), スィ↑ェ・オ・リィ
+    - 名詞: 理論、理屈、仮説、空論、意見
+  - ChatGPT訳: その可能性はありますが、私の理論を試す前にもっと近づく必要があります。
+- Halsin: Put it from your mind for now. Once we near the curse - then there will be more to be said.
+  - put from one's mind
+    - = put out of one's mind
+      - 古風な表現
+    - [put out of one's mind](https://en.wiktionary.org/wiki/put_out_of_one%27s_mind#Verb)
+      - 自動詞: 何かについて考えるのを避ける
+  - ChatGPT訳: 今はそれを忘れてください。呪いに近づいたら、もっと話すことがあります。
+- Tav: It can't have been easy, surrendering your title. Won't you miss being First Druid?
+  - [surrender](https://ejje.weblio.jp/content/surrender), スァ・レ↑ン・ダァ
+    - 他動詞: 要求や強制により引き渡す、切符などを手渡す、譲る、放棄する、降参する、感情に身を任せる
+      - 降参する、感情に身を任せる: surrender oneself
+  - ChatGPT訳: タイトルを降りるのは簡単ではなかったに違いない。元ファースト・ドルイドであることが恋しくならないの？
+- Halsin: Miss it? Oh dear no. It's a terrible burden; takes you away from nature and forces you to deal with others' problems and personalities.
+  - [burden](https://ejje.weblio.jp/content/burden), バ↑ァ・デン
+    - 名詞: 重荷、荷物、負担、積載力、荷物運び
+    - 他動詞: 荷を負わせる、負担させる
+  - [personality](https://ejje.weblio.jp/content/personality), パァー・ソ・ナ↑ァリ・ティ
+    - 名詞: 個性、性格
+  - ChatGPT訳: 恋しくなる？ああ、いやいや。それはひどい重荷だよ。自然から離れさせ、他人の問題や性格に向き合わせる。
+- Halsin: Be wary of anyone who actually _wants_ such a role, I say. Likely they don't understand it, or they have ill intent.
+  - [I say](https://en.wiktionary.org/wiki/I_say#Interjection)
+    - 間投詞: 強調の表現
+  - [ill](https://ejje.weblio.jp/content/ill), イ↑ルゥ
+    - 形容詞,限定用法: 邪悪な、健康がすぐれない、不吉な、敵意のある、気難しい、下手な、欠点のある
+    - 形容詞,叙述用法: 病気で、具合が悪くて、吐き気があって
+  - ChatGPT訳: そういう役割を本当に望む人には注意が必要だと言うんだ。きっと彼らはその重さを理解していないか、悪意があるかのどちらかだ。
+- Halsin: I'm just glad to be out here amidst the Oak Father's creations.
+  - out の意味は？
+    - here つまり Emerald Grove という中ではなくてその外、という意味
+  - ChatGPT訳: オークの父の創造物の中にいられるだけで私はただ嬉しいんだ。
+- Tav: At the celebration with the tieflings before - I hope I didn't come over too strong. Got caught up in the moment.
+  - [come over](https://en.wiktionary.org/wiki/come_over#Verb)
+    - 他動詞: 突然や驚くべき方法で他人へ影響を与える
+  - I hope I didn't come over too strong.
+    - 直訳で「私は、私が強すぎる影響を与えなかったことを願っている」、意訳で訳の通りになる
+    - おそらくは、 come over の目的語の you が省略されている
+  - caught up in the moment
+    - イディオム: その瞬間に夢中になった
+    - 「その瞬間に捕まった」から転じている
+  - ChatGPT訳: ティーフリングたちとの祝典の時 - あまり強引になりすぎたと思うかもしれません。その瞬間に夢中になってしまいました。
+- Halsin: There are few things that are too strong for me. And cast those regrets aside; you did not get caught up in the moment - you seized it.
+  - [seize](https://ejje.weblio.jp/content/seize), スィ↑ーズ
+    - 他動詞: 突然ぎゅっと掴む・握る、捕まえる、強奪する、意味や要点を把握する
+  - ChatGPT訳: 私にとって強すぎることはほとんどありません。そして、その後悔を捨ててください；あなたはその瞬間に夢中になっていなかった - あなたはそれを掴み取りました。
+  - これ祝宴の時にグイグイ行き過ぎちゃたかな？みたいな話をしているの？現実世界ですらしない様などうでも良過ぎる会話じゃない？
+- Halsin: In other circumstances, I would have done the same.
+  - [circumstance](https://ejje.weblio.jp/content/circumstance), シ↑ー・コム・スタァンス
+    - 名詞: 人の置かれた環境・状況、ある事件における周囲の事情・状況
+  - ChatGPT訳: 他の状況なら、私も同じことをしていたでしょう。
+- Tav: You'd have done the same...?
+  - ChatGPT訳: 同じことを...？
+- Halsin: Perhaps... but best to not dwell on nights past. There are plenty more yet to come.
+  - [dwell](https://ejje.weblio.jp/content/dwell), ドゥェォ
+    - 自動詞: 〜を思案する・ゆっくり考える
+      - dwell on {内容}
+  - [yet](https://ejje.weblio.jp/content/yet), イェ↑ット
+    - 副詞: さらに、その上に
+  - ChatGPT訳: たぶんですが... でも過去の夜にこだわるのはよくありません。これからもっと多くの夜が待っています。
+- Tav: How're you faring out here at the camp?
+  - [out](https://ejje.weblio.jp/content/out), ア↑ゥト
+    - 副詞: 野外で、外で
+  - out here の意味は？
+    - 「街中から離れた野外のここで」
+    - 「キャンプの外」という意味ではない
+  - ChatGPT訳: ここキャンプでどう過ごしていますか？
+- Halsin: With such stimulating company? Never better.
+  - [stimulating](https://en.wiktionary.org/wiki/stimulating#Adjective)
+    - 形容詞: 刺激的な
+    - [stimulate](https://ejje.weblio.jp/content/stimulate), ステ↑ィ・ミュ・レイト
+      - 他動詞: 刺激する、活気づける、鼓舞する、興奮させる
+  - never better
+    - イディオム: 最高の状態である
+    - (I) never (have been) better の略らしい
+  - ChatGPT訳: こんなに刺激的な仲間といるんだから、最高です。
+- Tav: _Leave._
