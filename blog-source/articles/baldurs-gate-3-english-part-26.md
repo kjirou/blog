@@ -468,3 +468,57 @@ Druidの一人へ話しかけた
     - 形容詞: 正しくない、適切ではない、論理的ではない
   - ChatGPT訳: この生き物はそれが見えるものではありません。
 - Strange Ox: Moo!
+
+### 22, Eliasis - 23:16 - Mino
+
+Druidの一人へ話しかけた
+
+- Mino: The tieflings have gone - good. I wish them well, but they crowded us for far too long.
+  - [crowd](https://ejje.weblio.jp/content/crowd), クラ↑ァウド
+    - 他動詞: 群がる、うるさくせがむ
+  - ChatGPT訳: ティーフリングたちは去った - よかった。彼らを幸せに願うが、長い間私たちを煩わせていた。
+
+### 22, Eliasis - 23:17 - Karrik
+
+Druidの一人へ話しかけた
+
+- Karrik: We wasted so much time fighting each other.
+- Karrik: Silvanus taught us a lesson by letting an outsider save us.
+  - ChatGPT訳: シルヴァヌスは外部の者に私たちを救わせることを許すことで、私たちに教訓を与えました。
+
+### 22, Eliasis - 23:18 - Apikusis
+
+Druidの一人へ話しかけた
+
+- Apikusis: We're free of the goblins, but the grove is changed. Wounded.
+- Apikusis: The days ahead won't be easy. I'm glad we have Halsin to guide us.
+  - ChatGPT訳: これからの日々は簡単ではないだろう。ハルシンが導いてくれるのは嬉しい。
+
+### 22, Eliasis - 23:18 - Tahan
+
+Druidの一人へ話しかけた
+
+- Tahan: You think you saved us? You just prolonged the inevitable.
+  - [prolong](https://ejje.weblio.jp/content/prolong), プロ・ロ↑ォング
+    - 他動詞: 延長する、長くする
+  - [inevitable](https://ejje.weblio.jp/content/inevitable), イ・ネ↑ヴィ・タ・ボォ
+    - 名詞: 避けられないもの、必然の運命
+    - 形容詞: 避けられない、必然的な、当然の
+    - [evitable](https://ejje.weblio.jp/content/evitable)
+      - 形容詞: 避けられる
+      - こっちはあまり使われないよう
+  - ChatGPT訳: あなたは私たちを救ったと思っているの？ただ避けられないことを延ばしただけだよ。
+- Tahan: Sooner or later, other outsiders will bring trouble to the grove.
+
+### 22, Eliasis - 23:22 - Inwe
+
+Druidの一人へ話しかけた
+
+- Inwe: I know you stopped the goblins, but I can't stop looking over my shoulder.
+  - [look over one's shoulder](https://en.wiktionary.org/wiki/look_over_one%27s_shoulder)
+    - 自動詞: 過度の警戒や恐怖から執拗に確認をする
+    - [look over](https://en.wiktionary.org/wiki/look_over#Verb)
+      - 他動詞: 素早く確認する、見渡す
+  - ChatGPT訳: 私はあなたがゴブリンを止めたことを知っていますが、私はまだ肩越しに振り返ることが止められません。
+- Inwe: Makes it hard to sleep at night.
+  - ChatGPT訳: それが夜に眠るのを難しくさせます。
