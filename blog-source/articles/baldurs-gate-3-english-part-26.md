@@ -391,3 +391,43 @@ Campの中でHalsinと話した
     - (I) never (have been) better の略らしい
   - ChatGPT訳: こんなに刺激的な仲間といるんだから、最高です。
 - Tav: _Leave._
+
+### 22, Eliasis - 18:53 - Kagha
+
+元Druidの長へ話しかけた
+
+- Kagha: Peace. Enjoy it while it lasts.
+  - この一言だけなのかい
+
+### 22, Eliasis - 19:40 - Loic
+
+Druidの一人へ話しかけた
+
+- Loic: You did this grove a great favour. Now leave the rest to us.
+  - [do](https://ejje.weblio.jp/content/do)
+    - 他動詞: 〜へ利益や損害などをもたらす
+      - do IO(=対象) DO(=内容)
+  - [leave](https://ejje.weblio.jp/content/leave)
+    - 他動詞: 人へものや判断などを任せる
+      - leave O(=内容) to {人}
+  - ChatGPT訳: この木立に大きな恩恵を与えてくれました。あとは私たちに任せてください。
+
+### 22, Eliasis - 19:40 - Marcoryl, Tav
+
+Druidの一人へ話しかけた
+
+- Marcoryl: I think it's high time you all left - our sacred grove has sheltered you enough.
+  - [high time](https://en.wiktionary.org/wiki/high_time#Noun)
+    - 名詞: 何かが起こるべき時間、何かが起こるには遅過ぎる時間
+  - ChatGPT訳: そろそろお帰りいただく時ですね。私たちの神聖な森が十分にお守りしました。
+- Tav: Where were you during the attack?
+  - ChatGPT訳: 攻撃のときどこにいましたか？
+- Marcoryl: Within the inner sanctum, of course. It is not for us to fight _your_ battles.
+  - [sanctum](https://ejje.weblio.jp/content/sanctum), サ↑ァンク・トム
+    - 名詞: 神聖な場所、聖所、人の妨げを受けない私室
+  - ChatGPT訳: もちろん内部聖所にいました。私たちがあなたの戦いをするわけではありません。
+- Tav: I'll be on my way soon.
+- Marcoryl: Make it quick. You're disrupting the hermony of this holy place.
+  - [disrupt](https://ejje.weblio.jp/content/disrupt), ディス・ラ↑ァプト
+    - 他動詞: 国家や制度を崩壊させる、ものを崩壊する・粉砕する、通信や交通を混乱させる・中断させる
+  - ChatGPT訳: 早くしてください。この神聖な場所の調和を乱しています。
