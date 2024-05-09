@@ -431,3 +431,40 @@ Druidの一人へ話しかけた
   - [disrupt](https://ejje.weblio.jp/content/disrupt), ディス・ラ↑ァプト
     - 他動詞: 国家や制度を崩壊させる、ものを崩壊する・粉砕する、通信や交通を混乱させる・中断させる
   - ChatGPT訳: 早くしてください。この神聖な場所の調和を乱しています。
+
+### 22, Eliasis - 22:10 - Arron, Tav
+
+商人へ話しかけた
+
+- Arron: So it's true. You scattered the goblins. Peace can finally return to this corner of the Sword Coast. Thank you.
+  - [scatter](https://ejje.weblio.jp/content/scatter), スキャ↑ァ・ロァ
+    - 他動詞: 群衆や敵軍を追い散らす・四散させる、〜をまき散らす
+  - ChatGPT訳: 本当だったのですね。ゴブリンたちを追い散らしてくれました。このソード・コーストの一角に平和が戻ることができます。ありがとう。
+- Tav: I'm just glad I could help.
+- Arron: As am I. And I'm sure those poor refugees would quite agree.
+  - As am I の意味は？
+    - As I am の倒置、 as は前文を参照して同程度であることを意味する接続詞の用法
+  - ChatGPT訳: 私もです。そして、その貧しい難民たちもきっと同意するでしょう。
+- Tav: I want to trade, if you have anything good.
+- Arron: Of course.
+- Arron: May you keep balance.
+  - ChatGPT訳: バランスを保てますように。
+
+### 22, Eliasis - 22:37 - Strange Ox, Tav
+
+唯一まだ残っている牛へ話しかけた
+
+- Strange Ox: \*Moo!\*
+- _The ox makes you uneasy. Try to discern why._
+  - [uneasy](https://ejje.weblio.jp/content/uneasy), ア↑・ニィズィ
+    - 形容詞: 不安な、気に掛かる、落ち着かない
+  - [discern](https://ejje.weblio.jp/content/discern), ディス・サ↑ァン
+    - 他動詞: 〜であることがわかる
+      - discern wh の用法
+  - ChatGPT訳: 牛があなたを不安にさせます。なぜそう感じるのかを見極めてください。
+- Intelligence (Arcana) Successful: Tav
+- Strange Ox: \*Something's off. This creature isn't what it appears to be.\*
+  - [off](https://en.wiktionary.org/wiki/off#Adjective), オォフ
+    - 形容詞: 正しくない、適切ではない、論理的ではない
+  - ChatGPT訳: この生き物はそれが見えるものではありません。
+- Strange Ox: Moo!
