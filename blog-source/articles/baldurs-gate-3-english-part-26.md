@@ -522,3 +522,79 @@ Druidの一人へ話しかけた
   - ChatGPT訳: 私はあなたがゴブリンを止めたことを知っていますが、私はまだ肩越しに振り返ることが止められません。
 - Inwe: Makes it hard to sleep at night.
   - ChatGPT訳: それが夜に眠るのを難しくさせます。
+
+### 22, Eliasis - 23:22 - Elwyn
+
+Druidの一人へ話しかけた
+
+- Elwyn: Do you hear them? The birds. They're beautiful.
+  - hear が them だけを目的語に取るのは一般的なの？
+    - ChatGPT曰く、よくある使い方らしい
+  - ChatGPT訳: 聞こえますか？鳥たちです。美しいですね。
+- Elwyn: I've thought of nothing but goblins and tieflings for so long, I stopped listening.
+  - [nothing but](https://en.wiktionary.org/wiki/nothing_but#Adverb)
+    - 副詞: おおよそonlyと同じ、ただ〜のみ
+  - ChatGPT訳: 長い間、ゴブリンやティーフリングのことばかり考えていたので、聞くことをやめてしまいました。
+
+### 22, Eliasis - 23:28 - Karrik
+
+再び話しかけた
+
+- Karrik: It'll take time to mend our grove. Thanks to you, we have it.
+  - [take time](https://en.wiktionary.org/wiki/take_time#Verb)
+    - 自動詞: 比較的長い時間を必要とする
+  - ChatGPT訳: 私たちの森を修復するには時間がかかります。あなたのおかげで、その時間を持てました。
+
+### 22, Eliasis - 23:33 - Rath, Tav
+
+以前、Kaghaへ苦言を呈していたDruidへ話しかけた
+
+- Rath: You've done it. You brought Halsin back. Thank you.
+- Rath: No, thanks is not enough. May Silvanus bless you for all your days.
+  - ChatGPT訳: いいえ、感謝の言葉だけでは足りない。シルヴァナスがあなたの人生をいつも祝福してくれますように。
+- Rath: I cannot imagine taking on a camp full of goblins was a simple task.
+  - [take on](https://en.wiktionary.org/wiki/take_on#Verb)
+    - 他動詞: 戦う、競争する、関与する、取得する、持ち込む、紹介する
+  - [simple](https://ejje.weblio.jp/content/simple), スィン・プゥル
+    - 形容詞: 簡単な、やさしい
+    - simple と easy の比較はプログラミング用語の際の理解で良い。物事が単純だから簡単なのが simple 、利用側の能力を要しないのが easy 。
+  - ChatGPT訳: ゴブリンがいっぱいのキャンプに立ち向かうのが簡単なことだったとは思えません。
+- Tav: Think nothing of it. I'm glad Halsin is safe.
+- Rath: As am I. The grove will be whole again.
+  - [whole](https://ejje.weblio.jp/content/whole), ホ↑ゥル
+    - 形容詞: 部分に分けない、まるごとの、そのままの、完全な、無傷の
+  - ChatGPT訳: 私も同じ思いです。この森林は再び一つになるでしょう。
+- Rath: And I promised you a reward, didn't I?
+- Rath: Let me show you on your map where you can find the cache. Take this rune - you'll need it.
+  - [cache](https://ejje.weblio.jp/content/cache), キャァーッシュ
+    - 名詞: 貴重品や盗品の隠し場所、貯蔵庫
+    - 他動詞: 隠し場所へ蓄える、隠す
+- Rath: Place it among the pedestals inside our library. When the wolf glows brightest, everything in the vault below will be yours.
+  - [pedestal](https://ejje.weblio.jp/content/pedestal)
+    - 名詞: 胸像や円柱や花瓶などの台座・脚
+  - ChatGPT訳: 図書館の中の台座の間にそれを置いて。狼が最も明るく輝いたとき、地下の金庫の中身はすべて君のものになる。
+
+### 22, Eliasis - 2:54 - Nettie, Tav
+
+Halsinの弟子のDruidへ話しかけた
+
+- Nettie: Blessed day, I was worried I'd never see Master Halsin again.
+  - ChatGPT訳: おめでとうございます、マスター・ハルシンに再び会えることがないのではと心配していました。
+- Nettie: You kept your word. Thank you.
+  - [keep one's word](https://en.wiktionary.org/wiki/keep_one%27s_word#Verb)
+    - 自動詞: やると宣言したことを行う、約束を守る
+  - ChatGPT訳: 約束を守ってくれてありがとう。
+- Tav: You're very welcome.
+- Nettie: I don't know if I can ever restore Silvanus' peace to this place.
+  - ChatGPT訳: この場所にシルヴァヌスの平和を再びもたらすことができるかどうかわかりません。
+- Nettie: But I'll have the chance - thanks to you.
+
+### 22, Eliasis - 4:43 - Jeorna
+
+街の門番をしているDruidへ話しかけた
+
+- Jeorna: The tieflings have moved on. We can restore the harmony of the Grove now.
+  - [move on](https://en.wiktionary.org/wiki/move_on#Verb)
+    - 自動詞: 続ける、どんどん進む、別のことに取り組む、話題などが移る、月日が進む
+    - コアイメージ: 「継続しつつ進む」のよう
+    - ChatGPTは「去る」と言う意味も一般的だと言っており、現状はその通りのようだった
