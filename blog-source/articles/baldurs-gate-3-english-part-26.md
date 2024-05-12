@@ -1,16 +1,15 @@
 ---
 publicId: baldurs-gate-3-english-part-26
-lastUpdatedAt: "2024-05-03 02:16:15+0000"
+lastUpdatedAt: "2024-05-12 02:41:14+0000"
 ---
 
 # Baldur's Gate 3の英語を復習する 26冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - HalsinやGoblin Campのイベントを終わらせ、それの祝宴も終えて、次の日に変わるところ
-- ゲーム自体に飽きてしまったので、翻訳作業もここで終了する
-  - メインクエストの進捗は、 Act One, Act Two, Act Three の3章立ての内の Act One が終わった時点だった
-    - 攻略Wikiを読んで確認した
-  - サブクエストの消化までを含むと、全体の 1/5-1/6 程度のよう
+- ゲーム自体に飽きて止めるので、翻訳作業もここで終了する
+  - メインクエストの進捗は、攻略Wikiを読んで確認したところ、 Act One, Act Two, Act Three の3章立ての内の Act One が終わった時点だった
+  - サブクエストを含むと、全体の 1/5-1/6 程度のよう
     - 英語を読みつつだとはいえ、IGTが既に 61:44 もあるんだが...
 
 ## 本編
@@ -73,6 +72,8 @@ lastUpdatedAt: "2024-05-03 02:16:15+0000"
       - 本文は、直訳だと「「私たち」は必然的に何を伴うの？」になる
   - ChatGPT訳: 大胆ね。「私たち」とは何を意味するの？
 - Shadowheart: I suppose I'll find out. To us.
+  - [suppose](https://ejje.weblio.jp/content/suppose), サ・ポォ↑ゥズ
+    - 自動詞: 比較的根拠の薄い形で思う・考える、〜でしょう
   - ChatGPT訳: まあ、わかるでしょう。私たちに。
 - Shadowheart: Now tell me something about yourself.
 - Shadowheart: And no tadpoles, dragons, marauding goblins, or anything like that. Something about _you_.
@@ -166,6 +167,8 @@ lastUpdatedAt: "2024-05-03 02:16:15+0000"
 - Halsin: I trust you enjoyed your evening? After all your efforts, it was well-deserved.
   - [trust](https://ejje.weblio.jp/content/trust), トラ↑スト
     - 他動詞: 〜を期待して確信する
+  - [after](https://ejje.weblio.jp/content/after), (ア|エ)↑フ・トァ
+    - 前置詞: 〜を鑑みて、〜をしたのだから
   - [deserved](https://ejje.weblio.jp/content/deserved), デ・ザ↑ァーブド
     - 形容詞: 功罪に応じた、当然の報いの
   - ChatGPT訳: 昨夜は楽しんでいただけましたか？あなたの努力にはそれがふさわしいです。
@@ -270,7 +273,7 @@ Campの中でHalsinと話した
   - ChatGPT訳: 一部の人が私たちを考えるのとは対照的に、私たちドルイドも必要があれば政治を行うことができます。
 - Tav: This shadow curse you spoke of... surely it can't be _that_ bad.
   - ChatGPT訳: あなたが話していたこの影の呪い…それほど酷いものではないでしょう。
-  - なぜ否定から入っているのかがわからない。こんな言い方は今まで似なかったと思う。
+  - なぜ否定から入っているのかがわからない
 - Halsin: It's had the whole region around Moonrise Towers in a chokehold of darkness and despair for years now.
   - [chokehold](https://ejje.weblio.jp/content/chokehold)
     - 名詞: 抑制するような抱え込み、ある人や状況に対する徹底した支配力、絞め技
@@ -332,6 +335,8 @@ Campの中でHalsinと話した
   - [surrender](https://ejje.weblio.jp/content/surrender), スァ・レ↑ン・ダァ
     - 他動詞: 要求や強制により引き渡す、切符などを手渡す、譲る、放棄する、降参する、感情に身を任せる
       - 降参する、感情に身を任せる: surrender oneself
+  - [title](https://ejje.weblio.jp/content/title), タ↑ァイ・トォ
+    - 名詞: 資格、権利、スポーツにおける優勝・優勝の肩書き、表題
   - ChatGPT訳: タイトルを降りるのは簡単ではなかったに違いない。元ファースト・ドルイドであることが恋しくならないの？
 - Halsin: Miss it? Oh dear no. It's a terrible burden; takes you away from nature and forces you to deal with others' problems and personalities.
   - [burden](https://ejje.weblio.jp/content/burden), バ↑ァ・デン
@@ -365,7 +370,7 @@ Campの中でHalsinと話した
   - [seize](https://ejje.weblio.jp/content/seize), スィ↑ーズ
     - 他動詞: 突然ぎゅっと掴む・握る、捕まえる、強奪する、意味や要点を把握する
   - ChatGPT訳: 私にとって強すぎることはほとんどありません。そして、その後悔を捨ててください；あなたはその瞬間に夢中になっていなかった - あなたはそれを掴み取りました。
-  - これ祝宴の時にグイグイ行き過ぎちゃたかな？みたいな話をしているの？現実世界ですらしない様などうでも良過ぎる会話じゃない？
+  - 祝宴の時にグイグイ行き過ぎちゃたかな？みたいな話をしているの？
 - Halsin: In other circumstances, I would have done the same.
   - [circumstance](https://ejje.weblio.jp/content/circumstance), シ↑ー・コム・スタァンス
     - 名詞: 人の置かれた環境・状況、ある事件における周囲の事情・状況
@@ -409,10 +414,10 @@ Campの中でHalsinと話した
 Druidの一人へ話しかけた
 
 - Loic: You did this grove a great favour. Now leave the rest to us.
-  - [do](https://ejje.weblio.jp/content/do)
+  - [do](https://ejje.weblio.jp/content/do), ドュゥ
     - 他動詞: 〜へ利益や損害などをもたらす
       - do IO(=対象) DO(=内容)
-  - [leave](https://ejje.weblio.jp/content/leave)
+  - [leave](https://ejje.weblio.jp/content/leave), リ↑ィーブ
     - 他動詞: 人へものや判断などを任せる
       - leave O(=内容) to {人}
   - ChatGPT訳: この木立に大きな恩恵を与えてくれました。あとは私たちに任せてください。
@@ -471,6 +476,9 @@ Druidの一人へ話しかけた
 - Strange Ox: \*Something's off. This creature isn't what it appears to be.\*
   - [off](https://en.wiktionary.org/wiki/off#Adjective), オォフ
     - 形容詞: 正しくない、適切ではない、論理的ではない
+  - [appear](https://ejje.weblio.jp/content/appear), ア・ピヤァ
+    - 自動詞: 〜のように見える、〜と思われる
+      - appear to Verb
   - ChatGPT訳: この生き物はそれが見えるものではありません。
 - Strange Ox: Moo!
 
@@ -575,7 +583,7 @@ Druidの一人へ話しかけた
     - 名詞: 貴重品や盗品の隠し場所、貯蔵庫
     - 他動詞: 隠し場所へ蓄える、隠す
 - Rath: Place it among the pedestals inside our library. When the wolf glows brightest, everything in the vault below will be yours.
-  - [pedestal](https://ejje.weblio.jp/content/pedestal)
+  - [pedestal](https://ejje.weblio.jp/content/pedestal), ペ↑デ・ストゥ
     - 名詞: 胸像や円柱や花瓶などの台座・脚
   - ChatGPT訳: 図書館の中の台座の間にそれを置いて。狼が最も明るく輝いたとき、地下の金庫の中身はすべて君のものになる。
 
