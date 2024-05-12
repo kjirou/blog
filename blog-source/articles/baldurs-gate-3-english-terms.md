@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-terms
 lastUpdatedAt: "2024-02-24 13:22:21+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 用語編
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 用語編
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - この記事では用語の項目を訳す

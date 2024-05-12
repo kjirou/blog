@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-9
 lastUpdatedAt: "2024-01-07 07:32:39+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 9冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 9冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - この回から、英文は全て書くことにした

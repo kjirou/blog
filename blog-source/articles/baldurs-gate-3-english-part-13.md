@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-13
 lastUpdatedAt: "2024-01-31 01:46:47+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 13冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 13冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - まだ the grove を散策中。おそらくは、やっと次回 Kagha に会える。

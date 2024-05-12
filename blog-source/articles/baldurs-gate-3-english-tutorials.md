@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-tutorials
 lastUpdatedAt: "2024-02-24 13:22:20+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する Tutorials編
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する Tutorials編
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - この記事ではTutorialsの項目を訳す

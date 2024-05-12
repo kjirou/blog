@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-16
 lastUpdatedAt: "2024-03-03 09:08:20+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 16冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 16冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - あらすじ: The Groveの探索を終えて、Halsinを探しいに行く

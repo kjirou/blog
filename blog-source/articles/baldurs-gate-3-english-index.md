@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-index
 lastUpdatedAt: "2024-03-05 01:36:14+0000"
 ---
 
-# Baldur's Gate 3の英語を復習するシリーズ
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳するシリーズ
 
 ## 趣旨
 

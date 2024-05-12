@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-12
 lastUpdatedAt: "2024-01-26 13:36:07+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 12冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 12冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - まだ the grove を散策中

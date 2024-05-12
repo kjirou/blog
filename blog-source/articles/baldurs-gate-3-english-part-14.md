@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-14
 lastUpdatedAt: "2024-02-10 14:15:49+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 14冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 14冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - Kaghaと話してArabellaを助け、Nettieと話した。次回はやっと冒険に行けるだろうか。

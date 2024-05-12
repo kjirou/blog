@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-15
 lastUpdatedAt: "2024-02-18 08:07:19+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 15冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 15冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - あらすじ: 最後にZevlorへ話せば The grove の探索は概ね終わりの予定
