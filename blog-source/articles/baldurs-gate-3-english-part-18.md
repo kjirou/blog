@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-18
 lastUpdatedAt: "2024-03-17 14:37:05+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 18冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 18冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - Blighted Villageの探索を終え、Halsinの捜索に戻った

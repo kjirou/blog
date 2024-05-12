@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-25
 lastUpdatedAt: "2024-05-03 02:16:15+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 25冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 25冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - Goblin Campを探索中。Halsinを救出し、MintharaとGutを倒し、残りはDror Ragzlinを倒すのみ。

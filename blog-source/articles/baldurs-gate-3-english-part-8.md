@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-8
 lastUpdatedAt: "2024-02-04 04:45:41+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 8冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 8冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - まだまだAvernusを探索中

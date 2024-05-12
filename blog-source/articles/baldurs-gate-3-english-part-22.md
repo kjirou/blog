@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-22
 lastUpdatedAt: "2024-04-09 02:14:54+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 22冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 22冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - Goblin Campを探索中

@@ -3,7 +3,7 @@ publicId: baldurs-gate-3-english-part-17
 lastUpdatedAt: "2024-03-09 00:21:25+0000"
 ---
 
-# Baldur's Gate 3の英語を復習する 17冊目
+# Baldur's Gate 3（バルダーズ・ゲート3）の英語を翻訳する 17冊目
 
 - [このシリーズ全般の説明はこちら](./baldurs-gate-3-english-index.html)
 - Halsinを探しに行く途中でGoblinたちに占領されたBlighted Villageに入り、そこを探索中
