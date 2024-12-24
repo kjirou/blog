@@ -1,6 +1,6 @@
 ---
 publicId: poe2-english-words
-lastUpdatedAt: 2024-12-23 00:27:26+0000
+lastUpdatedAt: 2024-12-24 10:55:46+0900
 ---
 
 # Path of Exile 2で学ぶ英単語
@@ -57,4 +57,17 @@ lastUpdatedAt: 2024-12-23 00:27:26+0000
 
 ## ストーリー
 
+- Count
+  - 伯爵・男性の地域の統治者
+  - ACT1で"By decree of the Count of Ogham,"のように頻出する単語
+- Corruption
+  - 堕落・腐敗・腐敗した物質
+  - ゲームでcorruptionなものが出てきたら、ほぼ殴って経験値の元にして良い
+  - 動詞形の"corrupt"と"collapse"（崩壊する、陥没する）をよく見間違える
+
 ## その他
+
+- Path of Exile
+  - exile が、故郷から追放された人・亡命者・放浪者
+  - そのままだと、追放者の道・亡命者の道というような意味だが、いまいちピンと来ない
+  - 追放モノのジャンルの先取りをしていた...?
