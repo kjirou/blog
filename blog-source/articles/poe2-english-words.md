@@ -55,7 +55,6 @@ lastUpdatedAt: 2024-12-24 10:55:46+0900
     - 錬金術の文脈で使われる単語でもある
       - 参考: [WikipediaのAlchemy](https://en.wikipedia.org/wiki/Alchemy)
     - trans が「超える・超越する」という意味を含むらしい
-      - "translate"はどうなるんやという疑問はあるが
 
 ## ストーリー
 
