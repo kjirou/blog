@@ -31,7 +31,7 @@ lastUpdatedAt: 2024-12-24 10:55:46+0900
 - Modifier(モッド)
   - 装備に付与される何らかの効果を指す
   - 一般的な modify + -er 以上の意味はおそらくなさそうで、このゲームなりの意味なのではと思っている
-    - 他のゲームだと、"enchantment"や"enchant"という用語のことが多そう
+    - 他のゲームだと、"enchantment"や"enhancement"という用語のことが多そう
   - ちなみに、一時的な強化は Empower, Empowered という概念になっている
 - Ascendancy(アセンダンシー)
   - 優位・優越・支配などの性質、を意味するよう
