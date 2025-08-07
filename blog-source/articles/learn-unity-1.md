@@ -44,3 +44,13 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
 - [Unityユーザーマニュアル - Details of disabling domain and scene reload](https://docs.unity3d.com/6000.1/Documentation/Manual/configurable-enter-play-mode-details.html)
   - 上記のために追加で読んだ記事、更にわからなかった
   - 結論として得られた具体的なノウハウは、コンパイル時に何か同期してなかったらこの設定を疑おう、程度のこと
+- [UnityのエディターとしてVSCodeを利用する](https://zenn.dev/iwatos/articles/6a19af30e4cad7)
+  - 背景
+    - コードを編集する際に、Unity Editor自体はテキストエディタを持たないため、外部のテキストエディタと連携する仕組みである
+    - 連携をするにあたり、公式推奨のテキストエディタが Visual Studio Code(以下VSCode) である
+  - チュートリアル上の設定だけでは、型やLintingなどの静的解析情報がテキストエディタへ出現しないので、その設定の解説
+    - VSCodeのプラグインを入れただけでシュッとできた
+- [PivotとAnchorsの違い](https://chatgpt.com/share/6891c2c7-4130-8004-816a-5a8f0d22f931)
+  - チュートリアルの [Displaying Score and Text > Create a UI text element > Edit the text position.](https://learn.unity.com/course/roll-a-ball/tutorial/displaying-score-and-text?version=6.0#66f2d5b1edbc2a010453ac89) に、AnchiorsとPivotという概念が出てくるのだけど、それがわからないのでChatGPTへ聞いたもの
+  - この記事を書いている時点で、レイアウティングの設定をするための概念である、以上のことを覚えてない
+  - 確実に知らないとダメなやつなので、ちゃんと実装をする時には思い出しましょう
