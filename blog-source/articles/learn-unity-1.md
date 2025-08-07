@@ -34,3 +34,13 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
   - チュートリアルの途中でTextMesh Proのインストールを求められた時に、チュートリアルの手順と異なりダイアログ的なものが出現しなかったので検索した記事
   - あまり覚えてないが、以下の箇所が参考になった記憶がある
     - > "TMP Essential Resources" をインポートするには、メニューを "Window -> TextMeshPro -> Import TMP Essential Resources" の順に選択してください。これらのリソースがプロジェクトのルートの "TextMesh Pro" フォルダーに加えられます。
+- [\[Unity\]Input ManagerとInput Systemに初心者狩りされた話](https://qiita.com/KONTA2019/items/219732d07458dd9ebaba)
+  - チュートリアルの手順でGame View上のテストプレイが動かなかった問題を解決した記事
+  - 結論として、Edit > Project Settings > Active Input Handling > Both を選択すると解決という内容
+  - 詳細は後述
+- [Unityユーザーマニュアル - Configurable Enter Play Mode](https://docs.unity3d.com/ja/2019.4/Manual/ConfigurableEnterPlayMode.html)
+  - Unityができる人に Edit > Project Settings > Editor > Enter Play Mode Settings > When entering Play Mode > Reload Scene only を選択すると、テストプレイ時のコンパイルが早くなるという話を聞き、その代償は何だろなというのを調べるために読んだ記事
+  - ちゃんと概念を定義した上でレイヤーを分けて管理しているんだなぁ...以上のことはわからなかった
+- [Unityユーザーマニュアル - Details of disabling domain and scene reload](https://docs.unity3d.com/6000.1/Documentation/Manual/configurable-enter-play-mode-details.html)
+  - 上記のために追加で読んだ記事、更にわからなかった
+  - 結論として得られた具体的なノウハウは、コンパイル時に何か同期してなかったらこの設定を疑おう、程度のこと
