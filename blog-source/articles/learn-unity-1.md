@@ -54,8 +54,18 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
   - この記事を書いている時点で、レイアウティングの設定をするための概念である、以上のことを覚えてない
   - 知らないとダメなやつなので、実装をする時には学びましょう
 - [github/gitignore/Unity.gitignore](https://github.com/github/gitignore/blob/9255d4cfe4bb357f6598a1ec252543900ca89d4e/Unity.gitignore)
-  - Unityの.gitignoreのサンプル
+  - GitHubによるUnity用の.gitignoreのサンプル
   - 今のところは、概ね正常にGit管理できているように見える
     - ディレクトリ名を変更すると.vscodeに差分が出たりするので、調整は必要そう
+- [is8r/example-Ray/.gitattributes](https://github.com/is8r/example-Ray/blob/da1d373e50bf75ba708e9f9de12bc6242b453c9e/.gitattributes)
+  - 人様のUnity用の.gitattributesの設定例
+    - 主たる設定は、Unity専用設定と、重い素材をGit LFSで管理するため設定
+  - 知らない書式があるので調査
+    - `merge=unityyamlmerge`
+      - [UnityYAMLMerge](https://docs.unity3d.com/ja/2019.4/Manual/SmartMerge.html)
+        - 現時点でちゃんと検証してないけど、きっと良い感じにマージしてくれるのでしょう
+    - `-text`
+      - テキストとして扱わない == バイナリとして扱う、ことを明示する
+      - 画像系には不要そうに見えつつ、知らないファイル拡張子も多いのでそれらち一緒に付与しておいて良さそう
 
 ## その他の知識
