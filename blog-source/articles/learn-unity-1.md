@@ -67,5 +67,31 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
     - `-text`
       - テキストとして扱わない == バイナリとして扱う、ことを明示する
       - 画像系には不要そうに見えつつ、知らないファイル拡張子も多いのでそれらも一緒に付与しておいて良さそう
+  - なお、Git LFSを気軽に使おうとしてみたんだけど、調べるほどに各面で導入コストが重いので、ちゃんと調べないとやばい。別に単体で調査する必要があるので、今は保留。
+    - Git LFSの導入に対しての問題
+      - 課金
+        - Git LFSを使用しているリポジトリの所有者のGitHubアカウントに対しての課金になる
+        - ストレージと帯域それぞれで月額課金、Free/Proならどっちも10GB
+        - 帯域はともかくストレージはGitHubアカウントに対して蓄積するので、その人がたくさんGit LFSを使ったリポジトリを作ってるとその合計になる
+        - **そして、累積に対する月額課金なので、合計10GBを超えると毎月超えている分に対して課金される**
+        - **そしてそして、一度LFSへ追加したファイルは、基本的にはGitHubのリポジトリを削除しないと消せない**
+          - [ファイルを Git Large File Storage から削除する - リポジトリにある Git LFSオブジェクト](https://docs.github.com/ja/repositories/working-with-files/managing-large-files/removing-files-from-git-large-file-storage#%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AB%E3%81%82%E3%82%8B-git-lfs%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88)
+            - > Git LFS からファイルを削除した後でも、Git LFS オブジェクトはそのままリモートストレージに存在し、Git LFS ストレージ容量に対するカウントも継続します。
+            - > Git LFS オブジェクトをリポジトリから削除するには、リポジトリを削除して再作成します。
+          - なんだァ？てめェ...
+        - では、必要最小限のファイルだけを後からGit LFSへ登録しようとすると、デフォルトはGitの履歴を改ざんする振る舞いなので、それもまた少し嫌な感じがする
+          - `git lfs migrate -h`のヘルプには"Migrate without rewriting local history"という方法も紹介されているので、改ざんする必要はないのかもしれない
+            - `git lfs migrate import --no-rewrite -m "Commit Message" foo.zip` みたいな `--no-rewrite` オプションがある。これもまだ試してない。
+        - 同様のお困りをしている人は居そう
+          - [【備忘録】(自分用)GithubでGitLFSを使いたいけど、節約したい](https://orotiyamatano.hatenablog.com/entry/gitlfs)
+      - Git LFSが複雑
+        - この時点で動作のイメージ掴めてない程度にわからない
+          - LFSの管理下から特定のファイルをつけ外しする方法とかもシュッとわからない
+          - マニュアルを読もうにも、20個くらいのサブコマンドと、それぞれに対して長文の解説があるので辛い
+          - 一応読むだけ読んだ記事
+            - [Git LFS をちょっと詳しく](https://qiita.com/ikmski/items/5cc8b8832336b8d85429)
+            - [Gitリポジトリのコピー時、git lfs migrateでGIT-LSF移行](https://qiita.com/kazzzu/items/081a6599a32982cb41c6)
+            - [Git LFS で困った時に読むやつ](https://zenn.dev/medicalforce/articles/2daf62952100a1)
+        - `git lfs install`によりGitの設定へpost-commitやpre-push等のフックが追加されるので、そこはかとない不安がある
 
 ## その他の知識
