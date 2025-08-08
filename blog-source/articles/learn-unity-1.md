@@ -95,3 +95,10 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
         - `git lfs install`によりGitの設定へpost-commitやpre-push等のフックが追加されるので、そこはかとない不安がある
 
 ## その他の知識
+
+### GitリポジトリからUnityプロジェクトを復元した時に、Hierarchy windowが空
+
+- GitリポジトリからUnityプロジェクトを復元する方法は、基本的にはUnity Hub経由でクローンしたGitリポジトリを起動するだけで完了するよう
+- ただ、それをやった直後、存在したはずのSceneの情報がHierarchy windowに存在しない
+- Sceneの情報はファイルとして存在しているので、それを展開すれば良い
+  - 例えば、冒頭で紹介した自分のリポジトリだと、Project window > Assets / Scenes / MiniGame のファイルをWクリックすると、復元できる
