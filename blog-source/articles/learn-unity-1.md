@@ -3,29 +3,26 @@ publicId: learn-unity-1
 lastUpdatedAt: 2025-08-07 10:10:17+0900
 ---
 
-# Unityを学ぶ 1回目 - 3D Beginner Game: Roll-a-Ballチュートリアル完了までと結果をGit管理する
+# Unityを学ぶ 1回目 - 3D Beginner Game: Roll-a-Ballチュートリアル完了とディレクトリをGit管理する
 
 ## 概要
 
-- Unityを学ぶにあたり、以下を完了するまでに参考にした資料や発生した問題と解決をまとめる
-- [3D Beginner Game: Roll-a-Ball](https://learn.unity.com/course/roll-a-ball?version=6.0)というUnity公式っぽいチュートリアル
-- 上記で作成したUnityプロジェクトのディレクトリをGit管理しGitHubへ置く
-  - 結果: [kjirou/Rollaball](https://github.com/kjirou/Rollaball)
-
-## 作業環境
-
-- Mac
-  - Unityができる人にWindowsの方が良い？と聞いたら、その人もMacで困ってないという返答だったのでMacにした
-  - MacBook Pro 16インチ 2021
-    - Apple M1 Max
+- 以下の目的を達成するまでに、得た知識をまとめる
+  - [3D Beginner Game: Roll-a-Ball](https://learn.unity.com/course/roll-a-ball?version=6.0)というUnity公式っぽいチュートリアルを完了する
+  - 上記で作成したUnityプロジェクトのディレクトリをGit管理しGitHubへ置く
+    - 結果: [kjirou/Rollaball](https://github.com/kjirou/Rollaball)
+- 環境
+  - PCは MacBook Pro 16インチ 2021 / Apple M1 Max
+    - Windowsの方が良い？と人に聞いたら、その人はMacで困ってないという返答だったのでMacにした
+  - UnityのバージョンはLTSの6.0
 
 ## 参考にした資料
 
 - [Unity Learn - 3D Beginner Game: Roll-a-Ball](https://learn.unity.com/course/roll-a-ball?version=6.0)
-  - これを完了することを開始点とした
+  - これを完了することが目的のひとつ
 - [Unity Learn - Project setup processes](https://learn.unity.com/tutorial/project-setup-processes?version=2022.3)
   - Unity EditorやUnity Hubのインストールや設定方法の解説
-    - UnityバージョンはLTSの6.0を使ってる一方でこの記事のバージョンはそれより古いが、特に問題なかった
+    - この記事のUnityバージョンは6.0より古いが、特に問題なかった
   - Roll-a-Ballのチュートリアルから参照されている
 - [Get started with the Unity Editor](https://learn.unity.com/tutorial/get-started-with-the-unity-editor?version=6.0)
   - Unity Editorの基本的な操作の解説
@@ -35,9 +32,11 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
   - あまり覚えてないが、以下の箇所が参考になった記憶がある
     - > "TMP Essential Resources" をインポートするには、メニューを "Window -> TextMeshPro -> Import TMP Essential Resources" の順に選択してください。これらのリソースがプロジェクトのルートの "TextMesh Pro" フォルダーに加えられます。
 - [\[Unity\]Input ManagerとInput Systemに初心者狩りされた話](https://qiita.com/KONTA2019/items/219732d07458dd9ebaba)
-  - チュートリアルの手順でGame View上のテストプレイが動かなかった問題を解決した記事
-  - 結論として、Edit > Project Settings > Active Input Handling > Both を選択すると解決という内容
-  - 詳細は後述
+  - チュートリアルの[Add prefabs and other assets to the scene](https://learn.unity.com/tutorial/get-started-with-the-unity-editor#wltML2VnrJcA3t6tcxDKtE)の手順で"If you enter Play mode now, the character should be able to walk around,"と書いている部分が動かなかった
+    - つまり、テストプレイ時にWASDでキャラクターが動くはずが動かなかった
+  - それを解決するために参考にした記事
+    - 結論として、Edit > Project Settings > Active Input Handling > Both を選択すると解決するとのこと
+  - おそらくは、チュートリアルが用意しているスクリプトの不備だと思う
 - [Unityユーザーマニュアル - Configurable Enter Play Mode](https://docs.unity3d.com/ja/2019.4/Manual/ConfigurableEnterPlayMode.html)
   - Unityができる人に Edit > Project Settings > Editor > Enter Play Mode Settings > When entering Play Mode > Reload Scene only を選択すると、テストプレイ時のコンパイルが早くなるという話を聞き、その代償は何だろなというのを調べるために読んだ記事
   - ちゃんと概念を定義した上でレイヤーを分けて管理しているんだなぁ...以上のことはわからなかった
@@ -53,4 +52,4 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
 - [PivotとAnchorsの違い](https://chatgpt.com/share/6891c2c7-4130-8004-816a-5a8f0d22f931)
   - チュートリアルの [Displaying Score and Text > Create a UI text element > Edit the text position.](https://learn.unity.com/course/roll-a-ball/tutorial/displaying-score-and-text?version=6.0#66f2d5b1edbc2a010453ac89) に、AnchiorsとPivotという概念が出てくるのだけど、それがわからないのでChatGPTへ聞いたもの
   - この記事を書いている時点で、レイアウティングの設定をするための概念である、以上のことを覚えてない
-  - 確実に知らないとダメなやつなので、ちゃんと実装をする時には思い出しましょう
+  - 知らないとダメなやつなので、実装をする時には学びましょう
