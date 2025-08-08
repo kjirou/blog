@@ -53,3 +53,9 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
   - チュートリアルの [Displaying Score and Text > Create a UI text element > Edit the text position.](https://learn.unity.com/course/roll-a-ball/tutorial/displaying-score-and-text?version=6.0#66f2d5b1edbc2a010453ac89) に、AnchiorsとPivotという概念が出てくるのだけど、それがわからないのでChatGPTへ聞いたもの
   - この記事を書いている時点で、レイアウティングの設定をするための概念である、以上のことを覚えてない
   - 知らないとダメなやつなので、実装をする時には学びましょう
+- [github/gitignore/Unity.gitignore](https://github.com/github/gitignore/blob/9255d4cfe4bb357f6598a1ec252543900ca89d4e/Unity.gitignore)
+  - Unityの.gitignoreのサンプル
+  - 今のところは、概ね正常にGit管理できているように見える
+    - ディレクトリ名を変更すると.vscodeに差分が出たりするので、調整は必要そう
+
+## その他の知識
