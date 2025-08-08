@@ -59,7 +59,7 @@ lastUpdatedAt: 2025-08-07 10:10:17+0900
     - ディレクトリ名を変更すると.vscodeに差分が出たりするので、調整は必要そう
 - [is8r/example-Ray/.gitattributes](https://github.com/is8r/example-Ray/blob/da1d373e50bf75ba708e9f9de12bc6242b453c9e/.gitattributes)
   - 人様のUnity用の.gitattributesの設定例
-    - 主たる設定は、Unity専用設定と、重い素材をGit LFSで管理するため設定
+    - 主たる設定は、Unity作業ならではの設定と、重い素材をGit LFSで管理するため設定
   - 知らない書式があるので調査
     - `merge=unityyamlmerge`
       - [UnityYAMLMerge](https://docs.unity3d.com/ja/2019.4/Manual/SmartMerge.html)
